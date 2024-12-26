@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opendkim on Federico Mazzei</title>
-    <link>https://fideo.github.io/quickstart/tags/opendkim/</link>
+    <link>https://federicomazzei.com.ar/tags/opendkim/</link>
     <description>Recent content in Opendkim on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Thu, 26 Dec 2024 11:49:39 -0300</lastBuildDate>
-    <atom:link href="https://fideo.github.io/quickstart/tags/opendkim/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://federicomazzei.com.ar/tags/opendkim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configurar DKIM con OpenDKIM en Cloudflare</title>
-      <link>https://fideo.github.io/quickstart/2023/06/configurar-dkim-con-opendkim-en-cloudflare.html</link>
+      <link>https://federicomazzei.com.ar/2023/06/configurar-dkim-con-opendkim-en-cloudflare.html</link>
       <pubDate>Fri, 30 Jun 2023 11:21:35 +0000</pubDate>
-      <guid>https://fideo.github.io/quickstart/2023/06/configurar-dkim-con-opendkim-en-cloudflare.html</guid>
+      <guid>https://federicomazzei.com.ar/2023/06/configurar-dkim-con-opendkim-en-cloudflare.html</guid>
       <description>&lt;p&gt;Hace un tiempo cambié de proveedor de hosting y tuve que configurar yo los registros DKIM en Cloudflare y me encontré con el problema que no sabía como obtener las claves DKIM; bueno acá dejo un instructivo de lo que hice para que me dejen de llegar los mails tipo spoofing.&lt;/p&gt;&#xA;&lt;p&gt;DKIM o DomainKeys Identified Mail en inglés son las claves de identificación de dominio digitales que sirven para que un intruso no mande mails en tu nombre es decir usando tu dominio; a esto se lo conoce como spoofing.&lt;/p&gt;</description>
     </item>
   </channel>

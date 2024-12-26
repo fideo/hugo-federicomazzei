@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Federico Mazzei</title>
-    <link>https://fideo.github.io/quickstart/pages/</link>
+    <link>https://federicomazzei.com.ar/pages/</link>
     <description>Recent content in Pages on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="https://fideo.github.io/quickstart/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://federicomazzei.com.ar/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre Mi</title>
-      <link>https://fideo.github.io/quickstart/pages/sobremi/</link>
+      <link>https://federicomazzei.com.ar/pages/sobremi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fideo.github.io/quickstart/pages/sobremi/</guid>
+      <guid>https://federicomazzei.com.ar/pages/sobremi/</guid>
       <description>&lt;h1 id=&#34;federico-mazzei&#34;&gt;Federico Mazzei&lt;/h1&gt;&#xA;&lt;p&gt;este es el contenido de Sobre Mi.&lt;/p&gt;</description>
     </item>
   </channel>
