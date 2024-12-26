@@ -22,7 +22,7 @@ ARCHIVO_RESULTADOS="referencias_imagenes.txt"
 # Recorrer directorios y buscar archivos .md
 find "$DIRECTORIO_BASE" -type f -name "*.md" | while read -r archivo_md; do
   # Buscar referencias a imágenes en el archivo
-  IMAGENES=$(grep -oE "\!\[.*\]\((.*\.(jpg|jpeg|png|gif|svg))\)" "$archivo_md" | sed -E 's/.*\((.*)\).*/\1/')
+  IMAGENES=$(grep -oE "\!\[.*\]\((.*\.(jpg|jpeg|png|gif|svg|webp))\)" "$archivo_md" | sed -E 's/.*\((.*)\).*/\1/')
 
   # Verificar si se encontraron imágenes
   if [ -n "$IMAGENES" ]; then

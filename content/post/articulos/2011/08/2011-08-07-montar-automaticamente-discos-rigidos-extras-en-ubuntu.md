@@ -12,8 +12,7 @@ url: /2011/08/montar-automaticamente-discos-rigidos-extras-en-ubuntu.html
 ---
 <font style="position: absolute;overflow: hidden;height: 0;width: 0">[Православни икони](http://xn--h1aafme.net/tag/%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BD%D0%B8-%D0%B8%D0%BA%D0%BE%D0%BD%D0%B8/)</font>Cuando tenemos mas de un disco rígido en nuestro pc y tenemos instalado ubuntu en mi caso en este momento Ubuntu 11,04 podemos hacer los siguiente para poder montar los disco automáticamente.
 
-Primero abrimos gparted y elegimos el disco a montar, sobre ese disco hacemos botón derecho y elegimos la opción “información” y nos mostrará una ventana similar a esta.  
-[![Partición del disco rigido](http://www.fideox.com.ar/wp-content/uploads/2011/08/Pantallazo-Informaci%C3%B3n-acerca-de-dev-sdc1-300x272.png "gparted")](http://www.fideox.com.ar/wp-content/uploads/2011/08/Pantallazo-Informaci%C3%B3n-acerca-de-dev-sdc1.png)
+Primero abrimos gparted y elegimos el disco a montar, sobre ese disco hacemos botón derecho y elegimos la opción “información” y nos mostrará una ventana similar a esta.
 
 luego edito el archivo fstab de la siguiente manera
 
