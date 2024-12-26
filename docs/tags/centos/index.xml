@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Centos on Federico Mazzei</title>
-    <link>http://localhost:1313/tags/centos/</link>
+    <link>https://federicomazzei.com.ar/tags/centos/</link>
     <description>Recent content in Centos on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Thu, 26 Dec 2024 11:49:39 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/centos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://federicomazzei.com.ar/tags/centos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Centos Web Panel CWP ERROR: Can&amp;#8217;t create temporary directory /var/lib/clamav/</title>
-      <link>http://localhost:1313/2022/02/centos-web-panel-cwp-error-cant-create-temporary-directory-var-lib-clamav.html</link>
+      <link>https://federicomazzei.com.ar/2022/02/centos-web-panel-cwp-error-cant-create-temporary-directory-var-lib-clamav.html</link>
       <pubDate>Fri, 18 Feb 2022 08:48:22 +0000</pubDate>
-      <guid>http://localhost:1313/2022/02/centos-web-panel-cwp-error-cant-create-temporary-directory-var-lib-clamav.html</guid>
+      <guid>https://federicomazzei.com.ar/2022/02/centos-web-panel-cwp-error-cant-create-temporary-directory-var-lib-clamav.html</guid>
       <description>&lt;p&gt;Tengo un servidor con lo manejo con CWP (Centos Web Panel) y en los logs vi un error como este&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;ERROR: Can&amp;#39;t create temporary directory /var/lib/clamav/&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Estuve investigando un poco como corregirlo y me dí cuenta que era problemas de permisos; al ejecutar&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo freshclam&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Esto debería realizar una actualización de la base de datos del antivirus; pero por no tener bien asignados los permisos me daba ese error. Cuando estaba el contenido del directorio &lt;code&gt;/var/lib/clamav/&lt;/code&gt; me mostraba que existen dos tipos de usuarios &lt;code&gt;clamupdate&lt;/code&gt; y &lt;code&gt;clamscan&lt;/code&gt;.&lt;br&gt;&#xA;Lo que hice fue probar primero con el usuario &lt;code&gt;clamupdate&lt;/code&gt; y volver a ejecutar &lt;code&gt;sudo freshclam&lt;/code&gt; y esto me mostró el mismo error; entonces luego probé con el otro usuario &lt;code&gt;clamupdate&lt;/code&gt; y volví a probar y ahí funcionó correctamente.&lt;/p&gt;</description>
     </item>
   </channel>
