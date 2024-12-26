@@ -1,9 +1,10 @@
 ---
-title: Sobre Mi
+title: Acerca de mi
 description: 'Sitio de Federico Mazzei alias Fideo - Desarrollador Web'
 author: Federico Mazzei
+type: page
 ---
 
 # Federico Mazzei
 
-este es el contenido de Sobre Mi.
+#TODO: tengo que cargar el contenido sobre mi perfil.

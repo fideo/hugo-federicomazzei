@@ -2,157 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on Federico Mazzei</title>
-    <link>http://localhost:1313/quickstart/tags/software/</link>
+    <link>http://localhost:1313/tags/software/</link>
     <description>Recent content in Software on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Thu, 26 Dec 2024 11:49:40 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/quickstart/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Partir en varios archivos .zip un directorio o un archivo</title>
-      <link>http://localhost:1313/quickstart/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</link>
+      <link>http://localhost:1313/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</link>
       <pubDate>Wed, 05 Jun 2024 12:33:09 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</guid>
+      <guid>http://localhost:1313/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</guid>
       <description>&lt;p&gt;En mi caso necesitaba realizar un comando que me permita partir en varios archivos .zip un directorio o un archivo .iso&lt;/p&gt;&#xA;&lt;p&gt;Obviamente que por pantalla gráfica esto es muy fácil de hacer pero el problema se presenta cuando estas accediendo a un servidor y tienes que partir un archivo grande en varios fragmentos para poder transportarlo ya sea para mandar por mail o copiarlo a otro lugar.&lt;/p&gt;&#xA;&lt;p&gt;En principio tenemos que tener instalado el &lt;strong&gt;p7zip&lt;/strong&gt; si no lo tenes instalado en Ubuntu o linux derivados de Debian se instala así:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como averiguar el id de AnyDesk por consola o terminal en linux</title>
-      <link>http://localhost:1313/quickstart/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</link>
+      <link>http://localhost:1313/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</link>
       <pubDate>Mon, 13 May 2024 12:02:51 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</guid>
+      <guid>http://localhost:1313/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</guid>
       <description>&lt;p&gt;Como averiguar el id de AnyDesk por consola o terminal en linux. Si por casulidad tenes instalado AnyDesk y no conoces el id de tu cuenta con AnyDesk la podes averiguar accediendo desde consola o terminal a tu equipo.&lt;/p&gt;&#xA;&lt;p&gt;Claro si accedes por consola o terminal a tu equipo podrías decir para que si ya tengo conexión con mi computadora a través de mi linea de comandos si puede ser… pero muchas veces necesitas ver o acceder visualmente a tu computadora y esto lo podes hacer con AnyDesk o un servicio de VNC activo en la computadora. Si tu caso es el de AnyDesk y no conoces el id lo podes averiguar con este comando.&lt;/p&gt;</description>
     </item>
     <item>
       <title>No funciona Wi-Fi en tu notebook con Linux</title>
-      <link>http://localhost:1313/quickstart/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</link>
+      <link>http://localhost:1313/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</link>
       <pubDate>Fri, 01 Mar 2024 09:42:36 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</guid>
+      <guid>http://localhost:1313/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</guid>
       <description>&lt;p&gt;Si terminaste de instalar Linux y no te funciona el Wi-Fi tenes que realizar los siguientes pasos para que empiece a funcionar.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Estos pasos a continuación son para distribuciones basadas en Debian&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Ubuntu y sus sabores, Neon, Loc-Os, Linux Mint, PureOS, Deepin, Kali Linux, etc. etc.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Antes de empezar a ejecutar los comandos que siguen a continuación tenemos que conseguir una conexión por cable de red para poder ejecutar algunos comando y descargar algunos componentes desde internet. Luego de conectarnos a la red de internet con cable lo primero que vamos a realizar es ejecutar la actualización de los repositorios; para esto ejecutamos este comando&lt;/p&gt;</description>
     </item>
     <item>
       <title>Copiar y pegar entre Vim y tu sistema operativo</title>
-      <link>http://localhost:1313/quickstart/2023/09/copiar-y-pegar-entre-vim-y-tu-sistema-operativo.html</link>
+      <link>http://localhost:1313/2023/09/copiar-y-pegar-entre-vim-y-tu-sistema-operativo.html</link>
       <pubDate>Thu, 14 Sep 2023 15:52:22 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2023/09/copiar-y-pegar-entre-vim-y-tu-sistema-operativo.html</guid>
+      <guid>http://localhost:1313/2023/09/copiar-y-pegar-entre-vim-y-tu-sistema-operativo.html</guid>
       <description>&lt;p&gt;Si necesitas copiar y pegar entre Vim y tu sistema operativo este es tu post. Pasa y muy seguido que tengas que copiar algo desde lo que estas editando con Vim y llevarlo a otro “contexto” que es tu sistema operativo&lt;/p&gt;&#xA;&lt;p&gt;Esto puede ser un dolor de cabeza si no se entiende bien como es que funcionan los registros de vim.&lt;/p&gt;&#xA;&lt;p&gt;En Vim existen registros donde uno pueda guardar lo que llevamos al portapapeles por ejemplo, si nosotros quisiesemos copiar una línea y grabarla en el registro “a” solo tendríamos que seleccionar lo que necesitamos copiar y luego ejecutar:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Got permission denied while trying to connect to the Docker daemon</title>
-      <link>http://localhost:1313/quickstart/2023/08/got-permission-denied-while-trying-to-connect-to-the-docker-daemon.html</link>
+      <link>http://localhost:1313/2023/08/got-permission-denied-while-trying-to-connect-to-the-docker-daemon.html</link>
       <pubDate>Fri, 18 Aug 2023 14:38:34 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2023/08/got-permission-denied-while-trying-to-connect-to-the-docker-daemon.html</guid>
+      <guid>http://localhost:1313/2023/08/got-permission-denied-while-trying-to-connect-to-the-docker-daemon.html</guid>
       <description>&lt;p&gt;Si acabas de instalar docker y te aparece ese mensaje de error &lt;em&gt;&lt;strong&gt;Got permission denied while trying to connect to the Docker daemon&lt;/strong&gt;&lt;/em&gt; al ejecutar docker, por ejemplo “docker ps” o “docker run” o cualquier otro comando de docker esto te puede servir.&lt;/p&gt;&#xA;&lt;h2 id=&#34;corregir-el-error&#34;&gt;Corregir el error&lt;/h2&gt;&#xA;&lt;p&gt;Primero tenemos que agregar el grupo docker y para esto en la consola ejecutamos lo siguiente:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo groupadd docker&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Ahora tenemos que agregar el usuario nuestro a ese nuevo grupo y para esto ejecutamos en la linea de comando lo siguiente:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Configurar DKIM con OpenDKIM en Cloudflare</title>
-      <link>http://localhost:1313/quickstart/2023/06/configurar-dkim-con-opendkim-en-cloudflare.html</link>
+      <link>http://localhost:1313/2023/06/configurar-dkim-con-opendkim-en-cloudflare.html</link>
       <pubDate>Fri, 30 Jun 2023 11:21:35 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2023/06/configurar-dkim-con-opendkim-en-cloudflare.html</guid>
+      <guid>http://localhost:1313/2023/06/configurar-dkim-con-opendkim-en-cloudflare.html</guid>
       <description>&lt;p&gt;Hace un tiempo cambié de proveedor de hosting y tuve que configurar yo los registros DKIM en Cloudflare y me encontré con el problema que no sabía como obtener las claves DKIM; bueno acá dejo un instructivo de lo que hice para que me dejen de llegar los mails tipo spoofing.&lt;/p&gt;&#xA;&lt;p&gt;DKIM o DomainKeys Identified Mail en inglés son las claves de identificación de dominio digitales que sirven para que un intruso no mande mails en tu nombre es decir usando tu dominio; a esto se lo conoce como spoofing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comandos básicos para VIM</title>
-      <link>http://localhost:1313/quickstart/2023/06/comandos-basicos-para-vim.html</link>
+      <link>http://localhost:1313/2023/06/comandos-basicos-para-vim.html</link>
       <pubDate>Tue, 20 Jun 2023 10:18:11 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2023/06/comandos-basicos-para-vim.html</guid>
+      <guid>http://localhost:1313/2023/06/comandos-basicos-para-vim.html</guid>
       <description>&lt;p&gt;Estos son algunos de los comandos básicos que uso a diario cuando utilizo VIM.&lt;/p&gt;&#xA;&lt;h2 id=&#34;iniciar-vim&#34;&gt;Iniciar VIM&lt;/h2&gt;&#xA;&lt;p&gt;Si usas por primera vez vim tal vez no sepas por donde empezar y deberías empezar por instalar vim aunque hoy en día la mayoría de las distribuciones linux traen instalado vim; si esto no es así solo bastará con realizar&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt install vim &#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;o el comando similar a este último que tu distribución necesite para instalarlo; en este caso esa instrucción sirve para las distribuciones basadas en debian como por ejemplo Ubuntu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anydesk problemas con Wayland Cómo habilitar o deshabilitar wayland en Ubuntu 22.04 Desktop</title>
-      <link>http://localhost:1313/quickstart/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html</link>
+      <link>http://localhost:1313/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html</link>
       <pubDate>Sun, 01 Jan 2023 10:25:36 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html</guid>
+      <guid>http://localhost:1313/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html</guid>
       <description>&lt;p&gt;Si estas trantando de usar AnyDesk en linux y te arroja un mensaje de error como este&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;No se admite el servidor remoto de pantalla wayland&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Es porque hay que colocar en &lt;strong&gt;false&lt;/strong&gt; la opción WaylandEnable que se encuentra en &lt;code&gt;/etc/gdm3/custom.conf&lt;/code&gt; esto te permitirá conectarte a esa máquina cliente; es decir que la modificación de &lt;code&gt;/etc/gdm3/custom.conf&lt;/code&gt; hay que hacerla en la PC que queremos conectarnos.&lt;/p&gt;&#xA;&lt;p&gt;Para eso tiene que abrir tu consola en modo administrador / sudo y editar ese archivo, en mi caso yo uso vim asi que sería así:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Python qué es y quién lo creó</title>
-      <link>http://localhost:1313/quickstart/2022/07/python-que-es-y-quien-lo-creo.html</link>
+      <link>http://localhost:1313/2022/07/python-que-es-y-quien-lo-creo.html</link>
       <pubDate>Fri, 15 Jul 2022 13:35:16 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2022/07/python-que-es-y-quien-lo-creo.html</guid>
+      <guid>http://localhost:1313/2022/07/python-que-es-y-quien-lo-creo.html</guid>
       <description>&lt;h1 id=&#34;qué-es-python&#34;&gt;¿Qué es Python?&lt;/h1&gt;&#xA;&lt;p&gt;Python es un lenguaje de programación de alto nivel, interpretado, orientado a objetos y de uso generalizado con semántica dinámica, que se utiliza para la programación de propósito general.&lt;/p&gt;&#xA;&lt;p&gt;Y aunque puede que conozcas a la pitón como una gran serpiente, el nombre del lenguaje de programación Python proviene de una vieja serie de comedia de la BBC llamada &lt;strong&gt;Monty Python’s Flying Circus&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;En el apogeo de su éxito, el equipo de Monty Python estaba realizando sus escenas para audiencias en vivo en todo el mundo, incluso en el Hollywood Bowl.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como hacer para GitHub no te pida mas el usuario y la cotraseña</title>
-      <link>http://localhost:1313/quickstart/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</link>
+      <link>http://localhost:1313/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</link>
       <pubDate>Thu, 16 Dec 2021 09:07:15 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</guid>
+      <guid>http://localhost:1313/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</guid>
       <description>&lt;p&gt;Hace un tiempo &lt;!-- raw HTML omitted --&gt;GitHub&lt;!-- raw HTML omitted --&gt; hizo modificaciones en cuanto a su forma de autentificarse, existen muchas formas de autenticarse con &lt;!-- raw HTML omitted --&gt;GItHub&lt;!-- raw HTML omitted --&gt;; pero una de las mas comunes es que al momento de realizar un &lt;strong&gt;push&lt;/strong&gt; o &lt;strong&gt;pull&lt;/strong&gt; te pida un usuario y una contraseña. Pero ahora para poder realizar esto necesitas tener en tu poder un &lt;strong&gt;Token&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Droidcam no funciona en Google Chrome Linux</title>
-      <link>http://localhost:1313/quickstart/2021/11/droidcam-no-funciona-en-google-chrome-linux.html</link>
+      <link>http://localhost:1313/2021/11/droidcam-no-funciona-en-google-chrome-linux.html</link>
       <pubDate>Wed, 17 Nov 2021 20:51:29 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2021/11/droidcam-no-funciona-en-google-chrome-linux.html</guid>
+      <guid>http://localhost:1313/2021/11/droidcam-no-funciona-en-google-chrome-linux.html</guid>
       <description>&lt;p&gt;Droidcam no funciona en google chrome en un sistema operativo Linux; en Windows funciona perfectamente, pero en Linux lo podía hacer funcionar hasta que entendí que para que google chrome lo tome hay que ejecutar una serie de comandos&lt;/p&gt;&#xA;&lt;p&gt;Como primer paso ejecutamos esto en la consola de linux.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt install linux-headers-`uname -r` gcc make&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Luego nos dirigimos a donde tenemos instalado Droidcam; yo lo suelo instalar en &lt;code&gt;/opt/&lt;/code&gt; es decir que ingreso a&lt;/p&gt;</description>
     </item>
     <item>
       <title>Github pide usuario y contraseña siempre</title>
-      <link>http://localhost:1313/quickstart/2021/09/github-pide-usuario-y-contrasena-siempre.html</link>
+      <link>http://localhost:1313/2021/09/github-pide-usuario-y-contrasena-siempre.html</link>
       <pubDate>Thu, 30 Sep 2021 19:51:24 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2021/09/github-pide-usuario-y-contrasena-siempre.html</guid>
+      <guid>http://localhost:1313/2021/09/github-pide-usuario-y-contrasena-siempre.html</guid>
       <description>&lt;p&gt;Si sos uno de los tantos que se cansa cada vez que tienes que hacer pull o push a un repositorio en github poniendo el usuario y la contraseña, puedes realizar estos pasos y dejará de pedirte user y pass cada vez que quieras realizar un pull o push a github.&lt;/p&gt;&#xA;&lt;p&gt;Primero tienes que ver que esté funcionando el ssh-agent para eso ejecutar este comando en la consola de linux&lt;/p&gt;</description>
     </item>
     <item>
       <title>Crear un listado de directorios o carpetas desde la consola de linux</title>
-      <link>http://localhost:1313/quickstart/2021/08/crear-un-listado-de-directorios-o-carpetas-desde-la-consola-de-linux.html</link>
+      <link>http://localhost:1313/2021/08/crear-un-listado-de-directorios-o-carpetas-desde-la-consola-de-linux.html</link>
       <pubDate>Mon, 09 Aug 2021 09:49:14 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2021/08/crear-un-listado-de-directorios-o-carpetas-desde-la-consola-de-linux.html</guid>
+      <guid>http://localhost:1313/2021/08/crear-un-listado-de-directorios-o-carpetas-desde-la-consola-de-linux.html</guid>
       <description>&lt;p&gt;Tal vez te encuentres con la necesidad de tener que armar una lista de directorios o carpetas, de tu sistema linux, acá te dejo un comando que te permite realizar ese proceso.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;ls -R | grep &amp;#34;:$&amp;#34; | sed -e &amp;#39;s/:$//&amp;#39; -e &amp;#39;s/[^-][^\/]*\//--/g&amp;#39; -e &amp;#39;s/^/ /&amp;#39; -e &amp;#39;s/-/|/&amp;#39;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;También se puede instalar el comando &lt;strong&gt;tree&lt;/strong&gt; que es mucho mas cuidado estéticamente y tiene una cuantos parámetros que lo puedes ejecutar a tu gusto.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Arreglar el error Droidcam unable to find dev/video0</title>
-      <link>http://localhost:1313/quickstart/2021/07/arreglar-el-error-droidcam-unable-to-find-dev-video0.html</link>
+      <link>http://localhost:1313/2021/07/arreglar-el-error-droidcam-unable-to-find-dev-video0.html</link>
       <pubDate>Tue, 27 Jul 2021 19:21:47 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2021/07/arreglar-el-error-droidcam-unable-to-find-dev-video0.html</guid>
+      <guid>http://localhost:1313/2021/07/arreglar-el-error-droidcam-unable-to-find-dev-video0.html</guid>
       <description>&lt;p&gt;Los pasos que realicé para que Droidcam vuelva funcionar como tras el error Droidcam unable to find dev/video0&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo apt install v4l2loopback-utils v4l-utils v4l2loopback-dkms cmake nasm yasm pkg-config libgtk2.0-dev&#xA;$ sudo modprobe v4l2loopback&#xA;$ v4l2-ctl --list-devices     # check if you have dummy video devices&#xA;Dummy video device (0x0000) (platform:v4l2loopback-000):&#xA;/dev/video0&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Me pasa muy seguido que tengo que corregir droidcam tras actualizar Ubuntu y para esto solo uso este comando.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo modprobe v4l2loopback&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Que sirve para agregar el módulo v4l2loopback al kernel que acabamos de actualizar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Recursos de Python</title>
-      <link>http://localhost:1313/quickstart/2020/07/python.html</link>
+      <link>http://localhost:1313/2020/07/python.html</link>
       <pubDate>Wed, 22 Jul 2020 08:46:00 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2020/07/python.html</guid>
+      <guid>http://localhost:1313/2020/07/python.html</guid>
       <description>&lt;p&gt;Dejo anotado acá algunos recursos de Python que fui recompilando&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://argentinaenpython.com/quiero-aprender-python/&#34;&gt;https://argentinaenpython.com/quiero-aprender-python/&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://www.learnpython.org/es/&#34;&gt;https://www.learnpython.org/es/&lt;/a&gt;.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://pywombat.com/%22&#34;&gt;https://pywombat.com/&amp;quot;&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://automatetheboringstuff.com/%22&#34;&gt;https://automatetheboringstuff.com/&amp;quot;&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://argentinaenpython.com/%22&#34;&gt;https://argentinaenpython.com/&amp;quot;&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Realizar backup en mongo con mongodump y mongorestore</title>
-      <link>http://localhost:1313/quickstart/2020/06/realizar-backup-en-mongo-con-mongodump-y-mongorestore.html</link>
+      <link>http://localhost:1313/2020/06/realizar-backup-en-mongo-con-mongodump-y-mongorestore.html</link>
       <pubDate>Tue, 23 Jun 2020 11:35:00 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2020/06/realizar-backup-en-mongo-con-mongodump-y-mongorestore.html</guid>
+      <guid>http://localhost:1313/2020/06/realizar-backup-en-mongo-con-mongodump-y-mongorestore.html</guid>
       <description>&lt;p&gt;Si necesitas hacer un backup de tu base de datos con mongo este artículo te puede ayudar&lt;/p&gt;&#xA;&lt;p&gt;En el próximo comando realizo un backup de la base de datos llamada gastosmensuales y lo llego al directorio /home/fideo/dumps/ claro que esto puede cambiarse por la dirección que ustedes prefieran /home/user/lugarqueprefieran&lt;/p&gt;&#xA;&lt;h2 id=&#34;backup&#34;&gt;&lt;strong&gt;Backup&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;mongodump –db gastosmensuales –out /home/fideo/dumps/&lt;/p&gt;&#xA;&lt;p&gt;Acá abajo les dejo un script para que puedan ejecutar y les genere el backup; esto lo pueden poner dentro de un cron (en linux claro) y lo ejecutan cada X cantidad de tiempo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Obtener una lista de software instalados en una PC</title>
-      <link>http://localhost:1313/quickstart/2020/06/obtener-una-lista-de-software-instalados-en-una-pc.html</link>
+      <link>http://localhost:1313/2020/06/obtener-una-lista-de-software-instalados-en-una-pc.html</link>
       <pubDate>Wed, 17 Jun 2020 12:30:06 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2020/06/obtener-una-lista-de-software-instalados-en-una-pc.html</guid>
+      <guid>http://localhost:1313/2020/06/obtener-una-lista-de-software-instalados-en-una-pc.html</guid>
       <description>&lt;p&gt;Si deseamos obtener una lista de todos los software que tenemos instalados en una pc solo basta con correr este comando a continuación y nos generará un archivo de salida ubicado en nuestra raíz del disco C. Se puede modificar esto para que lo escriba en donde uno lo necesite.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;wmic product get name&amp;#34;,&amp;#34; version| out-File &amp;#34;C:\lista_productos_instalados.txt&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Si quisiéramos tener también una lista de todos los servicios que están corriendo en una PC deberíamos utilizar este comando a continuación; el cual nos genera un archivo txt con la lista de todos los servicios encontrados.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WordPress “tener un tema por defecto disponible”</title>
-      <link>http://localhost:1313/quickstart/2020/06/wordpress-tener-un-tema-por-defecto-disponible.html</link>
+      <link>http://localhost:1313/2020/06/wordpress-tener-un-tema-por-defecto-disponible.html</link>
       <pubDate>Thu, 11 Jun 2020 10:17:54 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2020/06/wordpress-tener-un-tema-por-defecto-disponible.html</guid>
-      <description>&lt;h2 id=&#34;me-encontré-con-este-error-dentro-de-salud-del-sitio-tener-un-tema-predeterminado-disponible-y-no-entendía-como-solucionarlo&#34;&gt;Me encontré con este error dentro de salud del sitio, Tener un tema predeterminado disponible y no entendía como solucionarlo.&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/quickstart/assets/uploads/2020/06/saludDelSitio.jpg&#34; alt=&#34;wordpress tener un tema por defecto disponible&#34; title=&#34;wordpress tener un tema por defecto disponible&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hace ya un tiempo que me aparecía este mensaje de error en uno de los WordPress que mantengo y no entendía como solucionarlo, hasta que viendo otro sitio que mantengo me dí cuenta que ese error no me aparecía dentro de la salud del sitio, lo que me llevó a comparar ambos administradores de WordPress.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/2020/06/wordpress-tener-un-tema-por-defecto-disponible.html</guid>
+      <description>&lt;h2 id=&#34;me-encontré-con-este-error-dentro-de-salud-del-sitio-tener-un-tema-predeterminado-disponible-y-no-entendía-como-solucionarlo&#34;&gt;Me encontré con este error dentro de salud del sitio, Tener un tema predeterminado disponible y no entendía como solucionarlo.&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/assets/uploads/2020/06/saludDelSitio.jpg&#34; alt=&#34;wordpress tener un tema por defecto disponible&#34; title=&#34;wordpress tener un tema por defecto disponible&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hace ya un tiempo que me aparecía este mensaje de error en uno de los WordPress que mantengo y no entendía como solucionarlo, hasta que viendo otro sitio que mantengo me dí cuenta que ese error no me aparecía dentro de la salud del sitio, lo que me llevó a comparar ambos administradores de WordPress.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reaction Commerce usando propio servidor</title>
-      <link>http://localhost:1313/quickstart/2017/09/reaction-commerce-usando-propio-servidor.html</link>
+      <link>http://localhost:1313/2017/09/reaction-commerce-usando-propio-servidor.html</link>
       <pubDate>Mon, 25 Sep 2017 19:49:48 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2017/09/reaction-commerce-usando-propio-servidor.html</guid>
+      <guid>http://localhost:1313/2017/09/reaction-commerce-usando-propio-servidor.html</guid>
       <description>&lt;p&gt;Les comparto este video que le prometí a Alexander Ditzend, el cual muestra como subo al servidor de hosting (en mi caso por el momento DonWeb) la plataforma de Reaction Commerce.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;estos-son-los-dos-comandos-que-utilicé-en-el-video&#34;&gt;Estos son los dos comandos que utilicé en el video.&lt;/h2&gt;&#xA;&lt;h4 id=&#34;deployreactionsh&#34;&gt;deployreaction.sh&lt;/h4&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;#!/bin/sh&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;&#xA;echo &amp;#34;Generando el deploy de Reaction&amp;#34;&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;echo &amp;#34;meteor build --server-only ../new_package/ &amp;amp;&amp;amp; mv ../new_package/*.tar.gz ./reaction.tar.gz&amp;#34;&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;&#xA;fecha=$(date +%d-%m-%Y)&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;fechahora=$(date +%Y%m%d%H%M%S)&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;&#xA;meteor build --server-only ../new_package/ &amp;amp;&amp;amp; mv ../new_package/*.tar.gz ./reaction_$fechahora.tar.gz&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Lo que hago es simplemente ejecutar el comando &lt;a href=&#34;https://guide.meteor.com/deployment.html#custom-deployment&#34;&gt;&lt;strong&gt;meteor build&lt;/strong&gt;&lt;/a&gt; pero con el agregado de que cuando termine, mueva el .tar.gz que genera en ../new_package/ a mi directorio de proyecto insertandole la fecha de deploy al nombre del archivo .tzr.gz&lt;br&gt;&#xA;Esto es para tener un versionado de los deploys.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Otros Comandos Linux</title>
-      <link>http://localhost:1313/quickstart/2011/09/comandos-linux.html</link>
+      <link>http://localhost:1313/2011/09/comandos-linux.html</link>
       <pubDate>Thu, 29 Sep 2011 11:57:54 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2011/09/comandos-linux.html</guid>
+      <guid>http://localhost:1313/2011/09/comandos-linux.html</guid>
       <description>&lt;p&gt;Para mostrar la arquitectura de nuestra máquina podemos usar el comando arch el cual nos devolverá x86_64 si corresponde a una arquitectura de 64 bits o nos devolverá i386, i486, i586 o i686 si pertenece a una arquitectura de 32 bits&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;pre class=&amp;#34;wp-block-preformatted&amp;#34;&amp;gt;arch&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Si necesitamos obtener una lista de directorios (o carpetas) de una ruta específica podemos usar el siguiente comando.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;pre class=&amp;#34;wp-block-preformatted&amp;#34;&amp;gt;ls -l /directorio/ | grep ^d&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Para pasar todas las letras Mayúsculas a Minúscula del contenido de un archivo podemos usar el comando sed tal como se muestra a continuación.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Truco de CSS para mostrar texto en forma vertical</title>
-      <link>http://localhost:1313/quickstart/2010/11/truco-de-css-para-mostrar-texto-en-forma-vertical.html</link>
+      <link>http://localhost:1313/2010/11/truco-de-css-para-mostrar-texto-en-forma-vertical.html</link>
       <pubDate>Fri, 12 Nov 2010 21:30:19 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2010/11/truco-de-css-para-mostrar-texto-en-forma-vertical.html</guid>
+      <guid>http://localhost:1313/2010/11/truco-de-css-para-mostrar-texto-en-forma-vertical.html</guid>
       <description>&lt;p&gt;Puede llegar a ser muy útil pero lamentablemente no funciona en todos los navegadores; por eso hay que tener muy en cuenta cuando se va a utilizar esta opción.&lt;/p&gt;&#xA;&lt;p&gt;Para poder visualizar el texto en forma vertical simplemente tenes que aplicar esta class al objeto deseado.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;.rotate {&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;-webkit-transform: rotate(-90deg);&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;-moz-transform: rotate(-90deg);&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;}&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.fideox.com.ar/wp-content/uploads/2010/11/textovertical.html&#34;&gt;Para ver el ejemplo solo presioná acá&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

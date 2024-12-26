@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Federico Mazzei</title>
-    <link>https://federicomazzei.com.ar/tags/python/</link>
+    <link>http://localhost:1313/tags/python/</link>
     <description>Recent content in Python on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Thu, 26 Dec 2024 11:49:39 -0300</lastBuildDate>
-    <atom:link href="https://federicomazzei.com.ar/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recursos de Python</title>
-      <link>https://federicomazzei.com.ar/2020/07/python.html</link>
+      <link>http://localhost:1313/2020/07/python.html</link>
       <pubDate>Wed, 22 Jul 2020 08:46:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2020/07/python.html</guid>
+      <guid>http://localhost:1313/2020/07/python.html</guid>
       <description>&lt;p&gt;Dejo anotado acá algunos recursos de Python que fui recompilando&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://argentinaenpython.com/quiero-aprender-python/&#34;&gt;https://argentinaenpython.com/quiero-aprender-python/&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://www.learnpython.org/es/&#34;&gt;https://www.learnpython.org/es/&lt;/a&gt;.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://pywombat.com/%22&#34;&gt;https://pywombat.com/&amp;quot;&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://automatetheboringstuff.com/%22&#34;&gt;https://automatetheboringstuff.com/&amp;quot;&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://argentinaenpython.com/%22&#34;&gt;https://argentinaenpython.com/&amp;quot;&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>

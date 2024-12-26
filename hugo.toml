@@ -1,5 +1,5 @@
-baseURL = 'https://federicomazzei.com.ar/'
-#baseURL = 'http://localhost:1313/'
+#baseURL = 'https://federicomazzei.com.ar/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'es'
 title = 'Federico Mazzei'
 theme = 'github-style'
@@ -9,7 +9,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-author = "fideo"
+author = "Federico Mazzei"
 description = "El sitio de federico mazzei"
 github = "fideo"
 facebook = "mazzeifederico"
@@ -18,11 +18,11 @@ linkedin = "federicomazzei"
 instagram = "fideox"
 #tumblr = "MeiK2333"
 email = "federicomazzei@gmail.com"
-url = "https://fideox.dev.ar"
+url = "https://federicomazzei.com.ar/"
 keywords = "blog, google analytics"
 rss = true
 lastmod = true
-favicon = "/images/ogp.png"
+favicon = "/images/avatar.jpg"
 avatar = "/images/avatar.jpg"
 headerIcon = "/images/github-mark-white.png"
 location = "Argentina"
@@ -30,22 +30,10 @@ userStatusEmoji = "😀"
 enableGitalk = true
 enableSearch = true
 
-[menus]
-    [[menus.main]]
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
-    [[menus.main]]
-    name = 'Sobre Mi'
-    pageRef = '/sobremi'
-    title = 'Soobre Mi'
-    weight = 10
-
-
 [params.gitalk]
 clientID = "Ov23licCHTBOFJdZMIFm" # Your client ID
 clientSecret = "0f26adbf7edc171c9b848d55ec0aa9548f27f011" # Your client secret
-repo = "site-blog-comments" # ：xxxx.github.io
+repo = "blog-comments" # ：xxxx.github.io
 owner = "fideo" # 您的GitHub ID
 admin = "fideo" # 您的GitHub ID
 id = "location.pathname" # ID

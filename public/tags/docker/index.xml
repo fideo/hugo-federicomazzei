@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docker on Federico Mazzei</title>
-    <link>http://localhost:1313/quickstart/tags/docker/</link>
+    <link>http://localhost:1313/tags/docker/</link>
     <description>Recent content in Docker on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Thu, 26 Dec 2024 11:49:40 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/quickstart/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker Compose WordPress MySQL PhpMyAdmin</title>
-      <link>http://localhost:1313/quickstart/2023/08/docker-compose-wordpress-mysql-phpmyadmin.html</link>
+      <link>http://localhost:1313/2023/08/docker-compose-wordpress-mysql-phpmyadmin.html</link>
       <pubDate>Wed, 23 Aug 2023 13:08:58 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2023/08/docker-compose-wordpress-mysql-phpmyadmin.html</guid>
+      <guid>http://localhost:1313/2023/08/docker-compose-wordpress-mysql-phpmyadmin.html</guid>
       <description>&lt;p&gt;En este post dejo un código de docker compose que te permite levantar un docker con wordpress que usa una base de datos mysql y para poder administrarla usar el phpmyadmin.&lt;/p&gt;&#xA;&lt;p&gt;Esto es muy recomendable para aquellos desarrolladores que tienen que estar levantando ambientes de desarrollos con distintas versiones de wordpress ó mysql ya sea para actualizarlas o para probar algo en particular.&lt;/p&gt;&#xA;&lt;p&gt;En lo particular me sirve mucho para dejar reflejado en un ambiente local tal cual las características que tiene el sitio en producción; es decir que si el sitio de un cliente tiene en producción wordpress 5 mientras ya está vigente la versión 6 yo puedo seguir manteniendo esa versión ya sea para luego actualizarla o por resguardo (backup)&lt;br&gt;&#xA;Lo mismo pasa con las bases de datos si hay varias versiones y tal vez algunas tengan algunas características más o menos dependiendo de la versión y con esto podemos reflejar exactamente lo mismo que tenemos en producción.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Got permission denied while trying to connect to the Docker daemon</title>
-      <link>http://localhost:1313/quickstart/2023/08/got-permission-denied-while-trying-to-connect-to-the-docker-daemon.html</link>
+      <link>http://localhost:1313/2023/08/got-permission-denied-while-trying-to-connect-to-the-docker-daemon.html</link>
       <pubDate>Fri, 18 Aug 2023 14:38:34 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2023/08/got-permission-denied-while-trying-to-connect-to-the-docker-daemon.html</guid>
+      <guid>http://localhost:1313/2023/08/got-permission-denied-while-trying-to-connect-to-the-docker-daemon.html</guid>
       <description>&lt;p&gt;Si acabas de instalar docker y te aparece ese mensaje de error &lt;em&gt;&lt;strong&gt;Got permission denied while trying to connect to the Docker daemon&lt;/strong&gt;&lt;/em&gt; al ejecutar docker, por ejemplo “docker ps” o “docker run” o cualquier otro comando de docker esto te puede servir.&lt;/p&gt;&#xA;&lt;h2 id=&#34;corregir-el-error&#34;&gt;Corregir el error&lt;/h2&gt;&#xA;&lt;p&gt;Primero tenemos que agregar el grupo docker y para esto en la consola ejecutamos lo siguiente:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo groupadd docker&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Ahora tenemos que agregar el usuario nuestro a ese nuevo grupo y para esto ejecutamos en la linea de comando lo siguiente:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hacer que Docker no inicie automáticamente</title>
-      <link>http://localhost:1313/quickstart/2021/12/hacer-que-docker-no-inicie-automaticamente.html</link>
+      <link>http://localhost:1313/2021/12/hacer-que-docker-no-inicie-automaticamente.html</link>
       <pubDate>Fri, 03 Dec 2021 10:55:05 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2021/12/hacer-que-docker-no-inicie-automaticamente.html</guid>
+      <guid>http://localhost:1313/2021/12/hacer-que-docker-no-inicie-automaticamente.html</guid>
       <description>&lt;p&gt;Me pasó que necesitaba por un tiempo hacer que docker no inicie automáticamente; es decir, que cuando se reinicia el Servidor las imágenes de docker no se carguen automáticamente.&lt;/p&gt;&#xA;&lt;p&gt;El proyecto yo lo tenía con docker-compose, pero para esto usé solo los comandos de docker.&lt;/p&gt;&#xA;&lt;p&gt;Primero chequeo lo que está corriendo con&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;docker ps&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Debería mostrar todas las imágenes que tenemos corriendo&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;docker update --restart no e1dff1f51add&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Y así sucesivamente con todas las imágenes que queremos que NO se inicie al reiniciar nuestro servidor.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como copiar directorios o archivos de un Docker a Local o viceversa</title>
-      <link>http://localhost:1313/quickstart/2021/11/como-copiar-directorios-o-archivos-de-un-docker-a-local-o-viceversa.html</link>
+      <link>http://localhost:1313/2021/11/como-copiar-directorios-o-archivos-de-un-docker-a-local-o-viceversa.html</link>
       <pubDate>Tue, 16 Nov 2021 12:42:14 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2021/11/como-copiar-directorios-o-archivos-de-un-docker-a-local-o-viceversa.html</guid>
+      <guid>http://localhost:1313/2021/11/como-copiar-directorios-o-archivos-de-un-docker-a-local-o-viceversa.html</guid>
       <description>&lt;p&gt;A veces necesitamos copiar un archivo desde nuestra máquina local de desarrollo al docker o viceversa; esto es muy común o frecuente que tengas que realizarlo cuando estás desarrollando una app, una web o lo que fuese dentro de un Docker.&lt;/p&gt;&#xA;&lt;p&gt;Para esto tenemos un par de comandos que son muy útiles.&lt;br&gt;&#xA;El primero sirve para copiar desde un contenedor docker a una máquina local:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;docker cp NOMBRE_CONTENEDOR:RUTA_DEL_CONTENEDOR RUTA_LOCAL&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;El segundo sirve para copiar desde la pc local a un contenedor docker:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comandos útiles para Docker</title>
-      <link>http://localhost:1313/quickstart/2021/11/comandos-utiles-para-docker.html</link>
+      <link>http://localhost:1313/2021/11/comandos-utiles-para-docker.html</link>
       <pubDate>Tue, 02 Nov 2021 10:25:20 +0000</pubDate>
-      <guid>http://localhost:1313/quickstart/2021/11/comandos-utiles-para-docker.html</guid>
+      <guid>http://localhost:1313/2021/11/comandos-utiles-para-docker.html</guid>
       <description>&lt;p&gt;Esto tal vez le puede servir a mas de uno y de paso me lo dejo como ayuda memoria&lt;/p&gt;&#xA;&lt;p&gt;Usé un dockerfile para crear un esquema de wordpress es decir que ese docker contiene un nginx, una base mysql (mariadb) y el lenguaje PHP que utiliza WordPress; cuando levantaba el docker con docker-compose up la base me daba error entonces necesitaba ejecutar por consola algunos comandos para poder crear la base que no la había creado y también para darle privilegios al usuario en cuestión.&lt;/p&gt;</description>
     </item>
   </channel>
