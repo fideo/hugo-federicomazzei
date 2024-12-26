@@ -54,7 +54,7 @@ perPage = 15 # Pagination size, with maximum 100.
 pagerDirection = "last" # Comment sorting direction, available values are 'last' and 'first'.
 createIssueManually = true #(issue)
 distractionFreeMode = false # Enable hot key (cmd|ctrl + enter) submit comment.
-#proxy = "https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token" # 可以自行添加反向代理
+proxy = "https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token" #
 [[params.links]]
 title = "Link"
 href = "https://github.com/fideo"
