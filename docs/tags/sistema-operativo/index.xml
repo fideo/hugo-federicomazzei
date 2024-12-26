@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sistema Operativo on Federico Mazzei</title>
+    <link>https://fideo.github.io/quickstart/tags/sistema-operativo/</link>
+    <description>Recent content in Sistema Operativo on Federico Mazzei</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 26 Dec 2024 11:49:40 -0300</lastBuildDate>
+    <atom:link href="https://fideo.github.io/quickstart/tags/sistema-operativo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como averiguar el id de AnyDesk por consola o terminal en linux</title>
+      <link>https://fideo.github.io/quickstart/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</link>
+      <pubDate>Mon, 13 May 2024 12:02:51 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</guid>
+      <description>&lt;p&gt;Como averiguar el id de AnyDesk por consola o terminal en linux. Si por casulidad tenes instalado AnyDesk y no conoces el id de tu cuenta con AnyDesk la podes averiguar accediendo desde consola o terminal a tu equipo.&lt;/p&gt;&#xA;&lt;p&gt;Claro si accedes por consola o terminal a tu equipo podrías decir para que si ya tengo conexión con mi computadora a través de mi linea de comandos si puede ser… pero muchas veces necesitas ver o acceder visualmente a tu computadora y esto lo podes hacer con AnyDesk o un servicio de VNC activo en la computadora. Si tu caso es el de AnyDesk y no conoces el id lo podes averiguar con este comando.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>No funciona Wi-Fi en tu notebook con Linux</title>
+      <link>https://fideo.github.io/quickstart/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</link>
+      <pubDate>Fri, 01 Mar 2024 09:42:36 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</guid>
+      <description>&lt;p&gt;Si terminaste de instalar Linux y no te funciona el Wi-Fi tenes que realizar los siguientes pasos para que empiece a funcionar.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Estos pasos a continuación son para distribuciones basadas en Debian&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Ubuntu y sus sabores, Neon, Loc-Os, Linux Mint, PureOS, Deepin, Kali Linux, etc. etc.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Antes de empezar a ejecutar los comandos que siguen a continuación tenemos que conseguir una conexión por cable de red para poder ejecutar algunos comando y descargar algunos componentes desde internet. Luego de conectarnos a la red de internet con cable lo primero que vamos a realizar es ejecutar la actualización de los repositorios; para esto ejecutamos este comando&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VIM YouCompleteMe</title>
+      <link>https://fideo.github.io/quickstart/2023/03/vim-youcompleteme.html</link>
+      <pubDate>Fri, 24 Mar 2023 16:55:25 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/2023/03/vim-youcompleteme.html</guid>
+      <description>&lt;p&gt;Si te aparece este mensaje dentro de tu editor VIM&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;The ycmd server SHUT DOWN (restart with ‘:YcmRestartServer’). YCM core library not dete…; you need to compile YCM before using it. Follow the instructions in the documentation.&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&#xA;esto se debe a que tu complemento YouCompleteMe necesita ser reinstalado.&lt;/p&gt;&#xA;&lt;p&gt;Es tan simple como posisionarse dentro del directorio de instalación de YouCompleteMe en mi caso /home/fideo/.vim/plugged/youcompleteme y ejecutar esto&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;python install.py&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Esto hará el proceso de instalación y corrige todas las librerías y dependencias que necesita para que se ejecute correctamente el complemento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anydesk problemas con Wayland Cómo habilitar o deshabilitar wayland en Ubuntu 22.04 Desktop</title>
+      <link>https://fideo.github.io/quickstart/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html</link>
+      <pubDate>Sun, 01 Jan 2023 10:25:36 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html</guid>
+      <description>&lt;p&gt;Si estas trantando de usar AnyDesk en linux y te arroja un mensaje de error como este&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;No se admite el servidor remoto de pantalla wayland&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Es porque hay que colocar en &lt;strong&gt;false&lt;/strong&gt; la opción WaylandEnable que se encuentra en &lt;code&gt;/etc/gdm3/custom.conf&lt;/code&gt; esto te permitirá conectarte a esa máquina cliente; es decir que la modificación de &lt;code&gt;/etc/gdm3/custom.conf&lt;/code&gt; hay que hacerla en la PC que queremos conectarnos.&lt;/p&gt;&#xA;&lt;p&gt;Para eso tiene que abrir tu consola en modo administrador / sudo y editar ese archivo, en mi caso yo uso vim asi que sería así:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tmux github powerline status</title>
+      <link>https://fideo.github.io/quickstart/2022/02/tmux-github-powerline-status.html</link>
+      <pubDate>Fri, 18 Feb 2022 11:15:41 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/2022/02/tmux-github-powerline-status.html</guid>
+      <description>&lt;p&gt;Tmux github powerline status. Cree un repositorio en github para publicar mi configuración de Tmux; también la configuración de powerline y el .bashrc de mi PC por si alguien quiere usar esta configuración.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fideo/tmux.conf/main/asset/TerminalMultiplexer.png&#34; alt=&#34;Pantalla de Tmux donde se muestran tres promp de linux en una sola ventana.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Este es el la dirección en github del repositorio desde ahí se puede descargar y/o clonar &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://github.com/fideo/tmux.conf&#34;&gt;https://github.com/fideo/tmux.conf&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Comando para obtener la dirección ip interna de una PC</title>
+      <link>https://fideo.github.io/quickstart/2022/01/comando-para-obtener-la-direccion-ip-interna-de-una-pc.html</link>
+      <pubDate>Thu, 06 Jan 2022 12:02:22 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/2022/01/comando-para-obtener-la-direccion-ip-interna-de-una-pc.html</guid>
+      <description>&lt;p&gt;En linux podemos obtener de varias formas la ip interna de una PC; lo más común es ejecutar &lt;code&gt;ifconfig&lt;/code&gt; directamente en la consola, pero para esto tenemos que tener instalado net-tools.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt install net-tools&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Pero yo no quería instalar nada (de caprichoso nomás) y fui por la forma tradicional que tiene linux para mostrarte las ip y es con el comando ip propiamente dicho que acompañado por el objeto address te muestra las direcciones ip creadas para tu PC. Pero si ejecutamos esto en nuestro linux&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Comando dd clonar copiar una ISO a un Pendrive</title>
+      <link>https://fideo.github.io/quickstart/2020/08/comando-dd-clonar-copiar-una-iso-a-un-pendrive.html</link>
+      <pubDate>Tue, 18 Aug 2020 18:46:56 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/2020/08/comando-dd-clonar-copiar-una-iso-a-un-pendrive.html</guid>
+      <description>&lt;p&gt;En este post muestro como generar un pendrive booteable para instalar linux ubuntu por ejemplo, con el comando dd (Dataset Definition), pero sirve para cualquier imagen de disco que tenga un sistema operativo o que sea booteable esa imagen luego de ser instalada dentro del pendrive.&lt;/p&gt;&#xA;&lt;p&gt;Para esto vamos a usar primero el comando &lt;code&gt;lsblk&lt;/code&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;lsblk&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Este comando nos permite listar todos los dispositivos como por ejemplo discos duros, SSD, memorias flash, CD-ROM; una vez que visualizamos donde se encuentra nuestro pendrive procedemos a desmontarlo con el comando umount&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Comprimir y descomprimir archivos o directorios con 7zip</title>
+      <link>https://fideo.github.io/quickstart/2020/06/comprimir-y-descomprimir-archivos-o-directorios-con-7zip.html</link>
+      <pubDate>Wed, 24 Jun 2020 07:00:00 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/2020/06/comprimir-y-descomprimir-archivos-o-directorios-con-7zip.html</guid>
+      <description>&lt;p&gt;Desde la consola se puede comprimir archivo o directorios con un simple comando&lt;/p&gt;&#xA;&lt;h2 id=&#34;comprimir&#34;&gt;Comprimir&lt;/h2&gt;&#xA;&lt;p&gt;Si se necesita comprimir una carpeta o un archivo lo que se necesita hacer es lo siguiente:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;7z a archivo_comprimido.7z /ruta/a/carpetas/ /ruta/a/archivos&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;A fines prácticos si se necesita realizar una compresión de un directorio o carpeta el comando sería el siguiente:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;7z a directorios_comprimidos.7z /ruta/a/carpetas/&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;si fuese un archivo solo el comando sería el siguiente&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;7z a archivo_comprimido.7z /ruta/a/archivos&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;extraer&#34;&gt;Extraer&lt;/h2&gt;&#xA;&lt;p&gt;Para poder extraer el contenido de un archivo zipeado ya sea con la extensión .zip o .7z&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>¿Que debo ejecutar para saber si mi linux es de 32 Bits o de 64 Bits?</title>
+      <link>https://fideo.github.io/quickstart/2020/06/que-debo-ejecutar-para-saber-si-mi-linux-es-de-32-bits-o-de-64-bits.html</link>
+      <pubDate>Tue, 09 Jun 2020 07:00:00 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/2020/06/que-debo-ejecutar-para-saber-si-mi-linux-es-de-32-bits-o-de-64-bits.html</guid>
+      <description>&lt;p&gt;Para ver que tipo de arquitectura es nuestro sistema operativo Linux que estoy usando; es decir, si es de 32 Bits o de 64 Bits; para eso se ejecuta en consola el siguiente comando&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;#!/bin/bash&#xA;uname -m&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Donde muestra i686 para los sistemas operativos de 32 Bits y x86_64 para los que son de 64 Bits.&lt;/p&gt;&#xA;&lt;p&gt;El comando &lt;code&gt;uname&lt;/code&gt; tiene un montón de información al ejecutarlo de la siguiente manera&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;uname -a&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;-a, &amp;ndash;all                imprime toda la información, en el siguiente orden, omitiendo -p y -i&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

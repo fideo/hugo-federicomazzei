@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on Federico Mazzei</title>
+    <link>http://localhost:1313/quickstart/tags/css/</link>
+    <description>Recent content in Css on Federico Mazzei</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 26 Dec 2024 11:49:39 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/quickstart/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Truco de CSS para mostrar texto en forma vertical</title>
+      <link>http://localhost:1313/quickstart/2010/11/truco-de-css-para-mostrar-texto-en-forma-vertical.html</link>
+      <pubDate>Fri, 12 Nov 2010 21:30:19 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/2010/11/truco-de-css-para-mostrar-texto-en-forma-vertical.html</guid>
+      <description>&lt;p&gt;Puede llegar a ser muy útil pero lamentablemente no funciona en todos los navegadores; por eso hay que tener muy en cuenta cuando se va a utilizar esta opción.&lt;/p&gt;&#xA;&lt;p&gt;Para poder visualizar el texto en forma vertical simplemente tenes que aplicar esta class al objeto deseado.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;.rotate {&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;-webkit-transform: rotate(-90deg);&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;-moz-transform: rotate(-90deg);&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;}&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.fideox.com.ar/wp-content/uploads/2010/11/textovertical.html&#34;&gt;Para ver el ejemplo solo presioná acá&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -12,7 +12,7 @@ pygmentsUseClasses = true
 author = "fideo"
 description = "El sitio de federico mazzei"
 github = "fideo"
-facebook = "MeiK2333"
+facebook = "mazzeifederico"
 twitter = "fideox"
 linkedin = "federicomazzei"
 instagram = "fideox"
@@ -22,13 +22,25 @@ url = "https://fideox.dev.ar"
 keywords = "blog, google analytics"
 rss = true
 lastmod = true
-favicon = "./images/ogp.png"
-avatar = "./images/avatar.jpg"
-headerIcon = "./images/github-mark-white.png"
+favicon = "/images/ogp.png"
+avatar = "/images/avatar.jpg"
+headerIcon = "/images/github-mark-white.png"
 location = "Argentina"
 userStatusEmoji = "😀"
 enableGitalk = true
 enableSearch = true
+
+[menus]
+    [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+    [[menus.main]]
+    name = 'Sobre Mi'
+    pageRef = '/sobremi'
+    title = 'Soobre Mi'
+    weight = 10
+
 
 [params.gitalk]
 clientID = "Ov23licCHTBOFJdZMIFm" # Your client ID

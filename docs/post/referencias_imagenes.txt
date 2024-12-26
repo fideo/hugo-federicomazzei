@@ -1,0 +1,93 @@
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2011/08/2011-08-07-montar-automaticamente-discos-rigidos-extras-en-ubuntu.md
+http://www.fideox.com.ar/wp-content/uploads/2011/08/Pantallazo-Informaci%C3%B3n-acerca-de-dev-sdc1.png
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2007/03/2007-03-18-aeropuerto-ezeiza.md
+http://farm1.static.flickr.com/167/421703012_3b62129385_m.jpg
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2015/11/2015-11-18-eliminar-la-contrasena-y-proteccion-de-archivos-word.md
+http://federicomazzei.com.ar/blog/wp-content/uploads/2015/11/icono-word.gif
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2015/03/2015-03-27-iconos-flaticon.md
+http://federicomazzei.com.ar/blog/wp-content/uploads/2015/03/flaticon.jpg
+http://federicomazzei.com.ar/blog/wp-content/uploads/2015/03/flaticon_add_to_cart.jpg
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2015/02/2015-02-13-ventanas-emergentes-de-chrome-pregunta-donde-descargar.md
+https://www.google.com/intl/es-419_ALL/chrome/assets/common/images/marquee/download-chrome-cleanup-hero-win.jpg
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2015/02/2015-02-19-cuanto-pesa-un-directorio-en-linux.md
+http://federicomazzei.com.ar/blog/wp-content/uploads/2015/02/System-linux-150x150.png
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2015/10/2015-10-20-buscar-por-tamano-y-antiguedad-en-gmail.md
+http://lh4.ggpht.com/_7ZYqYi4xigk/TaM87JTwNoI/AAAAAAAAH3I/o4Kc7yR9ZOQ/d/mail_logo_rgb_web.png
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2015/09/2015-09-03-actualizar-ubuntu-de-12-a-14.md
+http://federicomazzei.com.ar/blog/wp-content/uploads/2015/09/ubuntu-logo112.png
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2020/08/2020-08-18-comando-dd-clonar-copiar-una-iso-a-un-pendrive.md
+/assets/uploads/2023/08/comando_dd_clonar_disco.jpg
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2010/12/2010-12-24-vendo-bolso-wilson-raquetero-para-12-raquetas.md
+http://www.fideox.com.ar/wp-content/uploads/2010/12/bolso1.jpg
+http://www.fideox.com.ar/wp-content/uploads/2010/12/bolso2.jpg
+http://www.fideox.com.ar/wp-content/uploads/2010/12/bolso3.jpg
+http://www.fideox.com.ar/wp-content/uploads/2010/12/bolso4.jpg
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2010/04/2010-04-28-armar-un-avi-con-subtitulos-y-pasarlo-a-mp4.md
+http://www.fideox.com.ar/wp-content/uploads/2010/04/mencoder.png
+http://www.fideox.com.ar/wp-content/uploads/2010/04/handbreak.png
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2010/10/2010-10-14-gimp-con-shortcut-de-photoshop.md
+http://www.fideox.com.ar/wp-content/uploads/2010/10/gimp.png
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2022/02/2022-02-18-tmux-github-powerline-status.md
+https://raw.githubusercontent.com/fideo/tmux.conf/main/asset/TerminalMultiplexer.png
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2023/06/2023-06-30-configurar-dkim-con-opendkim-en-cloudflare.md
+/assets/uploads/2023/06/ConsolaSSH_cat_OpenDKIM.png
+/assets/uploads/2023/06/Cloudflare_DKIM_configuracion_registro_txt.png
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2009/12/2009-12-25-feliz-navidad-5.md
+http://www.fideox.com.ar/wp-content/uploads/2009/12/feliz_navidad.jpg
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2013/04/2013-04-21-necesitas-un-icono-encontralo-en-icon-finder.md
+http://federicomazzei.com.ar/blog/wp-content/uploads/2016/11/iconfinder-logo.png
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2013/06/2013-06-19-el-gatito-se-quiere-dormir.md
+http://federicomazzei.com.ar/blog/wp-content/uploads/2013/06/gatito-cabezaso.gif
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2013/06/2013-06-19-es-solo-para-geeks.md
+http://federicomazzei.com.ar/blog/wp-content/uploads/2016/11/DataTerminalCrash.gif
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2008/04/2008-04-30-mi-vida.md
+http://farm3.static.flickr.com/2159/2454968612_24d423deba_t.jpg
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2008/05/2008-05-03-instalar-eclipse-pdt-para-php.md
+http://www.tallerwebmaster.com/imgarticulos/125/carpeta-eclipse.gif
+http://www.tallerwebmaster.com/imgarticulos/125/ejecutar-eclipse.jpg
+http://www.tallerwebmaster.com/imgarticulos/125/espacio-trabajo.gif
+http://www.tallerwebmaster.com/imgarticulos/125/entorno-eclipse.gif
+http://www.tallerwebmaster.com/imgarticulos/125/proyecto-php.gif
+http://www.tallerwebmaster.com/imgarticulos/125/nombre-proyecto.gif
+http://www.tallerwebmaster.com/imgarticulos/125/archivo-php.gif
+http://www.tallerwebmaster.com/imgarticulos/125/nuevo-php.gif
+http://www.tallerwebmaster.com/imgarticulos/125/proyecto-hola.gif
+http://www.tallerwebmaster.com/imgarticulos/125/resultado-final.gif
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2014/11/2014-11-19-repository-denied-deployment.md
+http://federicomazzei.com.ar/blog/wp-content/uploads/2014/11/bitbucket-logo-blue.jpg
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2014/03/2014-03-11-problema_webcam_pixart_imaging_inc_skype_linux.md
+http://federicomazzei.com.ar/blog/wp-content/uploads/2014/03/webCamSATE.jpg
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2017/09/2017-09-25-reaction-commerce-usando-propio-servidor.md
+http://federicomazzei.com.ar/blog/wp-content/uploads/2017/09/reactionCommerce.png
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2017/09/2017-09-15-actualizar-localmente-wordpress-da-fallida.md
+http://federicomazzei.com.ar/blog/wp-content/uploads/2017/09/php_logo.png
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2024/05/2024-05-14-lazyvim-muestra-algunos-warnings-rg-fdfind-y-lazygit.md
+/assets/uploads/2024/05/warning_LazyVim.jpg
+----------------------------------------
+Procesando archivo: /home/fideo/proyectos/fideo-hugo/content/posts/articulos/2024/09/2024-09-07-activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.md
+/assets/uploads/2024/09/fechayhoraautomaticamente.png
+----------------------------------------

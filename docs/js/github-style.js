@@ -50,12 +50,12 @@ function switchYear(year) {
     }
   }
   posts.sort((a, b) => { return b - a });
-  document.querySelector('#posts-activity').innerHTML = '';
+  document.querySelector('#post-activity').innerHTML = '';
   for (const time of ms) {
     const node = document.createElement('div');
     const array = time.split("-");
     node.innerHTML = monthly(array[0], Number(array[1]), posts);
-    document.querySelector('#posts-activity').appendChild(node);
+    document.querySelector('#post-activity').appendChild(node);
   }
 
   graph(year, posts, startDate, endDate);
@@ -156,11 +156,11 @@ function yearList() {
 }
 
 function graph(year, posts, startDate, endDate) {
-  const postsStr = posts.length === 1 ? "post" : "posts";
+  const postsStr = posts.length === 1 ? "post" : "post";
   if (year === now.getFullYear().toString()) {
-    document.querySelector('#posts-count').innerText = `${posts.length}  ${postsStr} in the last year`;
+    document.querySelector('#post-count').innerText = `${posts.length}  ${postsStr} in the last year`;
   } else {
-    document.querySelector('#posts-count').innerText = `${posts.length}  ${postsStr} in ${year}`;
+    document.querySelector('#post-count').innerText = `${posts.length}  ${postsStr} in ${year}`;
   }
 
   let html = ``;

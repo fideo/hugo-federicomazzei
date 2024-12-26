@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Password on Federico Mazzei</title>
+    <link>https://fideo.github.io/quickstart/tags/password/</link>
+    <description>Recent content in Password on Federico Mazzei</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 26 Dec 2024 11:49:40 -0300</lastBuildDate>
+    <atom:link href="https://fideo.github.io/quickstart/tags/password/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eliminar la contraseña y protección de archivos Word</title>
+      <link>https://fideo.github.io/quickstart/2015/11/eliminar-la-contrasena-y-proteccion-de-archivos-word.html</link>
+      <pubDate>Wed, 18 Nov 2015 10:39:30 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/2015/11/eliminar-la-contrasena-y-proteccion-de-archivos-word.html</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Para esto vamos a guardar el archivo Word en cuestion en formato .HTML luego lo abrimos con un editor de html preferido y buscamos las lineas&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;pre class=&amp;#34;wp-block-preformatted&amp;#34;&amp;gt;[w:DocumentProtection]......[/w:DocumentProtection]&#xA;[w:UnprotectPassword]00000000[/w:UnprotectPassword]&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Eliminamos esas dos lineas.&lt;br&gt;&#xA;Grabamos y abrimos desde el Word el archivo html que acabamos de editar.&lt;/p&gt;&#xA;&lt;p&gt;Volvemos a cambiar la extensión del documento y WUALAAAA!!! listo… desbloqueado el archivo Word.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Enjoy!!!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

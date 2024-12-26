@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vi on Federico Mazzei</title>
+    <link>http://localhost:1313/quickstart/tags/vi/</link>
+    <description>Recent content in Vi on Federico Mazzei</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 26 Dec 2024 11:49:40 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/quickstart/tags/vi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vim el editor de texto mejorado Vi</title>
+      <link>http://localhost:1313/quickstart/2022/02/vim-el-editor-de-texto-mejorado-vi.html</link>
+      <pubDate>Fri, 25 Feb 2022 08:34:44 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/2022/02/vim-el-editor-de-texto-mejorado-vi.html</guid>
+      <description>&lt;p&gt;Vi fue creado por William Nelson Joy mas conocido como Bill Joy; él empezó a desarrolar allá por el año 1976 este editor. Luego en 1991 Bram Moolenaar realiza una mejora este editor y lo llama Vim siendo este uno de los editores de texto mas utilizados por los desarrolladores.&lt;/p&gt;&#xA;&lt;p&gt;Pero este post no trata de hablar de historia de Vim sino de lo que se puede hacer con él.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

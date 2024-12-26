@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sistema on Federico Mazzei</title>
+    <link>https://fideo.github.io/quickstart/tags/sistema/</link>
+    <description>Recent content in Sistema on Federico Mazzei</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 26 Dec 2024 11:49:40 -0300</lastBuildDate>
+    <atom:link href="https://fideo.github.io/quickstart/tags/sistema/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Habilitar o Deshabilitar un servicio en Linux Ubuntu</title>
+      <link>https://fideo.github.io/quickstart/2021/12/habilitar-o-deshabilitar-un-servicio-en-linux-ubuntu.html</link>
+      <pubDate>Thu, 09 Dec 2021 08:31:00 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/2021/12/habilitar-o-deshabilitar-un-servicio-en-linux-ubuntu.html</guid>
+      <description>&lt;p&gt;Si tienes un servicio que necesitas deshabilitar o habilitar acá te dejo los dos comandos que te permitirán realizar esto&lt;/p&gt;&#xA;&lt;p&gt;Para habilitar un servicio debes ejecutar como superusuario systemctl enable servicioAHabilitar.service&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo systemctl enable apache2&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Para deshabilitar ese mismo servicio debes ejecutar (siempre como superusuario) systemctl disable servicioADeshabilitar.service&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo systemctl disable apache2&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title>Obtener una lista de software instalados en una PC</title>
+      <link>https://fideo.github.io/quickstart/2020/06/obtener-una-lista-de-software-instalados-en-una-pc.html</link>
+      <pubDate>Wed, 17 Jun 2020 12:30:06 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/2020/06/obtener-una-lista-de-software-instalados-en-una-pc.html</guid>
+      <description>&lt;p&gt;Si deseamos obtener una lista de todos los software que tenemos instalados en una pc solo basta con correr este comando a continuación y nos generará un archivo de salida ubicado en nuestra raíz del disco C. Se puede modificar esto para que lo escriba en donde uno lo necesite.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;wmic product get name&amp;#34;,&amp;#34; version| out-File &amp;#34;C:\lista_productos_instalados.txt&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Si quisiéramos tener también una lista de todos los servicios que están corriendo en una PC deberíamos utilizar este comando a continuación; el cual nos genera un archivo txt con la lista de todos los servicios encontrados.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -6,6 +6,231 @@
     <description>Recent content in Tags on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
+    <lastBuildDate>Thu, 26 Dec 2024 11:49:40 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/quickstart/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comando</title>
+      <link>http://localhost:1313/quickstart/tags/comando/</link>
+      <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/comando/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Debian</title>
+      <link>http://localhost:1313/quickstart/tags/debian/</link>
+      <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/debian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/quickstart/tags/linux/</link>
+      <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu</title>
+      <link>http://localhost:1313/quickstart/tags/ubuntu/</link>
+      <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vim</title>
+      <link>http://localhost:1313/quickstart/tags/vim/</link>
+      <pubDate>Fri, 09 Aug 2024 09:13:36 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/vim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>http://localhost:1313/quickstart/tags/software/</link>
+      <pubDate>Wed, 05 Jun 2024 12:33:09 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sistema Operativo</title>
+      <link>http://localhost:1313/quickstart/tags/sistema-operativo/</link>
+      <pubDate>Mon, 13 May 2024 12:02:51 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/sistema-operativo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/quickstart/tags/docker/</link>
+      <pubDate>Wed, 23 Aug 2023 13:08:58 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloudflare</title>
+      <link>http://localhost:1313/quickstart/tags/cloudflare/</link>
+      <pubDate>Fri, 30 Jun 2023 11:21:35 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/cloudflare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opendkim</title>
+      <link>http://localhost:1313/quickstart/tags/opendkim/</link>
+      <pubDate>Fri, 30 Jun 2023 11:21:35 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/opendkim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Comandos</title>
+      <link>http://localhost:1313/quickstart/tags/comandos/</link>
+      <pubDate>Tue, 20 Jun 2023 10:18:11 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/comandos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>http://localhost:1313/quickstart/tags/git/</link>
+      <pubDate>Fri, 24 Mar 2023 19:53:12 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>http://localhost:1313/quickstart/tags/github/</link>
+      <pubDate>Fri, 24 Mar 2023 19:53:12 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pyhton</title>
+      <link>http://localhost:1313/quickstart/tags/pyhton/</link>
+      <pubDate>Fri, 15 Jul 2022 13:35:16 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/pyhton/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Editor De Texto</title>
+      <link>http://localhost:1313/quickstart/tags/editor-de-texto/</link>
+      <pubDate>Fri, 25 Feb 2022 08:34:44 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/editor-de-texto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vi</title>
+      <link>http://localhost:1313/quickstart/tags/vi/</link>
+      <pubDate>Fri, 25 Feb 2022 08:34:44 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/vi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Powerline</title>
+      <link>http://localhost:1313/quickstart/tags/powerline/</link>
+      <pubDate>Fri, 18 Feb 2022 11:15:41 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/powerline/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tmux</title>
+      <link>http://localhost:1313/quickstart/tags/tmux/</link>
+      <pubDate>Fri, 18 Feb 2022 11:15:41 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/tmux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Centos</title>
+      <link>http://localhost:1313/quickstart/tags/centos/</link>
+      <pubDate>Fri, 18 Feb 2022 08:48:22 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/centos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cwp</title>
+      <link>http://localhost:1313/quickstart/tags/cwp/</link>
+      <pubDate>Fri, 18 Feb 2022 08:48:22 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/cwp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sistema</title>
+      <link>http://localhost:1313/quickstart/tags/sistema/</link>
+      <pubDate>Thu, 09 Dec 2021 08:31:00 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/sistema/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android</title>
+      <link>http://localhost:1313/quickstart/tags/android/</link>
+      <pubDate>Wed, 17 Nov 2021 20:51:29 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Droidcam</title>
+      <link>http://localhost:1313/quickstart/tags/droidcam/</link>
+      <pubDate>Wed, 17 Nov 2021 20:51:29 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/droidcam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wordpress</title>
+      <link>http://localhost:1313/quickstart/tags/wordpress/</link>
+      <pubDate>Tue, 02 Nov 2021 10:25:20 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adb</title>
+      <link>http://localhost:1313/quickstart/tags/adb/</link>
+      <pubDate>Tue, 27 Jul 2021 19:40:12 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/adb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webcam</title>
+      <link>http://localhost:1313/quickstart/tags/webcam/</link>
+      <pubDate>Tue, 27 Jul 2021 19:40:12 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/webcam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/quickstart/tags/python/</link>
+      <pubDate>Wed, 22 Jul 2020 08:46:00 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contraseña</title>
+      <link>http://localhost:1313/quickstart/tags/contrase%C3%B1a/</link>
+      <pubDate>Wed, 18 Nov 2015 10:39:30 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/contrase%C3%B1a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Password</title>
+      <link>http://localhost:1313/quickstart/tags/password/</link>
+      <pubDate>Wed, 18 Nov 2015 10:39:30 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/password/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Truco</title>
+      <link>http://localhost:1313/quickstart/tags/truco/</link>
+      <pubDate>Wed, 18 Nov 2015 10:39:30 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/truco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Word</title>
+      <link>http://localhost:1313/quickstart/tags/word/</link>
+      <pubDate>Wed, 18 Nov 2015 10:39:30 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/word/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>http://localhost:1313/quickstart/tags/css/</link>
+      <pubDate>Fri, 12 Nov 2010 21:30:19 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/tags/css/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

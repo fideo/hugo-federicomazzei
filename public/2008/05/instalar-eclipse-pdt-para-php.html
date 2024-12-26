@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="es">
+<head><script src="/quickstart/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=quickstart/livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script type="application/javascript" src='http://localhost:1313/quickstart/js/theme-mode.js'></script>
+    <link rel="stylesheet" href='http://localhost:1313/quickstart/css/frameworks.min.css' />
+    <link rel="stylesheet" href='http://localhost:1313/quickstart/css/github.min.css' />
+    <link rel="stylesheet" href='http://localhost:1313/quickstart/css/github-style.css' />
+    <link rel="stylesheet" href='http://localhost:1313/quickstart/css/light.css' />
+    <link rel="stylesheet" href='http://localhost:1313/quickstart/css/dark.css' />
+    <link rel="stylesheet" href='http://localhost:1313/quickstart/css/syntax.css' />
+    <title>Instalar Eclipse PDT para PHP - Federico Mazzei</title>
+    
+    <link rel="icon" type="image/x-icon" href='/images/ogp.png'>
+    
+    <meta name="theme-color" content="#1e2327">
+
+    
+    <meta name="description"
+  content="Eclipse PDT para PHP
+En este tutorial veremos como descargar, instalar y configurar el Entorno de Desarrollo Eclipse para trabajar con PHP. Eclipse es uno de los mas poderosos editores, para lenguajes como JAVA, C, PHP, y otros, y lo mejor de todo es que es de uso Gratuito.
+Instalar Eclipse PDT para PHP
+Eclipse, es un Entorno de Desarrollo Profesional y Gratuito, que puede ser utilizado para varios lenguajes Java, C, C&#43;&#43;, PHP, etc. En este caso veremos como instalar una versión para PHP.
+" />
+<meta name="keywords"
+  content='blog, google analytics' />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="http://localhost:1313/quickstart/2008/05/instalar-eclipse-pdt-para-php.html" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Instalar Eclipse PDT para PHP - Federico Mazzei" />
+<meta name="twitter:description"
+  content="Eclipse PDT para PHP
+En este tutorial veremos como descargar, instalar y configurar el Entorno de Desarrollo Eclipse para trabajar con PHP. Eclipse es uno de los mas poderosos editores, para lenguajes como JAVA, C, PHP, y otros, y lo mejor de todo es que es de uso Gratuito.
+Instalar Eclipse PDT para PHP
+Eclipse, es un Entorno de Desarrollo Profesional y Gratuito, que puede ser utilizado para varios lenguajes Java, C, C&#43;&#43;, PHP, etc. En este caso veremos como instalar una versión para PHP.
+" />
+<meta name="twitter:site" content="http://localhost:1313/quickstart/" />
+<meta name="twitter:creator" content="fideo" />
+<meta name="twitter:image"
+  content="http://localhost:1313/quickstart/">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Instalar Eclipse PDT para PHP - Federico Mazzei">
+<meta property="og:description"
+  content="Eclipse PDT para PHP
+En este tutorial veremos como descargar, instalar y configurar el Entorno de Desarrollo Eclipse para trabajar con PHP. Eclipse es uno de los mas poderosos editores, para lenguajes como JAVA, C, PHP, y otros, y lo mejor de todo es que es de uso Gratuito.
+Instalar Eclipse PDT para PHP
+Eclipse, es un Entorno de Desarrollo Profesional y Gratuito, que puede ser utilizado para varios lenguajes Java, C, C&#43;&#43;, PHP, etc. En este caso veremos como instalar una versión para PHP.
+" />
+<meta property="og:url" content="http://localhost:1313/quickstart/2008/05/instalar-eclipse-pdt-para-php.html" />
+<meta property="og:site_name" content="Instalar Eclipse PDT para PHP" />
+<meta property="og:image"
+  content="http://localhost:1313/quickstart/">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+<meta property="article:published_time" content="2008-05-03 09:00:36 &#43;0000 UTC" />
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+  <div style="position: relative">
+  <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap open Details--on">
+    <div class="Header-item mobile-none" style="margin-top: -4px; margin-bottom: -4px;">
+      <a class="Header-link" href="http://localhost:1313/quickstart/">
+        <img class="octicon" height="32" width="32" src="/images/github-mark-white.png">
+      </a>
+    </div>
+    <div class="Header-item d-md-none">
+      <button class="Header-link btn-link js-details-target" type="button"
+        onclick="document.querySelector('#header-search').style.display = document.querySelector('#header-search').style.display == 'none'? 'block': 'none'">
+        <svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24">
+          <path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z">
+          </path>
+        </svg>
+      </button>
+    </div>
+    <div style="display: none;" id="header-search"
+      class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
+      <div
+        class="Header-search header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to">
+        <div class="position-relative">
+          
+          <form target="_blank" id="search-form" action="" accept-charset="UTF-8" method="get"
+            autocomplete="off">
+            <label
+              class="Header-search-label form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
+              <input type="text"
+                class="Header-search-input form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+                name="q" value="" placeholder="Search" autocomplete="off">
+            </label>
+          </form>
+          
+        </div>
+      </div>
+    </div>
+
+    <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
+      <a class="Header-link " href="http://localhost:1313/quickstart/">
+        <img class="octicon octicon-mark-github v-align-middle" height="32" width="32" src="/images/github-mark-white.png">
+      </a>
+    </div>
+    <div class="Header-item" style="margin-right: 0;">
+      <a href="javascript:void(0)" class="Header-link no-select" onclick="switchTheme()">
+        <svg style="fill: var(--color-profile-color-modes-toggle-moon);" class="no-select" viewBox="0 0 16 16"
+          version="1.1" width="16" height="16">
+          <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M4.52208 7.71754C7.5782 7.71754 10.0557 5.24006 10.0557 2.18394C10.0557 1.93498 10.0392 1.68986 10.0074 1.44961C9.95801 1.07727 10.3495 0.771159 10.6474 0.99992C12.1153 2.12716 13.0615 3.89999 13.0615 5.89383C13.0615 9.29958 10.3006 12.0605 6.89485 12.0605C3.95334 12.0605 1.49286 10.001 0.876728 7.24527C0.794841 6.87902 1.23668 6.65289 1.55321 6.85451C2.41106 7.40095 3.4296 7.71754 4.52208 7.71754Z">
+          </path>
+        </svg>
+      </a>
+    </div>
+  </header>
+</div>
+
+  <div id="search-result" class="container-lg px-3 new-discussion-timeline" style="display: none;">
+</div>
+
+  
+<div class="application-main">
+  <div>
+  <main>
+    <div class="gisthead pagehead bg-gray-light pb-0 pt-3 mb-4">
+      <div class="px-0">
+        <div class="mb-3 d-flex px-3 px-md-3 px-lg-5">
+          <div class="flex-auto min-width-0 width-fit mr-3">
+            <div class="d-flex">
+              <div class="d-none d-md-block">
+                <a class="avatar mr-2 flex-shrink-0" href="http://localhost:1313/quickstart/">
+                  <img class=" avatar-user"
+                    src="/images/avatar.jpg"
+                    width="32" height="32"></a>
+              </div>
+              <div class="d-flex flex-column">
+                <h1 class="break-word f3 text-normal mb-md-0 mb-1">
+                  <span class="author">
+                    <a href="http://localhost:1313/quickstart/">fideo</a>
+                  </span>
+                  <span class="path-divider">/</span>
+                  <strong class="css-truncate css-truncate-target mr-1" style="max-width: 410px">
+                    <a href="http://localhost:1313/quickstart/2008/05/instalar-eclipse-pdt-para-php.html">Instalar Eclipse PDT para PHP</a>
+                  </strong>
+                </h1>
+                <div class="note m-0">
+                  Created <relative-time datetime="Sat, 03 May 2008 09:00:36 &#43;0000"
+                    class="no-wrap">
+                    Sat, 03 May 2008 09:00:36 &#43;0000</relative-time>
+
+                  
+                  <span class="file-info-divider"></span>
+                  Modified <relative-time datetime="Thu, 26 Dec 2024 11:49:40 -0300"
+                    class="no-wrap">
+                    Thu, 26 Dec 2024 11:49:40 -0300</relative-time>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-lg px-3 new-discussion-timeline">
+      <div class="repository-content gist-content">
+        <div>
+          <div class="js-gist-file-update-container js-task-list-container file-box">
+            <div id="file-pytest" class="file my-2">
+              <div id="post-header" class="file-header d-flex flex-md-items-center flex-items-start sticky-header" style="z-index: 2">
+                <div class="file-info d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">
+                  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
+                    
+                    <summary id="toc-toggle" onclick="clickToc()" class="btn btn-octicon m-0 mr-2 p-2">
+                      <svg aria-hidden="true" viewBox="0 0 16 16" height="16" width="16" class="octicon octicon-list-unordered">
+                        <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
+                      </svg>
+                    </summary>
+                    <details-menu class="SelectMenu" id="toc-details" style="display: none;">
+                      <div class="SelectMenu-modal rounded-3 mt-1" style="max-height: 340px;">
+                        <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" id="toc-list">
+                        </div>
+                      </div>
+                    </details-menu>
+                      1039 Words
+                    
+
+                  </div>
+                  <div class="file-actions flex-order-2 pt-0">
+                    
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="Box-body px-5 pb-5" style="z-index: 1">
+                <article class="markdown-body entry-content container-lg"><p><strong>Eclipse PDT para PHP</strong><br>
+En este tutorial veremos como descargar, instalar y configurar el Entorno de Desarrollo Eclipse para trabajar con PHP. Eclipse es uno de los mas poderosos editores, para lenguajes como JAVA, C, PHP, y otros, y lo mejor de todo es que es de uso Gratuito.<br>
+<strong>Instalar Eclipse PDT para PHP</strong><br>
+<strong>Eclipse</strong>, es un <strong>Entorno de Desarrollo Profesional</strong> y <strong>Gratuito</strong>, que puede ser utilizado para varios lenguajes Java, C, C++, <strong>PHP</strong>, etc. En este caso veremos como instalar una versión para PHP.</p>
+<p><strong>Descargando Eclipse PDT para PHP</strong><br>
+Lo primero que debemos hacer es ir a la web de <strong>Zend</strong> (creadores de PHP), o a la web de <strong>Eclipse</strong> (creadores de eclipse), cuyas direcciones son:</p>
+<p><a href="http://www.zend.com/pdt">http://www.zend.com/pdt</a> o <a href="http://www.eclipse.org/pdt">http://www.eclipse.org/pdt</a> respectivamente.</p>
+<p><strong>PDT</strong>, significa <strong>PHP Development Tools</strong>, se puede descargar desde cualquiera de las dos direcciones, y la versión que debemos elegir es la última del PDT,</p>
+<p><a href="http://downloads.zend.com/pdt/all-in-one/pdt-1.0.0.R20070917-debugger-5.2.10.v20070905-all-in-one-win32.zip">para Windows</a></p>
+<p>Y si lo prefieren,</p>
+<p><a href="http://downloads.zend.com/pdt/all-in-one/pdt-1.0.0.R20070917-debugger-5.2.10.v20070905-all-in-one-linux-gtk.tar.gz">para Linux</a></p>
+<p>En este tutorial, utilizare la versión Windows pero, son similares y podrán seguirlo en cualquiera de los dos sin problemas.</p>
+<p>Este archivo llamado <strong>All In One</strong>, contiene todo lo necesario, tanto el <strong>Eclipse</strong> como el <strong>PDT</strong>, pero es importante aclarar, que ya usaban <strong>Eclipse</strong> para otro lenguaje podrían descargar solo el <strong>PDT</strong> y agregarlo. Yo por ejemplo lo usaba para JAVA y le agregue el PDT, por una cuestion de comodidad y que sea mas fácil este tutorial, opte por realizarlo con <strong>Eclipse PDT All In One</strong>, desde cero e instalando todo completo, ya que seguro la mayoría no lo utiliza aun.</p>
+<h3 id="instalando-eclipse-pdt-para-php">Instalando Eclipse PDT para PHP</h3>
+<p>Luego de descargar el archivo, vamos a descomprimirlo, y esa carpeta esta lista para usarse. Eclipse esta realizado en JAVA y corre sobre la Máquina Virtual JAVA que ya tenemos instalada en nuestro Windows XP, por tanto el software Eclipse no necesitara instalación, lo que debemos hacer es simplemente ubicarlo en una carpeta de nuestro disco, en mi caso le llame <strong>c:\eclipse</strong> y crear un icono de acceso directo al ejecutable, llamado <strong>eclipse.exe</strong>. Con esto ya estamos listos para ejecutar el <strong>Entorno de Desarrollo Eclipse</strong>.El contenido del archivo descomprimido y llevado al c:\ queda como en la imagen.</p>
+<p><img src="http://www.tallerwebmaster.com/imgarticulos/125/carpeta-eclipse.gif" alt="Eclipse en nuestro disco duro"></p>
+<p>Con doble click en <strong>eclipse.exe</strong>, o en el icono si ya lo hemos creamos en el escritorio o barra de inicio, vamos a ver la carga de Eclipse, como la siguiente imagen:</p>
+<p><img src="http://www.tallerwebmaster.com/imgarticulos/125/ejecutar-eclipse.jpg" alt="Cargando Eclipse PDT"></p>
+<h3 id="configurando-eclipse-pdt-para-php">Configurando Eclipse PDT para PHP</h3>
+<p>Al ser la primera vez que ejecutamos <strong>Eclipse</strong>, nos preguntará cual es nuestra <strong>Carpeta de Trabajo</strong> (Workspace), en mi caso, como se ve en la imagen elijo <strong>c:\appserv\www</strong>, ya que utilizo el Paquete <strong>AppServ</strong>, que contiene <strong>Apache</strong>, <strong>MySQL</strong> y <strong>PHP</strong>, de manera de probar mis sistemas en el disco local, sin tener que subirlos a un hosting cada vez. Si no tienen instalado uno, pueden ver otro de mis tutoriales de como instalar <strong>AppServ</strong> acá: <a href="http://www.tallerwebmaster.com/Tutorial-Instalacion-de-AppServ-PHP-Apache-MySQL-c-67.html"><strong>Instalación de AppServ</strong></a>, o pueden usar otra carpeta, e incluso no probar localmente los sistemas y utilizar un hosting siempre, esto es como les quede mas cómodo.</p>
+<p><img src="http://www.tallerwebmaster.com/imgarticulos/125/espacio-trabajo.gif" alt="Seleccion del Espacio de Trabajo"></p>
+<p>También podemos elegir “Usar por defecto y no preguntar de nuevo” (Use this as the default and do not ask again), de manera de evitar esta pregunta las próximas veces que ejecutemos <strong>Eclipse</strong>.</p>
+<p>Como comentamos al comienzo, debemos tener en cuenta que <strong>Eclipse</strong> es un <strong>Entorno Multi lenguaje</strong>, por tanto, si no vemos la pantalla similar a la siguiente:</p>
+<p><img src="http://www.tallerwebmaster.com/imgarticulos/125/entorno-eclipse.gif" alt="Entorno Eclipse para PHP"></p>
+<p>Debemos elegir, las opciones para indicarle que trabajaremos con <strong>PHP</strong>, como indica el punto <strong>(1)</strong> de la imagen, al seleccionar este, el Entorno se acondiciona para trabajar con lenguaje <strong>PHP</strong>, y veremos el <strong>PHP Explorer (2)</strong>, el <strong>Cuadro de Salida (3)</strong>, entre otros. Todas estas Cajas o Cuadros pueden ser reacomodadas a gusto moviéndolas con el mouse. Si cerramos alguna caja por error la podemos mostrar nuevamente con <strong>Window</strong>, <strong>Show View</strong>, y la caja correspondiente.<br>
+<strong>Nuestro primer Proyecto</strong><br>
+Para <strong>Crear Proyecto PHP</strong> en Eclipse, vamos a ir al <strong>PHP Explorer</strong>, presionar <strong>Botón Derecho</strong>, y elegir <strong>Nuevo</strong> (New), <strong>Proyecto PHP</strong> (PHP Project).</p>
+<p><img src="http://www.tallerwebmaster.com/imgarticulos/125/proyecto-php.gif" alt="Crear Nuevo Proyecto PHP"></p>
+<p>Luego, en el Cuadro de Dialogo, vamos a definir las características del <strong>Proyecto PHP</strong> tal como indica la imagen:</p>
+<p><img src="http://www.tallerwebmaster.com/imgarticulos/125/nombre-proyecto.gif" alt="Nuevo Proyecto PHP"></p>
+<p>En primer lugar va el <strong>Nombre del Proyecto</strong> (Project name), en este caso le llamamos <strong>“PrimerProyecto”</strong></p>
+<p>Luego indicamos si vamos a almacenarlo en una carpeta especifica o la que Eclipse elige por <strong>Defecto</strong> (Use default), en cuyo caso el nombre de la carpeta estará formado por la carpeta que definimos cuando cargamos Eclipse por primera vez (<strong>c:\appserv\www</strong>), y en una subcarpeta con el nombre del proyecto, por tanto, quedaría en <strong>c:\appserv\www\PrimerProyecto</strong>.</p>
+<p>Debajo, podemos elegir si nuestro proyecto será escrito en cualquier versión de PHP (4 o 5), o en alguna de ellas específicamente (Enable project specifi settings), en mi caso seleccione PHP5,</p>
+<p>Si presionamos <strong>Siguiente</strong> (Next), podremos agregar al proyecto alguna librería externa, como no es el caso, daremos clic en <strong>Terminar</strong> (Finish).</p>
+<p>Se mostrara en el <strong>Explorador PHP</strong> (PHP Explorer), que es un árbol cuya raíz es el nombre del proyecto <strong>“PrimerProyecto”</strong>, tal como muestra la imagen:</p>
+<p><img src="http://www.tallerwebmaster.com/imgarticulos/125/archivo-php.gif" alt="Agregar Archivo PHP al Proyecto"></p>
+<p>Para <strong>Agregar Archivos PHP</strong> a nuestro proyecto solo debemos presionar, <strong>Botón Derecho</strong>, <strong>Nuevo</strong> (New), <strong>Archivo PHP</strong> (PHP File).</p>
+<p>Y en el cuadro de Dialogo, va a aparecer automáticamente como <strong>Carpeta</strong> (Source Folder), la carpeta donde esta nuestro Proyecto, o sea <strong>“/PrimerProyecto”</strong>, y abajo debemos darle un <strong>Nombre al Archivo</strong> (File Name), en este caso le di “<strong>index.php</strong>”</p>
+<p><img src="http://www.tallerwebmaster.com/imgarticulos/125/nuevo-php.gif" alt="Archivo PHP"></p>
+<p>Si presionamos <strong>Siguiente</strong> (Next), nos permite elegir una plantilla con código pre-escrito, que sirve en caso de que nuestros archivos PHP tengan de comienzo la misma forma, o si tenemos archivos pre-escritos para reutilizar, como no es el caso le daremos <strong>Terminar</strong> (Finish).</p>
+<p>El archivo se abre con las llaves de apertura y cierre de código PHP o sea <strong>&lt;?php</strong> y <strong>?&gt;</strong>, dentro podemos escribir nuestro código, en este caso fue bien sencillo como ven en la imagen:</p>
+<p><img src="http://www.tallerwebmaster.com/imgarticulos/125/proyecto-hola.gif" alt="Codigo PHP"></p>
+<p>Ahora que esta todo listo, vamos a <strong>Archivo</strong> (File), <strong>Guardar</strong> (Save), y de esta forma guardamos nuestro <strong>index.php</strong>, si queremos probarlo utilizamos:</p>
+<p><a href="http://localhost/PrimerProyecto/index.php">http://localhost/PrimerProyecto/index.php</a> en nuestro navegador, y veremos el resultado, que es un simple “Hola”</p>
+<p><img src="http://www.tallerwebmaster.com/imgarticulos/125/resultado-final.gif" alt="Hola"></p>
+<p>Como ven, utilizamos algo bien sencillo para comenzar, de esta forma tenemos listo el <strong>Entorno Integrado Eclipse para PHP</strong>, en una próxima entrega veremos algunos parámetros de configuración para ejecutar proyectos desde el mismo menú, visualizar variables y objetos, etc.</p>
+<p>Tutorial obtenido de <a href="http://www.tallerwebmaster.com/Tutorial-Instalar-Eclipse-PDT-para-PHP-c-125.htm" title="TallerWebmaster">TallerWebmaster</a></p>
+</article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+<script type="application/javascript" src='http://localhost:1313/quickstart/js/toc.js'></script>
+<link rel="stylesheet" href='http://localhost:1313/quickstart/css/toc.css' />
+
+  
+<div id="gitalk-container" class="gitalk-container"></div>
+<link rel="stylesheet" href='http://localhost:1313/quickstart/css/gitalk.css'>
+<script src='http://localhost:1313/quickstart/js/gitalk.min.js'></script>
+<script>
+  const gitalk = new Gitalk({
+    clientID: 'Ov23licCHTBOFJdZMIFm',
+    clientSecret: '0f26adbf7edc171c9b848d55ec0aa9548f27f011',
+    repo: 'site-blog-comments',
+    owner: 'fideo',
+    admin: ['fideo'],
+    id: eval("location.pathname"), 
+    distractionFreeMode: false 
+  });
+  (function() {
+    gitalk.render('gitalk-container');
+  })();
+</script>
+
+</div>
+
+  <div class="footer container-xl width-full p-responsive">
+  <div
+    class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between flex-sm-items-center pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mr-lg-4" href="http://localhost:1313/quickstart/">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24">
+        <path fill-rule="evenodd"
+          d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+        </path>
+      </svg>
+    </a>
+    <ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      
+      <li class="mr-3 mr-lg-0">Theme by <a href='https://github.com/MeiK2333/github-style'>github-style</a></li>
+      
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+
+
+</div>
+</body>
+
+<script type="application/javascript" src="http://localhost:1313/quickstart/js/github-style.js"></script>
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.min.js"></script>
+<script type="application/javascript" src='http://localhost:1313/quickstart/js/search.js'></script>
+
+
+
+</html>

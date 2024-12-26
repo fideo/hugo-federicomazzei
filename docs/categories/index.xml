@@ -6,6 +6,42 @@
     <description>Recent content in Categories on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
+    <lastBuildDate>Thu, 26 Dec 2024 11:49:40 -0300</lastBuildDate>
     <atom:link href="https://fideo.github.io/quickstart/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sistema Operativo</title>
+      <link>https://fideo.github.io/quickstart/categories/sistema-operativo/</link>
+      <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/categories/sistema-operativo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>https://fideo.github.io/quickstart/categories/git/</link>
+      <pubDate>Fri, 24 Mar 2023 19:53:12 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/categories/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://fideo.github.io/quickstart/categories/linux/</link>
+      <pubDate>Fri, 24 Mar 2023 19:53:12 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/categories/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>https://fideo.github.io/quickstart/categories/software/</link>
+      <pubDate>Fri, 24 Mar 2023 19:53:12 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/categories/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uncategorized</title>
+      <link>https://fideo.github.io/quickstart/categories/uncategorized/</link>
+      <pubDate>Thu, 28 Dec 2006 03:36:59 +0000</pubDate>
+      <guid>https://fideo.github.io/quickstart/categories/uncategorized/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
