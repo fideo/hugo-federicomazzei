@@ -1,4 +1,58 @@
 baseURL = 'https://fideo.github.io/quickstart/'
+#baseURL = 'http://localhost:1313/'
 languageCode = 'es'
 title = 'Federico Mazzei'
 theme = 'github-style'
+
+
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+author = "fideo"
+description = "El sitio de federico mazzei"
+github = "fideo"
+facebook = "MeiK2333"
+twitter = "fideox"
+linkedin = "federicomazzei"
+instagram = "fideox"
+#tumblr = "MeiK2333"
+email = "federicomazzei@gmail.com"
+url = "https://fideox.dev.ar"
+keywords = "blog, google analytics"
+rss = true
+lastmod = true
+favicon = "/images/ogp.png"
+avatar = "/images/avatar.jpg"
+headerIcon = "/images/github-mark-white.png"
+location = "Argentina"
+userStatusEmoji = "😀"
+enableGitalk = true
+enableSearch = true
+
+[params.gitalk]
+clientID = "Ov23licCHTBOFJdZMIFm" # Your client ID
+clientSecret = "0f26adbf7edc171c9b848d55ec0aa9548f27f011" # Your client secret
+repo = "site-blog-comments" # ：xxxx.github.io
+owner = "fideo" # 您的GitHub ID
+admin = "fideo" # 您的GitHub ID
+id = "location.pathname" # ID
+labels = "gitalk" # Github issue labels. If you used to use Gitment, you can change it
+perPage = 15 # Pagination size, with maximum 100.
+pagerDirection = "last" # Comment sorting direction, available values are 'last' and 'first'.
+createIssueManually = true #(issue)
+distractionFreeMode = false # Enable hot key (cmd|ctrl + enter) submit comment.
+#proxy = "https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token" # 可以自行添加反向代理
+[[params.links]]
+title = "Link"
+href = "https://github.com/fideo"
+[[params.links]]
+title = "Link"
+href = "https://fideox.dev.ar"
+
+[frontmatter]
+lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[services]
+[services.googleAnalytics]
+ID = "G-VS1RSDN0CD"
