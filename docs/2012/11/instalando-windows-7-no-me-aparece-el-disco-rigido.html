@@ -23,7 +23,7 @@ El intentar instalar Windows 7 otra vez me encontré con la sorpresa de que no m
 Ponemos el cd de instalación de Windows 7 Cuando llega a la opción de seleccionar idioma presionamos las teclas “Shift&#43;F10” Se abre una consola (prompt) donde ahí colocamos los siguientes valores: diskpart list disk (para mostrar el número de identificación de cada partición del disco duro, generalmente Disk 0) select disk 0 (cambiar 0 por otro número si es necesario) clean (esto elimina todas las particiones) create partition primary size=200000 (crea una partición con 200GB; para usar el disco entero como una partición se debe omitir el parámetro “size=value”) select partition 1 active format fs=ntfs quick (este proceso puede demorar varios minutos) exit exit Una vez terminado este proceso siguen con la instalación de Windows como siempre…
 " />
 <meta name="keywords"
-  content='blog, google analytics' />
+  content='linux, vim, debian, ubuntu, docker, tecnología, comandos, git, blog, google analytics, federico mazzei' />
 <meta name="robots" content="noodp" />
 <link rel="canonical" href="https://federicomazzei.com.ar/2012/11/instalando-windows-7-no-me-aparece-el-disco-rigido.html" />
 
@@ -69,6 +69,20 @@ Ponemos el cd de instalación de Windows 7 Cuando llega a la opción de seleccio
 
 </head>
 
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-VS1RSDN0CD"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-VS1RSDN0CD');
+        }
+      </script>
 <body>
   <div style="position: relative">
   <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap open Details--on">

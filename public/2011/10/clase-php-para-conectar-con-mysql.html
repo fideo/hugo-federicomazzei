@@ -21,7 +21,7 @@
   content="Crear un archivo que se llame mysql.php &lt;pre class=&#34;wp-block-preformatted&#34;&gt;&lt; ?php class MySQL{ private $conexion; private $total_consultas; public function MySQL(){ if(!isset($this-&gt;conexion)){ $this-&gt;conexion = (mysql_connect(&#34;Servidor&#34;,&#34;usuario&#34;,&#34;password&#34;)) or die(mysql_error()); mysql_select_db(&#34;nombreBD&#34;,$this-&gt;conexion) or die(mysql_error()); } } public function consulta($consulta){ $this-&gt;total_consultas&#43;&#43;; $resultado = mysql_query($consulta,$this-&gt;conexion); if(!$resultado){ echo &#39;MySQL Error: &#39; . mysql_error(); exit; } return $resultado; } public function fetch_array($consulta){ return mysql_fetch_array($consulta); } public function num_rows($consulta){ return mysql_num_rows($consulta); } public function getTotalConsultas(){ return $this-&gt;total_consultas; } } ?&gt; Acá tenemos un ejemplo de uso &lt;pre class=&#34;wp-block-preformatted&#34;&gt; &lt; ?php include(&#34;mysql.php&#34;); $db = new MySQL(); $consulta = $db-&gt;consulta(&#34;SELECT id FROM mitabla1&#34;); &lt;pre class=&#34;wp-block-preformatted&#34;&gt;if($db-&gt;num_rows($consulta)&gt;0){ while($resultados = $db-&gt;fetch_array($consulta)){ echo &#34;ID: &#34;.$resultados[&#39;id&#39;].&#34; &#34;; } } ?&gt; Enjoy!!!
 " />
 <meta name="keywords"
-  content='blog, google analytics' />
+  content='linux, vim, debian, ubuntu, docker, tecnología, comandos, git, blog, google analytics, federico mazzei' />
 <meta name="robots" content="noodp" />
 <link rel="canonical" href="http://localhost:1313/2011/10/clase-php-para-conectar-con-mysql.html" />
 
@@ -63,6 +63,20 @@
 
 </head>
 
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-VS1RSDN0CD"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-VS1RSDN0CD');
+        }
+      </script>
 <body>
   <div style="position: relative">
   <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap open Details--on">
@@ -123,7 +137,7 @@
 
   
 <div class="application-main">
-  <div>
+    <div>
   <main>
     <div class="gisthead pagehead bg-gray-light pb-0 pt-3 mb-4">
       <div class="px-0">
@@ -253,7 +267,7 @@ echo &#34;ID: &#34;.$resultados[&#39;id&#39;].&#34;
 <script type="application/javascript" src='http://localhost:1313/js/toc.js'></script>
 <link rel="stylesheet" href='http://localhost:1313/css/toc.css' />
 
-  
+    
 <div id="gitalk-container" class="gitalk-container"></div>
 <link rel="stylesheet" href='http://localhost:1313/css/gitalk.css'>
 <script src='http://localhost:1313/js/gitalk.min.js'></script>
