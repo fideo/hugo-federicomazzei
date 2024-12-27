@@ -13,6 +13,9 @@ pygmentsUseClasses = true
 unsafe = true
 hardWraps = true
 
+# Esto permite que respete el publishDate
+enableGitInfo = true
+
 [params]
     author = "Federico Mazzei"
     description = "El sitio de federico mazzei"
