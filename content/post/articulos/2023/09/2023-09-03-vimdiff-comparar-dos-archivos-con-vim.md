@@ -40,7 +40,7 @@ También con vimdiff podemos usar la opción **-o** que nos permitirá ver las d
 Vimdiff comparar dos archivos con VIM en YouTube
 ------------------------------------------------
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/EZsv8hBFyXU?feature=oembed" title="Usando vimdiff para comparar dos archivos" width="100%"></iframe>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="525" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/EZsv8hBFyXU?feature=oembed" title="Usando vimdiff para comparar dos archivos" width="100%"></iframe>
 
 Vimdiff se puede ejecutar con VIM usando la opción -d es decir que podemos comparar los dos archivos ejecutando lo siguienete:
 

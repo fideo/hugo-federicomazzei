@@ -8,8 +8,10 @@ theme = 'github-style'
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
+# Esto sirve para que al hacer el render de .md a .html tenga en cuenta los tags html
 [markup.goldmark.renderer]
 unsafe = true
+hardWraps = true
 
 [params]
     author = "Federico Mazzei"

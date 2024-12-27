@@ -174,4 +174,4 @@ Ahora continúe con la Lección 2.
 Lista de reproducción de VIM editor de texto mejorado.
 ------------------------------------------------------
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="350" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/videoseries?list=PLEwU9ammVfH8b0g6pRuV6OggPw0Mxuhqm" title="Episodios VIM" width="100%"></iframe>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="525" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/videoseries?list=PLEwU9ammVfH8b0g6pRuV6OggPw0Mxuhqm" title="Episodios VIM" width="100%"></iframe>

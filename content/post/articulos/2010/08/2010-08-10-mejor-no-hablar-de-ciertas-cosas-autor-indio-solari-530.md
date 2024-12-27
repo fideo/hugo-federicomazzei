@@ -45,4 +45,6 @@ Sumo – Mejor no hablar (de ciertas cosas) – Autor: [Carlos Alberto Solari (I
 
 Acá agrego un video sobre este tema tocado por [Divididos](https://es.wikipedia.org/wiki/Divididos) una de las dos bandas que se formaron tras la muerte de [Luca Prodan](https://es.wikipedia.org/wiki/Luca_Prodan). (La otra fue [Las Pelotas](https://es.wikipedia.org/wiki/Las_Pelotas))
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/VTSKDYeC_dk?feature=oembed" title="Encuentro en el Estudio  - Mejor no hablar de ciertas cosas" width="500"></iframe></div></figure>[Fuente Wikipedia](https://es.wikipedia.org/wiki/Mejor_no_hablar_(de_ciertas_cosas))
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="525" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/VTSKDYeC_dk?feature=oembed" title="Encuentro en el Estudio  - Mejor no hablar de ciertas cosas" width="100%"></iframe>
+
+[Fuente Wikipedia](https://es.wikipedia.org/wiki/Mejor_no_hablar_(de_ciertas_cosas))

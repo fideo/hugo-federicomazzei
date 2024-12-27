@@ -15,6 +15,6 @@ En estas fiestas es común que brindemos con amigos, luego con familiares, segur
 
 LAS IMAGENES QUE SE VEN EN ESTE VIDEO SON REALMENTE FUERTES.
 
-<iframe frameborder="0" height="404" loading="lazy" src="http://www.youtube.com/embed/Z2mf8DtWWd8?fs=1" width="485"></iframe>
+<iframe frameborder="0" height="525" loading="lazy" src="http://www.youtube.com/embed/Z2mf8DtWWd8?fs=1" width="100%"></iframe>
 
 Que pasen unas muy lindas fiestas en familia y con amigos.

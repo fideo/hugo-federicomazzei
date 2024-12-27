@@ -268,9 +268,9 @@ DKIM o DomainKeys Identified Mail en inglés son las claves de identificación d
 <p>Ya conectado en modo ssh al servidor donde alojo mis dominios ejecuto el siguiente comando para obtener el DKIM correspondiente a un dominio en particular.</p>
 <pre tabindex="0"><code>sudo cat /etc/opendkim/keys/bikrun.com/default.txt
 </code></pre><p>Muestra algo similar a esto:</p>
-<p><img src="/assets/uploads/2023/06/ConsolaSSH_cat_OpenDKIM.png" alt="Comando cat a opendkim para mostrar el dkim de un dominio">
+<p><img src="/assets/uploads/2023/06/ConsolaSSH_cat_OpenDKIM.png" alt="Comando cat a opendkim para mostrar el dkim de un dominio"><br>
 esa información que nos muestra tenemos que seleccionarla y copiarla para luego pegarla en Cloudflare en un registro TXT como se muestra en la siguiente imagen</p>
-<p><img src="/assets/uploads/2023/06/Cloudflare_DKIM_configuracion_registro_txt.png" alt="">
+<p><img src="/assets/uploads/2023/06/Cloudflare_DKIM_configuracion_registro_txt.png" alt=""><br>
 He eliminado las comillas dobles y los espacios entre parámetro y parámetro; luego de hacer esto grabo el registro en cloudflare presionando el botón guardar.</p>
 <p>Para chequear que todo esto está correctamente configurado utilizo un lookup de DKIM yo usé este <a href="https://easydmarc.com/tools/dkim-lookup" target="-blank"><a href="https://easydmarc.com/tools/dkim-lookup">https://easydmarc.com/tools/dkim-lookup</a> </a> y <a href="https://www.mimecast.com/products/dmarc-analyzer/dkim-check/"><a href="https://www.mimecast.com/products/dmarc-analyzer/dkim-check/">https://www.mimecast.com/products/dmarc-analyzer/dkim-check/</a></a> pero hay muchos en internet pueden elegir el que les guste (acá hay otros <a href="https://mxtoolbox.com/SuperTool.aspx" target="_blank"><a href="https://mxtoolbox.com/SuperTool.aspx">https://mxtoolbox.com/SuperTool.aspx</a></a> y <a href="https://www.mimecast.com/products/dmarc-analyzer/dkim-check/" target="_blank"><a href="https://www.mimecast.com/products/dmarc-analyzer/dkim-check/">https://www.mimecast.com/products/dmarc-analyzer/dkim-check/</a></a></p>
 <p>Con esto se evitará que lleguen mails a tu casilla de correo con tu misma dirección sin que uno lo haya enviado. Espero que les sirva cualquier cosa me escriben un comentario si es que hay algo que no se entendió o faltó publicar.</p>

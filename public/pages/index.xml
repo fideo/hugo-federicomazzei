@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Federico Mazzei</title>
-    <link>https://federicomazzei.com.ar/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="https://federicomazzei.com.ar/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acerca de mi</title>
-      <link>https://federicomazzei.com.ar/pages/aboutme/</link>
+      <link>http://localhost:1313/pages/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/pages/aboutme/</guid>
+      <guid>http://localhost:1313/pages/aboutme/</guid>
       <description>&lt;h1 id=&#34;federico-mazzei&#34;&gt;Federico Mazzei&lt;/h1&gt;&#xA;&lt;p&gt;#TODO: tengo que cargar el contenido sobre mi perfil.&lt;/p&gt;</description>
     </item>
   </channel>

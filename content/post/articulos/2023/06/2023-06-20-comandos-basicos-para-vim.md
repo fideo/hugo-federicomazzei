@@ -86,4 +86,4 @@ Para escribir en el final de la linea donde me encuentro posicionado puedo hacer
 
 Para insertar texto luego de la posición en la que me encuentro parado tengo que presionar la tecla “**a**” y cambia a modo insertar inmediatamente después del lugar donde me encontraba posicionado.
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="350" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/e4VVd6dooNc?feature=oembed" title="Comandos básicos en Vim" width="100%"></iframe>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="525" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/e4VVd6dooNc?feature=oembed" title="Comandos básicos en Vim" width="100%"></iframe>

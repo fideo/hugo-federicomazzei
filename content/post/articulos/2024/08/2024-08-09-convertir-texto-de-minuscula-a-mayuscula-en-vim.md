@@ -23,7 +23,7 @@ Entonces el comando para pasar de una linea completa de minúscula a mayúscula 
 
 Les dejo un video que publiqué en YouTube donde muestro como convertir texto de minúscula a MAYÚSCULA en Vim.
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/67I9Y5bw2o0?feature=oembed" title="Cambiar texto a minúscula o MAYÚSCULA en VIM" width="100%"></iframe>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="525" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/67I9Y5bw2o0?feature=oembed" title="Cambiar texto a minúscula o MAYÚSCULA en VIM" width="100%"></iframe>
 
 <a href="https://youtube.com/playlist?list=PLEwU9ammVfH8b0g6pRuV6OggPw0Mxuhqm&si=miXN869jnHjbhiS6" target="_blank">Podés ver mas videos sobre vim en este enlace presionando acá.</a>
 
