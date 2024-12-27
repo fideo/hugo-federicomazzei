@@ -3,7 +3,7 @@ baseURL = 'https://federicomazzei.com.ar/'
 languageCode = 'es'
 title = 'Federico Mazzei'
 theme = 'github-style'
-
+defaultContentLanguage = 'es'
 
 pygmentsCodeFences = true
 pygmentsUseClasses = true
@@ -13,8 +13,17 @@ pygmentsUseClasses = true
 unsafe = true
 hardWraps = true
 
+[frontmatter]
+date = ['date', 'publishdate', 'pubdate', 'published', 'lastmod', 'modified']
+expiryDate = ['expirydate', 'unpublishdate']
+lastmod = [':git', 'lastmod', 'modified', 'date', 'publishdate', 'pubdate', 'published']
+publishDate = ['publishdate', 'pubdate', 'published', 'date']
+
+# [frontmatter]
+#    lastmod = ["lastmod", ":fileModTime", ":default"]
+
 # Esto permite que respete el publishDate
-enableGitInfo = true
+# enableGitInfo = true # No me funcionó como yo esperaba
 
 [params]
     author = "Federico Mazzei"
@@ -58,14 +67,11 @@ enableGitInfo = true
         proxy = "https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token" #
 
     [[params.links]]
-    title = "Link"
-    href = "https://github.com/fideo"
+        title = "Link de mi repositorio GitHub"
+        href = "https://github.com/fideo"
     [[params.links]]
-    title = "Link"
-    href = "https://fideox.dev.ar"
-
-[frontmatter]
-    lastmod = ["lastmod", ":fileModTime", ":default"]
+        title = "Link a fideox.dev.ar"
+        href = "https://fideox.dev.ar"
 
 [services]
     [services.googleAnalytics]

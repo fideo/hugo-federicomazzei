@@ -4,19 +4,13 @@ categories:
 - Sistema Operativo
 date: "2024-09-07T09:05:21Z"
 excerpt: ""
-id: 52309
-litespeed_vpi_list:
-- a:1:{i:0;s:59:"Activar la sincronización de Fecha y Hora en Debian Ubuntu";}
-litespeed_vpi_list_mobile:
-- a:1:{i:0;s:59:"Activar la sincronización de Fecha y Hora en Debian Ubuntu";}
-post_format: []
 status: publish
 tags:
 - comando
 - debian
 - linux
 - ubuntu
-thumbnail: ../../../uploads/2017/11/cabeceraUbuntu-1.jpg
+thumbnail: /assets/uploads/2017/11/cabeceraUbuntu-1.jpg
 title: Activar la sincronización de Fecha y Hora en Debian Ubuntu
 type: post
 url: /2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html
