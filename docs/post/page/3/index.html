@@ -1041,7 +1041,8 @@
 
             <div>
               <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <p>Hace un tiempo <!-- raw HTML omitted -->GitHub<!-- raw HTML omitted --> hizo modificaciones en cuanto a su forma de autentificarse, existen muchas formas de autenticarse con <!-- raw HTML omitted -->GItHub<!-- raw HTML omitted -->; pero una de las mas comunes es que al momento de realizar un <strong>push</strong> o <strong>pull</strong> te pida un usuario y una contraseña. Pero ahora para poder realizar esto necesitas tener en tu poder un <strong>Token</strong>.</p>
+                <p>Hace un tiempo <u>GitHub</u> hizo modificaciones en cuanto a su forma de autentificarse, existen muchas formas de autenticarse con <u>GItHub</u>; pero una de las mas comunes es que al momento de realizar un <strong>push</strong> o <strong>pull</strong> te pida un usuario y una contraseña. Pero ahora para poder realizar esto necesitas tener en tu poder un <strong>Token</strong>.</p>
+<p>Esto es muy simple de realizar solo tienes que ir a Settings / Developer settings / Personal access token y ahí presionar el botón Generate new token. Te va a pedir un nombre para ese token la cantidad de días que deseas conservar ese token, por defecto viene 30 días, se puede personalizar esta cantidad de días o se puede poner que no expire aunque no es recomendable esto último.</p>
               </div>
             </div>
 
@@ -1188,8 +1189,8 @@
 <p>Primero chequeo lo que está corriendo con</p>
 <pre tabindex="0"><code>docker ps
 </code></pre><p>Debería mostrar todas las imágenes que tenemos corriendo</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+<figure class="wp-block-table is-style-stripes"><table><tbody><tr><td>CONTAINER ID</td><td>IMAGE</td><td>COMMAND</td><td>CREATED</td><td>STATUS</td><td>PORTS</td><td>NAMES</td></tr><tr><td>e1dff1f51add</td><td>grafana/grafana</td><td>“/run.sh”</td><td>5 months ago</td><td>Up 47 seconds</td><td>0.0.0.0:3030-&gt;3000/tcp, :::3030-&gt;3000/tcp</td><td>internetmonitoring\_grafana\_1</td></tr><tr><td>031ec8738933</td><td>prom/prometheus:v2.25.2</td><td>“/bin/prometheus –c…”</td><td>5 months ago</td><td>Up 55 seconds</td><td>0.0.0.0:9090-&gt;9090/tcp, :::9090-&gt;9090/tcp</td><td>internetmonitoring\_prometheus\_1</td></tr><tr><td>5f3eb5b03d57</td><td>prom/node-exporter</td><td>“/bin/node\_exporter …”</td><td>5 months ago</td><td>Up About a minute</td><td>0.0.0.0:9100-&gt;9100/tcp, :::9100-&gt;9100/tcp</td><td>internetmonitoring\_nodeexp\_1</td></tr><tr><td>9bb31e45eb8e</td><td>prom/blackbox-exporter</td><td>“/bin/blackbox\_expor…”</td><td>5 months ago</td><td>Up About a minute</td><td>0.0.0.0:9115-&gt;9115/tcp, :::9115-&gt;9115/tcp</td><td>internetmonitoring\_ping\_1</td></tr><tr><td>7987218a65d9</td><td>miguelndecarvalho/speedtest-exporter</td><td>“python -u exporter.…”</td><td>5 months ago</td><td>Up About a minute</td><td>0.0.0.0:9798-&gt;9798/tcp, :::9798-&gt;9798/tcp</td><td>internetmonitoring\_speedtest\_1</td></tr></tbody></table>
+</figure>luego ejecutamos este comando para deshabilitar por ejemplo la primer imagen la de grafana en el caso de arriba
 <pre tabindex="0"><code>docker update --restart no e1dff1f51add
 </code></pre><p>Y así sucesivamente con todas las imágenes que queremos que NO se inicie al reiniciar nuestro servidor.</p>
               </div>

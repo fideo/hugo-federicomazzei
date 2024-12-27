@@ -979,8 +979,8 @@ Enjoy!!!.</p>
               <div class="col-12 d-inline-block text-gray mb-2 pr-4">
                 <p>Este archivo reporte.csv tiene que estar alojado en el directorio data de tu server.</p>
 <p><code>&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;color: #0000bb;&quot;&gt;mysql&lt;/span&gt;&lt;span style=&quot;color: #007700;&quot;&gt;&gt; &lt;/span&gt;&lt;span style=&quot;color: #0000bb;&quot;&gt;LOAD DATA INFILE &lt;/span&gt;&lt;span style=&quot;color: #dd0000;&quot;&gt;'reporte.csv' &lt;/span&gt;&lt;span style=&quot;color: #0000bb;&quot;&gt;INTO TABLE reporte&lt;br&gt;&lt;/br&gt;&lt;/span&gt;&lt;span style=&quot;color: #007700;&quot;&gt;-&gt; &lt;/span&gt;&lt;span style=&quot;color: #0000bb;&quot;&gt;FIELDS TERMINATED BY &lt;/span&gt;&lt;span style=&quot;color: #dd0000;&quot;&gt;',' &lt;/span&gt;&lt;span style=&quot;color: #0000bb;&quot;&gt;ENCLOSED BY &lt;/span&gt;&lt;span style=&quot;color: #dd0000;&quot;&gt;'&quot;'&lt;br&gt;&lt;/br&gt;&lt;/span&gt;&lt;span style=&quot;color: #007700;&quot;&gt;-&gt; &lt;/span&gt;&lt;span style=&quot;color: #0000bb;&quot;&gt;LINES TERMINATED BY &lt;/span&gt;&lt;span style=&quot;color: #dd0000;&quot;&gt;'\n'&lt;/span&gt;&lt;span style=&quot;color: #007700;&quot;&gt;; &lt;/span&gt;&lt;/span&gt;</code></p>
-<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Es muy simple, te logueas a mysql, si usas linux mysql -u root -p y una vez dentro escribis lo de arriba.<!-- raw HTML omitted --><br>
-<!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<p><span style="color: #000000;"><span style="color: #007700;"><span style="color: #000000;">Es muy simple, te logueas a mysql, si usas linux mysql -u root -p y una vez dentro escribis lo de arriba.</span><br>
+</span></span></p>
               </div>
             </div>
 
@@ -1006,9 +1006,9 @@ Enjoy!!!.</p>
 
             <div>
               <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <p><img src="https://www.goosync.com/images/goosync_logo.jpg" alt="" title="GooSync "><!-- raw HTML omitted -->Hola gente hace un tiempo que quería sincronizar mi N96 con Google Calendar después de buscar y buscar encontré un site que tiene dos modalidades; la opción paga y la gratis, como todo buen ratón eligo la opción gratis.<!-- raw HTML omitted --></p>
-<p><!-- raw HTML omitted -->Te registras, obtenes los datos para sincronizar con tu cuenta y listo.<!-- raw HTML omitted --></p>
-<p><!-- raw HTML omitted -->Hay que seguir algunos pasos para poder sincronizar via internet, que a mi parecer es la opción mas cómoda.<!-- raw HTML omitted --></p>
+                <p><img src="https://www.goosync.com/images/goosync_logo.jpg" alt="" title="GooSync "><span style="text-decoration: line-through;">Hola gente hace un tiempo que quería sincronizar mi N96 con Google Calendar después de buscar y buscar encontré un site que tiene dos modalidades; la opción paga y la gratis, como todo buen ratón eligo la opción gratis.</span></p>
+<p><span style="text-decoration: line-through;">Te registras, obtenes los datos para sincronizar con tu cuenta y listo.</span></p>
+<p><span style="text-decoration: line-through;">Hay que seguir algunos pasos para poder sincronizar via internet, que a mi parecer es la opción mas cómoda.</span></p>
               </div>
             </div>
 
@@ -1035,19 +1035,13 @@ Enjoy!!!.</p>
             <div>
               <div class="col-12 d-inline-block text-gray mb-2 pr-4">
                 <p>Para volver a cargar GRUB como cargador de arranque sigue estos pasos:</p>
-<!-- raw HTML omitted -->
+<table><tr><td>1. $ sudo grub
+</td><td> –&gt; ejecutamos el interprete de comando de grub</td></tr><tr><td>1. &gt; find /boot/grub/stage1
+</td><td> –&gt; busca donde esta la partición de ubuntu</td></tr><tr><td>1. &gt; root (hdX,Y)
+</td><td> –&gt; poner el valor devuelto anterior</td></tr><tr><td>1. &gt; setup (hd0)
+</td><td> –&gt; instala grub en nuestro primer disco duro (hd0), que es con el que inicia la computadora</td></tr><tr><td>1. &gt; quit
+</td><td> –&gt; salimos del interprete de comando de grub</td></tr></table>
 <p>Otra opción es la siguente:</p>
-<ol>
-<li>Arranca el sistema desde un Live CD de Linux. Puedes descargarte uno desde la página oficial de Ubuntu, por ejemplo.</li>
-<li>Cuando el sistema este cargado abre un terminal.</li>
-<li>Crea el directorio donde montarás tu partición de Linux:<br>
-<!-- raw HTML omitted --><code>sudo mkdir /mnt/linux</code> (u otra ruta, la que decidas)<!-- raw HTML omitted --></li>
-<li>Monta la partición de Linux en el directorio recien creado:<br>
-<!-- raw HTML omitted -->sudo <code>mount /dev/sda5 /mnt/linux</code><!-- raw HTML omitted --></li>
-<li>Finalmente carga GRUB:<br>
-<!-- raw HTML omitted -->sudo <code>grub-install --root-directory=/mnt/linux /dev/sda</code><!-- raw HTML omitted --></li>
-</ol>
-<p><em><strong>Enjoy!!!</strong></em></p>
               </div>
             </div>
 

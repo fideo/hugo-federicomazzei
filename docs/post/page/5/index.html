@@ -1019,7 +1019,26 @@ $ apt-get install grive
                 <p>Hoy voy a dejar en mi blog asentado como hice para hacer que una aplicación <a href="https://guide.meteor.com/deployment.html">Meteor</a> esté corriendo en mi servidor / hosting.<br>
 Por el momento yo tengo mis sites alojados en DonWeb con un servicio de Cloud Server.<br>
 Accedo a este servicio a través de una consola y en ese server tengo instalado CentOS al momento de escribir esta nota.</p>
-<!-- raw HTML omitted -->
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <img src="/assets/uploads/2018/02/nodejs-new-pantone-white.png" alt="Node Js" title="Node Js" width="100" />
+            </td>
+            <td align="center">
+                <img src="/assets/uploads/2018/02/Meteor-logo.png" alt="Meteor js" width="100" />
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="/assets/uploads/2018/02/nginx-logo-1000x1000.png" alt="nginx" title="nginx"  width="100" />
+            </td>
+            <td align="center">
+                <img src="/assets/uploads/2018/02/centos_logo.png" alt="Centos OS 7" title="Centos OS 7" width="100">
+            </td>
+        </tr>
+    </tbody>
+</table>
 <h4 id="si-ejecutamos">Si ejecutamos</h4>
 <pre tabindex="0"><code>cat /etc/redhat-release
 </code></pre><h4 id="devuelve">devuelve</h4>
@@ -1079,7 +1098,7 @@ Accedo a este servicio a través de una consola y en ese server tengo instalado 
             <div>
               <div class="col-12 d-inline-block text-gray mb-2 pr-4">
                 <p>Les comparto este video que le prometí a Alexander Ditzend, el cual muestra como subo al servidor de hosting (en mi caso por el momento DonWeb) la plataforma de Reaction Commerce.</p>
-<!-- raw HTML omitted -->
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/du7gkeJniu8?feature=oembed" title="Reaction Commerce corriendo en servidor propio" width="100%"></iframe>
 <h2 id="estos-son-los-dos-comandos-que-utilicé-en-el-video">Estos son los dos comandos que utilicé en el video.</h2>
 <h4 id="deployreactionsh">deployreaction.sh</h4>
 <pre tabindex="0"><code>#!/bin/sh
@@ -1189,7 +1208,7 @@ La quinta y última linea de esta parte se configura en true la variable core.sh
             <div>
               <div class="col-12 d-inline-block text-gray mb-2 pr-4">
                 <p>Tengo algunos clientes que usan WordPress como CMS de su sitio y para actualizarles los plugins o a la versión mas reciente de este CMS prefiero hacerlo localmente (es decir en una máquina que no sea producción) para / por si hay errores que no impacten directamente al cliente que estaría visitando la página. También de esta forma logramos que no se pierda acceso al sitio.</p>
-<!-- raw HTML omitted -->
+<div class="wp-block-image"><figure class="alignleft">![](http://federicomazzei.com.ar/blog/wp-content/uploads/2017/09/php_logo.png)</figure></div>Cuando lo quería actualizar, ya sea plugins o versión de wordpress, me encontraba con un error que dice conexión fallida. Esto se debe a que no está habilitado en el servidor php la extensión php\_curl que permite por este medio descargar esas actualizaciones.
 <p>Para esto lo que necesitamos es editar el php.ini que se encutra en la raiz de nuestro php en windows en mi caso es c:\php\php.ini</p>
               </div>
             </div>
@@ -1246,14 +1265,12 @@ La quinta y última linea de esta parte se configura en true la variable core.sh
 
             <div>
               <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <!-- raw HTML omitted -->
+                <div class="wp-block-image size-full wp-image-979"><figure class="alignleft">![MS Word](http://federicomazzei.com.ar/blog/wp-content/uploads/2015/11/icono-word.gif)<figcaption class="wp-element-caption">Editor de texto</figcaption></figure></div>Un truco que encontré por ahí y que puede salvarle el día a más de uno es tratar de recuperar el contenido de un documento que no se puede editar dentro de un documento Word.
 <p>Para esto vamos a guardar el archivo Word en cuestion en formato .HTML luego lo abrimos con un editor de html preferido y buscamos las lineas</p>
 <pre tabindex="0"><code>&lt;pre class=&#34;wp-block-preformatted&#34;&gt;[w:DocumentProtection]......[/w:DocumentProtection]
 [w:UnprotectPassword]00000000[/w:UnprotectPassword]
 </code></pre><p>Eliminamos esas dos lineas.<br>
 Grabamos y abrimos desde el Word el archivo html que acabamos de editar.</p>
-<p>Volvemos a cambiar la extensión del documento y WUALAAAA!!! listo… desbloqueado el archivo Word.</p>
-<p><em><strong>Enjoy!!!</strong></em></p>
               </div>
             </div>
 

@@ -19,11 +19,7 @@
     
     <meta name="description"
   content="Para volver a cargar GRUB como cargador de arranque sigue estos pasos:
-Otra opción es la siguente:
-Arranca el sistema desde un Live CD de Linux. Puedes descargarte uno desde la página oficial de Ubuntu, por ejemplo. Cuando el sistema este cargado abre un terminal. Crea el directorio donde montarás tu partición de Linux:
-sudo mkdir /mnt/linux (u otra ruta, la que decidas) Monta la partición de Linux en el directorio recien creado:
-sudo mount /dev/sda5 /mnt/linux Finalmente carga GRUB:
-sudo grub-install --root-directory=/mnt/linux /dev/sda Enjoy!!!
+1. $ sudo grub –&gt; ejecutamos el interprete de comando de grub1. &gt; find /boot/grub/stage1 –&gt; busca donde esta la partición de ubuntu1. &gt; root (hdX,Y) –&gt; poner el valor devuelto anterior1. &gt; setup (hd0) –&gt; instala grub en nuestro primer disco duro (hd0), que es con el que inicia la computadora1. &gt; quit –&gt; salimos del interprete de comando de grub Otra opción es la siguente:
 " />
 <meta name="keywords"
   content='linux, vim, debian, ubuntu, docker, tecnología, comandos, git, blog, google analytics, federico mazzei' />
@@ -35,11 +31,7 @@ sudo grub-install --root-directory=/mnt/linux /dev/sda Enjoy!!!
 <meta name="twitter:title" content="Volver a cargar GRUB - Federico Mazzei" />
 <meta name="twitter:description"
   content="Para volver a cargar GRUB como cargador de arranque sigue estos pasos:
-Otra opción es la siguente:
-Arranca el sistema desde un Live CD de Linux. Puedes descargarte uno desde la página oficial de Ubuntu, por ejemplo. Cuando el sistema este cargado abre un terminal. Crea el directorio donde montarás tu partición de Linux:
-sudo mkdir /mnt/linux (u otra ruta, la que decidas) Monta la partición de Linux en el directorio recien creado:
-sudo mount /dev/sda5 /mnt/linux Finalmente carga GRUB:
-sudo grub-install --root-directory=/mnt/linux /dev/sda Enjoy!!!
+1. $ sudo grub –&gt; ejecutamos el interprete de comando de grub1. &gt; find /boot/grub/stage1 –&gt; busca donde esta la partición de ubuntu1. &gt; root (hdX,Y) –&gt; poner el valor devuelto anterior1. &gt; setup (hd0) –&gt; instala grub en nuestro primer disco duro (hd0), que es con el que inicia la computadora1. &gt; quit –&gt; salimos del interprete de comando de grub Otra opción es la siguente:
 " />
 <meta name="twitter:site" content="https://federicomazzei.com.ar/" />
 <meta name="twitter:creator" content="fideo" />
@@ -51,11 +43,7 @@ sudo grub-install --root-directory=/mnt/linux /dev/sda Enjoy!!!
 <meta property="og:title" content="Volver a cargar GRUB - Federico Mazzei">
 <meta property="og:description"
   content="Para volver a cargar GRUB como cargador de arranque sigue estos pasos:
-Otra opción es la siguente:
-Arranca el sistema desde un Live CD de Linux. Puedes descargarte uno desde la página oficial de Ubuntu, por ejemplo. Cuando el sistema este cargado abre un terminal. Crea el directorio donde montarás tu partición de Linux:
-sudo mkdir /mnt/linux (u otra ruta, la que decidas) Monta la partición de Linux en el directorio recien creado:
-sudo mount /dev/sda5 /mnt/linux Finalmente carga GRUB:
-sudo grub-install --root-directory=/mnt/linux /dev/sda Enjoy!!!
+1. $ sudo grub –&gt; ejecutamos el interprete de comando de grub1. &gt; find /boot/grub/stage1 –&gt; busca donde esta la partición de ubuntu1. &gt; root (hdX,Y) –&gt; poner el valor devuelto anterior1. &gt; setup (hd0) –&gt; instala grub en nuestro primer disco duro (hd0), que es con el que inicia la computadora1. &gt; quit –&gt; salimos del interprete de comando de grub Otra opción es la siguente:
 " />
 <meta property="og:url" content="https://federicomazzei.com.ar/2009/09/volver-a-cargar-grub.html" />
 <meta property="og:site_name" content="Volver a cargar GRUB" />
@@ -214,7 +202,7 @@ sudo grub-install --root-directory=/mnt/linux /dev/sda Enjoy!!!
                         </div>
                       </div>
                     </details-menu>
-                      85 Words
+                      147 Words
                     
 
                   </div>
@@ -227,17 +215,22 @@ sudo grub-install --root-directory=/mnt/linux /dev/sda Enjoy!!!
 
               <div class="Box-body px-5 pb-5" style="z-index: 1">
                 <article class="markdown-body entry-content container-lg"><p>Para volver a cargar GRUB como cargador de arranque sigue estos pasos:</p>
-<!-- raw HTML omitted -->
+<table><tr><td>1. $ sudo grub
+</td><td> –&gt; ejecutamos el interprete de comando de grub</td></tr><tr><td>1. &gt; find /boot/grub/stage1
+</td><td> –&gt; busca donde esta la partición de ubuntu</td></tr><tr><td>1. &gt; root (hdX,Y)
+</td><td> –&gt; poner el valor devuelto anterior</td></tr><tr><td>1. &gt; setup (hd0)
+</td><td> –&gt; instala grub en nuestro primer disco duro (hd0), que es con el que inicia la computadora</td></tr><tr><td>1. &gt; quit
+</td><td> –&gt; salimos del interprete de comando de grub</td></tr></table>
 <p>Otra opción es la siguente:</p>
 <ol>
 <li>Arranca el sistema desde un Live CD de Linux. Puedes descargarte uno desde la página oficial de Ubuntu, por ejemplo.</li>
 <li>Cuando el sistema este cargado abre un terminal.</li>
 <li>Crea el directorio donde montarás tu partición de Linux:<br>
-<!-- raw HTML omitted --><code>sudo mkdir /mnt/linux</code> (u otra ruta, la que decidas)<!-- raw HTML omitted --></li>
+<span style="color: #666699;"><code>sudo mkdir /mnt/linux</code> (u otra ruta, la que decidas)</span></li>
 <li>Monta la partición de Linux en el directorio recien creado:<br>
-<!-- raw HTML omitted -->sudo <code>mount /dev/sda5 /mnt/linux</code><!-- raw HTML omitted --></li>
+<span style="color: #666699;">sudo <code>mount /dev/sda5 /mnt/linux</code></span></li>
 <li>Finalmente carga GRUB:<br>
-<!-- raw HTML omitted -->sudo <code>grub-install --root-directory=/mnt/linux /dev/sda</code><!-- raw HTML omitted --></li>
+<span style="color: #666699;">sudo <code>grub-install --root-directory=/mnt/linux /dev/sda</code></span></li>
 </ol>
 <p><em><strong>Enjoy!!!</strong></em></p>
 </article>

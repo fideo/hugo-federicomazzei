@@ -237,7 +237,7 @@ $ grive -a
 </code></pre><p>Con mkdir ~/Drive creo un directorio dentro de mi home “user” que se llame Drive, luego entro a ese directorio con cd ~/Drive y por último ejecuto el comando grive -a que este comando sirve para generar los permisos necesarios para poder utilizar la cuenta de google drive con grive.</p>
 <blockquote>
 <p>Acá es donde a veces nos encontramos con un problema que no nos podemos autentificar contra google drive ya que nos dá un error, el cual nos informa que NO tiene permisos o NO se encuentra disponible.</p>
-<p><!-- raw HTML omitted -->Solución alternativa (<em><strong>workaround</strong></em>) aquí abajo.<!-- raw HTML omitted --></p>
+<p><cite>Solución alternativa (<em><strong>workaround</strong></em>) aquí abajo.</cite></p>
 </blockquote>
 <p>Para solucionar esto lo que hice fue lo siguiente, entré al repositorio oficial de grive <a href="https://github.com/vitalif/grive2">https://github.com/vitalif/grive2</a> en la sección que se llama Different OAuth2 client to workaround over quota and google approval issues y realicé los pasos del 1 al 9 tal cual los menciona ahí.</p>
 <p>Una vez realizado esos pasos cree un cron que llamara directamente a grive con el y quedaría algo así:</p>

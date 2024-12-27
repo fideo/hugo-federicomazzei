@@ -19,6 +19,7 @@
     
     <meta name="description"
   content="Hace un tiempo GitHub hizo modificaciones en cuanto a su forma de autentificarse, existen muchas formas de autenticarse con GItHub; pero una de las mas comunes es que al momento de realizar un push o pull te pida un usuario y una contraseña. Pero ahora para poder realizar esto necesitas tener en tu poder un Token.
+Esto es muy simple de realizar solo tienes que ir a Settings / Developer settings / Personal access token y ahí presionar el botón Generate new token. Te va a pedir un nombre para ese token la cantidad de días que deseas conservar ese token, por defecto viene 30 días, se puede personalizar esta cantidad de días o se puede poner que no expire aunque no es recomendable esto último.
 " />
 <meta name="keywords"
   content='linux, vim, debian, ubuntu, docker, tecnología, comandos, git, blog, google analytics, federico mazzei' />
@@ -30,6 +31,7 @@
 <meta name="twitter:title" content="Como hacer para GitHub no te pida mas el usuario y la cotraseña - Federico Mazzei" />
 <meta name="twitter:description"
   content="Hace un tiempo GitHub hizo modificaciones en cuanto a su forma de autentificarse, existen muchas formas de autenticarse con GItHub; pero una de las mas comunes es que al momento de realizar un push o pull te pida un usuario y una contraseña. Pero ahora para poder realizar esto necesitas tener en tu poder un Token.
+Esto es muy simple de realizar solo tienes que ir a Settings / Developer settings / Personal access token y ahí presionar el botón Generate new token. Te va a pedir un nombre para ese token la cantidad de días que deseas conservar ese token, por defecto viene 30 días, se puede personalizar esta cantidad de días o se puede poner que no expire aunque no es recomendable esto último.
 " />
 <meta name="twitter:site" content="https://federicomazzei.com.ar/" />
 <meta name="twitter:creator" content="fideo" />
@@ -41,6 +43,7 @@
 <meta property="og:title" content="Como hacer para GitHub no te pida mas el usuario y la cotraseña - Federico Mazzei">
 <meta property="og:description"
   content="Hace un tiempo GitHub hizo modificaciones en cuanto a su forma de autentificarse, existen muchas formas de autenticarse con GItHub; pero una de las mas comunes es que al momento de realizar un push o pull te pida un usuario y una contraseña. Pero ahora para poder realizar esto necesitas tener en tu poder un Token.
+Esto es muy simple de realizar solo tienes que ir a Settings / Developer settings / Personal access token y ahí presionar el botón Generate new token. Te va a pedir un nombre para ese token la cantidad de días que deseas conservar ese token, por defecto viene 30 días, se puede personalizar esta cantidad de días o se puede poner que no expire aunque no es recomendable esto último.
 " />
 <meta property="og:url" content="https://federicomazzei.com.ar/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html" />
 <meta property="og:site_name" content="Como hacer para GitHub no te pida mas el usuario y la cotraseña" />
@@ -267,14 +270,14 @@
 
 
               <div class="Box-body px-5 pb-5" style="z-index: 1">
-                <article class="markdown-body entry-content container-lg"><p>Hace un tiempo <!-- raw HTML omitted -->GitHub<!-- raw HTML omitted --> hizo modificaciones en cuanto a su forma de autentificarse, existen muchas formas de autenticarse con <!-- raw HTML omitted -->GItHub<!-- raw HTML omitted -->; pero una de las mas comunes es que al momento de realizar un <strong>push</strong> o <strong>pull</strong> te pida un usuario y una contraseña. Pero ahora para poder realizar esto necesitas tener en tu poder un <strong>Token</strong>.</p>
+                <article class="markdown-body entry-content container-lg"><p>Hace un tiempo <u>GitHub</u> hizo modificaciones en cuanto a su forma de autentificarse, existen muchas formas de autenticarse con <u>GItHub</u>; pero una de las mas comunes es que al momento de realizar un <strong>push</strong> o <strong>pull</strong> te pida un usuario y una contraseña. Pero ahora para poder realizar esto necesitas tener en tu poder un <strong>Token</strong>.</p>
 <p>Esto es muy simple de realizar solo tienes que ir a Settings / Developer settings / Personal access token y ahí presionar el botón Generate new token. Te va a pedir un nombre para ese token la cantidad de días que deseas conservar ese token, por defecto viene 30 días, se puede personalizar esta cantidad de días o se puede poner que no expire aunque no es recomendable esto último.</p>
 <p>Se puede ver una ayuda muy detallada en este link</p>
-<p>Una vez que realizaste estos pasos y tienes tu <strong>Token</strong> solo tienes que realizar el <strong>push</strong> o <strong>pull</strong> y al momento de solicitar la contraseña copias el <strong>Token</strong> ofrecido por <!-- raw HTML omitted -->GitHub<!-- raw HTML omitted --> y lo pegas dentro de tu consola. Verás que los cambios se publican.</p>
+<p>Una vez que realizaste estos pasos y tienes tu <strong>Token</strong> solo tienes que realizar el <strong>push</strong> o <strong>pull</strong> y al momento de solicitar la contraseña copias el <strong>Token</strong> ofrecido por <u>GitHub</u> y lo pegas dentro de tu consola. Verás que los cambios se publican.</p>
 <blockquote>
 <p>Pero que pasa cuando tienes que realizar varios cambios o al día siguiente que cerraste tu navegador donde tenías tu token.</p>
 </blockquote>
-<p>Para esto se puede habilitar con este comando que te recuerde las credenciales en tu PC para no te esté pidiendo siempre el usuario y contraseña (<strong>Token</strong>) de <!-- raw HTML omitted -->GitHub<!-- raw HTML omitted -->.</p>
+<p>Para esto se puede habilitar con este comando que te recuerde las credenciales en tu PC para no te esté pidiendo siempre el usuario y contraseña (<strong>Token</strong>) de <u>GitHub</u>.</p>
 <pre tabindex="0"><code>git config --global credential.helper cache
 </code></pre><p>También se puede definir un tiempo para que queden cacheadas las credenciales, esto se hace ejecutando el siguiente comando y se le expresa la cantidad de segundos, por ejemplo 10800 para 3 horas.</p>
 <pre tabindex="0"><code>git config --global credential.helper &#39;cache --timeout=10800&#39;

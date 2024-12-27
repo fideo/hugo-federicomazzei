@@ -8,6 +8,9 @@ theme = 'github-style'
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
     author = "Federico Mazzei"
     description = "El sitio de federico mazzei"
