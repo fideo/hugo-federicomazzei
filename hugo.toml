@@ -11,6 +11,7 @@ pygmentsUseClasses = true
 [params]
     author = "Federico Mazzei"
     description = "El sitio de federico mazzei"
+    subtitle = 'Un desarrollador web que día a día trata de mejorar'
     github = "fideo"
     facebook = "mazzeifederico"
     twitter = "fideox"
@@ -29,6 +30,10 @@ pygmentsUseClasses = true
     userStatusEmoji = "😀"
     enableGitalk = true
     enableSearch = true
+    [params.contact]
+        email = 'federicomazzei@gmail.com'
+        phone = '+54 9 11 2630-1170'
+
 
     [params.gitalk]
         clientID = "Ov23licCHTBOFJdZMIFm" # Your client ID

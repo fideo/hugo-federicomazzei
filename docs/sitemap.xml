@@ -3,771 +3,771 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://federicomazzei.com.ar/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/categories/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/comando/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/debian/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/</loc>
-    <lastmod>2024-12-26T18:34:31-03:00</lastmod>
+    <lastmod>2024-12-27T07:46:26-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/linux/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/post/</loc>
-    <lastmod>2024-12-26T18:34:31-03:00</lastmod>
+    <lastmod>2024-12-27T07:46:26-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/categories/sistema-operativo/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/</loc>
-    <lastmod>2024-12-26T18:19:34-03:00</lastmod>
+    <lastmod>2024-12-27T07:46:26-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/ubuntu/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2024/08/convertir-texto-de-minuscula-a-mayuscula-en-vim.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/vim/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/software/</loc>
-    <lastmod>2024-12-26T18:19:34-03:00</lastmod>
+    <lastmod>2024-12-27T07:46:26-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2024/05/lazyvim-muestra-algunos-warnings-rg-fdfind-y-lazygit.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/sistema-operativo/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2023/09/copiar-y-pegar-entre-vim-y-tu-sistema-operativo.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2023/09/borrar-el-contenido-de-un-tag-con-vim.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2023/09/vimdiff-comparar-dos-archivos-con-vim.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/docker/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2023/08/docker-compose-wordpress-mysql-phpmyadmin.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2023/08/got-permission-denied-while-trying-to-connect-to-the-docker-daemon.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/cloudflare/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2023/06/configurar-dkim-con-opendkim-en-cloudflare.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/opendkim/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/comandos/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2023/06/comandos-basicos-para-vim.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2023/03/comparto-la-configuracion-de-vim.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/git/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/categories/git/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/github/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/categories/linux/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/categories/software/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2023/03/vim-youcompleteme.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/pyhton/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2022/07/python-que-es-y-quien-lo-creo.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/editor-de-texto/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/vi/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2022/02/vim-el-editor-de-texto-mejorado-vi.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/powerline/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/tmux/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2022/02/tmux-github-powerline-status.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/centos/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2022/02/centos-web-panel-cwp-error-cant-create-temporary-directory-var-lib-clamav.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/cwp/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2022/01/comando-para-obtener-la-direccion-ip-interna-de-una-pc.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2021/12/copiar-buffer-consola-a-entorno-grafico-x11.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2021/12/habilitar-o-deshabilitar-un-servicio-en-linux-ubuntu.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/sistema/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2021/12/hacer-que-docker-no-inicie-automaticamente.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/android/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/droidcam/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2021/11/droidcam-no-funciona-en-google-chrome-linux.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2021/11/como-copiar-directorios-o-archivos-de-un-docker-a-local-o-viceversa.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2021/11/comandos-utiles-para-docker.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/wordpress/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2021/10/como-arreglar-gdbus-errororg-freedesktop-policykit1-error-failed.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2021/09/github-pide-usuario-y-contrasena-siempre.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2021/09/personalizar-el-prompt-de-tu-consola.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2021/08/crear-un-listado-de-directorios-o-carpetas-desde-la-consola-de-linux.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/adb/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2021/07/linux-no-reconoce-tu-android-por-conexion-usb-para-usar-droidcam.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/webcam/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2021/07/arreglar-el-error-droidcam-unable-to-find-dev-video0.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2020/08/comando-dd-clonar-copiar-una-iso-a-un-pendrive.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/python/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2020/07/python.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2020/06/comprimir-y-descomprimir-archivos-o-directorios-con-7zip.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2020/06/realizar-backup-en-mongo-con-mongodump-y-mongorestore.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2020/06/obtener-una-lista-de-software-instalados-en-una-pc.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2020/06/wordpress-tener-un-tema-por-defecto-disponible.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2020/06/que-debo-ejecutar-para-saber-si-mi-linux-es-de-32-bits-o-de-64-bits.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2020/06/sincronizacion-con-google-drive-en-linux-usando-grive.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2018/02/deploy-meteor-en-tu-propio-servidor.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2018/02/minimizar-aplicaciones-al-click-ubuntu-17-10-gnome.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2017/09/reaction-commerce-usando-propio-servidor.html</loc>
-    <lastmod>2024-12-26T18:19:34-03:00</lastmod>
+    <lastmod>2024-12-27T07:46:26-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2017/09/crear-un-repositorio-git-en-servidor-propio.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2017/09/actualizar-localmente-wordpress-da-fallida.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2016/08/cups-forbidden-user-pass-unable-to-upload.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/contrase%C3%B1a/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2015/11/eliminar-la-contrasena-y-proteccion-de-archivos-word.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/password/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/truco/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/word/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2015/10/buscar-por-tamano-y-antiguedad-en-gmail.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2015/09/actualizar-ubuntu-de-12-a-14.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2015/06/que-version-ubuntu-instalado.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2015/03/iconos-flaticon.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2015/02/cuanto-pesa-un-directorio-en-linux.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2015/02/ventanas-emergentes-de-chrome-pregunta-donde-descargar.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2015/01/ll-no-se-encontro-la-orden.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2014/11/repository-denied-deployment.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2014/10/instalar-paquetes-deb-desde-consola.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2014/06/problemas-actualizar-apache-247-ubuntu.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2014/03/problema_webcam_pixart_imaging_inc_skype_linux.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2013/09/you-dj-jugando-a-ser-dj-on-line.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2013/09/menu-realizado-con-puros-css.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2013/06/es-solo-para-geeks.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2013/06/el-gatito-se-quiere-dormir.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2013/04/necesitas-un-icono-encontralo-en-icon-finder.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2013/04/corre-linux-corre-1-y-2.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2013/04/enlaces-permanentes-de-wordpress-error-404.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2013/02/repositorio-de-ubuntu-argentina-no-funciona.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2013/02/no-se-ve-el-menu-en-eclipse.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2012/12/transferir-archivos-de-gran-tamano.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2012/11/instalando-windows-7-no-me-aparece-el-disco-rigido.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2012/11/conocer_informacion_sobre_nuestro_servidor_en_linux.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2012/09/gnome-settings-usa-mucho-cpu.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2012/04/handbreak-para-convertir-videos-a-dispositivos-moviles.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2012/01/realizar-preguntas-en-consola-bash-linux.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2012/01/adele-someone-like-you.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2011/10/clase-php-para-conectar-con-mysql.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2011/09/comandos-linux.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2011/09/comandos-de-linux-con-ejemplos.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2011/09/chau-no-te-va-gustar.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2011/09/contar-cantidad-de-archivos-modificados.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2011/08/montar-automaticamente-discos-rigidos-extras-en-ubuntu.html</loc>
-    <lastmod>2024-12-26T18:34:31-03:00</lastmod>
+    <lastmod>2024-12-27T07:46:26-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2011/07/montar-un-disco-rigido-mas-a-nuestro-ubuntu.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2011/05/instalar-libreria-gd-para-prestashop-en-linux-ubuntu.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2011/02/convertir-videos-por-linea-de-comando-con-ffmpeg.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2011/01/donde-guarda-las-conversaciones-pid-gin.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/12/para-que-tomemos-conciencia-si-tomas-no-menejes.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/11/efecto-jquery-emular-revista.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/11/convertir-docs-a-pdf.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/css/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/11/truco-de-css-para-mostrar-texto-en-forma-vertical.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/11/truco-de-css-para-colocar-sombra-interna.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/11/truco-de-css-para-centrar-el-contenido.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/10/gimp-con-shortcut-de-photoshop.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/09/gwibber-no-actualiza-mis-twitter.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/09/rtorrent-descargar-torrents-desde-la-consola.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/09/un-editor-wysiwyg-bien-completo.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/08/como-recuperar-el-grub-despues-de-haberse-roto.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/08/mejor-no-hablar-de-ciertas-cosas-autor-indio-solari-530.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/06/que-es-lta-en-twitter.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/05/desactivar-la-hibernacion-en-vista-win-7.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/05/versiones-livianas-de-linux.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/05/descargar-o-usar-torrent-desde-consola.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/04/armar-un-avi-con-subtitulos-y-pasarlo-a-mp4.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/03/distribuciones-linux-para-chicos.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/03/dreamweaver-cambie-acentos-en-el-codigo.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/03/ubuntu-como-un-programa-mas-dentro-windows.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/03/algunos-tutoriales-y-sites-de-css.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/02/fideox-com-cumple-5-anos.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/01/borrar-directorio-y-subdirectoios-en-linux.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/01/sincronizar-n96-con-google-calendar-y-contactos.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/01/gmusicbrowser-ma%c2%basica-para-linux.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/12/feliz-navidad-5.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/12/linux-cumpleanos.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/12/para-terminar-y-empezar-el-ano.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/12/conoce-cual-es-el-linux-adecuado-para-vos.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/12/phpanywhereun-editor-de-php-en-la-web.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/11/swat-orange-code-aplicacion-web-desarrollada-en-php5.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/11/rotador-de-fotos-en-flash-open-source.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/11/atunes-la-version-open-source-del-itunes.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/11/ubuntu-9-10-problemas-para-apagarse-acpi.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/11/sql-buddy.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/11/transmision-en-vivo-del-pepsi-music.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/10/importar-csv-a-mysql.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/10/sincronizar-google-calendar-con-nokia-n96.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/09/volver-a-cargar-grub.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/09/impossible-to-create-a-database-using-mysql.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/08/brasil-usa-software-libre.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/06/carta-de-pergolini-a-fernando-pena.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/05/instalando-garmin-en-el-nokia-n96.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/05/jquery-user-interface.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/05/feliz-dia-para-todos-los-trabajadores.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/04/aceite-de-cocina-como-combustible.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/02/pamp-servidor-apache-php-y-mysql-con-symbian.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/02/trucos-para-el-n96.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/02/cavallino-rampante.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/02/natacion.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/02/xoopit-plugin-para-firefox.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/01/walking-in-my-shoes.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/01/jimmy-curry-chimichurry.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2009/01/feliz-ano-nuevo-4.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/12/feliz-navidad-4.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/10/nokia-n96.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/10/mapa-de-la-ciudad-autonoma-de-buenos-aires.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/09/navegador-de-google-chrome.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/09/frameworks-javascript-library-effects.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/08/cambio-de-dominio.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/06/problemas-con-firestarter.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/06/aporte-de-les-luthiers-a-nuestro-vocabulario.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/06/mail-de-oficina.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/05/mi-xorgconf-problemas-de-resolucion-en-ubuntu.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/05/ubuntu-mensaje-de-error-en-apache2.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/05/cerrar-programas-bloqueados-en-linux.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/05/averiguar-la-edad-con-php.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/05/instalar-eclipse-pdt-para-php.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/05/si-el-amor-se-cae-los-cafres.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/04/mi-vida.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/04/es-o-no-la-carta-de-gabriel-garcia-marquez.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/03/flof-mapa-de-buenos-aires.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/03/pic-lens-efecto-para-picasa-flickr.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/02/10-errores-en-el-diseno-de-aplicaciones.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/02/header-nuevo.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/02/quien-aloja-x-sitio.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/02/flash-and-the-pan.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/02/hijo-los-cafres.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/02/cancion-de-cuna-los-piojos.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/01/macbookair-chuli-esta-es-mi-notebook.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2008/01/feliz-ano-nuevo-3.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/12/feliz-navidad-3.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/12/site-de-botnia.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/11/depeche-mode-enjoy-the-silence.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/11/portableapps-suite.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/11/firefox-portable.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/10/heroin-sumo.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/10/justicia-para-gaston-perez.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/10/hosts-virtuales-de-apache-2-en-ubuntu.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/10/apache2-en-ubuntu.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/09/google-earth-como-simulador-de-vuelo.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/09/google-phone.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/09/microsoft-expression.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/08/muy-buen-site-2.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/07/hosting-para-fideox.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/06/safari-3-public-beta.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/06/madre-hay-una-sola.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/03/algunos-comandos-ssh.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/03/aeropuerto-ezeiza.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/03/xmail-hard-drivecom.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/03/muy-buen-site.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/03/nuevo-look-again.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/02/feliz-dia-mi-amor.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/01/ubuntu-studio.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/01/host-de-tu-propio-site.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/01/nuevo-look.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/01/cant-connect-to-mysql-server-on-10061.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2007/01/feliz-ano-nuevo-2.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2006/12/logotipos-de-empresas.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/categories/uncategorized/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2006/10/mountar-una-imagen-iso-en-linux.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2006/07/firefox-2.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2006/07/update-replace-en-mysql.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2006/03/error-establishing-a-database-connection.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2006/03/internet-a-2-gigabits-por-segundo.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2005/12/css-y-firefox.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2005/12/tango-600-un-electrico-que-alcanza-los-255-kmh.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2005/11/bootdiskcom.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2005/08/dolphin.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2005/08/iguy.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2005/08/migrar-apps-desde-ie-a-mozilla.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2005/08/adobe.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2005/07/frase-de-pelicula.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2005/04/benjamin-franklin.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2005/03/inteligencia-emocional.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2005/03/una-historia-especial.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2005/02/adios-a-pappo.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:39-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2005/02/hello-world.html</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T11:49:40-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/pages/aboutme/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T13:48:53-03:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/pages/</loc>
-    <lastmod>2024-12-26T18:03:28-03:00</lastmod>
+    <lastmod>2024-12-26T13:48:53-03:00</lastmod>
   </url>
 </urlset>

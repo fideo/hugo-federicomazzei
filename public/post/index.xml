@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 26 Dec 2024 18:19:34 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 07:46:26 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Activar la sincronización de Fecha y Hora en Debian Ubuntu</title>
@@ -580,7 +580,7 @@
       <link>http://localhost:1313/2011/08/montar-automaticamente-discos-rigidos-extras-en-ubuntu.html</link>
       <pubDate>Sun, 07 Aug 2011 14:46:23 +0000</pubDate>
       <guid>http://localhost:1313/2011/08/montar-automaticamente-discos-rigidos-extras-en-ubuntu.html</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;http://xn--h1aafme.net/tag/%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BD%D0%B8-%D0%B8%D0%BA%D0%BE%D0%BD%D0%B8/&#34;&gt;Православни икони&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;Cuando tenemos mas de un disco rígido en nuestro pc y tenemos instalado ubuntu en mi caso en este momento Ubuntu 11,04 podemos hacer los siguiente para poder montar los disco automáticamente.&lt;/p&gt;&#xA;&lt;p&gt;Primero abrimos gparted y elegimos el disco a montar, sobre ese disco hacemos botón derecho y elegimos la opción “información” y nos mostrará una ventana similar a esta.&lt;br&gt;&#xA;&lt;a href=&#34;http://www.fideox.com.ar/wp-content/uploads/2011/08/Pantallazo-Informaci%C3%B3n-acerca-de-dev-sdc1.png&#34;&gt;&lt;img src=&#34;http://www.fideox.com.ar/wp-content/uploads/2011/08/Pantallazo-Informaci%C3%B3n-acerca-de-dev-sdc1-300x272.png&#34; alt=&#34;Partición del disco rigido&#34; title=&#34;gparted&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;http://xn--h1aafme.net/tag/%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BD%D0%B8-%D0%B8%D0%BA%D0%BE%D0%BD%D0%B8/&#34;&gt;Православни икони&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;Cuando tenemos mas de un disco rígido en nuestro pc y tenemos instalado ubuntu en mi caso en este momento Ubuntu 11,04 podemos hacer los siguiente para poder montar los disco automáticamente.&lt;/p&gt;&#xA;&lt;p&gt;Primero abrimos gparted y elegimos el disco a montar, sobre ese disco hacemos botón derecho y elegimos la opción “información” y nos mostrará una ventana similar a esta.&lt;/p&gt;&#xA;&lt;p&gt;luego edito el archivo fstab de la siguiente manera&lt;/p&gt;</description>
     </item>
     <item>
       <title>Montar un disco rígido más a nuestro ubuntu</title>
@@ -616,13 +616,6 @@
       <pubDate>Tue, 28 Dec 2010 09:11:15 +0000</pubDate>
       <guid>http://localhost:1313/2010/12/para-que-tomemos-conciencia-si-tomas-no-menejes.html</guid>
       <description>&lt;p&gt;Tomar conciencia.&lt;br&gt;&#xA;En estas fiestas es común que brindemos con amigos, luego con familiares, seguramente con compañeros de trabajo y así por dos semanas. Creo que ver este video les hará tomar conciencia de lo que puede suceder si tomamos alcohol y luego manejamos.&lt;/p&gt;&#xA;&lt;p&gt;LAS IMAGENES QUE SE VEN EN ESTE VIDEO SON REALMENTE FUERTES.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Que pasen unas muy lindas fiestas en familia y con amigos.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vendo Bolso Raquetero Marca Wilson para 12 raquetas</title>
-      <link>http://localhost:1313/2010/12/vendo-bolso-wilson-raquetero-para-12-raquetas.html</link>
-      <pubDate>Fri, 24 Dec 2010 15:26:44 +0000</pubDate>
-      <guid>http://localhost:1313/2010/12/vendo-bolso-wilson-raquetero-para-12-raquetas.html</guid>
-      <description>&lt;p&gt;A quien le interese este bolso no teiene mas que comentar. El bolso está nuevo, es usado, pero casi no tiene uso.&lt;/p&gt;&#xA;&lt;p&gt;Precio: 340 pesos&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>efecto jQuery emular revista</title>
@@ -737,27 +730,6 @@
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Ando corto de tiempo y necesitaba llevar conmigo las series que quiero ver, para eso estuve investigando (googleando) como podía hacer para obtener un mp4 con los subtitulos incluidos.&lt;/p&gt;&#xA;&lt;p&gt;Para eso en linux podemos usar &lt;em&gt;&lt;strong&gt;mencoder&lt;/strong&gt;&lt;/em&gt; es una aplicación que con esta linea de comando&lt;/p&gt;&#xA;&lt;p&gt;mencoder -sub archivodesubtitulos.srt -subcp iso-8857-9 -ovc xvid -xvidencopts bitrate=687 -oac copy -o nombrearchivonuevo.avi nombreoriginal.avi&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;mencoder -ovc lavc -oac mp3lame pelicula.avi -o pelicula_con_subtitulos.avi -sub subtitulos.xxx&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Send Fruta</title>
-      <link>http://localhost:1313/2010/04/send-fruta.html</link>
-      <pubDate>Sat, 24 Apr 2010 20:03:40 +0000</pubDate>
-      <guid>http://localhost:1313/2010/04/send-fruta.html</guid>
-      <description>&lt;p&gt;Un espacio para hablar de la fruta o de los que manda fruta (send fruta).&lt;br&gt;&#xA;Los invito a visitar este blog, podés encontrar cualquier cosa…, pero simpre tomando como actor principal a la fruta.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://sendfruta.blogspot.com&#34;&gt;http://sendfruta.blogspot.com/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Richard Stallman entrevista en español sobre GNU</title>
-      <link>http://localhost:1313/2010/04/richard-stallman-entrevista-en-espanol-sobre-gnu.html</link>
-      <pubDate>Sun, 11 Apr 2010 23:00:53 +0000</pubDate>
-      <guid>http://localhost:1313/2010/04/richard-stallman-entrevista-en-espanol-sobre-gnu.html</guid>
-      <description>&lt;p&gt;Dentro de &lt;strong&gt;esdebian.org&lt;/strong&gt; encontré un hermoso video donde lo escuchamos hablar a &lt;strong&gt;Richard Stallman&lt;/strong&gt; sobre GNU y otras yerbas.&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;Les hago una mini introducción de quien es &lt;strong&gt;Richard Stallman&lt;/strong&gt;, fundador de Free Software Fundation y creador de GNU; muchos creen que GNU es sinónimo de linux o vice-versa, pero no es así simplemente linux está bajo licencia GNU una sin la otra no podrían ser posibles, esto mismo lo dice él en el video de arriba.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Revistas de Código Abierto y Software Libre</title>
-      <link>http://localhost:1313/2010/04/revistas-de-codigo-abierto-y-software-libre.html</link>
-      <pubDate>Sun, 11 Apr 2010 22:12:51 +0000</pubDate>
-      <guid>http://localhost:1313/2010/04/revistas-de-codigo-abierto-y-software-libre.html</guid>
-      <description>&lt;p&gt;Encontré algunas revistas más sobre código abierto y software libre, digo “algunas más” porque a tuxinfo la vengo leyendo haces algo más de un año esta revista, que es muy buena.&lt;/p&gt;&#xA;&lt;p&gt;Pero después de un tiempo busqué algunas revistas mas de este tipo de contenido y encontré estas.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.revistabegins.org/&#34; title=&#34;revista begins&#34;&gt;http://www.revistabegins.org/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.papirux.org/&#34; title=&#34;revista papirux&#34;&gt;http://www.papirux.org/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://revistauxi.wordpress.com/&#34; title=&#34;revista uxi&#34;&gt;http://revistauxi.wordpress.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Si alguién conoce alguna más agradezco la inclución por comentario y obviamente la agregaré a la lista. Gracias.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Distribuciones Linux para chicos</title>
       <link>http://localhost:1313/2010/03/distribuciones-linux-para-chicos.html</link>
       <pubDate>Tue, 30 Mar 2010 16:07:42 +0000</pubDate>
@@ -812,13 +784,6 @@
       <pubDate>Mon, 18 Jan 2010 10:28:58 +0000</pubDate>
       <guid>http://localhost:1313/2010/01/gmusicbrowser-ma%c2%basica-para-linux.html</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.infosertec.com.ar/blog/?p=12728&#34;&gt;Gmusicbrowser: música para Linux&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Es una aplicación open-source desarrollada en perl para grandes cantidades collecciones; soporta mp3, ogg, flac, mpc, ape.&lt;/p&gt;&#xA;&lt;p&gt;Yo lo instalé en Mint y Ubuntu (ambos debian) con la siguiente instrucción &lt;em&gt;&lt;strong&gt;sudo apt-get install gmusicbrowser&lt;/strong&gt;&lt;/em&gt; y la verdad que me gustó mucho.&lt;/p&gt;&#xA;&lt;p&gt;Espero que lo disfruten.&lt;/p&gt;&#xA;&lt;p&gt;La información fue tomada de &lt;a href=&#34;http://www.infosertec.com.ar/blog/?p=12716&#34; title=&#34;Gmusicbrowser&#34;&gt;http://www.infosertec.com.ar/blog/?p=12716&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Posted using &lt;a href=&#34;http://sharethis.com&#34;&gt;ShareThis&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Feliz Año Nuevo (2010)</title>
-      <link>http://localhost:1313/2010/01/feliz-ano-nuevo-2010.html</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:32 +0000</pubDate>
-      <guid>http://localhost:1313/2010/01/feliz-ano-nuevo-2010.html</guid>
-      <description>&lt;p&gt;Que se les cumplan todos los deseos que tengan para este nuevo año que comienza.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;http://www.videnov.com/&#34;&gt;хотелско обзавеждане&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;Enjoy!!!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Feliz Navidad</title>

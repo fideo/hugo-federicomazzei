@@ -149,17 +149,10 @@
                 </path>
               </svg>
               Posts
-              <span class="Counter">218</span>
+              <span class="Counter">213</span>
             </a>
             <a class="UnderlineNav-item " href="http://localhost:1313/pages/aboutme">
-            <svg class="octicon octicon-repo UnderlineNav-octicon hide-sm" height="16" viewBox="0 0 16 16"
-                 version="1.1" width="16">
-              <path fill-rule="evenodd"
-                    d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z">
-              </path>
-            </svg>
-            Acerca de Mi
-            <span class="Counter">218</span>
+            Acerca de mi
             </a>
           </nav>
           <div class="profile-color-modes js-promo-color-modes-banner-profile isInitialToggle">
@@ -472,7 +465,7 @@
         </path>
       </svg>
       Posts
-      <span class="Counter ">218</span>
+      <span class="Counter ">213</span>
     </a>
   </nav>
 </div>
@@ -1030,10 +1023,11 @@ Dummy video device (0x0000) (platform:v4l2loopback-000):
 <!-- raw HTML omitted -->
 <h2 id="estos-son-los-dos-comandos-que-utilicé-en-el-video">Estos son los dos comandos que utilicé en el video.</h2>
 <h4 id="deployreactionsh">deployreaction.sh</h4>
-<pre tabindex="0"><code>#!/bin/sh&lt;br&gt;&lt;/br&gt;
-echo &#34;Generando el deploy de Reaction&#34;&lt;br&gt;&lt;/br&gt;echo &#34;meteor build --server-only ../new_package/ &amp;&amp; mv ../new_package/*.tar.gz ./reaction.tar.gz&#34;&lt;br&gt;&lt;/br&gt;
-fecha=$(date +%d-%m-%Y)&lt;br&gt;&lt;/br&gt;fechahora=$(date +%Y%m%d%H%M%S)&lt;br&gt;&lt;/br&gt;
-meteor build --server-only ../new_package/ &amp;&amp; mv ../new_package/*.tar.gz ./reaction_$fechahora.tar.gz&lt;br&gt;&lt;/br&gt;
+<pre tabindex="0"><code>#!/bin/sh
+echo &#34;Generando el deploy de Reaction&#34;
+echo &#34;meteor build --server-only ../new_package/ &amp;&amp; mv ../new_package/*.tar.gz ./reaction.tar.gz&#34;
+fecha=$(date +%d-%m-%Y)fechahora=$(date +%Y%m%d%H%M%S)
+meteor build --server-only ../new_package/ &amp;&amp; mv ../new_package/*.tar.gz ./reaction_$fechahora.tar.gz
 </code></pre><p>Lo que hago es simplemente ejecutar el comando <a href="https://guide.meteor.com/deployment.html#custom-deployment"><strong>meteor build</strong></a> pero con el agregado de que cuando termine, mueva el .tar.gz que genera en ../new_package/ a mi directorio de proyecto insertandole la fecha de deploy al nombre del archivo .tzr.gz<br>
 Esto es para tener un versionado de los deploys.</p>
               </div>
