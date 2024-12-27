@@ -2,7 +2,6 @@ baseURL = 'https://federicomazzei.com.ar/'
 #baseURL = 'http://localhost:1313/'
 languageCode = 'es'
 title = 'Federico Mazzei'
-theme = 'github-style'
 defaultContentLanguage = 'es'
 
 pygmentsCodeFences = true
