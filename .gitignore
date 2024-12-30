@@ -1,1 +1,8 @@
+# carpeta .idea creada por WebStorm
 .idea
+
+# archivo de deploy donde tengo datos sensibles
+deploy.sh
+
+# node_modules es generado por npm al instalar algunas librerias como por ejemplo TailWindCSS
+node_modules

@@ -1,1 +1,7 @@
-theme = 'fideo'
+# theme = 'fideo'
+theme = 'github-style'
+
+# Esto lo agrego para que funcione TailWindCSS
+#[build]
+#    [build.postCSS]
+#        includeFiles = "themes/fideo/assets/css/*.css"
