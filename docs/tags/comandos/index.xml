@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Comandos on Federico Mazzei</title>
-    <link>https://www.federicomazzei.com.ar/tags/comandos/</link>
+    <link>https://federicomazzei.com.ar/tags/comandos/</link>
     <description>Recent content in Comandos on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Tue, 20 Jun 2023 10:18:11 +0000</lastBuildDate>
-    <atom:link href="https://www.federicomazzei.com.ar/tags/comandos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://federicomazzei.com.ar/tags/comandos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comandos básicos para VIM</title>
-      <link>https://www.federicomazzei.com.ar/2023/06/comandos-basicos-para-vim.html</link>
+      <link>https://federicomazzei.com.ar/2023/06/comandos-basicos-para-vim.html</link>
       <pubDate>Tue, 20 Jun 2023 10:18:11 +0000</pubDate>
-      <guid>https://www.federicomazzei.com.ar/2023/06/comandos-basicos-para-vim.html</guid>
+      <guid>https://federicomazzei.com.ar/2023/06/comandos-basicos-para-vim.html</guid>
       <description>&lt;p&gt;Estos son algunos de los comandos básicos que uso a diario cuando utilizo VIM.&lt;/p&gt;&#xA;&lt;h2 id=&#34;iniciar-vim&#34;&gt;Iniciar VIM&lt;/h2&gt;&#xA;&lt;p&gt;Si usas por primera vez vim tal vez no sepas por donde empezar y deberías empezar por instalar vim aunque hoy en día la mayoría de las distribuciones linux traen instalado vim; si esto no es así solo bastará con realizar&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt install vim &#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;o el comando similar a este último que tu distribución necesite para instalarlo; en este caso esa instrucción sirve para las distribuciones basadas en debian como por ejemplo Ubuntu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Algunos comandos SSH</title>
-      <link>https://www.federicomazzei.com.ar/2007/03/algunos-comandos-ssh.html</link>
+      <link>https://federicomazzei.com.ar/2007/03/algunos-comandos-ssh.html</link>
       <pubDate>Mon, 19 Mar 2007 16:52:18 +0000</pubDate>
-      <guid>https://www.federicomazzei.com.ar/2007/03/algunos-comandos-ssh.html</guid>
+      <guid>https://federicomazzei.com.ar/2007/03/algunos-comandos-ssh.html</guid>
       <description>&lt;p&gt;Este es un listado de los comandos SSH que se usan con más frecuencia. Los comandos se encuentran organizados por tema e incluyen una descripción breve para comprender como usarlos.&lt;/p&gt;&#xA;&lt;h3 id=&#34;comandos-de-navegación&#34;&gt;Comandos de navegación&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;pwd&lt;/strong&gt; muestra el path completo del directorio en el que se encuentra&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;cd&lt;/strong&gt; cambia de directorio, por ejemplo cd directorio/subdirectorio&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;cd ~&lt;/strong&gt; lleva a su directorio home&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;cd –&lt;/strong&gt; lleva al último directorio en el que estuvo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;cd ..&lt;/strong&gt; sube a un directorio superior&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;listado-de-archivos&#34;&gt;Listado de archivos&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;ls&lt;/strong&gt; lista archivos y directorios de un directorio&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ls -al&lt;/strong&gt; lista archivos y directorios e información sobre los mismos&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ls -aR&lt;/strong&gt; lista archivos e información incluyendo todos los subdirectorios&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ls -aR | more&lt;/strong&gt; lista archivos e información incluyendo todos los subdirectorios por pantallas&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ls -alR &amp;gt; resultado.txt&lt;/strong&gt; lista archivos e información de subdirectorios y lo guarda en un archivo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;cat resultado.txt&lt;/strong&gt; mostraría en pantalla el contenido del archivo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ls *.html&lt;/strong&gt; lista todos los archivos acabados en .html&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ls -al directorio/subdirectorio/&lt;/strong&gt; lista archivos e información de ese subdirectorio&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;crear-editar-o-eliminar-archivos-y-directorios&#34;&gt;Crear, editar o eliminar archivos y directorios&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;pico /home/usuario/public_html/index.html&lt;/strong&gt; edita el archivo index.html con el editor pico&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;touch /home/usuario/public_html/404.html&lt;/strong&gt; crea el archivo vacio 404.html en ese directorio&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;rm archivo.txt&lt;/strong&gt; elimina archivo.txt&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;rm -rf directorio/&lt;/strong&gt; ¡CUIDADO! elimina el directorio indicado, los subdirectorios y todos sus archivos&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;mkdir descargas&lt;/strong&gt; Crea un directorio llamado descargas&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;rmdir descargas&lt;/strong&gt; Elimina el directorio llamado descargas&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;otros-comandos-ssh&#34;&gt;Otros comandos SSH&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;cp -a /home/usuario/public_html/origen/* /home/usuario/public_html/destino/&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Copia todos los archivos de un directorio a otro manteniendo sus respectivos permisos&lt;/p&gt;</description>
     </item>
   </channel>

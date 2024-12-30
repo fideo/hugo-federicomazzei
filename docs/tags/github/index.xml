@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Github on Federico Mazzei</title>
-    <link>https://www.federicomazzei.com.ar/tags/github/</link>
+    <link>https://federicomazzei.com.ar/tags/github/</link>
     <description>Recent content in Github on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Fri, 24 Mar 2023 19:53:12 +0000</lastBuildDate>
-    <atom:link href="https://www.federicomazzei.com.ar/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://federicomazzei.com.ar/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comparto la configuración de VIM</title>
-      <link>https://www.federicomazzei.com.ar/2023/03/comparto-la-configuracion-de-vim.html</link>
+      <link>https://federicomazzei.com.ar/2023/03/comparto-la-configuracion-de-vim.html</link>
       <pubDate>Fri, 24 Mar 2023 19:53:12 +0000</pubDate>
-      <guid>https://www.federicomazzei.com.ar/2023/03/comparto-la-configuracion-de-vim.html</guid>
+      <guid>https://federicomazzei.com.ar/2023/03/comparto-la-configuracion-de-vim.html</guid>
       <description>&lt;p&gt;Dejo en el repositorio de github la configuración de VIM, acá podrás encontrar toda la configuración que utilizo para configurar mi &lt;strong&gt;VIM&lt;/strong&gt;. Los complementos que utilizo son para el desarrollo de sitios webs y para administración de servidores.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/fideo/vim&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;https://github.com/fideo/vim&#34;&gt;https://github.com/fideo/vim&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dentro del repositorio git-hub que compartí en la linea de arriba pueden encontrar varios archivos pero dos son los importantes (los otros son para los videos de youtube) &lt;strong&gt;.vimrc&lt;/strong&gt; y &lt;strong&gt;.vimrc.plug&lt;/strong&gt; ahí está toda la configuración que uno necesita para dejar vim como se muestran en los videos de &lt;a href=&#34;https://www.youtube.com/@FedericoMazzei/videos&#34; target=&#34;_blank&#34;&gt;youtube&lt;/a&gt; (esto puede modificarse con el paso del tiempo)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tmux github powerline status</title>
-      <link>https://www.federicomazzei.com.ar/2022/02/tmux-github-powerline-status.html</link>
+      <link>https://federicomazzei.com.ar/2022/02/tmux-github-powerline-status.html</link>
       <pubDate>Fri, 18 Feb 2022 11:15:41 +0000</pubDate>
-      <guid>https://www.federicomazzei.com.ar/2022/02/tmux-github-powerline-status.html</guid>
+      <guid>https://federicomazzei.com.ar/2022/02/tmux-github-powerline-status.html</guid>
       <description>&lt;p&gt;Tmux github powerline status. Cree un repositorio en github para publicar mi configuración de Tmux; también la configuración de powerline y el .bashrc de mi PC por si alguien quiere usar esta configuración.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fideo/tmux.conf/main/asset/TerminalMultiplexer.png&#34; alt=&#34;Pantalla de Tmux donde se muestran tres promp de linux en una sola ventana.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Este es el la dirección en github del repositorio desde ahí se puede descargar y/o clonar &lt;a href=&#34;https://github.com/fideo/tmux.conf&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;https://github.com/fideo/tmux.conf&#34;&gt;https://github.com/fideo/tmux.conf&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hay que crear en el home de su usuario (en mi caso /home/fideo/) el archivo .tmux.conf y copiar el contenido de lo que publiqué en github o directamente descargarlo pegarlo en su home.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como hacer para GitHub no te pida mas el usuario y la cotraseña</title>
-      <link>https://www.federicomazzei.com.ar/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</link>
+      <link>https://federicomazzei.com.ar/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</link>
       <pubDate>Thu, 16 Dec 2021 09:07:15 +0000</pubDate>
-      <guid>https://www.federicomazzei.com.ar/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</guid>
+      <guid>https://federicomazzei.com.ar/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</guid>
       <description>&lt;p&gt;Hace un tiempo &lt;u&gt;GitHub&lt;/u&gt; hizo modificaciones en cuanto a su forma de autentificarse, existen muchas formas de autenticarse con &lt;u&gt;GItHub&lt;/u&gt;; pero una de las mas comunes es que al momento de realizar un &lt;strong&gt;push&lt;/strong&gt; o &lt;strong&gt;pull&lt;/strong&gt; te pida un usuario y una contraseña. Pero ahora para poder realizar esto necesitas tener en tu poder un &lt;strong&gt;Token&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Esto es muy simple de realizar solo tienes que ir a Settings / Developer settings / Personal access token y ahí presionar el botón Generate new token. Te va a pedir un nombre para ese token la cantidad de días que deseas conservar ese token, por defecto viene 30 días, se puede personalizar esta cantidad de días o se puede poner que no expire aunque no es recomendable esto último.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Github pide usuario y contraseña siempre</title>
-      <link>https://www.federicomazzei.com.ar/2021/09/github-pide-usuario-y-contrasena-siempre.html</link>
+      <link>https://federicomazzei.com.ar/2021/09/github-pide-usuario-y-contrasena-siempre.html</link>
       <pubDate>Thu, 30 Sep 2021 19:51:24 +0000</pubDate>
-      <guid>https://www.federicomazzei.com.ar/2021/09/github-pide-usuario-y-contrasena-siempre.html</guid>
+      <guid>https://federicomazzei.com.ar/2021/09/github-pide-usuario-y-contrasena-siempre.html</guid>
       <description>&lt;p&gt;Si sos uno de los tantos que se cansa cada vez que tienes que hacer pull o push a un repositorio en github poniendo el usuario y la contraseña, puedes realizar estos pasos y dejará de pedirte user y pass cada vez que quieras realizar un pull o push a github.&lt;/p&gt;&#xA;&lt;p&gt;Primero tienes que ver que esté funcionando el ssh-agent para eso ejecutar este comando en la consola de linux&lt;/p&gt;</description>
     </item>
   </channel>

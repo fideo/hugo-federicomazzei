@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Droidcam on Federico Mazzei</title>
-    <link>https://www.federicomazzei.com.ar/tags/droidcam/</link>
+    <link>https://federicomazzei.com.ar/tags/droidcam/</link>
     <description>Recent content in Droidcam on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Wed, 17 Nov 2021 20:51:29 +0000</lastBuildDate>
-    <atom:link href="https://www.federicomazzei.com.ar/tags/droidcam/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://federicomazzei.com.ar/tags/droidcam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Droidcam no funciona en Google Chrome Linux</title>
-      <link>https://www.federicomazzei.com.ar/2021/11/droidcam-no-funciona-en-google-chrome-linux.html</link>
+      <link>https://federicomazzei.com.ar/2021/11/droidcam-no-funciona-en-google-chrome-linux.html</link>
       <pubDate>Wed, 17 Nov 2021 20:51:29 +0000</pubDate>
-      <guid>https://www.federicomazzei.com.ar/2021/11/droidcam-no-funciona-en-google-chrome-linux.html</guid>
+      <guid>https://federicomazzei.com.ar/2021/11/droidcam-no-funciona-en-google-chrome-linux.html</guid>
       <description>&lt;p&gt;Droidcam no funciona en google chrome en un sistema operativo Linux; en Windows funciona perfectamente, pero en Linux lo podía hacer funcionar hasta que entendí que para que google chrome lo tome hay que ejecutar una serie de comandos&lt;/p&gt;&#xA;&lt;p&gt;Como primer paso ejecutamos esto en la consola de linux.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt install linux-headers-`uname -r` gcc make&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Luego nos dirigimos a donde tenemos instalado Droidcam; yo lo suelo instalar en &lt;code&gt;/opt/&lt;/code&gt; es decir que ingreso a&lt;/p&gt;</description>
     </item>
     <item>
       <title>Linux no reconoce tu android por conexión USB para usar Droidcam</title>
-      <link>https://www.federicomazzei.com.ar/2021/07/linux-no-reconoce-tu-android-por-conexion-usb-para-usar-droidcam.html</link>
+      <link>https://federicomazzei.com.ar/2021/07/linux-no-reconoce-tu-android-por-conexion-usb-para-usar-droidcam.html</link>
       <pubDate>Tue, 27 Jul 2021 19:40:12 +0000</pubDate>
-      <guid>https://www.federicomazzei.com.ar/2021/07/linux-no-reconoce-tu-android-por-conexion-usb-para-usar-droidcam.html</guid>
+      <guid>https://federicomazzei.com.ar/2021/07/linux-no-reconoce-tu-android-por-conexion-usb-para-usar-droidcam.html</guid>
       <description>&lt;p&gt;Si tener un celular (dispositivo móvil) con Android y quieres usar la cámara de ese celular como webcam puedes usar un programa que se llama &lt;a href=&#34;https://www.dev47apps.com/&#34; target=&#34;_blank&#34;&gt;Droidcam&lt;/a&gt;, es muy buena opción para no comprar una webcam y usa ese dispositivo viejo que tenías en un cajón.&lt;/p&gt;&#xA;&lt;p&gt;Este artículo trae una solución a un problema frecuente que se dá cuando usas linux, el problema se presenta que no siempre reconoce las conexiones por USB.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Arreglar el error Droidcam unable to find dev/video0</title>
-      <link>https://www.federicomazzei.com.ar/2021/07/arreglar-el-error-droidcam-unable-to-find-dev-video0.html</link>
+      <link>https://federicomazzei.com.ar/2021/07/arreglar-el-error-droidcam-unable-to-find-dev-video0.html</link>
       <pubDate>Tue, 27 Jul 2021 19:21:47 +0000</pubDate>
-      <guid>https://www.federicomazzei.com.ar/2021/07/arreglar-el-error-droidcam-unable-to-find-dev-video0.html</guid>
+      <guid>https://federicomazzei.com.ar/2021/07/arreglar-el-error-droidcam-unable-to-find-dev-video0.html</guid>
       <description>&lt;p&gt;Los pasos que realicé para que Droidcam vuelva funcionar como tras el error Droidcam unable to find dev/video0&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo apt install v4l2loopback-utils v4l-utils v4l2loopback-dkms cmake nasm yasm pkg-config libgtk2.0-dev&#xA;$ sudo modprobe v4l2loopback&#xA;$ v4l2-ctl --list-devices     # check if you have dummy video devices&#xA;Dummy video device (0x0000) (platform:v4l2loopback-000):&#xA;/dev/video0&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Me pasa muy seguido que tengo que corregir droidcam tras actualizar Ubuntu y para esto solo uso este comando.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo modprobe v4l2loopback&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Que sirve para agregar el módulo v4l2loopback al kernel que acabamos de actualizar.&lt;/p&gt;</description>
     </item>
   </channel>

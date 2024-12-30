@@ -1,4 +1,4 @@
-baseURL = 'https://www.federicomazzei.com.ar/'
+baseURL = 'https://federicomazzei.com.ar/'
 #baseURL = 'http://localhost:1313/'
 languageCode = 'es'
 title = 'Federico Mazzei'
