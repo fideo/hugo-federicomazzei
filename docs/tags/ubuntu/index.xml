@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu on Federico Mazzei</title>
-    <link>https://federicomazzei.com.ar/tags/ubuntu/</link>
+    <link>https://www.federicomazzei.com.ar/tags/ubuntu/</link>
     <description>Recent content in Ubuntu on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Sat, 07 Sep 2024 09:05:21 +0000</lastBuildDate>
-    <atom:link href="https://federicomazzei.com.ar/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.federicomazzei.com.ar/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Activar la sincronización de Fecha y Hora en Debian Ubuntu</title>
-      <link>https://federicomazzei.com.ar/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</link>
+      <link>https://www.federicomazzei.com.ar/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</link>
       <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</guid>
+      <guid>https://www.federicomazzei.com.ar/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</guid>
       <description>&lt;p&gt;Si necesitas activar la sincronización de la fecha y hora en debian ubuntu o cualquier distribución derivada de Debian con un simple comando se puede reparar esto.&lt;/p&gt;&#xA;&lt;p&gt;Me ha pasado que he instalado debian 12 y la notebook donde lo instalé no se sincronizaba correctamente el horario ni la fecha; entonces cada vez que encendía la notebook esta no podía navegar, ya que, estaba desincronizada la fecha y la hora.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Partir en varios archivos .zip un directorio o un archivo</title>
-      <link>https://federicomazzei.com.ar/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</link>
+      <link>https://www.federicomazzei.com.ar/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</link>
       <pubDate>Wed, 05 Jun 2024 12:33:09 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</guid>
+      <guid>https://www.federicomazzei.com.ar/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</guid>
       <description>&lt;p&gt;En mi caso necesitaba realizar un comando que me permita partir en varios archivos .zip un directorio o un archivo .iso&lt;/p&gt;&#xA;&lt;p&gt;Obviamente que por pantalla gráfica esto es muy fácil de hacer pero el problema se presenta cuando estas accediendo a un servidor y tienes que partir un archivo grande en varios fragmentos para poder transportarlo ya sea para mandar por mail o copiarlo a otro lugar.&lt;/p&gt;&#xA;&lt;p&gt;En principio tenemos que tener instalado el &lt;strong&gt;p7zip&lt;/strong&gt; si no lo tenes instalado en Ubuntu o linux derivados de Debian se instala así:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como averiguar el id de AnyDesk por consola o terminal en linux</title>
-      <link>https://federicomazzei.com.ar/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</link>
+      <link>https://www.federicomazzei.com.ar/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</link>
       <pubDate>Mon, 13 May 2024 12:02:51 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</guid>
+      <guid>https://www.federicomazzei.com.ar/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</guid>
       <description>&lt;p&gt;Como averiguar el id de AnyDesk por consola o terminal en linux. Si por casulidad tenes instalado AnyDesk y no conoces el id de tu cuenta con AnyDesk la podes averiguar accediendo desde consola o terminal a tu equipo.&lt;/p&gt;&#xA;&lt;p&gt;Claro si accedes por consola o terminal a tu equipo podrías decir para que si ya tengo conexión con mi computadora a través de mi linea de comandos si puede ser… pero muchas veces necesitas ver o acceder visualmente a tu computadora y esto lo podes hacer con AnyDesk o un servicio de VNC activo en la computadora. Si tu caso es el de AnyDesk y no conoces el id lo podes averiguar con este comando.&lt;/p&gt;</description>
     </item>
     <item>
       <title>No funciona Wi-Fi en tu notebook con Linux</title>
-      <link>https://federicomazzei.com.ar/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</link>
+      <link>https://www.federicomazzei.com.ar/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</link>
       <pubDate>Fri, 01 Mar 2024 09:42:36 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</guid>
+      <guid>https://www.federicomazzei.com.ar/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</guid>
       <description>&lt;p&gt;Si terminaste de instalar Linux y no te funciona el Wi-Fi tenes que realizar los siguientes pasos para que empiece a funcionar.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Estos pasos a continuación son para distribuciones basadas en Debian&lt;/p&gt;&#xA;&lt;p&gt;&lt;cite&gt;Ubuntu y sus sabores, Neon, Loc-Os, Linux Mint, PureOS, Deepin, Kali Linux, etc. etc.&lt;/cite&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Antes de empezar a ejecutar los comandos que siguen a continuación tenemos que conseguir una conexión por cable de red para poder ejecutar algunos comando y descargar algunos componentes desde internet. Luego de conectarnos a la red de internet con cable lo primero que vamos a realizar es ejecutar la actualización de los repositorios; para esto ejecutamos este comando&lt;/p&gt;</description>
     </item>
     <item>
       <title>Got permission denied while trying to connect to the Docker daemon</title>
-      <link>https://federicomazzei.com.ar/2023/08/got-permission-denied-while-trying-to-connect-to-the-docker-daemon.html</link>
+      <link>https://www.federicomazzei.com.ar/2023/08/got-permission-denied-while-trying-to-connect-to-the-docker-daemon.html</link>
       <pubDate>Fri, 18 Aug 2023 14:38:34 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2023/08/got-permission-denied-while-trying-to-connect-to-the-docker-daemon.html</guid>
+      <guid>https://www.federicomazzei.com.ar/2023/08/got-permission-denied-while-trying-to-connect-to-the-docker-daemon.html</guid>
       <description>&lt;p&gt;Si acabas de instalar docker y te aparece ese mensaje de error &lt;em&gt;&lt;strong&gt;Got permission denied while trying to connect to the Docker daemon&lt;/strong&gt;&lt;/em&gt; al ejecutar docker, por ejemplo “docker ps” o “docker run” o cualquier otro comando de docker esto te puede servir.&lt;/p&gt;&#xA;&lt;h2 id=&#34;corregir-el-error&#34;&gt;Corregir el error&lt;/h2&gt;&#xA;&lt;p&gt;Primero tenemos que agregar el grupo docker y para esto en la consola ejecutamos lo siguiente:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo groupadd docker&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Ahora tenemos que agregar el usuario nuestro a ese nuevo grupo y para esto ejecutamos en la linea de comando lo siguiente:&lt;/p&gt;</description>
     </item>
     <item>
       <title>VIM YouCompleteMe</title>
-      <link>https://federicomazzei.com.ar/2023/03/vim-youcompleteme.html</link>
+      <link>https://www.federicomazzei.com.ar/2023/03/vim-youcompleteme.html</link>
       <pubDate>Fri, 24 Mar 2023 16:55:25 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2023/03/vim-youcompleteme.html</guid>
+      <guid>https://www.federicomazzei.com.ar/2023/03/vim-youcompleteme.html</guid>
       <description>&lt;p&gt;Si te aparece este mensaje dentro de tu editor VIM&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;The ycmd server SHUT DOWN (restart with ‘:YcmRestartServer’). YCM core library not dete…; you need to compile YCM before using it. Follow the instructions in the documentation.&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&#xA;esto se debe a que tu complemento YouCompleteMe necesita ser reinstalado.&lt;/p&gt;&#xA;&lt;p&gt;Es tan simple como posisionarse dentro del directorio de instalación de YouCompleteMe en mi caso /home/fideo/.vim/plugged/youcompleteme y ejecutar esto&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;python install.py&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Esto hará el proceso de instalación y corrige todas las librerías y dependencias que necesita para que se ejecute correctamente el complemento.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anydesk problemas con Wayland Cómo habilitar o deshabilitar wayland en Ubuntu 22.04 Desktop</title>
-      <link>https://federicomazzei.com.ar/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html</link>
+      <link>https://www.federicomazzei.com.ar/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html</link>
       <pubDate>Sun, 01 Jan 2023 10:25:36 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html</guid>
+      <guid>https://www.federicomazzei.com.ar/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html</guid>
       <description>&lt;p&gt;Si estas trantando de usar AnyDesk en linux y te arroja un mensaje de error como este&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;No se admite el servidor remoto de pantalla wayland&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Es porque hay que colocar en &lt;strong&gt;false&lt;/strong&gt; la opción WaylandEnable que se encuentra en &lt;code&gt;/etc/gdm3/custom.conf&lt;/code&gt; esto te permitirá conectarte a esa máquina cliente; es decir que la modificación de &lt;code&gt;/etc/gdm3/custom.conf&lt;/code&gt; hay que hacerla en la PC que queremos conectarnos.&lt;/p&gt;&#xA;&lt;p&gt;Para eso tiene que abrir tu consola en modo administrador / sudo y editar ese archivo, en mi caso yo uso vim asi que sería así:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Copiar buffer consola a entorno gráfico X11</title>
-      <link>https://federicomazzei.com.ar/2021/12/copiar-buffer-consola-a-entorno-grafico-x11.html</link>
+      <link>https://www.federicomazzei.com.ar/2021/12/copiar-buffer-consola-a-entorno-grafico-x11.html</link>
       <pubDate>Wed, 22 Dec 2021 13:05:04 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2021/12/copiar-buffer-consola-a-entorno-grafico-x11.html</guid>
+      <guid>https://www.federicomazzei.com.ar/2021/12/copiar-buffer-consola-a-entorno-grafico-x11.html</guid>
       <description>&lt;p&gt;Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt install xclip&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;echo &amp;#34;Un texto cualquiera&amp;#34; | xclip -i&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Luego si queremos copiar ese texto en la consola hacemos lo siguiente:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;xclip -o &#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;y el resultado sería –&amp;gt; Un texto cualquiera&lt;/p&gt;&#xA;&lt;p&gt;Me encontré con un problema… que al ejecutar el xclip por consola obtenía un mensaje de error que me decía que display no estaba configurado.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como hacer para GitHub no te pida mas el usuario y la cotraseña</title>
-      <link>https://federicomazzei.com.ar/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</link>
+      <link>https://www.federicomazzei.com.ar/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</link>
       <pubDate>Thu, 16 Dec 2021 09:07:15 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</guid>
+      <guid>https://www.federicomazzei.com.ar/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</guid>
       <description>&lt;p&gt;Hace un tiempo &lt;u&gt;GitHub&lt;/u&gt; hizo modificaciones en cuanto a su forma de autentificarse, existen muchas formas de autenticarse con &lt;u&gt;GItHub&lt;/u&gt;; pero una de las mas comunes es que al momento de realizar un &lt;strong&gt;push&lt;/strong&gt; o &lt;strong&gt;pull&lt;/strong&gt; te pida un usuario y una contraseña. Pero ahora para poder realizar esto necesitas tener en tu poder un &lt;strong&gt;Token&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Esto es muy simple de realizar solo tienes que ir a Settings / Developer settings / Personal access token y ahí presionar el botón Generate new token. Te va a pedir un nombre para ese token la cantidad de días que deseas conservar ese token, por defecto viene 30 días, se puede personalizar esta cantidad de días o se puede poner que no expire aunque no es recomendable esto último.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Habilitar o Deshabilitar un servicio en Linux Ubuntu</title>
-      <link>https://federicomazzei.com.ar/2021/12/habilitar-o-deshabilitar-un-servicio-en-linux-ubuntu.html</link>
+      <link>https://www.federicomazzei.com.ar/2021/12/habilitar-o-deshabilitar-un-servicio-en-linux-ubuntu.html</link>
       <pubDate>Thu, 09 Dec 2021 08:31:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2021/12/habilitar-o-deshabilitar-un-servicio-en-linux-ubuntu.html</guid>
+      <guid>https://www.federicomazzei.com.ar/2021/12/habilitar-o-deshabilitar-un-servicio-en-linux-ubuntu.html</guid>
       <description>&lt;p&gt;Si tienes un servicio que necesitas deshabilitar o habilitar acá te dejo los dos comandos que te permitirán realizar esto&lt;/p&gt;&#xA;&lt;p&gt;Para habilitar un servicio debes ejecutar como superusuario systemctl enable servicioAHabilitar.service&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo systemctl enable apache2&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Para deshabilitar ese mismo servicio debes ejecutar (siempre como superusuario) systemctl disable servicioADeshabilitar.service&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo systemctl disable apache2&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     <item>
       <title>Crear un listado de directorios o carpetas desde la consola de linux</title>
-      <link>https://federicomazzei.com.ar/2021/08/crear-un-listado-de-directorios-o-carpetas-desde-la-consola-de-linux.html</link>
+      <link>https://www.federicomazzei.com.ar/2021/08/crear-un-listado-de-directorios-o-carpetas-desde-la-consola-de-linux.html</link>
       <pubDate>Mon, 09 Aug 2021 09:49:14 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2021/08/crear-un-listado-de-directorios-o-carpetas-desde-la-consola-de-linux.html</guid>
+      <guid>https://www.federicomazzei.com.ar/2021/08/crear-un-listado-de-directorios-o-carpetas-desde-la-consola-de-linux.html</guid>
       <description>&lt;p&gt;Tal vez te encuentres con la necesidad de tener que armar una lista de directorios o carpetas, de tu sistema linux, acá te dejo un comando que te permite realizar ese proceso.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;ls -R | grep &amp;#34;:$&amp;#34; | sed -e &amp;#39;s/:$//&amp;#39; -e &amp;#39;s/[^-][^\/]*\//--/g&amp;#39; -e &amp;#39;s/^/ /&amp;#39; -e &amp;#39;s/-/|/&amp;#39;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;También se puede instalar el comando &lt;strong&gt;tree&lt;/strong&gt; que es mucho mas cuidado estéticamente y tiene una cuantos parámetros que lo puedes ejecutar a tu gusto.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Linux no reconoce tu android por conexión USB para usar Droidcam</title>
-      <link>https://federicomazzei.com.ar/2021/07/linux-no-reconoce-tu-android-por-conexion-usb-para-usar-droidcam.html</link>
+      <link>https://www.federicomazzei.com.ar/2021/07/linux-no-reconoce-tu-android-por-conexion-usb-para-usar-droidcam.html</link>
       <pubDate>Tue, 27 Jul 2021 19:40:12 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2021/07/linux-no-reconoce-tu-android-por-conexion-usb-para-usar-droidcam.html</guid>
+      <guid>https://www.federicomazzei.com.ar/2021/07/linux-no-reconoce-tu-android-por-conexion-usb-para-usar-droidcam.html</guid>
       <description>&lt;p&gt;Si tener un celular (dispositivo móvil) con Android y quieres usar la cámara de ese celular como webcam puedes usar un programa que se llama &lt;a href=&#34;https://www.dev47apps.com/&#34; target=&#34;_blank&#34;&gt;Droidcam&lt;/a&gt;, es muy buena opción para no comprar una webcam y usa ese dispositivo viejo que tenías en un cajón.&lt;/p&gt;&#xA;&lt;p&gt;Este artículo trae una solución a un problema frecuente que se dá cuando usas linux, el problema se presenta que no siempre reconoce las conexiones por USB.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Arreglar el error Droidcam unable to find dev/video0</title>
-      <link>https://federicomazzei.com.ar/2021/07/arreglar-el-error-droidcam-unable-to-find-dev-video0.html</link>
+      <link>https://www.federicomazzei.com.ar/2021/07/arreglar-el-error-droidcam-unable-to-find-dev-video0.html</link>
       <pubDate>Tue, 27 Jul 2021 19:21:47 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2021/07/arreglar-el-error-droidcam-unable-to-find-dev-video0.html</guid>
+      <guid>https://www.federicomazzei.com.ar/2021/07/arreglar-el-error-droidcam-unable-to-find-dev-video0.html</guid>
       <description>&lt;p&gt;Los pasos que realicé para que Droidcam vuelva funcionar como tras el error Droidcam unable to find dev/video0&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo apt install v4l2loopback-utils v4l-utils v4l2loopback-dkms cmake nasm yasm pkg-config libgtk2.0-dev&#xA;$ sudo modprobe v4l2loopback&#xA;$ v4l2-ctl --list-devices     # check if you have dummy video devices&#xA;Dummy video device (0x0000) (platform:v4l2loopback-000):&#xA;/dev/video0&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Me pasa muy seguido que tengo que corregir droidcam tras actualizar Ubuntu y para esto solo uso este comando.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo modprobe v4l2loopback&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Que sirve para agregar el módulo v4l2loopback al kernel que acabamos de actualizar.&lt;/p&gt;</description>
     </item>
   </channel>

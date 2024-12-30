@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Federico Mazzei</title>
-    <link>https://federicomazzei.com.ar/categories/linux/</link>
+    <link>https://www.federicomazzei.com.ar/categories/linux/</link>
     <description>Recent content in Linux on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Fri, 24 Mar 2023 19:53:12 +0000</lastBuildDate>
-    <atom:link href="https://federicomazzei.com.ar/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.federicomazzei.com.ar/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comparto la configuración de VIM</title>
-      <link>https://federicomazzei.com.ar/2023/03/comparto-la-configuracion-de-vim.html</link>
+      <link>https://www.federicomazzei.com.ar/2023/03/comparto-la-configuracion-de-vim.html</link>
       <pubDate>Fri, 24 Mar 2023 19:53:12 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2023/03/comparto-la-configuracion-de-vim.html</guid>
+      <guid>https://www.federicomazzei.com.ar/2023/03/comparto-la-configuracion-de-vim.html</guid>
       <description>&lt;p&gt;Dejo en el repositorio de github la configuración de VIM, acá podrás encontrar toda la configuración que utilizo para configurar mi &lt;strong&gt;VIM&lt;/strong&gt;. Los complementos que utilizo son para el desarrollo de sitios webs y para administración de servidores.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/fideo/vim&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;https://github.com/fideo/vim&#34;&gt;https://github.com/fideo/vim&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dentro del repositorio git-hub que compartí en la linea de arriba pueden encontrar varios archivos pero dos son los importantes (los otros son para los videos de youtube) &lt;strong&gt;.vimrc&lt;/strong&gt; y &lt;strong&gt;.vimrc.plug&lt;/strong&gt; ahí está toda la configuración que uno necesita para dejar vim como se muestran en los videos de &lt;a href=&#34;https://www.youtube.com/@FedericoMazzei/videos&#34; target=&#34;_blank&#34;&gt;youtube&lt;/a&gt; (esto puede modificarse con el paso del tiempo)&lt;/p&gt;</description>
     </item>
     <item>
       <title>VIM YouCompleteMe</title>
-      <link>https://federicomazzei.com.ar/2023/03/vim-youcompleteme.html</link>
+      <link>https://www.federicomazzei.com.ar/2023/03/vim-youcompleteme.html</link>
       <pubDate>Fri, 24 Mar 2023 16:55:25 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2023/03/vim-youcompleteme.html</guid>
+      <guid>https://www.federicomazzei.com.ar/2023/03/vim-youcompleteme.html</guid>
       <description>&lt;p&gt;Si te aparece este mensaje dentro de tu editor VIM&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;The ycmd server SHUT DOWN (restart with ‘:YcmRestartServer’). YCM core library not dete…; you need to compile YCM before using it. Follow the instructions in the documentation.&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&#xA;esto se debe a que tu complemento YouCompleteMe necesita ser reinstalado.&lt;/p&gt;&#xA;&lt;p&gt;Es tan simple como posisionarse dentro del directorio de instalación de YouCompleteMe en mi caso /home/fideo/.vim/plugged/youcompleteme y ejecutar esto&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;python install.py&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Esto hará el proceso de instalación y corrige todas las librerías y dependencias que necesita para que se ejecute correctamente el complemento.&lt;/p&gt;</description>
     </item>
   </channel>
