@@ -2,227 +2,227 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Comando on Federico Mazzei</title>
-    <link>http://localhost:1313/tags/comando/</link>
+    <link>https://federicomazzei.com.ar/tags/comando/</link>
     <description>Recent content in Comando on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Sat, 07 Sep 2024 09:05:21 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/comando/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://federicomazzei.com.ar/tags/comando/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Activar la sincronización de Fecha y Hora en Debian Ubuntu</title>
-      <link>http://localhost:1313/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</link>
+      <link>https://federicomazzei.com.ar/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</link>
       <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
-      <guid>http://localhost:1313/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</guid>
+      <guid>https://federicomazzei.com.ar/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</guid>
       <description>&lt;p&gt;Si necesitas activar la sincronización de la fecha y hora en debian ubuntu o cualquier distribución derivada de Debian con un simple comando se puede reparar esto.&lt;/p&gt;&#xA;&lt;p&gt;Me ha pasado que he instalado debian 12 y la notebook donde lo instalé no se sincronizaba correctamente el horario ni la fecha; entonces cada vez que encendía la notebook esta no podía navegar, ya que, estaba desincronizada la fecha y la hora.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Convertir texto de minúscula a MAYÚSCULA en Vim</title>
-      <link>http://localhost:1313/2024/08/convertir-texto-de-minuscula-a-mayuscula-en-vim.html</link>
+      <link>https://federicomazzei.com.ar/2024/08/convertir-texto-de-minuscula-a-mayuscula-en-vim.html</link>
       <pubDate>Fri, 09 Aug 2024 09:13:36 +0000</pubDate>
-      <guid>http://localhost:1313/2024/08/convertir-texto-de-minuscula-a-mayuscula-en-vim.html</guid>
+      <guid>https://federicomazzei.com.ar/2024/08/convertir-texto-de-minuscula-a-mayuscula-en-vim.html</guid>
       <description>&lt;p&gt;Para convertir texto de minúscula a MAYÚSCULA en Vim se puede realizar una convinación de tres o cuatro teclas para conseguir este resultado.&lt;/p&gt;&#xA;&lt;p&gt;Estando en modo NORMAL en vim y presionando las teclas &lt;strong&gt;gUw&lt;/strong&gt; cambian la palabra siguiente de minúscula a MAYÚSCULA y si queremos hacer el paso inverso la convinación de teclas es &lt;strong&gt;guw&lt;/strong&gt; como se puede apreciar el único cambio significativo es la letra &lt;strong&gt;u&lt;/strong&gt; que cambia de minúscula a mayúscula según se necesite cambiar de un estado a otro.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Partir en varios archivos .zip un directorio o un archivo</title>
-      <link>http://localhost:1313/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</link>
+      <link>https://federicomazzei.com.ar/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</link>
       <pubDate>Wed, 05 Jun 2024 12:33:09 +0000</pubDate>
-      <guid>http://localhost:1313/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</guid>
+      <guid>https://federicomazzei.com.ar/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</guid>
       <description>&lt;p&gt;En mi caso necesitaba realizar un comando que me permita partir en varios archivos .zip un directorio o un archivo .iso&lt;/p&gt;&#xA;&lt;p&gt;Obviamente que por pantalla gráfica esto es muy fácil de hacer pero el problema se presenta cuando estas accediendo a un servidor y tienes que partir un archivo grande en varios fragmentos para poder transportarlo ya sea para mandar por mail o copiarlo a otro lugar.&lt;/p&gt;&#xA;&lt;p&gt;En principio tenemos que tener instalado el &lt;strong&gt;p7zip&lt;/strong&gt; si no lo tenes instalado en Ubuntu o linux derivados de Debian se instala así:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como averiguar el id de AnyDesk por consola o terminal en linux</title>
-      <link>http://localhost:1313/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</link>
+      <link>https://federicomazzei.com.ar/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</link>
       <pubDate>Mon, 13 May 2024 12:02:51 +0000</pubDate>
-      <guid>http://localhost:1313/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</guid>
+      <guid>https://federicomazzei.com.ar/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</guid>
       <description>&lt;p&gt;Como averiguar el id de AnyDesk por consola o terminal en linux. Si por casulidad tenes instalado AnyDesk y no conoces el id de tu cuenta con AnyDesk la podes averiguar accediendo desde consola o terminal a tu equipo.&lt;/p&gt;&#xA;&lt;p&gt;Claro si accedes por consola o terminal a tu equipo podrías decir para que si ya tengo conexión con mi computadora a través de mi linea de comandos si puede ser… pero muchas veces necesitas ver o acceder visualmente a tu computadora y esto lo podes hacer con AnyDesk o un servicio de VNC activo en la computadora. Si tu caso es el de AnyDesk y no conoces el id lo podes averiguar con este comando.&lt;/p&gt;</description>
     </item>
     <item>
       <title>No funciona Wi-Fi en tu notebook con Linux</title>
-      <link>http://localhost:1313/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</link>
+      <link>https://federicomazzei.com.ar/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</link>
       <pubDate>Fri, 01 Mar 2024 09:42:36 +0000</pubDate>
-      <guid>http://localhost:1313/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</guid>
+      <guid>https://federicomazzei.com.ar/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</guid>
       <description>&lt;p&gt;Si terminaste de instalar Linux y no te funciona el Wi-Fi tenes que realizar los siguientes pasos para que empiece a funcionar.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Estos pasos a continuación son para distribuciones basadas en Debian&lt;/p&gt;&#xA;&lt;p&gt;&lt;cite&gt;Ubuntu y sus sabores, Neon, Loc-Os, Linux Mint, PureOS, Deepin, Kali Linux, etc. etc.&lt;/cite&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Antes de empezar a ejecutar los comandos que siguen a continuación tenemos que conseguir una conexión por cable de red para poder ejecutar algunos comando y descargar algunos componentes desde internet. Luego de conectarnos a la red de internet con cable lo primero que vamos a realizar es ejecutar la actualización de los repositorios; para esto ejecutamos este comando&lt;/p&gt;</description>
     </item>
     <item>
       <title>Copiar y pegar entre Vim y tu sistema operativo</title>
-      <link>http://localhost:1313/2023/09/copiar-y-pegar-entre-vim-y-tu-sistema-operativo.html</link>
+      <link>https://federicomazzei.com.ar/2023/09/copiar-y-pegar-entre-vim-y-tu-sistema-operativo.html</link>
       <pubDate>Thu, 14 Sep 2023 15:52:22 +0000</pubDate>
-      <guid>http://localhost:1313/2023/09/copiar-y-pegar-entre-vim-y-tu-sistema-operativo.html</guid>
+      <guid>https://federicomazzei.com.ar/2023/09/copiar-y-pegar-entre-vim-y-tu-sistema-operativo.html</guid>
       <description>&lt;p&gt;Si necesitas copiar y pegar entre Vim y tu sistema operativo este es tu post. Pasa y muy seguido que tengas que copiar algo desde lo que estas editando con Vim y llevarlo a otro “contexto” que es tu sistema operativo&lt;/p&gt;&#xA;&lt;p&gt;Esto puede ser un dolor de cabeza si no se entiende bien como es que funcionan los registros de vim.&lt;/p&gt;&#xA;&lt;p&gt;En Vim existen registros donde uno pueda guardar lo que llevamos al portapapeles por ejemplo, si nosotros quisiesemos copiar una línea y grabarla en el registro “a” solo tendríamos que seleccionar lo que necesitamos copiar y luego ejecutar:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vim - Borrar el contenido de un tag con vim</title>
-      <link>http://localhost:1313/2023/09/borrar-el-contenido-de-un-tag-con-vim.html</link>
+      <link>https://federicomazzei.com.ar/2023/09/borrar-el-contenido-de-un-tag-con-vim.html</link>
       <pubDate>Tue, 05 Sep 2023 15:44:41 +0000</pubDate>
-      <guid>http://localhost:1313/2023/09/borrar-el-contenido-de-un-tag-con-vim.html</guid>
+      <guid>https://federicomazzei.com.ar/2023/09/borrar-el-contenido-de-un-tag-con-vim.html</guid>
       <description>&lt;p&gt;Para borrar el contenido de un tag con vim solo necesitamos usar o presionar tres teclas&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;dit&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;la “d” de delete&lt;br&gt;&#xA;la “i” de inside&lt;br&gt;&#xA;la “t” de tag&lt;/p&gt;&#xA;&lt;p&gt;Entonces parados sobre el tag que queremos borrar el contenido ejecutamos esas tred teclas y el contenido se borrará&lt;/p&gt;&#xA;&lt;p&gt;También podemos utilizar la combinación de teclas dat para borrar el tag completo incluido en el que estamos posicionado.&lt;/p&gt;&#xA;&lt;p&gt;También se puede borrar por ejemplo el contenido de una llave o un corchete o lo que está encerrado entre una comilla simple o doble.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vimdiff comparar dos archivos con VIM</title>
-      <link>http://localhost:1313/2023/09/vimdiff-comparar-dos-archivos-con-vim.html</link>
+      <link>https://federicomazzei.com.ar/2023/09/vimdiff-comparar-dos-archivos-con-vim.html</link>
       <pubDate>Sun, 03 Sep 2023 15:43:59 +0000</pubDate>
-      <guid>http://localhost:1313/2023/09/vimdiff-comparar-dos-archivos-con-vim.html</guid>
+      <guid>https://federicomazzei.com.ar/2023/09/vimdiff-comparar-dos-archivos-con-vim.html</guid>
       <description>&lt;p&gt;Hoy vamos a usar Vimdiff (vim -d) para comparar dos archivos con VIM.&lt;/p&gt;&#xA;&lt;p&gt;Vimdiff nos permite comparar dos archivos, este comando es muy bueno cuando por ejemplo bajamos un archivo de un servidor y lo queremos comparar con lo que tenemos localmente.&lt;/p&gt;&#xA;&lt;p&gt;Para ejecutar este comando es muy fácil solo tenemos que seleccionar dos archivos que queremos comparar para eso yo generé dos archivos de muestra que los dejo en el repositorio de github &lt;a href=&#34;https://github.com/fideo/vim&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;https://github.com/fideo/vim&#34;&gt;https://github.com/fideo/vim&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Configurar DKIM con OpenDKIM en Cloudflare</title>
-      <link>http://localhost:1313/2023/06/configurar-dkim-con-opendkim-en-cloudflare.html</link>
+      <link>https://federicomazzei.com.ar/2023/06/configurar-dkim-con-opendkim-en-cloudflare.html</link>
       <pubDate>Fri, 30 Jun 2023 11:21:35 +0000</pubDate>
-      <guid>http://localhost:1313/2023/06/configurar-dkim-con-opendkim-en-cloudflare.html</guid>
+      <guid>https://federicomazzei.com.ar/2023/06/configurar-dkim-con-opendkim-en-cloudflare.html</guid>
       <description>&lt;p&gt;Hace un tiempo cambié de proveedor de hosting y tuve que configurar yo los registros DKIM en Cloudflare y me encontré con el problema que no sabía como obtener las claves DKIM; bueno acá dejo un instructivo de lo que hice para que me dejen de llegar los mails tipo spoofing.&lt;/p&gt;&#xA;&lt;p&gt;DKIM o DomainKeys Identified Mail en inglés son las claves de identificación de dominio digitales que sirven para que un intruso no mande mails en tu nombre es decir usando tu dominio; a esto se lo conoce como spoofing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comandos básicos para VIM</title>
-      <link>http://localhost:1313/2023/06/comandos-basicos-para-vim.html</link>
+      <link>https://federicomazzei.com.ar/2023/06/comandos-basicos-para-vim.html</link>
       <pubDate>Tue, 20 Jun 2023 10:18:11 +0000</pubDate>
-      <guid>http://localhost:1313/2023/06/comandos-basicos-para-vim.html</guid>
+      <guid>https://federicomazzei.com.ar/2023/06/comandos-basicos-para-vim.html</guid>
       <description>&lt;p&gt;Estos son algunos de los comandos básicos que uso a diario cuando utilizo VIM.&lt;/p&gt;&#xA;&lt;h2 id=&#34;iniciar-vim&#34;&gt;Iniciar VIM&lt;/h2&gt;&#xA;&lt;p&gt;Si usas por primera vez vim tal vez no sepas por donde empezar y deberías empezar por instalar vim aunque hoy en día la mayoría de las distribuciones linux traen instalado vim; si esto no es así solo bastará con realizar&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt install vim &#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;o el comando similar a este último que tu distribución necesite para instalarlo; en este caso esa instrucción sirve para las distribuciones basadas en debian como por ejemplo Ubuntu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comparto la configuración de VIM</title>
-      <link>http://localhost:1313/2023/03/comparto-la-configuracion-de-vim.html</link>
+      <link>https://federicomazzei.com.ar/2023/03/comparto-la-configuracion-de-vim.html</link>
       <pubDate>Fri, 24 Mar 2023 19:53:12 +0000</pubDate>
-      <guid>http://localhost:1313/2023/03/comparto-la-configuracion-de-vim.html</guid>
+      <guid>https://federicomazzei.com.ar/2023/03/comparto-la-configuracion-de-vim.html</guid>
       <description>&lt;p&gt;Dejo en el repositorio de github la configuración de VIM, acá podrás encontrar toda la configuración que utilizo para configurar mi &lt;strong&gt;VIM&lt;/strong&gt;. Los complementos que utilizo son para el desarrollo de sitios webs y para administración de servidores.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/fideo/vim&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;https://github.com/fideo/vim&#34;&gt;https://github.com/fideo/vim&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dentro del repositorio git-hub que compartí en la linea de arriba pueden encontrar varios archivos pero dos son los importantes (los otros son para los videos de youtube) &lt;strong&gt;.vimrc&lt;/strong&gt; y &lt;strong&gt;.vimrc.plug&lt;/strong&gt; ahí está toda la configuración que uno necesita para dejar vim como se muestran en los videos de &lt;a href=&#34;https://www.youtube.com/@FedericoMazzei/videos&#34; target=&#34;_blank&#34;&gt;youtube&lt;/a&gt; (esto puede modificarse con el paso del tiempo)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anydesk problemas con Wayland Cómo habilitar o deshabilitar wayland en Ubuntu 22.04 Desktop</title>
-      <link>http://localhost:1313/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html</link>
+      <link>https://federicomazzei.com.ar/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html</link>
       <pubDate>Sun, 01 Jan 2023 10:25:36 +0000</pubDate>
-      <guid>http://localhost:1313/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html</guid>
+      <guid>https://federicomazzei.com.ar/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html</guid>
       <description>&lt;p&gt;Si estas trantando de usar AnyDesk en linux y te arroja un mensaje de error como este&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;No se admite el servidor remoto de pantalla wayland&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Es porque hay que colocar en &lt;strong&gt;false&lt;/strong&gt; la opción WaylandEnable que se encuentra en &lt;code&gt;/etc/gdm3/custom.conf&lt;/code&gt; esto te permitirá conectarte a esa máquina cliente; es decir que la modificación de &lt;code&gt;/etc/gdm3/custom.conf&lt;/code&gt; hay que hacerla en la PC que queremos conectarnos.&lt;/p&gt;&#xA;&lt;p&gt;Para eso tiene que abrir tu consola en modo administrador / sudo y editar ese archivo, en mi caso yo uso vim asi que sería así:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vim el editor de texto mejorado Vi</title>
-      <link>http://localhost:1313/2022/02/vim-el-editor-de-texto-mejorado-vi.html</link>
+      <link>https://federicomazzei.com.ar/2022/02/vim-el-editor-de-texto-mejorado-vi.html</link>
       <pubDate>Fri, 25 Feb 2022 08:34:44 +0000</pubDate>
-      <guid>http://localhost:1313/2022/02/vim-el-editor-de-texto-mejorado-vi.html</guid>
+      <guid>https://federicomazzei.com.ar/2022/02/vim-el-editor-de-texto-mejorado-vi.html</guid>
       <description>&lt;p&gt;Vi fue creado por William Nelson Joy mas conocido como Bill Joy; él empezó a desarrolar allá por el año 1976 este editor. Luego en 1991 Bram Moolenaar realiza una mejora este editor y lo llama Vim siendo este uno de los editores de texto mas utilizados por los desarrolladores.&lt;/p&gt;&#xA;&lt;p&gt;Pero este post no trata de hablar de historia de Vim sino de lo que se puede hacer con él.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comando para obtener la dirección ip interna de una PC</title>
-      <link>http://localhost:1313/2022/01/comando-para-obtener-la-direccion-ip-interna-de-una-pc.html</link>
+      <link>https://federicomazzei.com.ar/2022/01/comando-para-obtener-la-direccion-ip-interna-de-una-pc.html</link>
       <pubDate>Thu, 06 Jan 2022 12:02:22 +0000</pubDate>
-      <guid>http://localhost:1313/2022/01/comando-para-obtener-la-direccion-ip-interna-de-una-pc.html</guid>
+      <guid>https://federicomazzei.com.ar/2022/01/comando-para-obtener-la-direccion-ip-interna-de-una-pc.html</guid>
       <description>&lt;p&gt;En linux podemos obtener de varias formas la ip interna de una PC; lo más común es ejecutar &lt;code&gt;ifconfig&lt;/code&gt; directamente en la consola, pero para esto tenemos que tener instalado net-tools.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt install net-tools&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Pero yo no quería instalar nada (de caprichoso nomás) y fui por la forma tradicional que tiene linux para mostrarte las ip y es con el comando ip propiamente dicho que acompañado por el objeto address te muestra las direcciones ip creadas para tu PC. Pero si ejecutamos esto en nuestro linux&lt;/p&gt;</description>
     </item>
     <item>
       <title>Copiar buffer consola a entorno gráfico X11</title>
-      <link>http://localhost:1313/2021/12/copiar-buffer-consola-a-entorno-grafico-x11.html</link>
+      <link>https://federicomazzei.com.ar/2021/12/copiar-buffer-consola-a-entorno-grafico-x11.html</link>
       <pubDate>Wed, 22 Dec 2021 13:05:04 +0000</pubDate>
-      <guid>http://localhost:1313/2021/12/copiar-buffer-consola-a-entorno-grafico-x11.html</guid>
+      <guid>https://federicomazzei.com.ar/2021/12/copiar-buffer-consola-a-entorno-grafico-x11.html</guid>
       <description>&lt;p&gt;Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt install xclip&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;echo &amp;#34;Un texto cualquiera&amp;#34; | xclip -i&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Luego si queremos copiar ese texto en la consola hacemos lo siguiente:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;xclip -o &#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;y el resultado sería –&amp;gt; Un texto cualquiera&lt;/p&gt;&#xA;&lt;p&gt;Me encontré con un problema… que al ejecutar el xclip por consola obtenía un mensaje de error que me decía que display no estaba configurado.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como hacer para GitHub no te pida mas el usuario y la cotraseña</title>
-      <link>http://localhost:1313/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</link>
+      <link>https://federicomazzei.com.ar/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</link>
       <pubDate>Thu, 16 Dec 2021 09:07:15 +0000</pubDate>
-      <guid>http://localhost:1313/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</guid>
+      <guid>https://federicomazzei.com.ar/2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html</guid>
       <description>&lt;p&gt;Hace un tiempo &lt;u&gt;GitHub&lt;/u&gt; hizo modificaciones en cuanto a su forma de autentificarse, existen muchas formas de autenticarse con &lt;u&gt;GItHub&lt;/u&gt;; pero una de las mas comunes es que al momento de realizar un &lt;strong&gt;push&lt;/strong&gt; o &lt;strong&gt;pull&lt;/strong&gt; te pida un usuario y una contraseña. Pero ahora para poder realizar esto necesitas tener en tu poder un &lt;strong&gt;Token&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Esto es muy simple de realizar solo tienes que ir a Settings / Developer settings / Personal access token y ahí presionar el botón Generate new token. Te va a pedir un nombre para ese token la cantidad de días que deseas conservar ese token, por defecto viene 30 días, se puede personalizar esta cantidad de días o se puede poner que no expire aunque no es recomendable esto último.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Habilitar o Deshabilitar un servicio en Linux Ubuntu</title>
-      <link>http://localhost:1313/2021/12/habilitar-o-deshabilitar-un-servicio-en-linux-ubuntu.html</link>
+      <link>https://federicomazzei.com.ar/2021/12/habilitar-o-deshabilitar-un-servicio-en-linux-ubuntu.html</link>
       <pubDate>Thu, 09 Dec 2021 08:31:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/12/habilitar-o-deshabilitar-un-servicio-en-linux-ubuntu.html</guid>
+      <guid>https://federicomazzei.com.ar/2021/12/habilitar-o-deshabilitar-un-servicio-en-linux-ubuntu.html</guid>
       <description>&lt;p&gt;Si tienes un servicio que necesitas deshabilitar o habilitar acá te dejo los dos comandos que te permitirán realizar esto&lt;/p&gt;&#xA;&lt;p&gt;Para habilitar un servicio debes ejecutar como superusuario systemctl enable servicioAHabilitar.service&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo systemctl enable apache2&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Para deshabilitar ese mismo servicio debes ejecutar (siempre como superusuario) systemctl disable servicioADeshabilitar.service&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo systemctl disable apache2&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     <item>
       <title>Hacer que Docker no inicie automáticamente</title>
-      <link>http://localhost:1313/2021/12/hacer-que-docker-no-inicie-automaticamente.html</link>
+      <link>https://federicomazzei.com.ar/2021/12/hacer-que-docker-no-inicie-automaticamente.html</link>
       <pubDate>Fri, 03 Dec 2021 10:55:05 +0000</pubDate>
-      <guid>http://localhost:1313/2021/12/hacer-que-docker-no-inicie-automaticamente.html</guid>
+      <guid>https://federicomazzei.com.ar/2021/12/hacer-que-docker-no-inicie-automaticamente.html</guid>
       <description>&lt;p&gt;Me pasó que necesitaba por un tiempo hacer que docker no inicie automáticamente; es decir, que cuando se reinicia el Servidor las imágenes de docker no se carguen automáticamente.&lt;/p&gt;&#xA;&lt;p&gt;El proyecto yo lo tenía con docker-compose, pero para esto usé solo los comandos de docker.&lt;/p&gt;&#xA;&lt;p&gt;Primero chequeo lo que está corriendo con&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;docker ps&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Debería mostrar todas las imágenes que tenemos corriendo&lt;/p&gt;&#xA;&lt;figure class=&#34;wp-block-table is-style-stripes&#34;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;CONTAINER ID&lt;/td&gt;&lt;td&gt;IMAGE&lt;/td&gt;&lt;td&gt;COMMAND&lt;/td&gt;&lt;td&gt;CREATED&lt;/td&gt;&lt;td&gt;STATUS&lt;/td&gt;&lt;td&gt;PORTS&lt;/td&gt;&lt;td&gt;NAMES&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;e1dff1f51add&lt;/td&gt;&lt;td&gt;grafana/grafana&lt;/td&gt;&lt;td&gt;“/run.sh”&lt;/td&gt;&lt;td&gt;5 months ago&lt;/td&gt;&lt;td&gt;Up 47 seconds&lt;/td&gt;&lt;td&gt;0.0.0.0:3030-&amp;gt;3000/tcp, :::3030-&amp;gt;3000/tcp&lt;/td&gt;&lt;td&gt;internetmonitoring\_grafana\_1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;031ec8738933&lt;/td&gt;&lt;td&gt;prom/prometheus:v2.25.2&lt;/td&gt;&lt;td&gt;“/bin/prometheus –c…”&lt;/td&gt;&lt;td&gt;5 months ago&lt;/td&gt;&lt;td&gt;Up 55 seconds&lt;/td&gt;&lt;td&gt;0.0.0.0:9090-&amp;gt;9090/tcp, :::9090-&amp;gt;9090/tcp&lt;/td&gt;&lt;td&gt;internetmonitoring\_prometheus\_1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5f3eb5b03d57&lt;/td&gt;&lt;td&gt;prom/node-exporter&lt;/td&gt;&lt;td&gt;“/bin/node\_exporter …”&lt;/td&gt;&lt;td&gt;5 months ago&lt;/td&gt;&lt;td&gt;Up About a minute&lt;/td&gt;&lt;td&gt;0.0.0.0:9100-&amp;gt;9100/tcp, :::9100-&amp;gt;9100/tcp&lt;/td&gt;&lt;td&gt;internetmonitoring\_nodeexp\_1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9bb31e45eb8e&lt;/td&gt;&lt;td&gt;prom/blackbox-exporter&lt;/td&gt;&lt;td&gt;“/bin/blackbox\_expor…”&lt;/td&gt;&lt;td&gt;5 months ago&lt;/td&gt;&lt;td&gt;Up About a minute&lt;/td&gt;&lt;td&gt;0.0.0.0:9115-&amp;gt;9115/tcp, :::9115-&amp;gt;9115/tcp&lt;/td&gt;&lt;td&gt;internetmonitoring\_ping\_1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7987218a65d9&lt;/td&gt;&lt;td&gt;miguelndecarvalho/speedtest-exporter&lt;/td&gt;&lt;td&gt;“python -u exporter.…”&lt;/td&gt;&lt;td&gt;5 months ago&lt;/td&gt;&lt;td&gt;Up About a minute&lt;/td&gt;&lt;td&gt;0.0.0.0:9798-&amp;gt;9798/tcp, :::9798-&amp;gt;9798/tcp&lt;/td&gt;&lt;td&gt;internetmonitoring\_speedtest\_1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&#xA;&lt;/figure&gt;luego ejecutamos este comando para deshabilitar por ejemplo la primer imagen la de grafana en el caso de arriba&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;docker update --restart no e1dff1f51add&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Y así sucesivamente con todas las imágenes que queremos que NO se inicie al reiniciar nuestro servidor.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Droidcam no funciona en Google Chrome Linux</title>
-      <link>http://localhost:1313/2021/11/droidcam-no-funciona-en-google-chrome-linux.html</link>
+      <link>https://federicomazzei.com.ar/2021/11/droidcam-no-funciona-en-google-chrome-linux.html</link>
       <pubDate>Wed, 17 Nov 2021 20:51:29 +0000</pubDate>
-      <guid>http://localhost:1313/2021/11/droidcam-no-funciona-en-google-chrome-linux.html</guid>
+      <guid>https://federicomazzei.com.ar/2021/11/droidcam-no-funciona-en-google-chrome-linux.html</guid>
       <description>&lt;p&gt;Droidcam no funciona en google chrome en un sistema operativo Linux; en Windows funciona perfectamente, pero en Linux lo podía hacer funcionar hasta que entendí que para que google chrome lo tome hay que ejecutar una serie de comandos&lt;/p&gt;&#xA;&lt;p&gt;Como primer paso ejecutamos esto en la consola de linux.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt install linux-headers-`uname -r` gcc make&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Luego nos dirigimos a donde tenemos instalado Droidcam; yo lo suelo instalar en &lt;code&gt;/opt/&lt;/code&gt; es decir que ingreso a&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como copiar directorios o archivos de un Docker a Local o viceversa</title>
-      <link>http://localhost:1313/2021/11/como-copiar-directorios-o-archivos-de-un-docker-a-local-o-viceversa.html</link>
+      <link>https://federicomazzei.com.ar/2021/11/como-copiar-directorios-o-archivos-de-un-docker-a-local-o-viceversa.html</link>
       <pubDate>Tue, 16 Nov 2021 12:42:14 +0000</pubDate>
-      <guid>http://localhost:1313/2021/11/como-copiar-directorios-o-archivos-de-un-docker-a-local-o-viceversa.html</guid>
+      <guid>https://federicomazzei.com.ar/2021/11/como-copiar-directorios-o-archivos-de-un-docker-a-local-o-viceversa.html</guid>
       <description>&lt;p&gt;A veces necesitamos copiar un archivo desde nuestra máquina local de desarrollo al docker o viceversa; esto es muy común o frecuente que tengas que realizarlo cuando estás desarrollando una app, una web o lo que fuese dentro de un Docker.&lt;/p&gt;&#xA;&lt;p&gt;Para esto tenemos un par de comandos que son muy útiles.&lt;br&gt;&#xA;El primero sirve para copiar desde un contenedor docker a una máquina local:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;docker cp NOMBRE_CONTENEDOR:RUTA_DEL_CONTENEDOR RUTA_LOCAL&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;El segundo sirve para copiar desde la pc local a un contenedor docker:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comandos útiles para Docker</title>
-      <link>http://localhost:1313/2021/11/comandos-utiles-para-docker.html</link>
+      <link>https://federicomazzei.com.ar/2021/11/comandos-utiles-para-docker.html</link>
       <pubDate>Tue, 02 Nov 2021 10:25:20 +0000</pubDate>
-      <guid>http://localhost:1313/2021/11/comandos-utiles-para-docker.html</guid>
+      <guid>https://federicomazzei.com.ar/2021/11/comandos-utiles-para-docker.html</guid>
       <description>&lt;p&gt;Esto tal vez le puede servir a mas de uno y de paso me lo dejo como ayuda memoria&lt;/p&gt;&#xA;&lt;p&gt;Usé un dockerfile para crear un esquema de wordpress es decir que ese docker contiene un nginx, una base mysql (mariadb) y el lenguaje PHP que utiliza WordPress; cuando levantaba el docker con docker-compose up la base me daba error entonces necesitaba ejecutar por consola algunos comandos para poder crear la base que no la había creado y también para darle privilegios al usuario en cuestión.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Github pide usuario y contraseña siempre</title>
-      <link>http://localhost:1313/2021/09/github-pide-usuario-y-contrasena-siempre.html</link>
+      <link>https://federicomazzei.com.ar/2021/09/github-pide-usuario-y-contrasena-siempre.html</link>
       <pubDate>Thu, 30 Sep 2021 19:51:24 +0000</pubDate>
-      <guid>http://localhost:1313/2021/09/github-pide-usuario-y-contrasena-siempre.html</guid>
+      <guid>https://federicomazzei.com.ar/2021/09/github-pide-usuario-y-contrasena-siempre.html</guid>
       <description>&lt;p&gt;Si sos uno de los tantos que se cansa cada vez que tienes que hacer pull o push a un repositorio en github poniendo el usuario y la contraseña, puedes realizar estos pasos y dejará de pedirte user y pass cada vez que quieras realizar un pull o push a github.&lt;/p&gt;&#xA;&lt;p&gt;Primero tienes que ver que esté funcionando el ssh-agent para eso ejecutar este comando en la consola de linux&lt;/p&gt;</description>
     </item>
     <item>
       <title>Crear un listado de directorios o carpetas desde la consola de linux</title>
-      <link>http://localhost:1313/2021/08/crear-un-listado-de-directorios-o-carpetas-desde-la-consola-de-linux.html</link>
+      <link>https://federicomazzei.com.ar/2021/08/crear-un-listado-de-directorios-o-carpetas-desde-la-consola-de-linux.html</link>
       <pubDate>Mon, 09 Aug 2021 09:49:14 +0000</pubDate>
-      <guid>http://localhost:1313/2021/08/crear-un-listado-de-directorios-o-carpetas-desde-la-consola-de-linux.html</guid>
+      <guid>https://federicomazzei.com.ar/2021/08/crear-un-listado-de-directorios-o-carpetas-desde-la-consola-de-linux.html</guid>
       <description>&lt;p&gt;Tal vez te encuentres con la necesidad de tener que armar una lista de directorios o carpetas, de tu sistema linux, acá te dejo un comando que te permite realizar ese proceso.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;ls -R | grep &amp;#34;:$&amp;#34; | sed -e &amp;#39;s/:$//&amp;#39; -e &amp;#39;s/[^-][^\/]*\//--/g&amp;#39; -e &amp;#39;s/^/ /&amp;#39; -e &amp;#39;s/-/|/&amp;#39;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;También se puede instalar el comando &lt;strong&gt;tree&lt;/strong&gt; que es mucho mas cuidado estéticamente y tiene una cuantos parámetros que lo puedes ejecutar a tu gusto.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comando dd clonar copiar una ISO a un Pendrive</title>
-      <link>http://localhost:1313/2020/08/comando-dd-clonar-copiar-una-iso-a-un-pendrive.html</link>
+      <link>https://federicomazzei.com.ar/2020/08/comando-dd-clonar-copiar-una-iso-a-un-pendrive.html</link>
       <pubDate>Tue, 18 Aug 2020 18:46:56 +0000</pubDate>
-      <guid>http://localhost:1313/2020/08/comando-dd-clonar-copiar-una-iso-a-un-pendrive.html</guid>
+      <guid>https://federicomazzei.com.ar/2020/08/comando-dd-clonar-copiar-una-iso-a-un-pendrive.html</guid>
       <description>&lt;p&gt;En este post muestro como generar un pendrive booteable para instalar linux ubuntu por ejemplo, con el comando dd (Dataset Definition), pero sirve para cualquier imagen de disco que tenga un sistema operativo o que sea booteable esa imagen luego de ser instalada dentro del pendrive.&lt;/p&gt;&#xA;&lt;p&gt;Para esto vamos a usar primero el comando &lt;code&gt;lsblk&lt;/code&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;lsblk&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Este comando nos permite listar todos los dispositivos como por ejemplo discos duros, SSD, memorias flash, CD-ROM; una vez que visualizamos donde se encuentra nuestro pendrive procedemos a desmontarlo con el comando umount&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comprimir y descomprimir archivos o directorios con 7zip</title>
-      <link>http://localhost:1313/2020/06/comprimir-y-descomprimir-archivos-o-directorios-con-7zip.html</link>
+      <link>https://federicomazzei.com.ar/2020/06/comprimir-y-descomprimir-archivos-o-directorios-con-7zip.html</link>
       <pubDate>Wed, 24 Jun 2020 07:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2020/06/comprimir-y-descomprimir-archivos-o-directorios-con-7zip.html</guid>
+      <guid>https://federicomazzei.com.ar/2020/06/comprimir-y-descomprimir-archivos-o-directorios-con-7zip.html</guid>
       <description>&lt;p&gt;Desde la consola se puede comprimir archivo o directorios con un simple comando&lt;/p&gt;&#xA;&lt;h2 id=&#34;comprimir&#34;&gt;Comprimir&lt;/h2&gt;&#xA;&lt;p&gt;Si se necesita comprimir una carpeta o un archivo lo que se necesita hacer es lo siguiente:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;7z a archivo_comprimido.7z /ruta/a/carpetas/ /ruta/a/archivos&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;A fines prácticos si se necesita realizar una compresión de un directorio o carpeta el comando sería el siguiente:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;7z a directorios_comprimidos.7z /ruta/a/carpetas/&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;si fuese un archivo solo el comando sería el siguiente&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;7z a archivo_comprimido.7z /ruta/a/archivos&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;extraer&#34;&gt;Extraer&lt;/h2&gt;&#xA;&lt;p&gt;Para poder extraer el contenido de un archivo zipeado ya sea con la extensión .zip o .7z&lt;/p&gt;</description>
     </item>
     <item>
       <title>Realizar backup en mongo con mongodump y mongorestore</title>
-      <link>http://localhost:1313/2020/06/realizar-backup-en-mongo-con-mongodump-y-mongorestore.html</link>
+      <link>https://federicomazzei.com.ar/2020/06/realizar-backup-en-mongo-con-mongodump-y-mongorestore.html</link>
       <pubDate>Tue, 23 Jun 2020 11:35:00 +0000</pubDate>
-      <guid>http://localhost:1313/2020/06/realizar-backup-en-mongo-con-mongodump-y-mongorestore.html</guid>
+      <guid>https://federicomazzei.com.ar/2020/06/realizar-backup-en-mongo-con-mongodump-y-mongorestore.html</guid>
       <description>&lt;p&gt;Si necesitas hacer un backup de tu base de datos con mongo este artículo te puede ayudar&lt;/p&gt;&#xA;&lt;p&gt;En el próximo comando realizo un backup de la base de datos llamada gastosmensuales y lo llego al directorio /home/fideo/dumps/ claro que esto puede cambiarse por la dirección que ustedes prefieran /home/user/lugarqueprefieran&lt;/p&gt;&#xA;&lt;h2 id=&#34;backup&#34;&gt;&lt;strong&gt;Backup&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;mongodump –db gastosmensuales –out /home/fideo/dumps/&lt;/p&gt;&#xA;&lt;p&gt;Acá abajo les dejo un script para que puedan ejecutar y les genere el backup; esto lo pueden poner dentro de un cron (en linux claro) y lo ejecutan cada X cantidad de tiempo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Obtener una lista de software instalados en una PC</title>
-      <link>http://localhost:1313/2020/06/obtener-una-lista-de-software-instalados-en-una-pc.html</link>
+      <link>https://federicomazzei.com.ar/2020/06/obtener-una-lista-de-software-instalados-en-una-pc.html</link>
       <pubDate>Wed, 17 Jun 2020 12:30:06 +0000</pubDate>
-      <guid>http://localhost:1313/2020/06/obtener-una-lista-de-software-instalados-en-una-pc.html</guid>
+      <guid>https://federicomazzei.com.ar/2020/06/obtener-una-lista-de-software-instalados-en-una-pc.html</guid>
       <description>&lt;p&gt;Si deseamos obtener una lista de todos los software que tenemos instalados en una pc solo basta con correr este comando a continuación y nos generará un archivo de salida ubicado en nuestra raíz del disco C. Se puede modificar esto para que lo escriba en donde uno lo necesite.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;wmic product get name&amp;#34;,&amp;#34; version| out-File &amp;#34;C:\lista_productos_instalados.txt&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Si quisiéramos tener también una lista de todos los servicios que están corriendo en una PC deberíamos utilizar este comando a continuación; el cual nos genera un archivo txt con la lista de todos los servicios encontrados.&lt;/p&gt;</description>
     </item>
     <item>
       <title>¿Que debo ejecutar para saber si mi linux es de 32 Bits o de 64 Bits?</title>
-      <link>http://localhost:1313/2020/06/que-debo-ejecutar-para-saber-si-mi-linux-es-de-32-bits-o-de-64-bits.html</link>
+      <link>https://federicomazzei.com.ar/2020/06/que-debo-ejecutar-para-saber-si-mi-linux-es-de-32-bits-o-de-64-bits.html</link>
       <pubDate>Tue, 09 Jun 2020 07:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2020/06/que-debo-ejecutar-para-saber-si-mi-linux-es-de-32-bits-o-de-64-bits.html</guid>
+      <guid>https://federicomazzei.com.ar/2020/06/que-debo-ejecutar-para-saber-si-mi-linux-es-de-32-bits-o-de-64-bits.html</guid>
       <description>&lt;p&gt;Para ver que tipo de arquitectura es nuestro sistema operativo Linux que estoy usando; es decir, si es de 32 Bits o de 64 Bits; para eso se ejecuta en consola el siguiente comando&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;#!/bin/bash&#xA;uname -m&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Donde muestra i686 para los sistemas operativos de 32 Bits y x86_64 para los que son de 64 Bits.&lt;/p&gt;&#xA;&lt;p&gt;El comando &lt;code&gt;uname&lt;/code&gt; tiene un montón de información al ejecutarlo de la siguiente manera&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;uname -a&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;-a, &amp;ndash;all                imprime toda la información, en el siguiente orden, omitiendo -p y -i&lt;/p&gt;</description>
     </item>
     <item>
       <title>Crear un repositorio git en servidor propio</title>
-      <link>http://localhost:1313/2017/09/crear-un-repositorio-git-en-servidor-propio.html</link>
+      <link>https://federicomazzei.com.ar/2017/09/crear-un-repositorio-git-en-servidor-propio.html</link>
       <pubDate>Fri, 15 Sep 2017 12:17:37 +0000</pubDate>
-      <guid>http://localhost:1313/2017/09/crear-un-repositorio-git-en-servidor-propio.html</guid>
+      <guid>https://federicomazzei.com.ar/2017/09/crear-un-repositorio-git-en-servidor-propio.html</guid>
       <description>&lt;p&gt;Para crear un repositorio git en servidor propio hay que seguir algunos pasos muy simples, pero deben hacerse en esta secuencia sin alterar nada.&lt;/p&gt;&#xA;&lt;h4 id=&#34;servidor&#34;&gt;Servidor&lt;/h4&gt;&#xA;&lt;p&gt;Primero entramos al servidor una vez dentro ejecutamos lo siguiente:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;pre class=&amp;#34;wp-block-preformatted&amp;#34;&amp;gt;cd ~&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;mkdir repositorio.git&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;cd repositorio.git&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;git --bare init&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;git config core.sharedRepository true&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;La primer linea cd ~ nos lleva a la home del usuario, es decir que si el usuario que está logueado es fideo la home sería /home/fideo/ para corroborar esto pueden ejecutar pwd y les mostrará donde están parados luego de ejecutar cd ~&lt;br&gt;&#xA;La segunda linea crea un directorio llamado repositorio.git el cual tendrá la información que git necesita para llevar nuestro log de archivos.&lt;br&gt;&#xA;La tercer linea ingresa al directorio.&lt;br&gt;&#xA;La cuarta linea le decimos a git inicialize ese directorio como un repositorio git para realizar los pull y push de ese repositorio.&lt;br&gt;&#xA;La quinta y última linea de esta parte se configura en true la variable core.sharedRepository informandole a git que es un repositorio compartido.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Otros Comandos Linux</title>
-      <link>http://localhost:1313/2011/09/comandos-linux.html</link>
+      <link>https://federicomazzei.com.ar/2011/09/comandos-linux.html</link>
       <pubDate>Thu, 29 Sep 2011 11:57:54 +0000</pubDate>
-      <guid>http://localhost:1313/2011/09/comandos-linux.html</guid>
+      <guid>https://federicomazzei.com.ar/2011/09/comandos-linux.html</guid>
       <description>&lt;p&gt;Para mostrar la arquitectura de nuestra máquina podemos usar el comando arch el cual nos devolverá x86_64 si corresponde a una arquitectura de 64 bits o nos devolverá i386, i486, i586 o i686 si pertenece a una arquitectura de 32 bits&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;pre class=&amp;#34;wp-block-preformatted&amp;#34;&amp;gt;arch&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Si necesitamos obtener una lista de directorios (o carpetas) de una ruta específica podemos usar el siguiente comando.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;pre class=&amp;#34;wp-block-preformatted&amp;#34;&amp;gt;ls -l /directorio/ | grep ^d&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Para pasar todas las letras Mayúsculas a Minúscula del contenido de un archivo podemos usar el comando sed tal como se muestra a continuación.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mountar una imagen ISO en Linux</title>
-      <link>http://localhost:1313/2006/10/mountar-una-imagen-iso-en-linux.html</link>
+      <link>https://federicomazzei.com.ar/2006/10/mountar-una-imagen-iso-en-linux.html</link>
       <pubDate>Sat, 21 Oct 2006 02:04:15 +0000</pubDate>
-      <guid>http://localhost:1313/2006/10/mountar-una-imagen-iso-en-linux.html</guid>
+      <guid>https://federicomazzei.com.ar/2006/10/mountar-una-imagen-iso-en-linux.html</guid>
       <description>&lt;p&gt;Esta nota es más que nada una ayuda memoria, porque cada vez que tengo que montar una imagen ISO en linux no recuerdo como se hace talvez a alguien más le sirva.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;mount -t iso9660 -o loopback imagen.raw /punto/de/montaje&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>

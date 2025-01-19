@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Federico Mazzei</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://federicomazzei.com.ar/categories/</link>
     <description>Recent content in Categories on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Sat, 07 Sep 2024 09:05:21 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://federicomazzei.com.ar/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sistema Operativo</title>
-      <link>http://localhost:1313/categories/sistema-operativo/</link>
+      <link>https://federicomazzei.com.ar/categories/sistema-operativo/</link>
       <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
-      <guid>http://localhost:1313/categories/sistema-operativo/</guid>
+      <guid>https://federicomazzei.com.ar/categories/sistema-operativo/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>http://localhost:1313/categories/git/</link>
+      <link>https://federicomazzei.com.ar/categories/git/</link>
       <pubDate>Fri, 24 Mar 2023 19:53:12 +0000</pubDate>
-      <guid>http://localhost:1313/categories/git/</guid>
+      <guid>https://federicomazzei.com.ar/categories/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/categories/linux/</link>
+      <link>https://federicomazzei.com.ar/categories/linux/</link>
       <pubDate>Fri, 24 Mar 2023 19:53:12 +0000</pubDate>
-      <guid>http://localhost:1313/categories/linux/</guid>
+      <guid>https://federicomazzei.com.ar/categories/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
-      <link>http://localhost:1313/categories/software/</link>
+      <link>https://federicomazzei.com.ar/categories/software/</link>
       <pubDate>Fri, 24 Mar 2023 19:53:12 +0000</pubDate>
-      <guid>http://localhost:1313/categories/software/</guid>
+      <guid>https://federicomazzei.com.ar/categories/software/</guid>
       <description></description>
     </item>
     <item>
       <title>Uncategorized</title>
-      <link>http://localhost:1313/categories/uncategorized/</link>
+      <link>https://federicomazzei.com.ar/categories/uncategorized/</link>
       <pubDate>Thu, 28 Dec 2006 03:36:59 +0000</pubDate>
-      <guid>http://localhost:1313/categories/uncategorized/</guid>
+      <guid>https://federicomazzei.com.ar/categories/uncategorized/</guid>
       <description></description>
     </item>
   </channel>

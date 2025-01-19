@@ -6,3 +6,9 @@ deploy.sh
 
 # node_modules es generado por npm al instalar algunas librerias como por ejemplo TailWindCSS
 node_modules
+
+# docs es el directorio que uso para publicar el sitio
+docs
+
+# public es el directorio que usa por defecto hugo al ejecutar hugo build
+public

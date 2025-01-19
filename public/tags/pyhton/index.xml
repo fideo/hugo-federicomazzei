@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pyhton on Federico Mazzei</title>
-    <link>http://localhost:1313/tags/pyhton/</link>
+    <link>https://federicomazzei.com.ar/tags/pyhton/</link>
     <description>Recent content in Pyhton on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Fri, 15 Jul 2022 13:35:16 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/pyhton/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://federicomazzei.com.ar/tags/pyhton/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python qué es y quién lo creó</title>
-      <link>http://localhost:1313/2022/07/python-que-es-y-quien-lo-creo.html</link>
+      <link>https://federicomazzei.com.ar/2022/07/python-que-es-y-quien-lo-creo.html</link>
       <pubDate>Fri, 15 Jul 2022 13:35:16 +0000</pubDate>
-      <guid>http://localhost:1313/2022/07/python-que-es-y-quien-lo-creo.html</guid>
+      <guid>https://federicomazzei.com.ar/2022/07/python-que-es-y-quien-lo-creo.html</guid>
       <description>&lt;h1 id=&#34;qué-es-python&#34;&gt;¿Qué es Python?&lt;/h1&gt;&#xA;&lt;p&gt;Python es un lenguaje de programación de alto nivel, interpretado, orientado a objetos y de uso generalizado con semántica dinámica, que se utiliza para la programación de propósito general.&lt;/p&gt;&#xA;&lt;p&gt;Y aunque puede que conozcas a la pitón como una gran serpiente, el nombre del lenguaje de programación Python proviene de una vieja serie de comedia de la BBC llamada &lt;strong&gt;Monty Python’s Flying Circus&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;En el apogeo de su éxito, el equipo de Monty Python estaba realizando sus escenas para audiencias en vivo en todo el mundo, incluso en el Hollywood Bowl.&lt;/p&gt;</description>
     </item>
   </channel>

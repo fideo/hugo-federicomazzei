@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Powerline on Federico Mazzei</title>
-    <link>http://localhost:1313/tags/powerline/</link>
+    <link>https://federicomazzei.com.ar/tags/powerline/</link>
     <description>Recent content in Powerline on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Fri, 18 Feb 2022 11:15:41 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/powerline/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://federicomazzei.com.ar/tags/powerline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tmux github powerline status</title>
-      <link>http://localhost:1313/2022/02/tmux-github-powerline-status.html</link>
+      <link>https://federicomazzei.com.ar/2022/02/tmux-github-powerline-status.html</link>
       <pubDate>Fri, 18 Feb 2022 11:15:41 +0000</pubDate>
-      <guid>http://localhost:1313/2022/02/tmux-github-powerline-status.html</guid>
+      <guid>https://federicomazzei.com.ar/2022/02/tmux-github-powerline-status.html</guid>
       <description>&lt;p&gt;Tmux github powerline status. Cree un repositorio en github para publicar mi configuración de Tmux; también la configuración de powerline y el .bashrc de mi PC por si alguien quiere usar esta configuración.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fideo/tmux.conf/main/asset/TerminalMultiplexer.png&#34; alt=&#34;Pantalla de Tmux donde se muestran tres promp de linux en una sola ventana.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Este es el la dirección en github del repositorio desde ahí se puede descargar y/o clonar &lt;a href=&#34;https://github.com/fideo/tmux.conf&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;https://github.com/fideo/tmux.conf&#34;&gt;https://github.com/fideo/tmux.conf&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hay que crear en el home de su usuario (en mi caso /home/fideo/) el archivo .tmux.conf y copiar el contenido de lo que publiqué en github o directamente descargarlo pegarlo en su home.&lt;/p&gt;</description>
     </item>
   </channel>
