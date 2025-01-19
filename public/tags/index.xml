@@ -2,234 +2,234 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Federico Mazzei</title>
-    <link>https://federicomazzei.com.ar/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Sat, 07 Sep 2024 09:05:21 +0000</lastBuildDate>
-    <atom:link href="https://federicomazzei.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comando</title>
-      <link>https://federicomazzei.com.ar/tags/comando/</link>
+      <link>http://localhost:1313/tags/comando/</link>
       <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/comando/</guid>
+      <guid>http://localhost:1313/tags/comando/</guid>
       <description></description>
     </item>
     <item>
       <title>Debian</title>
-      <link>https://federicomazzei.com.ar/tags/debian/</link>
+      <link>http://localhost:1313/tags/debian/</link>
       <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/debian/</guid>
+      <guid>http://localhost:1313/tags/debian/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>https://federicomazzei.com.ar/tags/linux/</link>
+      <link>http://localhost:1313/tags/linux/</link>
       <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/linux/</guid>
+      <guid>http://localhost:1313/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Ubuntu</title>
-      <link>https://federicomazzei.com.ar/tags/ubuntu/</link>
+      <link>http://localhost:1313/tags/ubuntu/</link>
       <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/ubuntu/</guid>
+      <guid>http://localhost:1313/tags/ubuntu/</guid>
       <description></description>
     </item>
     <item>
       <title>Vim</title>
-      <link>https://federicomazzei.com.ar/tags/vim/</link>
+      <link>http://localhost:1313/tags/vim/</link>
       <pubDate>Fri, 09 Aug 2024 09:13:36 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/vim/</guid>
+      <guid>http://localhost:1313/tags/vim/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
-      <link>https://federicomazzei.com.ar/tags/software/</link>
+      <link>http://localhost:1313/tags/software/</link>
       <pubDate>Wed, 05 Jun 2024 12:33:09 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/software/</guid>
+      <guid>http://localhost:1313/tags/software/</guid>
       <description></description>
     </item>
     <item>
       <title>Sistema Operativo</title>
-      <link>https://federicomazzei.com.ar/tags/sistema-operativo/</link>
+      <link>http://localhost:1313/tags/sistema-operativo/</link>
       <pubDate>Mon, 13 May 2024 12:02:51 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/sistema-operativo/</guid>
+      <guid>http://localhost:1313/tags/sistema-operativo/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>https://federicomazzei.com.ar/tags/docker/</link>
+      <link>http://localhost:1313/tags/docker/</link>
       <pubDate>Wed, 23 Aug 2023 13:08:58 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/docker/</guid>
+      <guid>http://localhost:1313/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloudflare</title>
-      <link>https://federicomazzei.com.ar/tags/cloudflare/</link>
+      <link>http://localhost:1313/tags/cloudflare/</link>
       <pubDate>Fri, 30 Jun 2023 11:21:35 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/cloudflare/</guid>
+      <guid>http://localhost:1313/tags/cloudflare/</guid>
       <description></description>
     </item>
     <item>
       <title>Opendkim</title>
-      <link>https://federicomazzei.com.ar/tags/opendkim/</link>
+      <link>http://localhost:1313/tags/opendkim/</link>
       <pubDate>Fri, 30 Jun 2023 11:21:35 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/opendkim/</guid>
+      <guid>http://localhost:1313/tags/opendkim/</guid>
       <description></description>
     </item>
     <item>
       <title>Comandos</title>
-      <link>https://federicomazzei.com.ar/tags/comandos/</link>
+      <link>http://localhost:1313/tags/comandos/</link>
       <pubDate>Tue, 20 Jun 2023 10:18:11 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/comandos/</guid>
+      <guid>http://localhost:1313/tags/comandos/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>https://federicomazzei.com.ar/tags/git/</link>
+      <link>http://localhost:1313/tags/git/</link>
       <pubDate>Fri, 24 Mar 2023 19:53:12 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/git/</guid>
+      <guid>http://localhost:1313/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Github</title>
-      <link>https://federicomazzei.com.ar/tags/github/</link>
+      <link>http://localhost:1313/tags/github/</link>
       <pubDate>Fri, 24 Mar 2023 19:53:12 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/github/</guid>
+      <guid>http://localhost:1313/tags/github/</guid>
       <description></description>
     </item>
     <item>
       <title>Pyhton</title>
-      <link>https://federicomazzei.com.ar/tags/pyhton/</link>
+      <link>http://localhost:1313/tags/pyhton/</link>
       <pubDate>Fri, 15 Jul 2022 13:35:16 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/pyhton/</guid>
+      <guid>http://localhost:1313/tags/pyhton/</guid>
       <description></description>
     </item>
     <item>
       <title>Editor De Texto</title>
-      <link>https://federicomazzei.com.ar/tags/editor-de-texto/</link>
+      <link>http://localhost:1313/tags/editor-de-texto/</link>
       <pubDate>Fri, 25 Feb 2022 08:34:44 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/editor-de-texto/</guid>
+      <guid>http://localhost:1313/tags/editor-de-texto/</guid>
       <description></description>
     </item>
     <item>
       <title>Vi</title>
-      <link>https://federicomazzei.com.ar/tags/vi/</link>
+      <link>http://localhost:1313/tags/vi/</link>
       <pubDate>Fri, 25 Feb 2022 08:34:44 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/vi/</guid>
+      <guid>http://localhost:1313/tags/vi/</guid>
       <description></description>
     </item>
     <item>
       <title>Powerline</title>
-      <link>https://federicomazzei.com.ar/tags/powerline/</link>
+      <link>http://localhost:1313/tags/powerline/</link>
       <pubDate>Fri, 18 Feb 2022 11:15:41 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/powerline/</guid>
+      <guid>http://localhost:1313/tags/powerline/</guid>
       <description></description>
     </item>
     <item>
       <title>Tmux</title>
-      <link>https://federicomazzei.com.ar/tags/tmux/</link>
+      <link>http://localhost:1313/tags/tmux/</link>
       <pubDate>Fri, 18 Feb 2022 11:15:41 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/tmux/</guid>
+      <guid>http://localhost:1313/tags/tmux/</guid>
       <description></description>
     </item>
     <item>
       <title>Centos</title>
-      <link>https://federicomazzei.com.ar/tags/centos/</link>
+      <link>http://localhost:1313/tags/centos/</link>
       <pubDate>Fri, 18 Feb 2022 08:48:22 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/centos/</guid>
+      <guid>http://localhost:1313/tags/centos/</guid>
       <description></description>
     </item>
     <item>
       <title>Cwp</title>
-      <link>https://federicomazzei.com.ar/tags/cwp/</link>
+      <link>http://localhost:1313/tags/cwp/</link>
       <pubDate>Fri, 18 Feb 2022 08:48:22 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/cwp/</guid>
+      <guid>http://localhost:1313/tags/cwp/</guid>
       <description></description>
     </item>
     <item>
       <title>Sistema</title>
-      <link>https://federicomazzei.com.ar/tags/sistema/</link>
+      <link>http://localhost:1313/tags/sistema/</link>
       <pubDate>Thu, 09 Dec 2021 08:31:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/sistema/</guid>
+      <guid>http://localhost:1313/tags/sistema/</guid>
       <description></description>
     </item>
     <item>
       <title>Android</title>
-      <link>https://federicomazzei.com.ar/tags/android/</link>
+      <link>http://localhost:1313/tags/android/</link>
       <pubDate>Wed, 17 Nov 2021 20:51:29 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/android/</guid>
+      <guid>http://localhost:1313/tags/android/</guid>
       <description></description>
     </item>
     <item>
       <title>Droidcam</title>
-      <link>https://federicomazzei.com.ar/tags/droidcam/</link>
+      <link>http://localhost:1313/tags/droidcam/</link>
       <pubDate>Wed, 17 Nov 2021 20:51:29 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/droidcam/</guid>
+      <guid>http://localhost:1313/tags/droidcam/</guid>
       <description></description>
     </item>
     <item>
       <title>Wordpress</title>
-      <link>https://federicomazzei.com.ar/tags/wordpress/</link>
+      <link>http://localhost:1313/tags/wordpress/</link>
       <pubDate>Tue, 02 Nov 2021 10:25:20 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/wordpress/</guid>
+      <guid>http://localhost:1313/tags/wordpress/</guid>
       <description></description>
     </item>
     <item>
       <title>Adb</title>
-      <link>https://federicomazzei.com.ar/tags/adb/</link>
+      <link>http://localhost:1313/tags/adb/</link>
       <pubDate>Tue, 27 Jul 2021 19:40:12 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/adb/</guid>
+      <guid>http://localhost:1313/tags/adb/</guid>
       <description></description>
     </item>
     <item>
       <title>Webcam</title>
-      <link>https://federicomazzei.com.ar/tags/webcam/</link>
+      <link>http://localhost:1313/tags/webcam/</link>
       <pubDate>Tue, 27 Jul 2021 19:40:12 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/webcam/</guid>
+      <guid>http://localhost:1313/tags/webcam/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://federicomazzei.com.ar/tags/python/</link>
+      <link>http://localhost:1313/tags/python/</link>
       <pubDate>Wed, 22 Jul 2020 08:46:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/python/</guid>
+      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Contraseña</title>
-      <link>https://federicomazzei.com.ar/tags/contrase%C3%B1a/</link>
+      <link>http://localhost:1313/tags/contrase%C3%B1a/</link>
       <pubDate>Wed, 18 Nov 2015 10:39:30 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/contrase%C3%B1a/</guid>
+      <guid>http://localhost:1313/tags/contrase%C3%B1a/</guid>
       <description></description>
     </item>
     <item>
       <title>Password</title>
-      <link>https://federicomazzei.com.ar/tags/password/</link>
+      <link>http://localhost:1313/tags/password/</link>
       <pubDate>Wed, 18 Nov 2015 10:39:30 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/password/</guid>
+      <guid>http://localhost:1313/tags/password/</guid>
       <description></description>
     </item>
     <item>
       <title>Truco</title>
-      <link>https://federicomazzei.com.ar/tags/truco/</link>
+      <link>http://localhost:1313/tags/truco/</link>
       <pubDate>Wed, 18 Nov 2015 10:39:30 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/truco/</guid>
+      <guid>http://localhost:1313/tags/truco/</guid>
       <description></description>
     </item>
     <item>
       <title>Word</title>
-      <link>https://federicomazzei.com.ar/tags/word/</link>
+      <link>http://localhost:1313/tags/word/</link>
       <pubDate>Wed, 18 Nov 2015 10:39:30 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/word/</guid>
+      <guid>http://localhost:1313/tags/word/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>https://federicomazzei.com.ar/tags/css/</link>
+      <link>http://localhost:1313/tags/css/</link>
       <pubDate>Fri, 12 Nov 2010 21:30:19 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/css/</guid>
+      <guid>http://localhost:1313/tags/css/</guid>
       <description></description>
     </item>
   </channel>

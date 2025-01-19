@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Word on Federico Mazzei</title>
-    <link>https://federicomazzei.com.ar/tags/word/</link>
+    <link>http://localhost:1313/tags/word/</link>
     <description>Recent content in Word on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Wed, 18 Nov 2015 10:39:30 +0000</lastBuildDate>
-    <atom:link href="https://federicomazzei.com.ar/tags/word/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/word/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eliminar la contraseña y protección de archivos Word</title>
-      <link>https://federicomazzei.com.ar/2015/11/eliminar-la-contrasena-y-proteccion-de-archivos-word.html</link>
+      <link>http://localhost:1313/2015/11/eliminar-la-contrasena-y-proteccion-de-archivos-word.html</link>
       <pubDate>Wed, 18 Nov 2015 10:39:30 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2015/11/eliminar-la-contrasena-y-proteccion-de-archivos-word.html</guid>
+      <guid>http://localhost:1313/2015/11/eliminar-la-contrasena-y-proteccion-de-archivos-word.html</guid>
       <description>&lt;div class=&#34;wp-block-image size-full wp-image-979&#34;&gt;&lt;figure class=&#34;alignleft&#34;&gt;![MS Word](http://federicomazzei.com.ar/blog/wp-content/uploads/2015/11/icono-word.gif)&lt;figcaption class=&#34;wp-element-caption&#34;&gt;Editor de texto&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;Un truco que encontré por ahí y que puede salvarle el día a más de uno es tratar de recuperar el contenido de un documento que no se puede editar dentro de un documento Word.&#xA;&lt;p&gt;Para esto vamos a guardar el archivo Word en cuestion en formato .HTML luego lo abrimos con un editor de html preferido y buscamos las lineas&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;pre class=&amp;#34;wp-block-preformatted&amp;#34;&amp;gt;[w:DocumentProtection]......[/w:DocumentProtection]&#xA;[w:UnprotectPassword]00000000[/w:UnprotectPassword]&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Eliminamos esas dos lineas.&lt;br&gt;&#xA;Grabamos y abrimos desde el Word el archivo html que acabamos de editar.&lt;/p&gt;</description>
     </item>
   </channel>
