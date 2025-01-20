@@ -16,7 +16,7 @@ type: post
 url: /2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html
 ---
 En mi caso necesitaba realizar un comando que me permita partir en varios archivos .zip un directorio o un archivo .iso
-
+<!--more-->
 Obviamente que por pantalla gráfica esto es muy fácil de hacer pero el problema se presenta cuando estas accediendo a un servidor y tienes que partir un archivo grande en varios fragmentos para poder transportarlo ya sea para mandar por mail o copiarlo a otro lugar.
 
 En principio tenemos que tener instalado el **p7zip** si no lo tenes instalado en Ubuntu o linux derivados de Debian se instala así:

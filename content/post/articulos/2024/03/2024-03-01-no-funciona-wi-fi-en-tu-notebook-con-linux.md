@@ -17,7 +17,7 @@ type: post
 url: /2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html
 ---
 Si terminaste de instalar Linux y no te funciona el Wi-Fi tenes que realizar los siguientes pasos para que empiece a funcionar.
-
+<!--more-->
 > Estos pasos a continuación son para distribuciones basadas en Debian
 > 
 > <cite>Ubuntu y sus sabores, Neon, Loc-Os, Linux Mint, PureOS, Deepin, Kali Linux, etc. etc.</cite>

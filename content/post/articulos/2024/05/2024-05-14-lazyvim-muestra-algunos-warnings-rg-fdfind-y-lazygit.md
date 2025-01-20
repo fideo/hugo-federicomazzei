@@ -15,7 +15,7 @@ url: /2024/05/lazyvim-muestra-algunos-warnings-rg-fdfind-y-lazygit.html
 ---
 
 Si al realizar un checkhealth en LazyVim muestra algunos Warnings rg, fdfind y lazygit la solución a estos tres warnings que no está instalado ni el rg, ni el fdfind ni el lazygit lo que se debe realizar son los siguientes pasos:
-
+<!--more-->
 Primero debemos realizar un checkhealth e ir verificando a cada paso que realizamos si se va subsanando el warning o advertencia sobre ese inconveniente.  
 Por eso abrimos el LazyVim o neovim y ejecutamos el comando `:checkhealth` nos mostrará una advertencia como la siguiente:
 
