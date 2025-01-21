@@ -46,6 +46,7 @@ publishDate = ['publishdate', 'pubdate', 'published', 'date']
     userStatusEmoji = "😀"
     enableGitalk = true
     enableSearch = true
+    custom_css = ["/css/custom.css"]
     [params.contact]
         email = 'federicomazzei@gmail.com'
         phone = '+54 9 11 2630-1170'

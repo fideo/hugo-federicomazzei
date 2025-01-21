@@ -6,49 +6,56 @@
     <description>Recent content in Posts on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 07 Sep 2024 09:05:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 11:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migracion de Wordpress a Hugo - Mi experiencia personal</title>
+      <link>http://localhost:1313/2025/01/migracion-de-wordpress-a-hugo.html</link>
+      <pubDate>Mon, 20 Jan 2025 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2025/01/migracion-de-wordpress-a-hugo.html</guid>
+      <description>&lt;p&gt;Recientemente, decidí migrar mi sitio web &lt;a href=&#34;https://federicomazzei.com.ar&#34;&gt;federicomazzei.com.ar&lt;/a&gt; de WordPress a Hugo, y quiero compartir mi experiencia con ustedes. Si estás empezando en el mundo de los sistemas y estás buscando una manera simple y eficiente de tener tu propio blog, esta lectura puede ayudarte.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Activar la sincronización de Fecha y Hora en Debian Ubuntu</title>
       <link>http://localhost:1313/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</link>
       <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
       <guid>http://localhost:1313/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</guid>
-      <description>&lt;p&gt;Si necesitas activar la sincronización de la fecha y hora en debian ubuntu o cualquier distribución derivada de Debian con un simple comando se puede reparar esto.&lt;/p&gt;&#xA;&lt;p&gt;Me ha pasado que he instalado debian 12 y la notebook donde lo instalé no se sincronizaba correctamente el horario ni la fecha; entonces cada vez que encendía la notebook esta no podía navegar, ya que, estaba desincronizada la fecha y la hora.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Si necesitas activar la sincronización de la fecha y hora en debian ubuntu o cualquier distribución derivada de Debian con un simple comando se puede reparar esto.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Convertir texto de minúscula a MAYÚSCULA en Vim</title>
       <link>http://localhost:1313/2024/08/convertir-texto-de-minuscula-a-mayuscula-en-vim.html</link>
       <pubDate>Fri, 09 Aug 2024 09:13:36 +0000</pubDate>
       <guid>http://localhost:1313/2024/08/convertir-texto-de-minuscula-a-mayuscula-en-vim.html</guid>
-      <description>&lt;p&gt;Para convertir texto de minúscula a MAYÚSCULA en Vim se puede realizar una convinación de tres o cuatro teclas para conseguir este resultado.&lt;/p&gt;&#xA;&lt;p&gt;Estando en modo NORMAL en vim y presionando las teclas &lt;strong&gt;gUw&lt;/strong&gt; cambian la palabra siguiente de minúscula a MAYÚSCULA y si queremos hacer el paso inverso la convinación de teclas es &lt;strong&gt;guw&lt;/strong&gt; como se puede apreciar el único cambio significativo es la letra &lt;strong&gt;u&lt;/strong&gt; que cambia de minúscula a mayúscula según se necesite cambiar de un estado a otro.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Para convertir texto de minúscula a MAYÚSCULA en Vim se puede realizar una convinación de tres o cuatro teclas para conseguir este resultado.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Partir en varios archivos .zip un directorio o un archivo</title>
       <link>http://localhost:1313/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</link>
       <pubDate>Wed, 05 Jun 2024 12:33:09 +0000</pubDate>
       <guid>http://localhost:1313/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</guid>
-      <description>&lt;p&gt;En mi caso necesitaba realizar un comando que me permita partir en varios archivos .zip un directorio o un archivo .iso&lt;/p&gt;&#xA;&lt;p&gt;Obviamente que por pantalla gráfica esto es muy fácil de hacer pero el problema se presenta cuando estas accediendo a un servidor y tienes que partir un archivo grande en varios fragmentos para poder transportarlo ya sea para mandar por mail o copiarlo a otro lugar.&lt;/p&gt;&#xA;&lt;p&gt;En principio tenemos que tener instalado el &lt;strong&gt;p7zip&lt;/strong&gt; si no lo tenes instalado en Ubuntu o linux derivados de Debian se instala así:&lt;/p&gt;</description>
+      <description>&lt;p&gt;En mi caso necesitaba realizar un comando que me permita partir en varios archivos .zip un directorio o un archivo .iso&lt;/p&gt;</description>
     </item>
     <item>
       <title>LazyVim muestra algunos Warnings rg, fdfind y lazygit</title>
       <link>http://localhost:1313/2024/05/lazyvim-muestra-algunos-warnings-rg-fdfind-y-lazygit.html</link>
       <pubDate>Tue, 14 May 2024 14:55:33 +0000</pubDate>
       <guid>http://localhost:1313/2024/05/lazyvim-muestra-algunos-warnings-rg-fdfind-y-lazygit.html</guid>
-      <description>&lt;p&gt;Si al realizar un checkhealth en LazyVim muestra algunos Warnings rg, fdfind y lazygit la solución a estos tres warnings que no está instalado ni el rg, ni el fdfind ni el lazygit lo que se debe realizar son los siguientes pasos:&lt;/p&gt;&#xA;&lt;p&gt;Primero debemos realizar un checkhealth e ir verificando a cada paso que realizamos si se va subsanando el warning o advertencia sobre ese inconveniente.&lt;br&gt;&#xA;Por eso abrimos el LazyVim o neovim y ejecutamos el comando &lt;code&gt;:checkhealth&lt;/code&gt; nos mostrará una advertencia como la siguiente:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Si al realizar un checkhealth en LazyVim muestra algunos Warnings rg, fdfind y lazygit la solución a estos tres warnings que no está instalado ni el rg, ni el fdfind ni el lazygit lo que se debe realizar son los siguientes pasos:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como averiguar el id de AnyDesk por consola o terminal en linux</title>
       <link>http://localhost:1313/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</link>
       <pubDate>Mon, 13 May 2024 12:02:51 +0000</pubDate>
       <guid>http://localhost:1313/2024/05/como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.html</guid>
-      <description>&lt;p&gt;Como averiguar el id de AnyDesk por consola o terminal en linux. Si por casulidad tenes instalado AnyDesk y no conoces el id de tu cuenta con AnyDesk la podes averiguar accediendo desde consola o terminal a tu equipo.&lt;/p&gt;&#xA;&lt;p&gt;Claro si accedes por consola o terminal a tu equipo podrías decir para que si ya tengo conexión con mi computadora a través de mi linea de comandos si puede ser… pero muchas veces necesitas ver o acceder visualmente a tu computadora y esto lo podes hacer con AnyDesk o un servicio de VNC activo en la computadora. Si tu caso es el de AnyDesk y no conoces el id lo podes averiguar con este comando.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Como averiguar el id de AnyDesk por consola o terminal en linux. Si por casulidad tenes instalado AnyDesk y no conoces el id de tu cuenta con AnyDesk la podes averiguar accediendo desde consola o terminal a tu equipo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>No funciona Wi-Fi en tu notebook con Linux</title>
       <link>http://localhost:1313/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</link>
       <pubDate>Fri, 01 Mar 2024 09:42:36 +0000</pubDate>
       <guid>http://localhost:1313/2024/03/no-funciona-wi-fi-en-tu-notebook-con-linux.html</guid>
-      <description>&lt;p&gt;Si terminaste de instalar Linux y no te funciona el Wi-Fi tenes que realizar los siguientes pasos para que empiece a funcionar.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Estos pasos a continuación son para distribuciones basadas en Debian&lt;/p&gt;&#xA;&lt;p&gt;&lt;cite&gt;Ubuntu y sus sabores, Neon, Loc-Os, Linux Mint, PureOS, Deepin, Kali Linux, etc. etc.&lt;/cite&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Antes de empezar a ejecutar los comandos que siguen a continuación tenemos que conseguir una conexión por cable de red para poder ejecutar algunos comando y descargar algunos componentes desde internet. Luego de conectarnos a la red de internet con cable lo primero que vamos a realizar es ejecutar la actualización de los repositorios; para esto ejecutamos este comando&lt;/p&gt;</description>
+      <description>&lt;p&gt;Si terminaste de instalar Linux y no te funciona el Wi-Fi tenes que realizar los siguientes pasos para que empiece a funcionar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Copiar y pegar entre Vim y tu sistema operativo</title>

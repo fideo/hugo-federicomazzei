@@ -2,19 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pages/aboutme/</loc>
-    <lastmod>2024-12-25T09:05:21+00:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/01/migracion-de-wordpress-a-hugo.html</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/wordpress/</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/worpress/</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/aboutme/</loc>
     <lastmod>2024-12-25T09:05:21+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pages/</loc>
     <lastmod>2024-12-25T09:05:21+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</loc>
-    <lastmod>2024-09-07T09:05:21+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-09-07T09:05:21+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/comando/</loc>
@@ -26,13 +41,7 @@
     <loc>http://localhost:1313/tags/linux/</loc>
     <lastmod>2024-09-07T09:05:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-09-07T09:05:21+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/sistema-operativo/</loc>
-    <lastmod>2024-09-07T09:05:21+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-09-07T09:05:21+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ubuntu/</loc>

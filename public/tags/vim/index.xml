@@ -13,14 +13,14 @@
       <link>http://localhost:1313/2024/08/convertir-texto-de-minuscula-a-mayuscula-en-vim.html</link>
       <pubDate>Fri, 09 Aug 2024 09:13:36 +0000</pubDate>
       <guid>http://localhost:1313/2024/08/convertir-texto-de-minuscula-a-mayuscula-en-vim.html</guid>
-      <description>&lt;p&gt;Para convertir texto de minúscula a MAYÚSCULA en Vim se puede realizar una convinación de tres o cuatro teclas para conseguir este resultado.&lt;/p&gt;&#xA;&lt;p&gt;Estando en modo NORMAL en vim y presionando las teclas &lt;strong&gt;gUw&lt;/strong&gt; cambian la palabra siguiente de minúscula a MAYÚSCULA y si queremos hacer el paso inverso la convinación de teclas es &lt;strong&gt;guw&lt;/strong&gt; como se puede apreciar el único cambio significativo es la letra &lt;strong&gt;u&lt;/strong&gt; que cambia de minúscula a mayúscula según se necesite cambiar de un estado a otro.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Para convertir texto de minúscula a MAYÚSCULA en Vim se puede realizar una convinación de tres o cuatro teclas para conseguir este resultado.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LazyVim muestra algunos Warnings rg, fdfind y lazygit</title>
       <link>http://localhost:1313/2024/05/lazyvim-muestra-algunos-warnings-rg-fdfind-y-lazygit.html</link>
       <pubDate>Tue, 14 May 2024 14:55:33 +0000</pubDate>
       <guid>http://localhost:1313/2024/05/lazyvim-muestra-algunos-warnings-rg-fdfind-y-lazygit.html</guid>
-      <description>&lt;p&gt;Si al realizar un checkhealth en LazyVim muestra algunos Warnings rg, fdfind y lazygit la solución a estos tres warnings que no está instalado ni el rg, ni el fdfind ni el lazygit lo que se debe realizar son los siguientes pasos:&lt;/p&gt;&#xA;&lt;p&gt;Primero debemos realizar un checkhealth e ir verificando a cada paso que realizamos si se va subsanando el warning o advertencia sobre ese inconveniente.&lt;br&gt;&#xA;Por eso abrimos el LazyVim o neovim y ejecutamos el comando &lt;code&gt;:checkhealth&lt;/code&gt; nos mostrará una advertencia como la siguiente:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Si al realizar un checkhealth en LazyVim muestra algunos Warnings rg, fdfind y lazygit la solución a estos tres warnings que no está instalado ni el rg, ni el fdfind ni el lazygit lo que se debe realizar son los siguientes pasos:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Copiar y pegar entre Vim y tu sistema operativo</title>
