@@ -2,19 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://federicomazzei.com.ar/pages/aboutme/</loc>
-    <lastmod>2024-12-25T09:05:21+00:00</lastmod>
+    <loc>https://federicomazzei.com.ar/categories/</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/hugo/</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/hugo/</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2025/01/migracion-de-wordpress-a-hugo.html</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/post/</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/software/</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/wordpress/</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/wordpress/</loc>
+    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/pages/aboutme/</loc>
     <lastmod>2024-12-25T09:05:21+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/pages/</loc>
     <lastmod>2024-12-25T09:05:21+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</loc>
-    <lastmod>2024-09-07T09:05:21+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/categories/</loc>
     <lastmod>2024-09-07T09:05:21+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/comando/</loc>
@@ -26,13 +50,7 @@
     <loc>https://federicomazzei.com.ar/tags/linux/</loc>
     <lastmod>2024-09-07T09:05:21+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/post/</loc>
-    <lastmod>2024-09-07T09:05:21+00:00</lastmod>
-  </url><url>
     <loc>https://federicomazzei.com.ar/categories/sistema-operativo/</loc>
-    <lastmod>2024-09-07T09:05:21+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/</loc>
     <lastmod>2024-09-07T09:05:21+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/ubuntu/</loc>
@@ -45,9 +63,6 @@
     <lastmod>2024-08-09T09:13:36+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</loc>
-    <lastmod>2024-06-05T12:33:09+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/software/</loc>
     <lastmod>2024-06-05T12:33:09+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2024/05/lazyvim-muestra-algunos-warnings-rg-fdfind-y-lazygit.html</loc>
@@ -183,9 +198,6 @@
     <lastmod>2021-11-16T12:42:14+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2021/11/comandos-utiles-para-docker.html</loc>
-    <lastmod>2021-11-02T10:25:20+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/wordpress/</loc>
     <lastmod>2021-11-02T10:25:20+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2021/10/como-arreglar-gdbus-errororg-freedesktop-policykit1-error-failed.html</loc>

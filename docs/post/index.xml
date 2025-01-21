@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 07 Sep 2024 09:05:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 11:00:00 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migracion de Wordpress a Hugo - Mi experiencia personal</title>
+      <link>https://federicomazzei.com.ar/2025/01/migracion-de-wordpress-a-hugo.html</link>
+      <pubDate>Mon, 20 Jan 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025/01/migracion-de-wordpress-a-hugo.html</guid>
+      <description>&lt;p&gt;Recientemente, decidí migrar mi sitio web &lt;a href=&#34;https://federicomazzei.com.ar&#34;&gt;federicomazzei.com.ar&lt;/a&gt; de WordPress a Hugo, y quiero compartir mi experiencia con ustedes. Si estás empezando en el mundo de los sistemas y estás buscando una manera simple y eficiente de tener tu propio blog, esta lectura puede ayudarte.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Activar la sincronización de Fecha y Hora en Debian Ubuntu</title>
       <link>https://federicomazzei.com.ar/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</link>
