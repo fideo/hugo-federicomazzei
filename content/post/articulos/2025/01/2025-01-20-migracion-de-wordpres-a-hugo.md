@@ -1,5 +1,6 @@
 ---
 author: fideo
+description: Migracion de WordPress a Hugo en base a mi experiencia personal, te doy consejos sobre mi experiencia
 categories:
 - Wordpress 
 - Hugo

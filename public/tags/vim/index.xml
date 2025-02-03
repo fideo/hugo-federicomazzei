@@ -1,75 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Vim on Federico Mazzei</title>
-    <link>http://localhost:1313/tags/vim/</link>
-    <description>Recent content in Vim on Federico Mazzei</description>
-    <generator>Hugo</generator>
-    <language>es</language>
-    <lastBuildDate>Fri, 09 Aug 2024 09:13:36 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/vim/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Convertir texto de minúscula a MAYÚSCULA en Vim</title>
-      <link>http://localhost:1313/2024/08/convertir-texto-de-minuscula-a-mayuscula-en-vim.html</link>
-      <pubDate>Fri, 09 Aug 2024 09:13:36 +0000</pubDate>
-      <guid>http://localhost:1313/2024/08/convertir-texto-de-minuscula-a-mayuscula-en-vim.html</guid>
-      <description>&lt;p&gt;Para convertir texto de minúscula a MAYÚSCULA en Vim se puede realizar una convinación de tres o cuatro teclas para conseguir este resultado.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LazyVim muestra algunos Warnings rg, fdfind y lazygit</title>
-      <link>http://localhost:1313/2024/05/lazyvim-muestra-algunos-warnings-rg-fdfind-y-lazygit.html</link>
-      <pubDate>Tue, 14 May 2024 14:55:33 +0000</pubDate>
-      <guid>http://localhost:1313/2024/05/lazyvim-muestra-algunos-warnings-rg-fdfind-y-lazygit.html</guid>
-      <description>&lt;p&gt;Si al realizar un checkhealth en LazyVim muestra algunos Warnings rg, fdfind y lazygit la solución a estos tres warnings que no está instalado ni el rg, ni el fdfind ni el lazygit lo que se debe realizar son los siguientes pasos:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Copiar y pegar entre Vim y tu sistema operativo</title>
-      <link>http://localhost:1313/2023/09/copiar-y-pegar-entre-vim-y-tu-sistema-operativo.html</link>
-      <pubDate>Thu, 14 Sep 2023 15:52:22 +0000</pubDate>
-      <guid>http://localhost:1313/2023/09/copiar-y-pegar-entre-vim-y-tu-sistema-operativo.html</guid>
-      <description>&lt;p&gt;Si necesitas copiar y pegar entre Vim y tu sistema operativo este es tu post. Pasa y muy seguido que tengas que copiar algo desde lo que estas editando con Vim y llevarlo a otro “contexto” que es tu sistema operativo&lt;/p&gt;&#xA;&lt;p&gt;Esto puede ser un dolor de cabeza si no se entiende bien como es que funcionan los registros de vim.&lt;/p&gt;&#xA;&lt;p&gt;En Vim existen registros donde uno pueda guardar lo que llevamos al portapapeles por ejemplo, si nosotros quisiesemos copiar una línea y grabarla en el registro “a” solo tendríamos que seleccionar lo que necesitamos copiar y luego ejecutar:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vim - Borrar el contenido de un tag con vim</title>
-      <link>http://localhost:1313/2023/09/borrar-el-contenido-de-un-tag-con-vim.html</link>
-      <pubDate>Tue, 05 Sep 2023 15:44:41 +0000</pubDate>
-      <guid>http://localhost:1313/2023/09/borrar-el-contenido-de-un-tag-con-vim.html</guid>
-      <description>&lt;p&gt;Para borrar el contenido de un tag con vim solo necesitamos usar o presionar tres teclas&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;dit&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;la “d” de delete&lt;br&gt;&#xA;la “i” de inside&lt;br&gt;&#xA;la “t” de tag&lt;/p&gt;&#xA;&lt;p&gt;Entonces parados sobre el tag que queremos borrar el contenido ejecutamos esas tred teclas y el contenido se borrará&lt;/p&gt;&#xA;&lt;p&gt;También podemos utilizar la combinación de teclas dat para borrar el tag completo incluido en el que estamos posicionado.&lt;/p&gt;&#xA;&lt;p&gt;También se puede borrar por ejemplo el contenido de una llave o un corchete o lo que está encerrado entre una comilla simple o doble.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vimdiff comparar dos archivos con VIM</title>
-      <link>http://localhost:1313/2023/09/vimdiff-comparar-dos-archivos-con-vim.html</link>
-      <pubDate>Sun, 03 Sep 2023 15:43:59 +0000</pubDate>
-      <guid>http://localhost:1313/2023/09/vimdiff-comparar-dos-archivos-con-vim.html</guid>
-      <description>&lt;p&gt;Hoy vamos a usar Vimdiff (vim -d) para comparar dos archivos con VIM.&lt;/p&gt;&#xA;&lt;p&gt;Vimdiff nos permite comparar dos archivos, este comando es muy bueno cuando por ejemplo bajamos un archivo de un servidor y lo queremos comparar con lo que tenemos localmente.&lt;/p&gt;&#xA;&lt;p&gt;Para ejecutar este comando es muy fácil solo tenemos que seleccionar dos archivos que queremos comparar para eso yo generé dos archivos de muestra que los dejo en el repositorio de github &lt;a href=&#34;https://github.com/fideo/vim&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;https://github.com/fideo/vim&#34;&gt;https://github.com/fideo/vim&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Comandos básicos para VIM</title>
-      <link>http://localhost:1313/2023/06/comandos-basicos-para-vim.html</link>
-      <pubDate>Tue, 20 Jun 2023 10:18:11 +0000</pubDate>
-      <guid>http://localhost:1313/2023/06/comandos-basicos-para-vim.html</guid>
-      <description>&lt;p&gt;Estos son algunos de los comandos básicos que uso a diario cuando utilizo VIM.&lt;/p&gt;&#xA;&lt;h2 id=&#34;iniciar-vim&#34;&gt;Iniciar VIM&lt;/h2&gt;&#xA;&lt;p&gt;Si usas por primera vez vim tal vez no sepas por donde empezar y deberías empezar por instalar vim aunque hoy en día la mayoría de las distribuciones linux traen instalado vim; si esto no es así solo bastará con realizar&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt install vim &#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;o el comando similar a este último que tu distribución necesite para instalarlo; en este caso esa instrucción sirve para las distribuciones basadas en debian como por ejemplo Ubuntu.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Comparto la configuración de VIM</title>
-      <link>http://localhost:1313/2023/03/comparto-la-configuracion-de-vim.html</link>
-      <pubDate>Fri, 24 Mar 2023 19:53:12 +0000</pubDate>
-      <guid>http://localhost:1313/2023/03/comparto-la-configuracion-de-vim.html</guid>
-      <description>&lt;p&gt;Dejo en el repositorio de github la configuración de VIM, acá podrás encontrar toda la configuración que utilizo para configurar mi &lt;strong&gt;VIM&lt;/strong&gt;. Los complementos que utilizo son para el desarrollo de sitios webs y para administración de servidores.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/fideo/vim&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;https://github.com/fideo/vim&#34;&gt;https://github.com/fideo/vim&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dentro del repositorio git-hub que compartí en la linea de arriba pueden encontrar varios archivos pero dos son los importantes (los otros son para los videos de youtube) &lt;strong&gt;.vimrc&lt;/strong&gt; y &lt;strong&gt;.vimrc.plug&lt;/strong&gt; ahí está toda la configuración que uno necesita para dejar vim como se muestran en los videos de &lt;a href=&#34;https://www.youtube.com/@FedericoMazzei/videos&#34; target=&#34;_blank&#34;&gt;youtube&lt;/a&gt; (esto puede modificarse con el paso del tiempo)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>VIM YouCompleteMe</title>
-      <link>http://localhost:1313/2023/03/vim-youcompleteme.html</link>
-      <pubDate>Fri, 24 Mar 2023 16:55:25 +0000</pubDate>
-      <guid>http://localhost:1313/2023/03/vim-youcompleteme.html</guid>
-      <description>&lt;p&gt;Si te aparece este mensaje dentro de tu editor VIM&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;The ycmd server SHUT DOWN (restart with ‘:YcmRestartServer’). YCM core library not dete…; you need to compile YCM before using it. Follow the instructions in the documentation.&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&#xA;esto se debe a que tu complemento YouCompleteMe necesita ser reinstalado.&lt;/p&gt;&#xA;&lt;p&gt;Es tan simple como posisionarse dentro del directorio de instalación de YouCompleteMe en mi caso /home/fideo/.vim/plugged/youcompleteme y ejecutar esto&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;python install.py&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Esto hará el proceso de instalación y corrige todas las librerías y dependencias que necesita para que se ejecute correctamente el complemento.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vim el editor de texto mejorado Vi</title>
-      <link>http://localhost:1313/2022/02/vim-el-editor-de-texto-mejorado-vi.html</link>
-      <pubDate>Fri, 25 Feb 2022 08:34:44 +0000</pubDate>
-      <guid>http://localhost:1313/2022/02/vim-el-editor-de-texto-mejorado-vi.html</guid>
-      <description>&lt;p&gt;Vi fue creado por William Nelson Joy mas conocido como Bill Joy; él empezó a desarrolar allá por el año 1976 este editor. Luego en 1991 Bram Moolenaar realiza una mejora este editor y lo llama Vim siendo este uno de los editores de texto mas utilizados por los desarrolladores.&lt;/p&gt;&#xA;&lt;p&gt;Pero este post no trata de hablar de historia de Vim sino de lo que se puede hacer con él.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vim on Federico Mazzei</title><link>https://federicomazzei.com.ar/tags/vim/</link><description>Recent content in Vim on Federico Mazzei</description><generator>Hugo</generator><language>es</language><lastBuildDate>Fri, 09 Aug 2024 09:13:36 +0000</lastBuildDate><atom:link href="https://federicomazzei.com.ar/tags/vim/index.xml" rel="self" type="application/rss+xml"/><item><title>Convertir texto de minúscula a MAYÚSCULA en Vim</title><link>https://federicomazzei.com.ar/2024/08/convertir-texto-de-minuscula-a-mayuscula-en-vim.html</link><pubDate>Fri, 09 Aug 2024 09:13:36 +0000</pubDate><guid>https://federicomazzei.com.ar/2024/08/convertir-texto-de-minuscula-a-mayuscula-en-vim.html</guid><description>&lt;p>Para convertir texto de minúscula a MAYÚSCULA en Vim se puede realizar una convinación de tres o cuatro teclas para conseguir este resultado.&lt;/p></description></item><item><title>LazyVim muestra algunos Warnings rg, fdfind y lazygit</title><link>https://federicomazzei.com.ar/2024/05/lazyvim-muestra-algunos-warnings-rg-fdfind-y-lazygit.html</link><pubDate>Tue, 14 May 2024 14:55:33 +0000</pubDate><guid>https://federicomazzei.com.ar/2024/05/lazyvim-muestra-algunos-warnings-rg-fdfind-y-lazygit.html</guid><description>&lt;p>Si al realizar un checkhealth en LazyVim muestra algunos Warnings rg, fdfind y lazygit la solución a estos tres warnings que no está instalado ni el rg, ni el fdfind ni el lazygit lo que se debe realizar son los siguientes pasos:&lt;/p></description></item><item><title>Copiar y pegar entre Vim y tu sistema operativo</title><link>https://federicomazzei.com.ar/2023/09/copiar-y-pegar-entre-vim-y-tu-sistema-operativo.html</link><pubDate>Thu, 14 Sep 2023 15:52:22 +0000</pubDate><guid>https://federicomazzei.com.ar/2023/09/copiar-y-pegar-entre-vim-y-tu-sistema-operativo.html</guid><description>&lt;p>Si necesitas copiar y pegar entre Vim y tu sistema operativo este es tu post. Pasa y muy seguido que tengas que copiar algo desde lo que estas editando con Vim y llevarlo a otro “contexto” que es tu sistema operativo&lt;/p>
+&lt;p>Esto puede ser un dolor de cabeza si no se entiende bien como es que funcionan los registros de vim.&lt;/p>
+&lt;p>En Vim existen registros donde uno pueda guardar lo que llevamos al portapapeles por ejemplo, si nosotros quisiesemos copiar una línea y grabarla en el registro “a” solo tendríamos que seleccionar lo que necesitamos copiar y luego ejecutar:&lt;/p></description></item><item><title>Vim - Borrar el contenido de un tag con vim</title><link>https://federicomazzei.com.ar/2023/09/borrar-el-contenido-de-un-tag-con-vim.html</link><pubDate>Tue, 05 Sep 2023 15:44:41 +0000</pubDate><guid>https://federicomazzei.com.ar/2023/09/borrar-el-contenido-de-un-tag-con-vim.html</guid><description>&lt;p>Para borrar el contenido de un tag con vim solo necesitamos usar o presionar tres teclas&lt;/p>
+&lt;pre tabindex="0">&lt;code>dit
+&lt;/code>&lt;/pre>&lt;p>la “d” de delete&lt;br>
+la “i” de inside&lt;br>
+la “t” de tag&lt;/p>
+&lt;p>Entonces parados sobre el tag que queremos borrar el contenido ejecutamos esas tred teclas y el contenido se borrará&lt;/p>
+&lt;p>También podemos utilizar la combinación de teclas dat para borrar el tag completo incluido en el que estamos posicionado.&lt;/p>
+&lt;p>También se puede borrar por ejemplo el contenido de una llave o un corchete o lo que está encerrado entre una comilla simple o doble.&lt;/p></description></item><item><title>Vimdiff comparar dos archivos con VIM</title><link>https://federicomazzei.com.ar/2023/09/vimdiff-comparar-dos-archivos-con-vim.html</link><pubDate>Sun, 03 Sep 2023 15:43:59 +0000</pubDate><guid>https://federicomazzei.com.ar/2023/09/vimdiff-comparar-dos-archivos-con-vim.html</guid><description>&lt;p>Hoy vamos a usar Vimdiff (vim -d) para comparar dos archivos con VIM.&lt;/p>
+&lt;p>Vimdiff nos permite comparar dos archivos, este comando es muy bueno cuando por ejemplo bajamos un archivo de un servidor y lo queremos comparar con lo que tenemos localmente.&lt;/p>
+&lt;p>Para ejecutar este comando es muy fácil solo tenemos que seleccionar dos archivos que queremos comparar para eso yo generé dos archivos de muestra que los dejo en el repositorio de github &lt;a href="https://github.com/fideo/vim" target="_blank">&lt;a href="https://github.com/fideo/vim">https://github.com/fideo/vim&lt;/a>&lt;/a>&lt;/p></description></item><item><title>Comandos básicos para VIM</title><link>https://federicomazzei.com.ar/2023/06/comandos-basicos-para-vim.html</link><pubDate>Tue, 20 Jun 2023 10:18:11 +0000</pubDate><guid>https://federicomazzei.com.ar/2023/06/comandos-basicos-para-vim.html</guid><description>&lt;p>Estos son algunos de los comandos básicos que uso a diario cuando utilizo VIM.&lt;/p>
+&lt;h2 id="iniciar-vim">Iniciar VIM&lt;/h2>
+&lt;p>Si usas por primera vez vim tal vez no sepas por donde empezar y deberías empezar por instalar vim aunque hoy en día la mayoría de las distribuciones linux traen instalado vim; si esto no es así solo bastará con realizar&lt;/p>
+&lt;pre tabindex="0">&lt;code>sudo apt install vim 
+&lt;/code>&lt;/pre>&lt;p>o el comando similar a este último que tu distribución necesite para instalarlo; en este caso esa instrucción sirve para las distribuciones basadas en debian como por ejemplo Ubuntu.&lt;/p></description></item><item><title>Comparto la configuración de VIM</title><link>https://federicomazzei.com.ar/2023/03/comparto-la-configuracion-de-vim.html</link><pubDate>Fri, 24 Mar 2023 19:53:12 +0000</pubDate><guid>https://federicomazzei.com.ar/2023/03/comparto-la-configuracion-de-vim.html</guid><description>&lt;p>Dejo en el repositorio de github la configuración de VIM, acá podrás encontrar toda la configuración que utilizo para configurar mi &lt;strong>VIM&lt;/strong>. Los complementos que utilizo son para el desarrollo de sitios webs y para administración de servidores.&lt;/p>
+&lt;p>&lt;a href="https://github.com/fideo/vim" target="_blank">&lt;a href="https://github.com/fideo/vim">https://github.com/fideo/vim&lt;/a>&lt;/a>&lt;/p>
+&lt;p>Dentro del repositorio git-hub que compartí en la linea de arriba pueden encontrar varios archivos pero dos son los importantes (los otros son para los videos de youtube) &lt;strong>.vimrc&lt;/strong> y &lt;strong>.vimrc.plug&lt;/strong> ahí está toda la configuración que uno necesita para dejar vim como se muestran en los videos de &lt;a href="https://www.youtube.com/@FedericoMazzei/videos" target="_blank">youtube&lt;/a> (esto puede modificarse con el paso del tiempo)&lt;/p></description></item><item><title>VIM YouCompleteMe</title><link>https://federicomazzei.com.ar/2023/03/vim-youcompleteme.html</link><pubDate>Fri, 24 Mar 2023 16:55:25 +0000</pubDate><guid>https://federicomazzei.com.ar/2023/03/vim-youcompleteme.html</guid><description>&lt;p>Si te aparece este mensaje dentro de tu editor VIM&lt;/p>
+&lt;p>&lt;em>&lt;strong>The ycmd server SHUT DOWN (restart with ‘:YcmRestartServer’). YCM core library not dete…; you need to compile YCM before using it. Follow the instructions in the documentation.&lt;/strong>&lt;/em>&lt;br>
+esto se debe a que tu complemento YouCompleteMe necesita ser reinstalado.&lt;/p>
+&lt;p>Es tan simple como posisionarse dentro del directorio de instalación de YouCompleteMe en mi caso /home/fideo/.vim/plugged/youcompleteme y ejecutar esto&lt;/p>
+&lt;pre tabindex="0">&lt;code>python install.py
+&lt;/code>&lt;/pre>&lt;p>Esto hará el proceso de instalación y corrige todas las librerías y dependencias que necesita para que se ejecute correctamente el complemento.&lt;/p></description></item><item><title>Vim el editor de texto mejorado Vi</title><link>https://federicomazzei.com.ar/2022/02/vim-el-editor-de-texto-mejorado-vi.html</link><pubDate>Fri, 25 Feb 2022 08:34:44 +0000</pubDate><guid>https://federicomazzei.com.ar/2022/02/vim-el-editor-de-texto-mejorado-vi.html</guid><description>&lt;p>Vi fue creado por William Nelson Joy mas conocido como Bill Joy; él empezó a desarrolar allá por el año 1976 este editor. Luego en 1991 Bram Moolenaar realiza una mejora este editor y lo llama Vim siendo este uno de los editores de texto mas utilizados por los desarrolladores.&lt;/p>
+&lt;p>Pero este post no trata de hablar de historia de Vim sino de lo que se puede hacer con él.&lt;/p></description></item></channel></rss>

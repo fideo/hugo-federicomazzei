@@ -1074,14 +1074,18 @@ Lo que hice fue probar primero con el usuario <code>clamupdate</code> y volver a
 
             <div>
               <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <p>Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:</p>
+                <h3 id="instalar-xclip">Instalar xclip</h3>
+<p>Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:</p>
 <pre tabindex="0"><code>sudo apt install xclip
-</code></pre><p>Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:</p>
+</code></pre><blockquote>
+<p><em><strong>NOTA</strong></em><br>
+Si necesitas instalar xclip en otro sistema que no sea derivado de Debian podes ingresar <a href="https://github.com/astrand/xclip">aquí</a></p>
+</blockquote>
+<p>Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:</p>
 <pre tabindex="0"><code>echo &#34;Un texto cualquiera&#34; | xclip -i
 </code></pre><p>Luego si queremos copiar ese texto en la consola hacemos lo siguiente:</p>
 <pre tabindex="0"><code>xclip -o 
 </code></pre><p>y el resultado sería –&gt; Un texto cualquiera</p>
-<p>Me encontré con un problema… que al ejecutar el xclip por consola obtenía un mensaje de error que me decía que display no estaba configurado.</p>
               </div>
             </div>
 

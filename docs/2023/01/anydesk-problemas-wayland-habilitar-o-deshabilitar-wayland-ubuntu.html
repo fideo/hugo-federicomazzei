@@ -11,7 +11,7 @@
     <link rel="stylesheet" href='https://federicomazzei.com.ar/css/dark.css' />
     <link rel="stylesheet" href='https://federicomazzei.com.ar/css/syntax.css' />
     <link rel="stylesheet" href='https://federicomazzei.com.ar/css/custom.css' />
-    <title>Anydesk problemas con Wayland Cómo habilitar o deshabilitar wayland en Ubuntu 22.04 Desktop - Federico Mazzei</title>
+    <title>Cómo solucionar el error &#34;No se admite el servidor remoto de pantalla Wayland&#34; en AnyDesk para Ubuntu 22.04 - Federico Mazzei</title>
     
     <link rel="icon" type="image/x-icon" href='/images/avatar.webp'>
     
@@ -19,10 +19,7 @@
 
     
     <meta name="description"
-  content="Si estas trantando de usar AnyDesk en linux y te arroja un mensaje de error como este
-No se admite el servidor remoto de pantalla wayland
-Es porque hay que colocar en false la opción WaylandEnable que se encuentra en /etc/gdm3/custom.conf esto te permitirá conectarte a esa máquina cliente; es decir que la modificación de /etc/gdm3/custom.conf hay que hacerla en la PC que queremos conectarnos.
-Para eso tiene que abrir tu consola en modo administrador / sudo y editar ese archivo, en mi caso yo uso vim asi que sería así:
+  content="Cómo solucionar el error &ldquo;No se admite el servidor remoto de pantalla Wayland&rdquo; en AnyDesk para Ubuntu 22.04 Introducción Si estás utilizando AnyDesk en Ubuntu 22.04 y te encuentras con el mensaje de error &ldquo;No se admite el servidor remoto de pantalla Wayland&rdquo;, no te preocupes. Este problema es común y tiene una solución sencilla. En esta guía, te explicaré cómo habilitar o deshabilitar Wayland en Ubuntu 22.04 para que puedas usar AnyDesk sin problemas.
 " />
 <meta name="keywords"
   content='linux, vim, debian, ubuntu, docker, tecnología, comandos, git, blog, google analytics, federico mazzei' />
@@ -31,12 +28,9 @@ Para eso tiene que abrir tu consola en modo administrador / sudo y editar ese ar
 
 
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Anydesk problemas con Wayland Cómo habilitar o deshabilitar wayland en Ubuntu 22.04 Desktop - Federico Mazzei" />
+<meta name="twitter:title" content="Cómo solucionar el error &#34;No se admite el servidor remoto de pantalla Wayland&#34; en AnyDesk para Ubuntu 22.04 - Federico Mazzei" />
 <meta name="twitter:description"
-  content="Si estas trantando de usar AnyDesk en linux y te arroja un mensaje de error como este
-No se admite el servidor remoto de pantalla wayland
-Es porque hay que colocar en false la opción WaylandEnable que se encuentra en /etc/gdm3/custom.conf esto te permitirá conectarte a esa máquina cliente; es decir que la modificación de /etc/gdm3/custom.conf hay que hacerla en la PC que queremos conectarnos.
-Para eso tiene que abrir tu consola en modo administrador / sudo y editar ese archivo, en mi caso yo uso vim asi que sería así:
+  content="Cómo solucionar el error &ldquo;No se admite el servidor remoto de pantalla Wayland&rdquo; en AnyDesk para Ubuntu 22.04 Introducción Si estás utilizando AnyDesk en Ubuntu 22.04 y te encuentras con el mensaje de error &ldquo;No se admite el servidor remoto de pantalla Wayland&rdquo;, no te preocupes. Este problema es común y tiene una solución sencilla. En esta guía, te explicaré cómo habilitar o deshabilitar Wayland en Ubuntu 22.04 para que puedas usar AnyDesk sin problemas.
 " />
 <meta name="twitter:site" content="https://federicomazzei.com.ar/" />
 <meta name="twitter:creator" content="fideo" />
@@ -45,15 +39,12 @@ Para eso tiene que abrir tu consola en modo administrador / sudo y editar ese ar
 
 
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Anydesk problemas con Wayland Cómo habilitar o deshabilitar wayland en Ubuntu 22.04 Desktop - Federico Mazzei">
+<meta property="og:title" content="Cómo solucionar el error &#34;No se admite el servidor remoto de pantalla Wayland&#34; en AnyDesk para Ubuntu 22.04 - Federico Mazzei">
 <meta property="og:description"
-  content="Si estas trantando de usar AnyDesk en linux y te arroja un mensaje de error como este
-No se admite el servidor remoto de pantalla wayland
-Es porque hay que colocar en false la opción WaylandEnable que se encuentra en /etc/gdm3/custom.conf esto te permitirá conectarte a esa máquina cliente; es decir que la modificación de /etc/gdm3/custom.conf hay que hacerla en la PC que queremos conectarnos.
-Para eso tiene que abrir tu consola en modo administrador / sudo y editar ese archivo, en mi caso yo uso vim asi que sería así:
+  content="Cómo solucionar el error &ldquo;No se admite el servidor remoto de pantalla Wayland&rdquo; en AnyDesk para Ubuntu 22.04 Introducción Si estás utilizando AnyDesk en Ubuntu 22.04 y te encuentras con el mensaje de error &ldquo;No se admite el servidor remoto de pantalla Wayland&rdquo;, no te preocupes. Este problema es común y tiene una solución sencilla. En esta guía, te explicaré cómo habilitar o deshabilitar Wayland en Ubuntu 22.04 para que puedas usar AnyDesk sin problemas.
 " />
 <meta property="og:url" content="https://federicomazzei.com.ar/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html" />
-<meta property="og:site_name" content="Anydesk problemas con Wayland Cómo habilitar o deshabilitar wayland en Ubuntu 22.04 Desktop" />
+<meta property="og:site_name" content="Cómo solucionar el error &#34;No se admite el servidor remoto de pantalla Wayland&#34; en AnyDesk para Ubuntu 22.04" />
 <meta property="og:image"
   content="https://federicomazzei.com.ar/">
 <meta property="og:image:width" content="2048">
@@ -168,7 +159,7 @@ Para eso tiene que abrir tu consola en modo administrador / sudo y editar ese ar
                   </span>
                   <span class="path-divider">/</span>
                   <strong class="mr-1" style="">
-                    <a href="https://federicomazzei.com.ar/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html">Anydesk problemas con Wayland Cómo habilitar o deshabilitar wayland en Ubuntu 22.04 Desktop</a>
+                    <a href="https://federicomazzei.com.ar/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html">Cómo solucionar el error &#34;No se admite el servidor remoto de pantalla Wayland&#34; en AnyDesk para Ubuntu 22.04</a>
                   </strong>
                 </h1>
                 <div class="note m-0">
@@ -210,7 +201,7 @@ Para eso tiene que abrir tu consola en modo administrador / sudo y editar ese ar
                         </div>
                       </div>
                     </details-menu>
-                      182 Palabras 
+                      356 Palabras 
                     
 
                   </div>
@@ -269,20 +260,40 @@ Para eso tiene que abrir tu consola en modo administrador / sudo y editar ese ar
 
 
               <div class="Box-body px-5 pb-5" style="z-index: 1">
-                <article class="markdown-body entry-content container-lg"><p>Si estas trantando de usar AnyDesk en linux y te arroja un mensaje de error como este</p>
-<p><em><strong>No se admite el servidor remoto de pantalla wayland</strong></em></p>
-<p>Es porque hay que colocar en <strong>false</strong> la opción WaylandEnable que se encuentra en <code>/etc/gdm3/custom.conf</code> esto te permitirá conectarte a esa máquina cliente; es decir que la modificación de <code>/etc/gdm3/custom.conf</code> hay que hacerla en la PC que queremos conectarnos.</p>
-<p>Para eso tiene que abrir tu consola en modo administrador / sudo y editar ese archivo, en mi caso yo uso vim asi que sería así:</p>
+                <article class="markdown-body entry-content container-lg"><h1 id="cómo-solucionar-el-error-no-se-admite-el-servidor-remoto-de-pantalla-wayland-en-anydesk-para-ubuntu-2204">Cómo solucionar el error &ldquo;No se admite el servidor remoto de pantalla Wayland&rdquo; en AnyDesk para Ubuntu 22.04</h1>
+<h2 id="introducción">Introducción</h2>
+<p>Si estás utilizando AnyDesk en Ubuntu 22.04 y te encuentras con el mensaje de error <strong>&ldquo;No se admite el servidor remoto de pantalla Wayland&rdquo;</strong>, no te preocupes. Este problema es común y tiene una solución sencilla. En esta guía, te explicaré cómo habilitar o deshabilitar Wayland en Ubuntu 22.04 para que puedas usar AnyDesk sin problemas.</p>
+<h2 id="qué-es-wayland-y-por-qué-causa-problemas-con-anydesk">¿Qué es Wayland y por qué causa problemas con AnyDesk?</h2>
+<p>Wayland es un protocolo de servidor gráfico utilizado en lugar de Xorg en algunas distribuciones de Linux, incluido Ubuntu. Sin embargo, no todos los programas son compatibles con Wayland, lo que puede causar errores como el que estás experimentando con AnyDesk.</p>
+<h2 id="solución-deshabilitar-wayland-en-ubuntu-2204">Solución: Deshabilitar Wayland en Ubuntu 22.04</h2>
+<p>Para solucionar este problema, necesitas deshabilitar Wayland en tu sistema. Esto se hace modificando un archivo de configuración específico. Sigue estos pasos:</p>
+<h3 id="paso-1">Paso 1:</h3>
+<p>Abre una terminal en modo administrador (sudo).</p>
+<h3 id="paso-2">Paso 2:</h3>
+<p>Edita el archivo de configuración de GDM3 (Gestor de Display de GNOME) usando tu editor de texto preferido. Por ejemplo, si usas <code>vim</code>, ejecuta:</p>
 <pre tabindex="0"><code>sudo vim /etc/gdm3/custom.conf
-</code></pre><p>Luego buscás donde dice</p>
+</code></pre><h3 id="paso-3">Paso 3:</h3>
+<p>Busca la línea que dice:</p>
 <pre tabindex="0"><code>#WaylandEnable=false
-</code></pre><p>Lo descomentás para que quede activo dentro del archivo, pero con el parámetro false y esto te permitirá usar AnyDesk sin problemas 😉</p>
-<p>Una vez que terminas de editarlo hay que reiniciar el servicio gdm3 para eso ejecutamos el siguiente comando</p>
+</code></pre><h3 id="paso-4">Paso 4:</h3>
+<p>Descomenta la línea eliminando el símbolo # al principio, y asegúrate de que quede así:</p>
+<pre tabindex="0"><code>WaylandEnable=false
+</code></pre><h3 id="paso-5">Paso 5:</h3>
+<p>Guarda los cambios y cierra el editor.</p>
+<h3 id="paso-6">Paso 6:</h3>
+<p>Reinicia el servicio GDM3 para aplicar los cambios. Ejecuta:</p>
 <pre tabindex="0"><code>sudo systemctl restart gdm3
-</code></pre><p>Luego de reiniciado el servicio no debería aparecerte el mensaje de error de conexión en AnyDesk por wayland</p>
-<p>Si por algún motivo necesitas usarlo solo basta con cambiar el valor a true.</p>
-<p><a href="/tags/#ubuntu">Ver mas posts sobre Ubuntu</a></p>
-<p><em><strong>Enjoy!!!</strong></em></p>
+</code></pre><h3 id="paso-7">Paso 7:</h3>
+<p>Una vez reiniciado el servicio, intenta conectarte nuevamente con AnyDesk. El error debería desaparecer.<br>
+¿Cómo volver a habilitar Wayland?</p>
+<p>Si en algún momento necesitas volver a habilitar Wayland, simplemente abre el archivo <code>/etc/gdm3/custom.conf</code> nuevamente y cambia la línea a:</p>
+<pre tabindex="0"><code>#WaylandEnableylandEnable=false
+</code></pre><p>Luego, reinicia el servicio GDM3 como se indicó anteriormente.</p>
+<h2 id="conclusión">Conclusión</h2>
+<p>Deshabilitar Wayland es una solución efectiva para resolver el problema de compatibilidad con AnyDesk en Ubuntu 22.04. Sin embargo, recuerda que esto puede afectar otras aplicaciones que dependen de Wayland, así que asegúrate de que esta configuración sea adecuada para tus necesidades.</p>
+<h4 id="más-información">Más información</h4>
+<p>Si deseas aprender más sobre Ubuntu y otros temas relacionados, visita nuestra sección de posts sobre Ubuntu.</p>
+<p><em><em><strong>Enjoy!!!</strong></em></em></p>
 </article>
               </div>
             </div>

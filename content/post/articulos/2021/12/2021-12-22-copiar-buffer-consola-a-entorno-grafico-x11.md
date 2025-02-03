@@ -17,12 +17,15 @@ type: post
 url: /2021/12/copiar-buffer-consola-a-entorno-grafico-x11.html
 ---
 
+### Instalar xclip 
+
 Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:
 
 ```
 sudo apt install xclip
 ```
-
+> _**NOTA**_
+> Si necesitas instalar xclip en otro sistema que no sea derivado de Debian podes ingresar [aquí](https://github.com/astrand/xclip)
   
 Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:
 
@@ -40,25 +43,34 @@ xclip -o
   
 y el resultado sería –&gt; Un texto cualquiera
 
-Me encontré con un problema… que al ejecutar el xclip por consola obtenía un mensaje de error que me decía que display no estaba configurado.
+### Parámetro -sel clip
 
+El parámetro `-sel clip` (o `-selection clipboard`) le indica a `xclip` que utilice el portapapeles del sistema (el mismo que usas cuando haces `Ctrl+C` y `Ctrl+V` en aplicaciones gráficas). Esto permite que el texto que copias desde la terminal esté disponible en el portapapeles global de tu entorno gráfico.
+
+Para probar esto podemos ejecutar este comendo en la linea de comando
+```
+echo "Hola, esto es un texto de prueba" | xclip -sel clip
+```
+y luego ir a tu entorno gráfico y hacer botón derecho del mouse y pegar y te pagará el contenido de tu buffer del clipboard
+
+También hacer `Ctrl+V` y pegará el mismo texto "Hola, esto es un texto de prueba"
+
+### Posible Soluciones a problemas
+Me encontré con un problema… que al ejecutar el xclip por consola obtenía un mensaje de error que me decía que display no estaba configurado.
 ```
 can't open display:
 ```
-
   
 Esto lo pude solucionar ejecutando un export DISPLAY
 
 ```
 export DISPLAY=localhost:0
 ```
-
   
 Listo, con eso alcanza para que al conectarme al servidor nuevamente pueda ejecutar el xclip sin problemas.
 
 Si estás usando tmux esto te puede ayudar
 
 ```
-
 eval $(tmux showenv -s | grep -E '^(SSH|DISPLAY)')
 ```

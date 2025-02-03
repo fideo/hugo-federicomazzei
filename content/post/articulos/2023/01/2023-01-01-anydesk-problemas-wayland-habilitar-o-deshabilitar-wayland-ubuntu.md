@@ -1,6 +1,4 @@
 ---
-ao_post_optimize:
-- a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}
 author: fideo
 date: "2023-01-01T10:25:36Z"
 excerpt: No se admite el servidor remoto de pantalla wayland, AnyDesk ubuntu
@@ -16,41 +14,71 @@ tags:
 - software
 - ubuntu
 thumbnail: ../../../uploads/2017/11/cabeceraUbuntu-1.jpg
-title: Anydesk problemas con Wayland Cómo habilitar o deshabilitar wayland en Ubuntu
-  22.04 Desktop
+title: Cómo solucionar el error "No se admite el servidor remoto de pantalla Wayland" en AnyDesk para Ubuntu 22.04
 type: post
 url: /2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html
 ---
-Si estas trantando de usar AnyDesk en linux y te arroja un mensaje de error como este
 
-***No se admite el servidor remoto de pantalla wayland***
+# Cómo solucionar el error "No se admite el servidor remoto de pantalla Wayland" en AnyDesk para Ubuntu 22.04
 
-Es porque hay que colocar en **false** la opción WaylandEnable que se encuentra en `/etc/gdm3/custom.conf` esto te permitirá conectarte a esa máquina cliente; es decir que la modificación de `/etc/gdm3/custom.conf` hay que hacerla en la PC que queremos conectarnos.
+## Introducción
 
-Para eso tiene que abrir tu consola en modo administrador / sudo y editar ese archivo, en mi caso yo uso vim asi que sería así:
+Si estás utilizando AnyDesk en Ubuntu 22.04 y te encuentras con el mensaje de error **"No se admite el servidor remoto de pantalla Wayland"**, no te preocupes. Este problema es común y tiene una solución sencilla. En esta guía, te explicaré cómo habilitar o deshabilitar Wayland en Ubuntu 22.04 para que puedas usar AnyDesk sin problemas.
+
+## ¿Qué es Wayland y por qué causa problemas con AnyDesk?
+
+Wayland es un protocolo de servidor gráfico utilizado en lugar de Xorg en algunas distribuciones de Linux, incluido Ubuntu. Sin embargo, no todos los programas son compatibles con Wayland, lo que puede causar errores como el que estás experimentando con AnyDesk.
+
+## Solución: Deshabilitar Wayland en Ubuntu 22.04
+
+Para solucionar este problema, necesitas deshabilitar Wayland en tu sistema. Esto se hace modificando un archivo de configuración específico. Sigue estos pasos:
+
+### Paso 1:
+Abre una terminal en modo administrador (sudo).
+
+### Paso 2:
+Edita el archivo de configuración de GDM3 (Gestor de Display de GNOME) usando tu editor de texto preferido. Por ejemplo, si usas `vim`, ejecuta:
 
 ```
 sudo vim /etc/gdm3/custom.conf
 ```
 
-Luego buscás donde dice
-
+### Paso 3:
+Busca la línea que dice:
 ```
 #WaylandEnable=false
 ```
 
-Lo descomentás para que quede activo dentro del archivo, pero con el parámetro false y esto te permitirá usar AnyDesk sin problemas 😉
+### Paso 4:
+Descomenta la línea eliminando el símbolo # al principio, y asegúrate de que quede así:
+```
+WaylandEnable=false
+```
 
-Una vez que terminas de editarlo hay que reiniciar el servicio gdm3 para eso ejecutamos el siguiente comando
+### Paso 5:
+Guarda los cambios y cierra el editor.
 
+### Paso 6:
+Reinicia el servicio GDM3 para aplicar los cambios. Ejecuta:
 ```
 sudo systemctl restart gdm3
 ```
+### Paso 7:
+Una vez reiniciado el servicio, intenta conectarte nuevamente con AnyDesk. El error debería desaparecer.
+¿Cómo volver a habilitar Wayland?
 
-Luego de reiniciado el servicio no debería aparecerte el mensaje de error de conexión en AnyDesk por wayland
+Si en algún momento necesitas volver a habilitar Wayland, simplemente abre el archivo `/etc/gdm3/custom.conf` nuevamente y cambia la línea a:
+```
+#WaylandEnableylandEnable=false
+```
+Luego, reinicia el servicio GDM3 como se indicó anteriormente.
 
-Si por algún motivo necesitas usarlo solo basta con cambiar el valor a true.
+## Conclusión
 
-[Ver mas posts sobre Ubuntu](/tags/#ubuntu)
+Deshabilitar Wayland es una solución efectiva para resolver el problema de compatibilidad con AnyDesk en Ubuntu 22.04. Sin embargo, recuerda que esto puede afectar otras aplicaciones que dependen de Wayland, así que asegúrate de que esta configuración sea adecuada para tus necesidades.
 
-***Enjoy!!!***
+#### Más información
+Si deseas aprender más sobre Ubuntu y otros temas relacionados, visita nuestra sección de posts sobre Ubuntu.
+
+_***Enjoy!!!***_
+

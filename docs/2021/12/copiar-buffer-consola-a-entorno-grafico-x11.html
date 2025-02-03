@@ -19,11 +19,12 @@
 
     
     <meta name="description"
-  content="Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:
-sudo apt install xclip Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:
+  content="Instalar xclip Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:
+sudo apt install xclip NOTA
+Si necesitas instalar xclip en otro sistema que no sea derivado de Debian podes ingresar aquí
+Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:
 echo &#34;Un texto cualquiera&#34; | xclip -i Luego si queremos copiar ese texto en la consola hacemos lo siguiente:
 xclip -o y el resultado sería –&gt; Un texto cualquiera
-Me encontré con un problema… que al ejecutar el xclip por consola obtenía un mensaje de error que me decía que display no estaba configurado.
 " />
 <meta name="keywords"
   content='linux, vim, debian, ubuntu, docker, tecnología, comandos, git, blog, google analytics, federico mazzei' />
@@ -34,11 +35,12 @@ Me encontré con un problema… que al ejecutar el xclip por consola obtenía un
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Copiar buffer consola a entorno gráfico X11 - Federico Mazzei" />
 <meta name="twitter:description"
-  content="Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:
-sudo apt install xclip Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:
+  content="Instalar xclip Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:
+sudo apt install xclip NOTA
+Si necesitas instalar xclip en otro sistema que no sea derivado de Debian podes ingresar aquí
+Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:
 echo &#34;Un texto cualquiera&#34; | xclip -i Luego si queremos copiar ese texto en la consola hacemos lo siguiente:
 xclip -o y el resultado sería –&gt; Un texto cualquiera
-Me encontré con un problema… que al ejecutar el xclip por consola obtenía un mensaje de error que me decía que display no estaba configurado.
 " />
 <meta name="twitter:site" content="https://federicomazzei.com.ar/" />
 <meta name="twitter:creator" content="fideo" />
@@ -49,11 +51,12 @@ Me encontré con un problema… que al ejecutar el xclip por consola obtenía un
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Copiar buffer consola a entorno gráfico X11 - Federico Mazzei">
 <meta property="og:description"
-  content="Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:
-sudo apt install xclip Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:
+  content="Instalar xclip Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:
+sudo apt install xclip NOTA
+Si necesitas instalar xclip en otro sistema que no sea derivado de Debian podes ingresar aquí
+Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:
 echo &#34;Un texto cualquiera&#34; | xclip -i Luego si queremos copiar ese texto en la consola hacemos lo siguiente:
 xclip -o y el resultado sería –&gt; Un texto cualquiera
-Me encontré con un problema… que al ejecutar el xclip por consola obtenía un mensaje de error que me decía que display no estaba configurado.
 " />
 <meta property="og:url" content="https://federicomazzei.com.ar/2021/12/copiar-buffer-consola-a-entorno-grafico-x11.html" />
 <meta property="og:site_name" content="Copiar buffer consola a entorno gráfico X11" />
@@ -213,7 +216,7 @@ Me encontré con un problema… que al ejecutar el xclip por consola obtenía un
                         </div>
                       </div>
                     </details-menu>
-                      133 Palabras 
+                      272 Palabras 
                     
 
                   </div>
@@ -254,21 +257,32 @@ Me encontré con un problema… que al ejecutar el xclip por consola obtenía un
 
 
               <div class="Box-body px-5 pb-5" style="z-index: 1">
-                <article class="markdown-body entry-content container-lg"><p>Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:</p>
+                <article class="markdown-body entry-content container-lg"><h3 id="instalar-xclip">Instalar xclip</h3>
+<p>Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:</p>
 <pre tabindex="0"><code>sudo apt install xclip
-</code></pre><p>Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:</p>
+</code></pre><blockquote>
+<p><em><strong>NOTA</strong></em><br>
+Si necesitas instalar xclip en otro sistema que no sea derivado de Debian podes ingresar <a href="https://github.com/astrand/xclip">aquí</a></p>
+</blockquote>
+<p>Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:</p>
 <pre tabindex="0"><code>echo &#34;Un texto cualquiera&#34; | xclip -i
 </code></pre><p>Luego si queremos copiar ese texto en la consola hacemos lo siguiente:</p>
 <pre tabindex="0"><code>xclip -o 
 </code></pre><p>y el resultado sería –&gt; Un texto cualquiera</p>
+<h3 id="parámetro--sel-clip">Parámetro -sel clip</h3>
+<p>El parámetro <code>-sel clip</code> (o <code>-selection clipboard</code>) le indica a <code>xclip</code> que utilice el portapapeles del sistema (el mismo que usas cuando haces <code>Ctrl+C</code> y <code>Ctrl+V</code> en aplicaciones gráficas). Esto permite que el texto que copias desde la terminal esté disponible en el portapapeles global de tu entorno gráfico.</p>
+<p>Para probar esto podemos ejecutar este comendo en la linea de comando</p>
+<pre tabindex="0"><code>echo &#34;Hola, esto es un texto de prueba&#34; | xclip -sel clip
+</code></pre><p>y luego ir a tu entorno gráfico y hacer botón derecho del mouse y pegar y te pagará el contenido de tu buffer del clipboard</p>
+<p>También hacer <code>Ctrl+V</code> y pegará el mismo texto &ldquo;Hola, esto es un texto de prueba&rdquo;</p>
+<h3 id="posible-soluciones-a-problemas">Posible Soluciones a problemas</h3>
 <p>Me encontré con un problema… que al ejecutar el xclip por consola obtenía un mensaje de error que me decía que display no estaba configurado.</p>
 <pre tabindex="0"><code>can&#39;t open display:
 </code></pre><p>Esto lo pude solucionar ejecutando un export DISPLAY</p>
 <pre tabindex="0"><code>export DISPLAY=localhost:0
 </code></pre><p>Listo, con eso alcanza para que al conectarme al servidor nuevamente pueda ejecutar el xclip sin problemas.</p>
 <p>Si estás usando tmux esto te puede ayudar</p>
-<pre tabindex="0"><code>
-eval $(tmux showenv -s | grep -E &#39;^(SSH|DISPLAY)&#39;)
+<pre tabindex="0"><code>eval $(tmux showenv -s | grep -E &#39;^(SSH|DISPLAY)&#39;)
 </code></pre></article>
               </div>
             </div>

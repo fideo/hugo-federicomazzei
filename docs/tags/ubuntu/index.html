@@ -928,16 +928,15 @@ esto se debe a que tu complemento YouCompleteMe necesita ser reinstalado.</p>
           <div class="col-12 d-inline-block">
             <div class="d-inline-block mb-1">
               <h3 class="wb-break-all">
-                <a href="https://federicomazzei.com.ar/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html">Anydesk problemas con Wayland Cómo habilitar o deshabilitar wayland en Ubuntu 22.04 Desktop</a>
+                <a href="https://federicomazzei.com.ar/2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html">Cómo solucionar el error &#34;No se admite el servidor remoto de pantalla Wayland&#34; en AnyDesk para Ubuntu 22.04</a>
               </h3>
             </div>
 
             <div>
               <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <p>Si estas trantando de usar AnyDesk en linux y te arroja un mensaje de error como este</p>
-<p><em><strong>No se admite el servidor remoto de pantalla wayland</strong></em></p>
-<p>Es porque hay que colocar en <strong>false</strong> la opción WaylandEnable que se encuentra en <code>/etc/gdm3/custom.conf</code> esto te permitirá conectarte a esa máquina cliente; es decir que la modificación de <code>/etc/gdm3/custom.conf</code> hay que hacerla en la PC que queremos conectarnos.</p>
-<p>Para eso tiene que abrir tu consola en modo administrador / sudo y editar ese archivo, en mi caso yo uso vim asi que sería así:</p>
+                <h1 id="cómo-solucionar-el-error-no-se-admite-el-servidor-remoto-de-pantalla-wayland-en-anydesk-para-ubuntu-2204">Cómo solucionar el error &ldquo;No se admite el servidor remoto de pantalla Wayland&rdquo; en AnyDesk para Ubuntu 22.04</h1>
+<h2 id="introducción">Introducción</h2>
+<p>Si estás utilizando AnyDesk en Ubuntu 22.04 y te encuentras con el mensaje de error <strong>&ldquo;No se admite el servidor remoto de pantalla Wayland&rdquo;</strong>, no te preocupes. Este problema es común y tiene una solución sencilla. En esta guía, te explicaré cómo habilitar o deshabilitar Wayland en Ubuntu 22.04 para que puedas usar AnyDesk sin problemas.</p>
               </div>
             </div>
 
@@ -1010,14 +1009,18 @@ esto se debe a que tu complemento YouCompleteMe necesita ser reinstalado.</p>
 
             <div>
               <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <p>Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:</p>
+                <h3 id="instalar-xclip">Instalar xclip</h3>
+<p>Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:</p>
 <pre tabindex="0"><code>sudo apt install xclip
-</code></pre><p>Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:</p>
+</code></pre><blockquote>
+<p><em><strong>NOTA</strong></em><br>
+Si necesitas instalar xclip en otro sistema que no sea derivado de Debian podes ingresar <a href="https://github.com/astrand/xclip">aquí</a></p>
+</blockquote>
+<p>Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:</p>
 <pre tabindex="0"><code>echo &#34;Un texto cualquiera&#34; | xclip -i
 </code></pre><p>Luego si queremos copiar ese texto en la consola hacemos lo siguiente:</p>
 <pre tabindex="0"><code>xclip -o 
 </code></pre><p>y el resultado sería –&gt; Un texto cualquiera</p>
-<p>Me encontré con un problema… que al ejecutar el xclip por consola obtenía un mensaje de error que me decía que display no estaba configurado.</p>
               </div>
             </div>
 
