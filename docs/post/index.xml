@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 20 Jan 2025 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 11:00:00 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeOldify - Colorea tus videos con Inteligencia Artificial</title>
+      <link>https://federicomazzei.com.ar/2025/02/deoldify-colorea-tus-videos-con-inteligencia-artificial.html</link>
+      <pubDate>Mon, 03 Feb 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025/02/deoldify-colorea-tus-videos-con-inteligencia-artificial.html</guid>
+      <description>&lt;h2 id=&#34;deoldify---colorea-tus-videos-con-inteligencia-artificial&#34;&gt;DeOldify - Colorea tus videos con Inteligencia Artificial&lt;/h2&gt;&#xA;&lt;p&gt;Hace unos días, mi papá encontró un DVD en su ropero con videos familiares grabados en distintas épocas, desde 1960 hasta aproximadamente 1980. Claro que la tecnología de aquella época no era la mejor para conservar la calidad con el paso del tiempo.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Migracion de Wordpress a Hugo - Mi experiencia personal</title>
       <link>https://federicomazzei.com.ar/2025/01/migracion-de-wordpress-a-hugo.html</link>
@@ -167,7 +174,7 @@
       <link>https://federicomazzei.com.ar/2021/12/copiar-buffer-consola-a-entorno-grafico-x11.html</link>
       <pubDate>Wed, 22 Dec 2021 13:05:04 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2021/12/copiar-buffer-consola-a-entorno-grafico-x11.html</guid>
-      <description>&lt;h3 id=&#34;instalar-xclip&#34;&gt;Instalar xclip&lt;/h3&gt;&#xA;&lt;p&gt;Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt install xclip&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;NOTA&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&#xA;Si necesitas instalar xclip en otro sistema que no sea derivado de Debian podes ingresar &lt;a href=&#34;https://github.com/astrand/xclip&#34;&gt;aquí&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;echo &amp;#34;Un texto cualquiera&amp;#34; | xclip -i&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Luego si queremos copiar ese texto en la consola hacemos lo siguiente:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;xclip -o &#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;y el resultado sería –&amp;gt; Un texto cualquiera&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;instalar-xclip&#34;&gt;Instalar xclip&lt;/h3&gt;&#xA;&lt;p&gt;Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt install xclip&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;NOTA&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&#xA;Si necesitas instalar xclip en otro sistema que no sea derivado de Debian podes ingresar &lt;a href=&#34;https://github.com/astrand/xclip&#34;&gt;aquí&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Es muy fácil de usar xclip; si queremos copiar un texto podemos hacer lo siguiente:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;echo &amp;#34;Un texto cualquiera&amp;#34; | xclip -i&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Luego si queremos copiar ese texto en la consola hacemos lo siguiente:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como hacer para GitHub no te pida mas el usuario y la cotraseña</title>

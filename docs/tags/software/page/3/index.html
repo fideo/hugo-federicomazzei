@@ -165,7 +165,7 @@
                 </path>
               </svg>
              Artículos 
-              <span class="Counter">214</span>
+              <span class="Counter">215</span>
             </a>
             <a class="UnderlineNav-item " href="https://federicomazzei.com.ar/pages/aboutme">
             Acerca de mi
@@ -481,7 +481,7 @@
         </path>
       </svg>
       Posts
-      <span class="Counter ">214</span>
+      <span class="Counter ">215</span>
     </a>
   </nav>
 </div>
@@ -494,7 +494,7 @@
       
       <div class="TableObject border-bottom border-gray-light py-3">
         <div class="user-repo-search-results-summary TableObject-item TableObject-item--primary v-align-top">
-          <strong>22</strong>
+          <strong>23</strong>
           results
           for <strong>Software</strong>
         </div>
@@ -512,6 +512,53 @@
       </div>
       
       <ul>
+        
+        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
+          <div class="col-12 d-inline-block">
+            <div class="d-inline-block mb-1">
+              <h3 class="wb-break-all">
+                <a href="https://federicomazzei.com.ar/2017/09/reaction-commerce-usando-propio-servidor.html">Reaction Commerce usando propio servidor</a>
+              </h3>
+            </div>
+
+            <div>
+              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
+                <p>Les comparto este video que le prometí a Alexander Ditzend, el cual muestra como subo al servidor de hosting (en mi caso por el momento DonWeb) la plataforma de Reaction Commerce.</p>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="525" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/du7gkeJniu8?feature=oembed" title="Reaction Commerce corriendo en servidor propio" width="100%"></iframe>
+<h2 id="estos-son-los-dos-comandos-que-utilicé-en-el-video">Estos son los dos comandos que utilicé en el video.</h2>
+<h4 id="deployreactionsh">deployreaction.sh</h4>
+<pre tabindex="0"><code>#!/bin/sh
+echo &#34;Generando el deploy de Reaction&#34;
+echo &#34;meteor build --server-only ../new_package/ &amp;&amp; mv ../new_package/*.tar.gz ./reaction.tar.gz&#34;
+fecha=$(date +%d-%m-%Y)fechahora=$(date +%Y%m%d%H%M%S)
+meteor build --server-only ../new_package/ &amp;&amp; mv ../new_package/*.tar.gz ./reaction_$fechahora.tar.gz
+</code></pre><p>Lo que hago es simplemente ejecutar el comando <a href="https://guide.meteor.com/deployment.html#custom-deployment"><strong>meteor build</strong></a> pero con el agregado de que cuando termine, mueva el .tar.gz que genera en ../new_package/ a mi directorio de proyecto insertandole la fecha de deploy al nombre del archivo .tzr.gz<br>
+Esto es para tener un versionado de los deploys.</p>
+              </div>
+            </div>
+
+            <div class="f6 text-gray mt-2">
+              
+              
+              <a class="muted-link mr-3" href="/tags/software">
+                <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                  <path fill-rule="evenodd"
+                    d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                  </path>
+                </svg>
+                software
+              </a>
+              
+              
+
+              Created
+              <relative-time datetime=" Mon, 25 Sep 2017 19:49:48 &#43;0000" class="no-wrap"
+                title=" Mon, 25 Sep 2017 19:49:48 &#43;0000">
+                Mon, 25 Sep 2017 19:49:48 &#43;0000
+              </relative-time>
+            </div>
+          </div>
+        </li>
         
         <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
           <div class="col-12 d-inline-block">

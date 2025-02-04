@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wordpress on Federico Mazzei</title><link>https://federicomazzei.com.ar/tags/wordpress/</link><description>Recent content in Wordpress on Federico Mazzei</description><generator>Hugo</generator><language>es</language><lastBuildDate>Mon, 20 Jan 2025 11:00:00 +0000</lastBuildDate><atom:link href="https://federicomazzei.com.ar/tags/wordpress/index.xml" rel="self" type="application/rss+xml"/><item><title>Migracion de Wordpress a Hugo - Mi experiencia personal</title><link>https://federicomazzei.com.ar/2025/01/migracion-de-wordpress-a-hugo.html</link><pubDate>Mon, 20 Jan 2025 11:00:00 +0000</pubDate><guid>https://federicomazzei.com.ar/2025/01/migracion-de-wordpress-a-hugo.html</guid><description>&lt;p>Recientemente, decidí migrar mi sitio web &lt;a href="https://federicomazzei.com.ar">federicomazzei.com.ar&lt;/a> de WordPress a Hugo, y quiero compartir mi experiencia con ustedes. Si estás empezando en el mundo de los sistemas y estás buscando una manera simple y eficiente de tener tu propio blog, esta lectura puede ayudarte.&lt;/p></description></item><item><title>Comandos útiles para Docker</title><link>https://federicomazzei.com.ar/2021/11/comandos-utiles-para-docker.html</link><pubDate>Tue, 02 Nov 2021 10:25:20 +0000</pubDate><guid>https://federicomazzei.com.ar/2021/11/comandos-utiles-para-docker.html</guid><description>&lt;p>Esto tal vez le puede servir a mas de uno y de paso me lo dejo como ayuda memoria&lt;/p>
-&lt;p>Usé un dockerfile para crear un esquema de wordpress es decir que ese docker contiene un nginx, una base mysql (mariadb) y el lenguaje PHP que utiliza WordPress; cuando levantaba el docker con docker-compose up la base me daba error entonces necesitaba ejecutar por consola algunos comandos para poder crear la base que no la había creado y también para darle privilegios al usuario en cuestión.&lt;/p></description></item><item><title>WordPress “tener un tema por defecto disponible”</title><link>https://federicomazzei.com.ar/2020/06/wordpress-tener-un-tema-por-defecto-disponible.html</link><pubDate>Thu, 11 Jun 2020 10:17:54 +0000</pubDate><guid>https://federicomazzei.com.ar/2020/06/wordpress-tener-un-tema-por-defecto-disponible.html</guid><description>&lt;h2 id="me-encontré-con-este-error-dentro-de-salud-del-sitio-tener-un-tema-predeterminado-disponible-y-no-entendía-como-solucionarlo">Me encontré con este error dentro de salud del sitio, Tener un tema predeterminado disponible y no entendía como solucionarlo.&lt;/h2>
-&lt;p>&lt;img src="https://federicomazzei.com.ar/assets/uploads/2020/06/saludDelSitio.jpg" alt="wordpress tener un tema por defecto disponible" title="wordpress tener un tema por defecto disponible">&lt;/p>
-&lt;p>Hace ya un tiempo que me aparecía este mensaje de error en uno de los WordPress que mantengo y no entendía como solucionarlo, hasta que viendo otro sitio que mantengo me dí cuenta que ese error no me aparecía dentro de la salud del sitio, lo que me llevó a comparar ambos administradores de WordPress.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on Federico Mazzei</title>
+    <link>http://localhost:1313/tags/wordpress/</link>
+    <description>Recent content in Wordpress on Federico Mazzei</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 20 Jan 2025 11:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migracion de Wordpress a Hugo - Mi experiencia personal</title>
+      <link>http://localhost:1313/2025/01/migracion-de-wordpress-a-hugo.html</link>
+      <pubDate>Mon, 20 Jan 2025 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2025/01/migracion-de-wordpress-a-hugo.html</guid>
+      <description>&lt;p&gt;Recientemente, decidí migrar mi sitio web &lt;a href=&#34;https://federicomazzei.com.ar&#34;&gt;federicomazzei.com.ar&lt;/a&gt; de WordPress a Hugo, y quiero compartir mi experiencia con ustedes. Si estás empezando en el mundo de los sistemas y estás buscando una manera simple y eficiente de tener tu propio blog, esta lectura puede ayudarte.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Comandos útiles para Docker</title>
+      <link>http://localhost:1313/2021/11/comandos-utiles-para-docker.html</link>
+      <pubDate>Tue, 02 Nov 2021 10:25:20 +0000</pubDate>
+      <guid>http://localhost:1313/2021/11/comandos-utiles-para-docker.html</guid>
+      <description>&lt;p&gt;Esto tal vez le puede servir a mas de uno y de paso me lo dejo como ayuda memoria&lt;/p&gt;&#xA;&lt;p&gt;Usé un dockerfile para crear un esquema de wordpress es decir que ese docker contiene un nginx, una base mysql (mariadb) y el lenguaje PHP que utiliza WordPress; cuando levantaba el docker con docker-compose up la base me daba error entonces necesitaba ejecutar por consola algunos comandos para poder crear la base que no la había creado y también para darle privilegios al usuario en cuestión.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WordPress “tener un tema por defecto disponible”</title>
+      <link>http://localhost:1313/2020/06/wordpress-tener-un-tema-por-defecto-disponible.html</link>
+      <pubDate>Thu, 11 Jun 2020 10:17:54 +0000</pubDate>
+      <guid>http://localhost:1313/2020/06/wordpress-tener-un-tema-por-defecto-disponible.html</guid>
+      <description>&lt;h2 id=&#34;me-encontré-con-este-error-dentro-de-salud-del-sitio-tener-un-tema-predeterminado-disponible-y-no-entendía-como-solucionarlo&#34;&gt;Me encontré con este error dentro de salud del sitio, Tener un tema predeterminado disponible y no entendía como solucionarlo.&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/assets/uploads/2020/06/saludDelSitio.jpg&#34; alt=&#34;wordpress tener un tema por defecto disponible&#34; title=&#34;wordpress tener un tema por defecto disponible&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hace ya un tiempo que me aparecía este mensaje de error en uno de los WordPress que mantengo y no entendía como solucionarlo, hasta que viendo otro sitio que mantengo me dí cuenta que ese error no me aparecía dentro de la salud del sitio, lo que me llevó a comparar ambos administradores de WordPress.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

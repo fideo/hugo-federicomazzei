@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sistema Operativo on Federico Mazzei</title><link>https://federicomazzei.com.ar/categories/sistema-operativo/</link><description>Recent content in Sistema Operativo on Federico Mazzei</description><generator>Hugo</generator><language>es</language><lastBuildDate>Sat, 07 Sep 2024 09:05:21 +0000</lastBuildDate><atom:link href="https://federicomazzei.com.ar/categories/sistema-operativo/index.xml" rel="self" type="application/rss+xml"/><item><title>Activar la sincronización de Fecha y Hora en Debian Ubuntu</title><link>https://federicomazzei.com.ar/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</link><pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate><guid>https://federicomazzei.com.ar/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</guid><description>&lt;p>Si necesitas activar la sincronización de la fecha y hora en debian ubuntu o cualquier distribución derivada de Debian con un simple comando se puede reparar esto.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sistema Operativo on Federico Mazzei</title>
+    <link>http://localhost:1313/categories/sistema-operativo/</link>
+    <description>Recent content in Sistema Operativo on Federico Mazzei</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 07 Sep 2024 09:05:21 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/sistema-operativo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Activar la sincronización de Fecha y Hora en Debian Ubuntu</title>
+      <link>http://localhost:1313/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</link>
+      <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
+      <guid>http://localhost:1313/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</guid>
+      <description>&lt;p&gt;Si necesitas activar la sincronización de la fecha y hora en debian ubuntu o cualquier distribución derivada de Debian con un simple comando se puede reparar esto.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
