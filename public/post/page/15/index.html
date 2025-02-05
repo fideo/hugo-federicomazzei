@@ -165,7 +165,7 @@
                 </path>
               </svg>
              Artículos 
-              <span class="Counter">215</span>
+              <span class="Counter">216</span>
             </a>
             <a class="UnderlineNav-item " href="http://localhost:1313/pages/aboutme">
             Acerca de mi
@@ -481,7 +481,7 @@
         </path>
       </svg>
       Posts
-      <span class="Counter ">215</span>
+      <span class="Counter ">216</span>
     </a>
   </nav>
 </div>
@@ -973,6 +973,43 @@
           <div class="col-12 d-inline-block">
             <div class="d-inline-block mb-1">
               <h3 class="wb-break-all">
+                <a href="http://localhost:1313/2009/01/walking-in-my-shoes.html">Walking in my shoes</a>
+              </h3>
+            </div>
+
+            <div>
+              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
+                <p>I would tell you about the things<br>
+They put me through<br>
+The pain Ive been subjected to<br>
+But the lord himself would blush<br>
+The countless feasts laid at my feet<br>
+Forbidden fruits for me to eat<br>
+But I think your pulse would start to rush</p>
+<p>Now Im not looking for absolution<br>
+Forgiveness for the things I do<br>
+But before you come to any conclusions<br>
+Try walking in my shoes<br>
+Try walking in my shoes</p>
+              </div>
+            </div>
+
+            <div class="f6 text-gray mt-2">
+              
+
+              Created
+              <relative-time datetime=" Fri, 30 Jan 2009 14:28:59 &#43;0000" class="no-wrap"
+                title=" Fri, 30 Jan 2009 14:28:59 &#43;0000">
+                Fri, 30 Jan 2009 14:28:59 &#43;0000
+              </relative-time>
+            </div>
+          </div>
+        </li>
+        
+        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
+          <div class="col-12 d-inline-block">
+            <div class="d-inline-block mb-1">
+              <h3 class="wb-break-all">
                 <a href="http://localhost:1313/2009/01/jimmy-curry-chimichurry.html">Jimmy Curry = Chimichurry</a>
               </h3>
             </div>
@@ -1216,61 +1253,6 @@ Gracias.</p>
           </div>
         </li>
         
-        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
-          <div class="col-12 d-inline-block">
-            <div class="d-inline-block mb-1">
-              <h3 class="wb-break-all">
-                <a href="http://localhost:1313/2008/06/aporte-de-les-luthiers-a-nuestro-vocabulario.html">Aporte de LES LUTHIERS a nuestro vocabulario</a>
-              </h3>
-            </div>
-
-            <div>
-              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <p>INESTABLE: Mesa norteamericana de Inés.<br>
-ENVERGADURA: Lugar de la anatomía humana en dónde se colocan los condones.<br>
-ONDEANDO: Onde estoy.<br>
-CAMARÓN: Aparato enorme que saca fotos.<br>
-DECIMAL: Pronunciar equivocadamente.<br>
-BECERRO: Que ve u observa una loma o colina.<br>
-BERMUDAS: Observar a las que no hablan.<br>
-TELEPATÍA: aparato de TV para la hermana de mi mamá.<br>
-TELÓN: Tela de 50 metros … o más.<br>
-ANÓMALO: Hemorroides.<br>
-BERRO: Bastor Alebán.<br>
-BARBARISMO: Colección exagerada de muñecas barbie.<br>
-POLINESIA: Mujer Policía que no se entera de nada.<br>
-CHINCHILLA: Auchenchia de un lugar para chentarche.<br>
-DIADEMAS: Veintinueve de febrero.<br>
-DILEMAS: Háblale más.<br>
-MANIFIESTA: Juerga de cacahuetes.<br>
-MEOLLO: Me escucho.<br>
-TOTOPO: Mamamífero ciciciego dede pepelo nenegro que cocome frifrijoles.<br>
-ATIBORRARTE: Desaparecerte.<br>
-CACAREO: Excremento del preso.<br>
-CACHIVACHE: Pequeño hoyo en el pavimento que está a punto de convertirse en vache.<br>
-ELECCIÓN: Lo que expelimenta un oliental al vel una película polno.&lt;<br>
-ENDOSCOPIO: Me preparo para todos los exámenes excepto para dos.<br>
-NITRATO: Ni lo intento.<br>
-NUEVAMENTE: Cerebro sin usar.<br>
-TALENTO: No ta rápido.<br>
-ESGUINCE: Uno más gatorce.<br>
-ESMALTE: Ni lune ni miélcole<br>
-SORPRENDIDA: Monja en llamas.</p>
-              </div>
-            </div>
-
-            <div class="f6 text-gray mt-2">
-              
-
-              Created
-              <relative-time datetime=" Fri, 13 Jun 2008 12:00:47 &#43;0000" class="no-wrap"
-                title=" Fri, 13 Jun 2008 12:00:47 &#43;0000">
-                Fri, 13 Jun 2008 12:00:47 &#43;0000
-              </relative-time>
-            </div>
-          </div>
-        </li>
-        
       </ul>
       <div class="paginate-container">
         <div class="BtnGroup">
@@ -1347,8 +1329,46 @@ else {
     <span class="f6 text-gray-light"></span>
   </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("pre").forEach((pre) => {
+      let button = document.createElement("button");
+      button.innerText = "📋 Copiar";
+      button.classList.add("copy-button");
+
+      button.addEventListener("click", () => {
+        let code = pre.querySelector("code").innerText;
+        navigator.clipboard.writeText(code);
+        button.innerText = "✅ Copiado";
+        setTimeout(() => (button.innerText = "📋 Copiar"), 2000);
+      });
+
+      pre.appendChild(button);
+    });
+  });
+</script>
+<style>
+  .copy-button {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    padding: 5px;
+    background: #444;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 5px;
+  }
+  pre {
+    position: relative;
+    padding-top: 30px;
+  }
+</style>
 
 </div>
+
 </body>
 
 <script type="application/javascript" src="http://localhost:1313/js/github-style.js"></script>

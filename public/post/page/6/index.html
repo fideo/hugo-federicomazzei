@@ -165,7 +165,7 @@
                 </path>
               </svg>
              Artículos 
-              <span class="Counter">215</span>
+              <span class="Counter">216</span>
             </a>
             <a class="UnderlineNav-item " href="http://localhost:1313/pages/aboutme">
             Acerca de mi
@@ -481,7 +481,7 @@
         </path>
       </svg>
       Posts
-      <span class="Counter ">215</span>
+      <span class="Counter ">216</span>
     </a>
   </nav>
 </div>
@@ -973,6 +973,36 @@
           <div class="col-12 d-inline-block">
             <div class="d-inline-block mb-1">
               <h3 class="wb-break-all">
+                <a href="http://localhost:1313/2016/08/cups-forbidden-user-pass-unable-to-upload.html">CUPS forbidden user pass unable to upload</a>
+              </h3>
+            </div>
+
+            <div>
+              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
+                <p>Cuando intentás instalar una impresora en Linux a través de <strong>CUPS</strong> (que significa Common <em>Unix Printing System</em>) y te encontrás con errores del tipo</p>
+<p><strong>forbidden unable to upload cupsd.conf file</strong> –&gt; cuando intentás grabar el archivo cupsd.conf</p>
+<p><strong>Login forbidden</strong> –&gt; cuando intentas poner user y pass</p>
+<p><strong>Print Test Page</strong></p>
+<p>u otra acción esto se debe a que el usuario que estas ingresando no tiene permisos o no pertenece al grupo lpadmin, es decir <strong>CUPS forbidden</strong>.</p>
+              </div>
+            </div>
+
+            <div class="f6 text-gray mt-2">
+              
+
+              Created
+              <relative-time datetime=" Sat, 27 Aug 2016 17:29:11 &#43;0000" class="no-wrap"
+                title=" Sat, 27 Aug 2016 17:29:11 &#43;0000">
+                Sat, 27 Aug 2016 17:29:11 &#43;0000
+              </relative-time>
+            </div>
+          </div>
+        </li>
+        
+        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
+          <div class="col-12 d-inline-block">
+            <div class="d-inline-block mb-1">
+              <h3 class="wb-break-all">
                 <a href="http://localhost:1313/2015/11/eliminar-la-contrasena-y-proteccion-de-archivos-word.html">Eliminar la contraseña y protección de archivos Word</a>
               </h3>
             </div>
@@ -1310,38 +1340,6 @@ Seguí estos pasos que recomienda bitbucket para realizar una repositorio desde 
           </div>
         </li>
         
-        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
-          <div class="col-12 d-inline-block">
-            <div class="d-inline-block mb-1">
-              <h3 class="wb-break-all">
-                <a href="http://localhost:1313/2014/10/instalar-paquetes-deb-desde-consola.html">Instalar paquetes deb desde consola</a>
-              </h3>
-            </div>
-
-            <div>
-              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <p>Muchas veces nos vemos obligados a querer <strong>instalar paquetes .deb desde consola</strong> y para esto solo tenemos que escribir esto en la linea de comando o consola</p>
-<pre tabindex="0"><code>dpkg -i paquete.deb
-</code></pre><h2 id="ejemplo">Ejemplo</h2>
-<p>En mi caso me sirvió para instalar frostwire una aplicación muy util a la hora de usar torrents; usé esta linea de código para instalarlo.</p>
-<pre tabindex="0"><code>dpkg -i frostwire-5.7.7.all.deb
-</code></pre><p><img src="http://federicomazzei.com.ar/blog/wp-content/uploads/2015/09/ubuntu-logo112.png" alt="Instalar paquetes .deb desde consola" title="Instalar paquetes .deb desde consola"></p>
-<p><em>Enjoy!!!</em></p>
-              </div>
-            </div>
-
-            <div class="f6 text-gray mt-2">
-              
-
-              Created
-              <relative-time datetime=" Wed, 22 Oct 2014 09:38:11 &#43;0000" class="no-wrap"
-                title=" Wed, 22 Oct 2014 09:38:11 &#43;0000">
-                Wed, 22 Oct 2014 09:38:11 &#43;0000
-              </relative-time>
-            </div>
-          </div>
-        </li>
-        
       </ul>
       <div class="paginate-container">
         <div class="BtnGroup">
@@ -1418,8 +1416,46 @@ else {
     <span class="f6 text-gray-light"></span>
   </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("pre").forEach((pre) => {
+      let button = document.createElement("button");
+      button.innerText = "📋 Copiar";
+      button.classList.add("copy-button");
+
+      button.addEventListener("click", () => {
+        let code = pre.querySelector("code").innerText;
+        navigator.clipboard.writeText(code);
+        button.innerText = "✅ Copiado";
+        setTimeout(() => (button.innerText = "📋 Copiar"), 2000);
+      });
+
+      pre.appendChild(button);
+    });
+  });
+</script>
+<style>
+  .copy-button {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    padding: 5px;
+    background: #444;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 5px;
+  }
+  pre {
+    position: relative;
+    padding-top: 30px;
+  }
+</style>
 
 </div>
+
 </body>
 
 <script type="application/javascript" src="http://localhost:1313/js/github-style.js"></script>

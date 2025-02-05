@@ -165,7 +165,7 @@
                 </path>
               </svg>
              Artículos 
-              <span class="Counter">215</span>
+              <span class="Counter">216</span>
             </a>
             <a class="UnderlineNav-item " href="http://localhost:1313/pages/aboutme">
             Acerca de mi
@@ -481,7 +481,7 @@
         </path>
       </svg>
       Posts
-      <span class="Counter ">215</span>
+      <span class="Counter ">216</span>
     </a>
   </nav>
 </div>
@@ -973,6 +973,33 @@
           <div class="col-12 d-inline-block">
             <div class="d-inline-block mb-1">
               <h3 class="wb-break-all">
+                <a href="http://localhost:1313/2007/03/nuevo-look-again.html">Nuevo look again</a>
+              </h3>
+            </div>
+
+            <div>
+              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
+                <p>Cambié de look otra vez por que quiero usar el <a href="http://www.randombyte.net/" title="randombyte">FAlbum</a> que es un albúm de fotos que te permite incluir tus fotos de flickr en tu site. Queda muy lindo.<br>
+Para que esto funcione correctamente me baje un theme (<a href="http://www.obharath.net/blog/">k2</a>) que viene con el código que soporta este plugin, esto es provisorio hasta que FAlbum funcione con mi theme.</p>
+              </div>
+            </div>
+
+            <div class="f6 text-gray mt-2">
+              
+
+              Created
+              <relative-time datetime=" Fri, 09 Mar 2007 23:18:42 &#43;0000" class="no-wrap"
+                title=" Fri, 09 Mar 2007 23:18:42 &#43;0000">
+                Fri, 09 Mar 2007 23:18:42 &#43;0000
+              </relative-time>
+            </div>
+          </div>
+        </li>
+        
+        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
+          <div class="col-12 d-inline-block">
+            <div class="d-inline-block mb-1">
+              <h3 class="wb-break-all">
                 <a href="http://localhost:1313/2007/02/feliz-dia-mi-amor.html">Feliz día mi Amor</a>
               </h3>
             </div>
@@ -1239,34 +1266,6 @@ Se puede instalar en varios idiomas <a href="http://www.mozilla.org/projects/bon
           </div>
         </li>
         
-        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
-          <div class="col-12 d-inline-block">
-            <div class="d-inline-block mb-1">
-              <h3 class="wb-break-all">
-                <a href="http://localhost:1313/2006/07/update-replace-en-mysql.html">Update - Replace en MySQL</a>
-              </h3>
-            </div>
-
-            <div>
-              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <p>Tenía que reemplazar unas palabras en mi base de datos, consulte en el manual y busque varios ejemplo en google hasta que por fin encontré un ejemplo bien explícito.</p>
-<p>Lo anoto acá para tenerlo bien a mano para cuando lo vuelva a necesitar y por si alguien por ahi anda necesitando reemplazar una parte de un texto en un o en varios campos de su base de datos.</p>
-<p><strong>update</strong> [table_name] set [field_name] = <strong>replace</strong>([field_name],&rsquo;[string_to_find]’,&rsquo;[string_to_replace]’);</p>
-              </div>
-            </div>
-
-            <div class="f6 text-gray mt-2">
-              
-
-              Created
-              <relative-time datetime=" Sat, 01 Jul 2006 10:01:51 &#43;0000" class="no-wrap"
-                title=" Sat, 01 Jul 2006 10:01:51 &#43;0000">
-                Sat, 01 Jul 2006 10:01:51 &#43;0000
-              </relative-time>
-            </div>
-          </div>
-        </li>
-        
       </ul>
       <div class="paginate-container">
         <div class="BtnGroup">
@@ -1343,8 +1342,46 @@ else {
     <span class="f6 text-gray-light"></span>
   </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("pre").forEach((pre) => {
+      let button = document.createElement("button");
+      button.innerText = "📋 Copiar";
+      button.classList.add("copy-button");
+
+      button.addEventListener("click", () => {
+        let code = pre.querySelector("code").innerText;
+        navigator.clipboard.writeText(code);
+        button.innerText = "✅ Copiado";
+        setTimeout(() => (button.innerText = "📋 Copiar"), 2000);
+      });
+
+      pre.appendChild(button);
+    });
+  });
+</script>
+<style>
+  .copy-button {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    padding: 5px;
+    background: #444;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 5px;
+  }
+  pre {
+    position: relative;
+    padding-top: 30px;
+  }
+</style>
 
 </div>
+
 </body>
 
 <script type="application/javascript" src="http://localhost:1313/js/github-style.js"></script>

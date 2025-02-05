@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 03 Feb 2025 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 11:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rustdesk el reemplazo de AnyDesk o TeamViewer</title>
+      <link>http://localhost:1313/2025/02/rustdesk-el-reemplazo-de-anydesk-o-teamviewer.html</link>
+      <pubDate>Wed, 05 Feb 2025 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2025/02/rustdesk-el-reemplazo-de-anydesk-o-teamviewer.html</guid>
+      <description>&lt;h2 id=&#34;rustdesk-una-alternativa-open-source-a-anydesk-y-teamviewer&#34;&gt;RustDesk: Una Alternativa Open-Source a AnyDesk y TeamViewer&lt;/h2&gt;&#xA;&lt;p&gt;Recientemente, descubrí &lt;strong&gt;RustDesk&lt;/strong&gt;, una alternativa de código abierto a soluciones de escritorio remoto como AnyDesk y TeamViewer. Me encontré con este software a través de una publicación en redes sociales y, al investigar más, me llamó la atención su enfoque en la privacidad, la posibilidad de autoalojamiento y su rendimiento optimizado.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>DeOldify - Colorea tus videos con Inteligencia Artificial</title>
       <link>http://localhost:1313/2025/02/deoldify-colorea-tus-videos-con-inteligencia-artificial.html</link>

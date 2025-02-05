@@ -165,7 +165,7 @@
                 </path>
               </svg>
              Artículos 
-              <span class="Counter">215</span>
+              <span class="Counter">216</span>
             </a>
             <a class="UnderlineNav-item " href="http://localhost:1313/pages/aboutme">
             Acerca de mi
@@ -481,7 +481,7 @@
         </path>
       </svg>
       Posts
-      <span class="Counter ">215</span>
+      <span class="Counter ">216</span>
     </a>
   </nav>
 </div>
@@ -973,6 +973,34 @@
           <div class="col-12 d-inline-block">
             <div class="d-inline-block mb-1">
               <h3 class="wb-break-all">
+                <a href="http://localhost:1313/2006/07/update-replace-en-mysql.html">Update - Replace en MySQL</a>
+              </h3>
+            </div>
+
+            <div>
+              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
+                <p>Tenía que reemplazar unas palabras en mi base de datos, consulte en el manual y busque varios ejemplo en google hasta que por fin encontré un ejemplo bien explícito.</p>
+<p>Lo anoto acá para tenerlo bien a mano para cuando lo vuelva a necesitar y por si alguien por ahi anda necesitando reemplazar una parte de un texto en un o en varios campos de su base de datos.</p>
+<p><strong>update</strong> [table_name] set [field_name] = <strong>replace</strong>([field_name],&rsquo;[string_to_find]’,&rsquo;[string_to_replace]’);</p>
+              </div>
+            </div>
+
+            <div class="f6 text-gray mt-2">
+              
+
+              Created
+              <relative-time datetime=" Sat, 01 Jul 2006 10:01:51 &#43;0000" class="no-wrap"
+                title=" Sat, 01 Jul 2006 10:01:51 &#43;0000">
+                Sat, 01 Jul 2006 10:01:51 &#43;0000
+              </relative-time>
+            </div>
+          </div>
+        </li>
+        
+        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
+          <div class="col-12 d-inline-block">
+            <div class="d-inline-block mb-1">
+              <h3 class="wb-break-all">
                 <a href="http://localhost:1313/2006/03/error-establishing-a-database-connection.html">Error establishing a database connection</a>
               </h3>
             </div>
@@ -1229,33 +1257,6 @@ IBM publicó una nota donde dan algunos consejos para solucionar algunos de los 
           </div>
         </li>
         
-        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
-          <div class="col-12 d-inline-block">
-            <div class="d-inline-block mb-1">
-              <h3 class="wb-break-all">
-                <a href="http://localhost:1313/2005/07/frase-de-pelicula.html">Frase de Película</a>
-              </h3>
-            </div>
-
-            <div>
-              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <p>Un gran poder conlleva una gran responsabilidad.</p>
-<p>Ben Parker, el tío de Spiderman.</p>
-              </div>
-            </div>
-
-            <div class="f6 text-gray mt-2">
-              
-
-              Created
-              <relative-time datetime=" Fri, 15 Jul 2005 14:56:27 &#43;0000" class="no-wrap"
-                title=" Fri, 15 Jul 2005 14:56:27 &#43;0000">
-                Fri, 15 Jul 2005 14:56:27 &#43;0000
-              </relative-time>
-            </div>
-          </div>
-        </li>
-        
       </ul>
       <div class="paginate-container">
         <div class="BtnGroup">
@@ -1332,8 +1333,46 @@ else {
     <span class="f6 text-gray-light"></span>
   </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("pre").forEach((pre) => {
+      let button = document.createElement("button");
+      button.innerText = "📋 Copiar";
+      button.classList.add("copy-button");
+
+      button.addEventListener("click", () => {
+        let code = pre.querySelector("code").innerText;
+        navigator.clipboard.writeText(code);
+        button.innerText = "✅ Copiado";
+        setTimeout(() => (button.innerText = "📋 Copiar"), 2000);
+      });
+
+      pre.appendChild(button);
+    });
+  });
+</script>
+<style>
+  .copy-button {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    padding: 5px;
+    background: #444;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 5px;
+  }
+  pre {
+    position: relative;
+    padding-top: 30px;
+  }
+</style>
 
 </div>
+
 </body>
 
 <script type="application/javascript" src="http://localhost:1313/js/github-style.js"></script>

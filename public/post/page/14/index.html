@@ -165,7 +165,7 @@
                 </path>
               </svg>
              Artículos 
-              <span class="Counter">215</span>
+              <span class="Counter">216</span>
             </a>
             <a class="UnderlineNav-item " href="http://localhost:1313/pages/aboutme">
             Acerca de mi
@@ -481,7 +481,7 @@
         </path>
       </svg>
       Posts
-      <span class="Counter ">215</span>
+      <span class="Counter ">216</span>
     </a>
   </nav>
 </div>
@@ -973,6 +973,33 @@
           <div class="col-12 d-inline-block">
             <div class="d-inline-block mb-1">
               <h3 class="wb-break-all">
+                <a href="http://localhost:1313/2009/06/carta-de-pergolini-a-fernando-pena.html">Carta de Pergolini a Fernando Peña</a>
+              </h3>
+            </div>
+
+            <div>
+              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
+                <p>Irse… de a poco o rápidamente</p>
+<p>No me gusta mucho escribir despedidas. O Necrológicas. No me gusta escribir sobre lo inevitable y mucho menos de la mirada que a uno le deja la gente que se va. Por vaya uno a saber que extraña yunta, muchas personas que he conocido se han ido. Y juro no tener la edad de mis abuelos o de mis padres como para ya tener tantos muertos a cuestas. He vivido alguna parte de mi vida muy parecida a la de estos hoy muertos y a pesar de todo siempre sigo lamentando al que se va por vivir tan rápido. Será que veo la vida con otros ojos (tal vez con sus pupilas más en su lugar) o tal vez el tiempo me sacó un poco el calor en las venas y puso frialdad en la mente, pero hoy en día lamento la muerte del tipo que intentó correr más rápido que todos.</p>
+              </div>
+            </div>
+
+            <div class="f6 text-gray mt-2">
+              
+
+              Created
+              <relative-time datetime=" Fri, 19 Jun 2009 00:31:48 &#43;0000" class="no-wrap"
+                title=" Fri, 19 Jun 2009 00:31:48 &#43;0000">
+                Fri, 19 Jun 2009 00:31:48 &#43;0000
+              </relative-time>
+            </div>
+          </div>
+        </li>
+        
+        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
+          <div class="col-12 d-inline-block">
+            <div class="d-inline-block mb-1">
+              <h3 class="wb-break-all">
                 <a href="http://localhost:1313/2009/05/instalando-garmin-en-el-nokia-n96.html">Instalando Garmin en el Nokia N96</a>
               </h3>
             </div>
@@ -1227,43 +1254,6 @@ Genera un thumbails de todos ellos ordenandolos por tipo de archivo y si nos pos
           </div>
         </li>
         
-        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
-          <div class="col-12 d-inline-block">
-            <div class="d-inline-block mb-1">
-              <h3 class="wb-break-all">
-                <a href="http://localhost:1313/2009/01/walking-in-my-shoes.html">Walking in my shoes</a>
-              </h3>
-            </div>
-
-            <div>
-              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <p>I would tell you about the things<br>
-They put me through<br>
-The pain Ive been subjected to<br>
-But the lord himself would blush<br>
-The countless feasts laid at my feet<br>
-Forbidden fruits for me to eat<br>
-But I think your pulse would start to rush</p>
-<p>Now Im not looking for absolution<br>
-Forgiveness for the things I do<br>
-But before you come to any conclusions<br>
-Try walking in my shoes<br>
-Try walking in my shoes</p>
-              </div>
-            </div>
-
-            <div class="f6 text-gray mt-2">
-              
-
-              Created
-              <relative-time datetime=" Fri, 30 Jan 2009 14:28:59 &#43;0000" class="no-wrap"
-                title=" Fri, 30 Jan 2009 14:28:59 &#43;0000">
-                Fri, 30 Jan 2009 14:28:59 &#43;0000
-              </relative-time>
-            </div>
-          </div>
-        </li>
-        
       </ul>
       <div class="paginate-container">
         <div class="BtnGroup">
@@ -1340,8 +1330,46 @@ else {
     <span class="f6 text-gray-light"></span>
   </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("pre").forEach((pre) => {
+      let button = document.createElement("button");
+      button.innerText = "📋 Copiar";
+      button.classList.add("copy-button");
+
+      button.addEventListener("click", () => {
+        let code = pre.querySelector("code").innerText;
+        navigator.clipboard.writeText(code);
+        button.innerText = "✅ Copiado";
+        setTimeout(() => (button.innerText = "📋 Copiar"), 2000);
+      });
+
+      pre.appendChild(button);
+    });
+  });
+</script>
+<style>
+  .copy-button {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    padding: 5px;
+    background: #444;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 5px;
+  }
+  pre {
+    position: relative;
+    padding-top: 30px;
+  }
+</style>
 
 </div>
+
 </body>
 
 <script type="application/javascript" src="http://localhost:1313/js/github-style.js"></script>

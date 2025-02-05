@@ -165,7 +165,7 @@
                 </path>
               </svg>
              Artículos 
-              <span class="Counter">215</span>
+              <span class="Counter">216</span>
             </a>
             <a class="UnderlineNav-item " href="http://localhost:1313/pages/aboutme">
             Acerca de mi
@@ -481,7 +481,7 @@
         </path>
       </svg>
       Posts
-      <span class="Counter ">215</span>
+      <span class="Counter ">216</span>
     </a>
   </nav>
 </div>
@@ -973,6 +973,33 @@
           <div class="col-12 d-inline-block">
             <div class="d-inline-block mb-1">
               <h3 class="wb-break-all">
+                <a href="http://localhost:1313/2010/02/fideox-com-cumple-5-anos.html">Fideox.com cumple 5 años</a>
+              </h3>
+            </div>
+
+            <div>
+              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
+                <p>Mi personal weblog cumple 5 añitos.</p>
+<p>Feliz cumple!!!.</p>
+              </div>
+            </div>
+
+            <div class="f6 text-gray mt-2">
+              
+
+              Created
+              <relative-time datetime=" Wed, 24 Feb 2010 01:08:37 &#43;0000" class="no-wrap"
+                title=" Wed, 24 Feb 2010 01:08:37 &#43;0000">
+                Wed, 24 Feb 2010 01:08:37 &#43;0000
+              </relative-time>
+            </div>
+          </div>
+        </li>
+        
+        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
+          <div class="col-12 d-inline-block">
+            <div class="d-inline-block mb-1">
+              <h3 class="wb-break-all">
                 <a href="http://localhost:1313/2010/01/borrar-directorio-y-subdirectoios-en-linux.html">Borrar directorio y subdirectoios en linux</a>
               </h3>
             </div>
@@ -1225,33 +1252,6 @@ Me parece importantísimo tenerlas registradas en el blog ya que me va a servir 
           </div>
         </li>
         
-        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
-          <div class="col-12 d-inline-block">
-            <div class="d-inline-block mb-1">
-              <h3 class="wb-break-all">
-                <a href="http://localhost:1313/2009/11/rotador-de-fotos-en-flash-open-source.html">Player / Rotador de Fotos en Flash Open Source.</a>
-              </h3>
-            </div>
-
-            <div>
-              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <p>Hola gente les recomiendo que se den una vuelta por este sitio, realmente muy buena solución para cuando tengan que mostrar muchas imágenes en un solo lugar, al mejor estilo player. En realidad es un player de imágenes, ya que este control les permite pasar de a una las imágenes verlas full screen entre otras cosas. Les dejo el vínculo de la página oficial de este player <a href="http://www.longtailvideo.com">www.longtailvideo.com</a>.</p>
-<p>Yo hice algunas pruebas con este <strong>player / rotador</strong> y lo pueden consultar en esta página que les dejo acá.</p>
-              </div>
-            </div>
-
-            <div class="f6 text-gray mt-2">
-              
-
-              Created
-              <relative-time datetime=" Fri, 27 Nov 2009 14:46:35 &#43;0000" class="no-wrap"
-                title=" Fri, 27 Nov 2009 14:46:35 &#43;0000">
-                Fri, 27 Nov 2009 14:46:35 &#43;0000
-              </relative-time>
-            </div>
-          </div>
-        </li>
-        
       </ul>
       <div class="paginate-container">
         <div class="BtnGroup">
@@ -1328,8 +1328,46 @@ else {
     <span class="f6 text-gray-light"></span>
   </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("pre").forEach((pre) => {
+      let button = document.createElement("button");
+      button.innerText = "📋 Copiar";
+      button.classList.add("copy-button");
+
+      button.addEventListener("click", () => {
+        let code = pre.querySelector("code").innerText;
+        navigator.clipboard.writeText(code);
+        button.innerText = "✅ Copiado";
+        setTimeout(() => (button.innerText = "📋 Copiar"), 2000);
+      });
+
+      pre.appendChild(button);
+    });
+  });
+</script>
+<style>
+  .copy-button {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    padding: 5px;
+    background: #444;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 5px;
+  }
+  pre {
+    position: relative;
+    padding-top: 30px;
+  }
+</style>
 
 </div>
+
 </body>
 
 <script type="application/javascript" src="http://localhost:1313/js/github-style.js"></script>
