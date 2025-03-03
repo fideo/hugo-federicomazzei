@@ -60,7 +60,7 @@ Clonar discos completos con el comando dd
 Con esto clonaríamos el disco sda en sdb teniendo en cuanta que son discos SATA:
 
 ```
-sudo dd if=/dev/sda |pv|dd of=/dev/sdb bs=1M
+sudo dd if=/dev/sda | pv | sudo dd of=/dev/sdb bs=1M
 ```
 
 Con la opción bs=1M , hace que tanto la lectura como la escritura se realice en bloques de 1 MegaByte, (menos, sería mas lento pero mas seguro, y con mas nos arriesgamos a perder datos por el camino).

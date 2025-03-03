@@ -231,7 +231,7 @@ La música está guardada en la nube de ellos, no hace falta registrarse y si qu
 Realmente está muy bueno y es muy fácil de usar, uno puede sentirse un verdadero DJ con solo hacer un par de clicks.</p>
 <p>La música está guardada en la nube de ellos, no hace falta registrarse y si quieren ver como hacen mezcla otros DJ’s por el mundo puede ver la opción Live.</p>
 <p>Para una fiesta, reuniones con amigos o simplemente jugar a ser DJ’s les recomiendo este site.</p>
-<h2 id="a-jugar-a-ser-djshttpyoudj-youdj-ex-partycloud"><a href="http://you.dj/" title="you.dj ex PartyCloud">A jugar a ser Dj´s</a></h2>
+<h2 id="a-jugar-a-ser-djs"><a href="http://you.dj/" title="you.dj ex PartyCloud">A jugar a ser Dj´s</a></h2>
 <p><em>Enjoy!!!</em></p>
 </article>
               </div>
@@ -280,13 +280,49 @@ Realmente está muy bueno y es muy fácil de usar, uno puede sentirse un verdade
       
       <li class="mr-3 mr-lg-0">Theme by <a href='https://github.com/MeiK2333/github-style'>github-style</a></li>
       
-      <li class="mr-3 mr-lg-0">GitHub and the Invertocat logo are trademarks of <a href="https://github.com/">GitHub, Inc.</a></li>
     </ul>
   </div>
   <div class="d-flex flex-justify-center pb-6">
     <span class="f6 text-gray-light"></span>
   </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("pre").forEach((pre) => {
+      let button = document.createElement("button");
+      button.innerText = "📋 Copiar";
+      button.classList.add("copy-button");
+
+      button.addEventListener("click", () => {
+        let code = pre.querySelector("code").innerText;
+        navigator.clipboard.writeText(code);
+        button.innerText = "✅ Copiado";
+        setTimeout(() => (button.innerText = "📋 Copiar"), 2000);
+      });
+
+      pre.appendChild(button);
+    });
+  });
+</script>
+<style>
+  .copy-button {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    padding: 5px;
+    background: #444;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 5px;
+  }
+  pre {
+    position: relative;
+    padding-top: 30px;
+  }
+</style>
 
 </div>
 

@@ -223,8 +223,8 @@ Hay que seguir algunos pasos para poder sincronizar via internet, que a mi parec
 <p><span style="text-decoration: line-through;">Te registras, obtenes los datos para sincronizar con tu cuenta y listo.</span></p>
 <p><span style="text-decoration: line-through;">Hay que seguir algunos pasos para poder sincronizar via internet, que a mi parecer es la opción mas cómoda.</span></p>
 <p><a href="http://www.goosync.com" title="Sincronizar Google Calendar con Nokia N96">http://www.goosync.com</a> <span style="color: #ff6600;">Lamentablemente me ha llegado un mail donde me informan que goosync será discontinuado. (<em>Free version of GooSync to be discontinued</em>)</span></p>
-<h3 id="span-stylecolor-ff6600span-stylecolor-000000pero-por-suerte-entendí-como-se-sincroniza-el-n96-con-la-centa-de-gmail-y-por-ende-el-google-calendar-contact-y-los-mails-de-gmailspanspan"><span style="color: #ff6600;"><em><span style="color: #000000;"><strong>Pero por suerte entendí como se sincroniza el N96 con la centa de gmail y por ende el google calendar, contact y los mails de gmail.</strong></span></em></span></h3>
-<h3 id="span-stylecolor-ff6600span-stylecolor-000000acá-les-dejo-otro-post-donde-lo-explicohttpwwwfideoxcomar20100118sincronizar-n96-con-google-calendar-y-contactos-sincronizar-google-con-nokia-n96-spanspan"><span style="color: #ff6600;"><em><span style="color: #000000;"><strong><a href="http://www.fideox.com.ar/2010/01/18/sincronizar-n96-con-google-calendar-y-contactos/" title="Sincronizar Google con Nokia N96">Acá les dejo otro post donde lo explico</a>.</strong> </span></em></span></h3>
+<h3><span style="color: #ff6600;"><em><span style="color: #000000;"><strong>Pero por suerte entendí como se sincroniza el N96 con la centa de gmail y por ende el google calendar, contact y los mails de gmail.</strong></span></em></span></h3>
+<h3><span style="color: #ff6600;"><em><span style="color: #000000;"><strong><a href="http://www.fideox.com.ar/2010/01/18/sincronizar-n96-con-google-calendar-y-contactos/" title="Sincronizar Google con Nokia N96">Acá les dejo otro post donde lo explico</a>.</strong> </span></em></span></h3>
 <p><span id="timestamp">Fecha de publicación: <strong>26 Junio 2009 11:44 am</strong> (post original)<br>
 </span></p>
 </article>
@@ -274,13 +274,49 @@ Hay que seguir algunos pasos para poder sincronizar via internet, que a mi parec
       
       <li class="mr-3 mr-lg-0">Theme by <a href='https://github.com/MeiK2333/github-style'>github-style</a></li>
       
-      <li class="mr-3 mr-lg-0">GitHub and the Invertocat logo are trademarks of <a href="https://github.com/">GitHub, Inc.</a></li>
     </ul>
   </div>
   <div class="d-flex flex-justify-center pb-6">
     <span class="f6 text-gray-light"></span>
   </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("pre").forEach((pre) => {
+      let button = document.createElement("button");
+      button.innerText = "📋 Copiar";
+      button.classList.add("copy-button");
+
+      button.addEventListener("click", () => {
+        let code = pre.querySelector("code").innerText;
+        navigator.clipboard.writeText(code);
+        button.innerText = "✅ Copiado";
+        setTimeout(() => (button.innerText = "📋 Copiar"), 2000);
+      });
+
+      pre.appendChild(button);
+    });
+  });
+</script>
+<style>
+  .copy-button {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    padding: 5px;
+    background: #444;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 5px;
+  }
+  pre {
+    position: relative;
+    padding-top: 30px;
+  }
+</style>
 
 </div>
 

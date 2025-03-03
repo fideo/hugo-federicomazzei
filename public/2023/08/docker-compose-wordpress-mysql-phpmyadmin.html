@@ -309,7 +309,7 @@ nombreusuario ALL=(ALL:ALL) ALL
 <p>Una vez que tengamos esto tenemos que probar nuestro docker compose ejecutando lo siguiente:</p>
 <pre tabindex="0"><code>docker compose up 
 </code></pre><p>recordemos que podemos utilizar el parámetro -d para dejarlo que corra en background <strong>docker compose up -d</strong></p>
-<h3 id="para-ver-mas-post-sobre-docker-te-invito-a-que-sigas-leyendo-mi-blog-haciendo-click-acátagsdocker"><a href="/tags/#docker">Para ver mas post sobre docker te invito a que sigas leyendo mi blog haciendo click acá.</a></h3>
+<h3 id="para-ver-mas-post-sobre-docker-te-invito-a-que-sigas-leyendo-mi-blog-haciendo-click-acá"><a href="/tags/#docker">Para ver mas post sobre docker te invito a que sigas leyendo mi blog haciendo click acá.</a></h3>
 <h2 id="aumentar-el-tamaño-de-subida-de-archivos-a-phpmyadmin">Aumentar el tamaño de subida de archivos a PhpMyAdmin</h2>
 <p>Seguramente si estás trabajando con sitios de wordpress vas a necesitar subir archivos superiores a 2MB que es lo que viene por defecto en PhpMyAdmin; para esto tenes que crear un archivo que se llame <strong>uploads.ini</strong> y que contenga lo siguiente:</p>
 <pre tabindex="0"><code>file_uploads = On
@@ -372,8 +372,46 @@ max_execution_time = 600
     <span class="f6 text-gray-light"></span>
   </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("pre").forEach((pre) => {
+      let button = document.createElement("button");
+      button.innerText = "📋 Copiar";
+      button.classList.add("copy-button");
+
+      button.addEventListener("click", () => {
+        let code = pre.querySelector("code").innerText;
+        navigator.clipboard.writeText(code);
+        button.innerText = "✅ Copiado";
+        setTimeout(() => (button.innerText = "📋 Copiar"), 2000);
+      });
+
+      pre.appendChild(button);
+    });
+  });
+</script>
+<style>
+  .copy-button {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    padding: 5px;
+    background: #444;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 5px;
+  }
+  pre {
+    position: relative;
+    padding-top: 30px;
+  }
+</style>
 
 </div>
+
 </body>
 
 <script type="application/javascript" src="http://localhost:1313/js/github-style.js"></script>

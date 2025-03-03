@@ -2,43 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://federicomazzei.com.ar/categories/ai-inteligencia-artificial/</loc>
-    <lastmod>2025-02-03T11:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://federicomazzei.com.ar/categories/</loc>
+    <lastmod>2025-02-05T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/</loc>
+    <lastmod>2025-02-05T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/post/</loc>
+    <lastmod>2025-02-05T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2025/02/rustdesk-el-reemplazo-de-anydesk-o-teamviewer.html</loc>
+    <lastmod>2025-02-05T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/software/</loc>
+    <lastmod>2025-02-05T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/software/</loc>
+    <lastmod>2025-02-05T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/</loc>
+    <lastmod>2025-02-05T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/ai-inteligencia-artificial/</loc>
     <lastmod>2025-02-03T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2025/02/deoldify-colorea-tus-videos-con-inteligencia-artificial.html</loc>
     <lastmod>2025-02-03T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/</loc>
-    <lastmod>2025-02-03T11:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://federicomazzei.com.ar/tags/inteligencia-artificial/</loc>
     <lastmod>2025-02-03T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/post/</loc>
-    <lastmod>2025-02-03T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/software/</loc>
-    <lastmod>2025-02-03T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/</loc>
-    <lastmod>2025-02-03T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/hugo/</loc>
+    <loc>https://federicomazzei.com.ar/categories/hugo/</loc>
     <lastmod>2025-01-20T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/categories/hugo/</loc>
+    <loc>https://federicomazzei.com.ar/tags/hugo/</loc>
     <lastmod>2025-01-20T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2025/01/migracion-de-wordpress-a-hugo.html</loc>
     <lastmod>2025-01-20T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/tags/wordpress/</loc>
+    <loc>https://federicomazzei.com.ar/categories/wordpress/</loc>
     <lastmod>2025-01-20T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/categories/wordpress/</loc>
+    <loc>https://federicomazzei.com.ar/tags/wordpress/</loc>
     <lastmod>2025-01-20T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/pages/aboutme/</loc>
@@ -122,19 +128,16 @@
     <loc>https://federicomazzei.com.ar/2023/03/comparto-la-configuracion-de-vim.html</loc>
     <lastmod>2023-03-24T19:53:12+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/tags/git/</loc>
+    <loc>https://federicomazzei.com.ar/categories/git/</loc>
     <lastmod>2023-03-24T19:53:12+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/categories/git/</loc>
+    <loc>https://federicomazzei.com.ar/tags/git/</loc>
     <lastmod>2023-03-24T19:53:12+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/github/</loc>
     <lastmod>2023-03-24T19:53:12+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/categories/linux/</loc>
-    <lastmod>2023-03-24T19:53:12+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/categories/software/</loc>
     <lastmod>2023-03-24T19:53:12+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2023/03/vim-youcompleteme.html</loc>
