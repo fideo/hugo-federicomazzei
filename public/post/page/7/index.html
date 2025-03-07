@@ -165,7 +165,7 @@
                 </path>
               </svg>
              Artículos 
-              <span class="Counter">216</span>
+              <span class="Counter">217</span>
             </a>
             <a class="UnderlineNav-item " href="http://localhost:1313/pages/aboutme">
             Acerca de mi
@@ -481,7 +481,7 @@
         </path>
       </svg>
       Posts
-      <span class="Counter ">216</span>
+      <span class="Counter ">217</span>
     </a>
   </nav>
 </div>
@@ -574,6 +574,17 @@
 		</svg>
 		
 		uncategorized
+	</a>
+	
+	<a class="muted-link mr-3" href="/categories/vim/">
+		
+		<svg class="octicon octicon-package" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+			<path fill-rule="evenodd"
+				d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z">
+			</path>
+		</svg>
+		
+		vim
 	</a>
 	
 	<a class="muted-link mr-3" href="/categories/wordpress/">
@@ -973,6 +984,39 @@
           <div class="col-12 d-inline-block">
             <div class="d-inline-block mb-1">
               <h3 class="wb-break-all">
+                <a href="http://localhost:1313/2014/11/repository-denied-deployment.html">conq repository access denied. access via a deployment key is read-only</a>
+              </h3>
+            </div>
+
+            <div>
+              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
+                <p>Si alguna vez se toparon con este mensaje “<em>conq repository access denied. access via a deployment key is read-only</em>” dentro de <strong>bitbucket</strong> lo que les recomiendo es que borren el repositorio y lo vuelvan a crear.<br>
+Se que no es una solución muy ortodoxa pero es la que me solucionó el problema; después buscar y probar varias formas de solucionarlo en google intenté hacer esto y me funcionó.</p>
+<h2 id="bitbucket">Bitbucket</h2>
+<p>Pasos que realicé:<br>
+Fui a mi carpeta de proyecto y borré el .git<br>
+Me dirigí a <a href="https://bitbucket.org/">https://bitbucket.org/</a> y eliminé el repositorio el cual da error de “<em>conq repository access denied. access via a deployment key is read-only</em>”<br>
+Cree el repositorio nuevamente (hasta con el mismo nombre si quieren)<br>
+Seguí estos pasos que recomienda bitbucket para realizar una repositorio desde cero.</p>
+              </div>
+            </div>
+
+            <div class="f6 text-gray mt-2">
+              
+
+              Created
+              <relative-time datetime=" Wed, 19 Nov 2014 12:07:12 &#43;0000" class="no-wrap"
+                title=" Wed, 19 Nov 2014 12:07:12 &#43;0000">
+                Wed, 19 Nov 2014 12:07:12 &#43;0000
+              </relative-time>
+            </div>
+          </div>
+        </li>
+        
+        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
+          <div class="col-12 d-inline-block">
+            <div class="d-inline-block mb-1">
+              <h3 class="wb-break-all">
                 <a href="http://localhost:1313/2014/10/instalar-paquetes-deb-desde-consola.html">Instalar paquetes deb desde consola</a>
               </h3>
             </div>
@@ -1230,39 +1274,6 @@ Realmente está muy bueno y es muy fácil de usar, uno puede sentirse un verdade
               <relative-time datetime=" Wed, 17 Apr 2013 19:37:01 &#43;0000" class="no-wrap"
                 title=" Wed, 17 Apr 2013 19:37:01 &#43;0000">
                 Wed, 17 Apr 2013 19:37:01 &#43;0000
-              </relative-time>
-            </div>
-          </div>
-        </li>
-        
-        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
-          <div class="col-12 d-inline-block">
-            <div class="d-inline-block mb-1">
-              <h3 class="wb-break-all">
-                <a href="http://localhost:1313/2013/04/enlaces-permanentes-de-wordpress-error-404.html">Enlaces permanentes de wordpress error 404</a>
-              </h3>
-            </div>
-
-            <div>
-              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <p>Luego de googlear un poco encontré una solución muy simple a este problema para los que usamos linux y es hacer lo siguiente.<br>
-Iniciar una consola y escribimos</p>
-<pre tabindex="0"><code>&lt;pre class=&#34;wp-block-preformatted&#34;&gt;sudo a2enmod rewrite
-</code></pre><p>Les tiene que dar un mensaje similar al siguiente</p>
-<pre tabindex="0"><code>&lt;pre class=&#34;wp-block-preformatted&#34;&gt;Enabling module rewrite.
-To activate the new configuration, you need to run:
-service apache2 restart
-</code></pre><p>Luego de esto lo que tienen que hacer es reiniciar el servidor web apache, para eso hacen lo siguiente</p>
-              </div>
-            </div>
-
-            <div class="f6 text-gray mt-2">
-              
-
-              Created
-              <relative-time datetime=" Sat, 06 Apr 2013 20:35:20 &#43;0000" class="no-wrap"
-                title=" Sat, 06 Apr 2013 20:35:20 &#43;0000">
-                Sat, 06 Apr 2013 20:35:20 &#43;0000
               </relative-time>
             </div>
           </div>

@@ -207,7 +207,7 @@ lsblk Este comando nos permite listar todos los dispositivos como por ejemplo di
                         </div>
                       </div>
                     </details-menu>
-                      419 Palabras 
+                      423 Palabras 
                     
 
                   </div>
@@ -265,7 +265,7 @@ lsblk Este comando nos permite listar todos los dispositivos como por ejemplo di
 <p>Con Linux no necesitas instalar nada de eso solo ejecutas el siguiente comando.</p>
 <h2 id="clonar-discos-completos-con-el-comando-dd">Clonar discos completos con el comando dd</h2>
 <p>Con esto clonaríamos el disco sda en sdb teniendo en cuanta que son discos SATA:</p>
-<pre tabindex="0"><code>sudo dd if=/dev/sda |pv|dd of=/dev/sdb bs=1M
+<pre tabindex="0"><code>sudo dd if=/dev/sda | pv | sudo dd of=/dev/sdb bs=1M
 </code></pre><p>Con la opción bs=1M , hace que tanto la lectura como la escritura se realice en bloques de 1 MegaByte, (menos, sería mas lento pero mas seguro, y con mas nos arriesgamos a perder datos por el camino).</p>
 <p>Usar el comando dd no da información al ejecutarlo, el prompt de la terminal no muestra ninguna información adicional, por lo que no sabemos que es lo que esta pasando y cuanto tiempo falta para que termine de ejecutarse.</p>
 <p>Para esto tenemos que instalar el comando <strong>pv</strong>, ya que en Ubuntu al menos no viene instalado por defecto.</p>
