@@ -165,7 +165,7 @@
                 </path>
               </svg>
              Artículos 
-              <span class="Counter">216</span>
+              <span class="Counter">217</span>
             </a>
             <a class="UnderlineNav-item " href="https://federicomazzei.com.ar/pages/aboutme">
             Acerca de mi
@@ -481,7 +481,7 @@
         </path>
       </svg>
       Posts
-      <span class="Counter ">216</span>
+      <span class="Counter ">217</span>
     </a>
   </nav>
 </div>
@@ -574,6 +574,17 @@
 		</svg>
 		
 		uncategorized
+	</a>
+	
+	<a class="muted-link mr-3" href="/categories/vim/">
+		
+		<svg class="octicon octicon-package" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+			<path fill-rule="evenodd"
+				d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z">
+			</path>
+		</svg>
+		
+		vim
 	</a>
 	
 	<a class="muted-link mr-3" href="/categories/wordpress/">
@@ -973,6 +984,75 @@
           <div class="col-12 d-inline-block">
             <div class="d-inline-block mb-1">
               <h3 class="wb-break-all">
+                <a href="https://federicomazzei.com.ar/2011/10/clase-php-para-conectar-con-mysql.html">Clase PHP para conectar con MySQL</a>
+              </h3>
+            </div>
+
+            <div>
+              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
+                <h4 id="crear-un-archivo-que-se-llame-mysqlphp">Crear un archivo que se llame mysql.php</h4>
+<pre tabindex="0"><code>&lt;pre class=&#34;wp-block-preformatted&#34;&gt;&lt; ?php
+class MySQL{
+private $conexion;
+private $total_consultas;
+public function MySQL(){
+if(!isset($this-&gt;conexion)){
+$this-&gt;conexion = (mysql_connect(&#34;Servidor&#34;,&#34;usuario&#34;,&#34;password&#34;)) or die(mysql_error());
+mysql_select_db(&#34;nombreBD&#34;,$this-&gt;conexion) or die(mysql_error());
+}
+}
+public function consulta($consulta){
+$this-&gt;total_consultas++;
+$resultado = mysql_query($consulta,$this-&gt;conexion);
+if(!$resultado){
+echo &#39;MySQL Error: &#39; . mysql_error();
+exit;
+}
+return $resultado;
+}
+public function fetch_array($consulta){
+return mysql_fetch_array($consulta);
+}
+public function num_rows($consulta){
+return mysql_num_rows($consulta);
+}
+public function getTotalConsultas(){
+return $this-&gt;total_consultas;
+}
+}
+?&gt;
+</code></pre><h4 id="acá-tenemos-un-ejemplo-de-uso">Acá tenemos un ejemplo de uso</h4>
+<pre tabindex="0"><code>&lt;pre class=&#34;wp-block-preformatted&#34;&gt; &lt; ?php
+include(&#34;mysql.php&#34;);
+$db = new MySQL();
+$consulta = $db-&gt;consulta(&#34;SELECT id FROM mitabla1&#34;);
+</code></pre><pre tabindex="0"><code>&lt;pre class=&#34;wp-block-preformatted&#34;&gt;if($db-&gt;num_rows($consulta)&gt;0){
+while($resultados = $db-&gt;fetch_array($consulta)){
+echo &#34;ID: &#34;.$resultados[&#39;id&#39;].&#34;
+&#34;;
+}
+}
+?&gt;
+</code></pre><p>Enjoy!!!</p>
+              </div>
+            </div>
+
+            <div class="f6 text-gray mt-2">
+              
+
+              Created
+              <relative-time datetime=" Sat, 08 Oct 2011 10:08:40 &#43;0000" class="no-wrap"
+                title=" Sat, 08 Oct 2011 10:08:40 &#43;0000">
+                Sat, 08 Oct 2011 10:08:40 &#43;0000
+              </relative-time>
+            </div>
+          </div>
+        </li>
+        
+        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
+          <div class="col-12 d-inline-block">
+            <div class="d-inline-block mb-1">
+              <h3 class="wb-break-all">
                 <a href="https://federicomazzei.com.ar/2011/09/comandos-linux.html">Otros Comandos Linux</a>
               </h3>
             </div>
@@ -1293,36 +1373,6 @@ Dentro de esta carpeta guardará el historíal de convesaciones que mantuviste c
               <relative-time datetime=" Wed, 05 Jan 2011 18:00:47 &#43;0000" class="no-wrap"
                 title=" Wed, 05 Jan 2011 18:00:47 &#43;0000">
                 Wed, 05 Jan 2011 18:00:47 &#43;0000
-              </relative-time>
-            </div>
-          </div>
-        </li>
-        
-        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
-          <div class="col-12 d-inline-block">
-            <div class="d-inline-block mb-1">
-              <h3 class="wb-break-all">
-                <a href="https://federicomazzei.com.ar/2010/12/para-que-tomemos-conciencia-si-tomas-no-menejes.html">Para que “tomemos” conciencia - Si tomas no menejes</a>
-              </h3>
-            </div>
-
-            <div>
-              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <p>Tomar conciencia.<br>
-En estas fiestas es común que brindemos con amigos, luego con familiares, seguramente con compañeros de trabajo y así por dos semanas. Creo que ver este video les hará tomar conciencia de lo que puede suceder si tomamos alcohol y luego manejamos.</p>
-<p>LAS IMAGENES QUE SE VEN EN ESTE VIDEO SON REALMENTE FUERTES.</p>
-<iframe frameborder="0" height="525" loading="lazy" src="http://www.youtube.com/embed/Z2mf8DtWWd8?fs=1" width="100%"></iframe>
-<p>Que pasen unas muy lindas fiestas en familia y con amigos.</p>
-              </div>
-            </div>
-
-            <div class="f6 text-gray mt-2">
-              
-
-              Created
-              <relative-time datetime=" Tue, 28 Dec 2010 09:11:15 &#43;0000" class="no-wrap"
-                title=" Tue, 28 Dec 2010 09:11:15 &#43;0000">
-                Tue, 28 Dec 2010 09:11:15 &#43;0000
               </relative-time>
             </div>
           </div>

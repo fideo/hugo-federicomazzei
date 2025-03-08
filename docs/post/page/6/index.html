@@ -165,7 +165,7 @@
                 </path>
               </svg>
              Artículos 
-              <span class="Counter">216</span>
+              <span class="Counter">217</span>
             </a>
             <a class="UnderlineNav-item " href="https://federicomazzei.com.ar/pages/aboutme">
             Acerca de mi
@@ -481,7 +481,7 @@
         </path>
       </svg>
       Posts
-      <span class="Counter ">216</span>
+      <span class="Counter ">217</span>
     </a>
   </nav>
 </div>
@@ -574,6 +574,17 @@
 		</svg>
 		
 		uncategorized
+	</a>
+	
+	<a class="muted-link mr-3" href="/categories/vim/">
+		
+		<svg class="octicon octicon-package" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+			<path fill-rule="evenodd"
+				d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z">
+			</path>
+		</svg>
+		
+		vim
 	</a>
 	
 	<a class="muted-link mr-3" href="/categories/wordpress/">
@@ -973,6 +984,34 @@
           <div class="col-12 d-inline-block">
             <div class="d-inline-block mb-1">
               <h3 class="wb-break-all">
+                <a href="https://federicomazzei.com.ar/2017/09/actualizar-localmente-wordpress-da-fallida.html">Actualizar localmente wordpress da fallida</a>
+              </h3>
+            </div>
+
+            <div>
+              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
+                <p>Tengo algunos clientes que usan WordPress como CMS de su sitio y para actualizarles los plugins o a la versión mas reciente de este CMS prefiero hacerlo localmente (es decir en una máquina que no sea producción) para / por si hay errores que no impacten directamente al cliente que estaría visitando la página. También de esta forma logramos que no se pierda acceso al sitio.</p>
+<div class="wp-block-image"><figure class="alignleft">![](http://federicomazzei.com.ar/blog/wp-content/uploads/2017/09/php_logo.png)</figure></div>Cuando lo quería actualizar, ya sea plugins o versión de wordpress, me encontraba con un error que dice conexión fallida. Esto se debe a que no está habilitado en el servidor php la extensión php\_curl que permite por este medio descargar esas actualizaciones.
+<p>Para esto lo que necesitamos es editar el php.ini que se encutra en la raiz de nuestro php en windows en mi caso es c:\php\php.ini</p>
+              </div>
+            </div>
+
+            <div class="f6 text-gray mt-2">
+              
+
+              Created
+              <relative-time datetime=" Fri, 15 Sep 2017 11:23:47 &#43;0000" class="no-wrap"
+                title=" Fri, 15 Sep 2017 11:23:47 &#43;0000">
+                Fri, 15 Sep 2017 11:23:47 &#43;0000
+              </relative-time>
+            </div>
+          </div>
+        </li>
+        
+        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
+          <div class="col-12 d-inline-block">
+            <div class="d-inline-block mb-1">
+              <h3 class="wb-break-all">
                 <a href="https://federicomazzei.com.ar/2016/08/cups-forbidden-user-pass-unable-to-upload.html">CUPS forbidden user pass unable to upload</a>
               </h3>
             </div>
@@ -1302,39 +1341,6 @@ La opción -c –total muestra el total general</p>
               <relative-time datetime=" Tue, 27 Jan 2015 09:34:03 &#43;0000" class="no-wrap"
                 title=" Tue, 27 Jan 2015 09:34:03 &#43;0000">
                 Tue, 27 Jan 2015 09:34:03 &#43;0000
-              </relative-time>
-            </div>
-          </div>
-        </li>
-        
-        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
-          <div class="col-12 d-inline-block">
-            <div class="d-inline-block mb-1">
-              <h3 class="wb-break-all">
-                <a href="https://federicomazzei.com.ar/2014/11/repository-denied-deployment.html">conq repository access denied. access via a deployment key is read-only</a>
-              </h3>
-            </div>
-
-            <div>
-              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <p>Si alguna vez se toparon con este mensaje “<em>conq repository access denied. access via a deployment key is read-only</em>” dentro de <strong>bitbucket</strong> lo que les recomiendo es que borren el repositorio y lo vuelvan a crear.<br>
-Se que no es una solución muy ortodoxa pero es la que me solucionó el problema; después buscar y probar varias formas de solucionarlo en google intenté hacer esto y me funcionó.</p>
-<h2 id="bitbucket">Bitbucket</h2>
-<p>Pasos que realicé:<br>
-Fui a mi carpeta de proyecto y borré el .git<br>
-Me dirigí a <a href="https://bitbucket.org/">https://bitbucket.org/</a> y eliminé el repositorio el cual da error de “<em>conq repository access denied. access via a deployment key is read-only</em>”<br>
-Cree el repositorio nuevamente (hasta con el mismo nombre si quieren)<br>
-Seguí estos pasos que recomienda bitbucket para realizar una repositorio desde cero.</p>
-              </div>
-            </div>
-
-            <div class="f6 text-gray mt-2">
-              
-
-              Created
-              <relative-time datetime=" Wed, 19 Nov 2014 12:07:12 &#43;0000" class="no-wrap"
-                title=" Wed, 19 Nov 2014 12:07:12 &#43;0000">
-                Wed, 19 Nov 2014 12:07:12 &#43;0000
               </relative-time>
             </div>
           </div>

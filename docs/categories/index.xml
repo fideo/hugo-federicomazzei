@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 05 Feb 2025 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 11:00:00 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VIM</title>
+      <link>https://federicomazzei.com.ar/categories/vim/</link>
+      <pubDate>Fri, 07 Mar 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/categories/vim/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Software</title>
       <link>https://federicomazzei.com.ar/categories/software/</link>

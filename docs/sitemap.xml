@@ -3,24 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://federicomazzei.com.ar/categories/</loc>
-    <lastmod>2025-02-05T11:00:00+00:00</lastmod>
+    <lastmod>2025-03-07T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/</loc>
-    <lastmod>2025-02-05T11:00:00+00:00</lastmod>
+    <lastmod>2025-03-07T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/linux/</loc>
+    <lastmod>2025-03-07T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2025/03/2025-03-07-movernos-dentro-de-VIM-con-los-archivos-abiertos.html</loc>
+    <lastmod>2025-03-07T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/post/</loc>
-    <lastmod>2025-02-05T11:00:00+00:00</lastmod>
+    <lastmod>2025-03-07T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/software/</loc>
+    <lastmod>2025-03-07T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/</loc>
+    <lastmod>2025-03-07T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/vim/</loc>
+    <lastmod>2025-03-07T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/vim/</loc>
+    <lastmod>2025-03-07T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2025/02/rustdesk-el-reemplazo-de-anydesk-o-teamviewer.html</loc>
     <lastmod>2025-02-05T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/categories/software/</loc>
-    <lastmod>2025-02-05T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/software/</loc>
-    <lastmod>2025-02-05T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/</loc>
     <lastmod>2025-02-05T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/categories/ai-inteligencia-artificial/</loc>
@@ -62,9 +74,6 @@
     <loc>https://federicomazzei.com.ar/tags/debian/</loc>
     <lastmod>2024-09-07T09:05:21+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/tags/linux/</loc>
-    <lastmod>2024-09-07T09:05:21+00:00</lastmod>
-  </url><url>
     <loc>https://federicomazzei.com.ar/categories/sistema-operativo/</loc>
     <lastmod>2024-09-07T09:05:21+00:00</lastmod>
   </url><url>
@@ -72,9 +81,6 @@
     <lastmod>2024-09-07T09:05:21+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2024/08/convertir-texto-de-minuscula-a-mayuscula-en-vim.html</loc>
-    <lastmod>2024-08-09T09:13:36+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/vim/</loc>
     <lastmod>2024-08-09T09:13:36+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2024/06/partir-en-varios-archivos-zip-un-directorio-o-un-archivo.html</loc>
