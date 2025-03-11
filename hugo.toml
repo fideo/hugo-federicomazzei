@@ -26,7 +26,7 @@ publishDate = ['publishdate', 'pubdate', 'published', 'date']
 
 [params]
     author = "Federico Mazzei"
-    description = "Un blog de notas de mi para todos"
+    description = "Un blog de notas para todo el mundo"
     subtitle = 'Un desarrollador web que día a día trata de mejorar'
     github = "fideo"
     facebook = "mazzeifederico"
