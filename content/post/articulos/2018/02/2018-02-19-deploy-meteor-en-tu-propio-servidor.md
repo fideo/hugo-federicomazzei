@@ -50,7 +50,9 @@ CentOS Linux release 7.3.1611 (Core)
 
 Primero hay que instalar [nginx](https://nginx.org/en/) , [mongodb](https://www.mongodb.com/es) , [meteor](https://www.meteor.com/) y [Passenger](https://www.phusionpassenger.com/) para esto pueden seguir las instrucciones de cada uno de las app en sus respectivos sitios o ver como lo hice yo en el video 😉
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="525" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/5sbQyFfw3N8?feature=oembed" title="Deploy Meteor en tu propio servidor" width="100%"></iframe>
+<div class="video-container">
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/5sbQyFfw3N8?feature=oembed" title="Deploy Meteor en tu propio servidor"></iframe>
+</div>
 
 Igualmente acá les dejo un resumen de los comando a utilizar para instalar cada uno de los servicios en CentOS 7
 
@@ -231,4 +233,4 @@ Y tiene que devolver algo similar a esto
 
  **Listo ya podés hacer un Deploy de Meteor en tu propio servidor.**
 
-[En este link les muestro como realizo un deploy con reaction commerce corriendo en mi propio servidor.](/2017/09/reaction-commerce-usando-propio-servidor)
+[En este link les muestro como realizo un deploy con reaction commerce corriendo en mi propio servidor.](/2017/09/reaction-commerce-usando-propio-servidor.html)

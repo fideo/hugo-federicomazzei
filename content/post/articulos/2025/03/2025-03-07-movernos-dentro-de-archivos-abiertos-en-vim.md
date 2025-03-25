@@ -59,3 +59,7 @@ Buffers:
     :b [nombre_parcial]: Va al buffer cuyo nombre contiene la parte especificada.
 
 _Enjoy!!!_
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/mx7Ict9VbAk?si=LhuNH9p_p50QTAmf" title="Manejo de buffers movernos entre archivos con VIM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>

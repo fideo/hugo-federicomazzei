@@ -17,4 +17,6 @@ Les dejo un pequeño video donde inserto una película y la convierto a el forma
 
 Es muy fácil de usar…
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="525" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/o8lcyTEaUjI?feature=oembed" title="HandBreak para convertir videos" width="100%"></iframe>
+<div class="video-container">
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/o8lcyTEaUjI?feature=oembed" title="HandBreak para convertir videos"></iframe>
+</div>

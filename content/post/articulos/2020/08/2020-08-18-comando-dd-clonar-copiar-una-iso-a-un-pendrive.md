@@ -47,7 +47,9 @@ Listo eso es todo.
 
 Pueden ver el video que hace exactamente los mismos pasos que expliqué acá.
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="525" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/dYZJXNuNvtM?feature=oembed" title="Comando dd para pasar una imagen ISO a un pendrive" width="100%"></iframe>
+<div class="video-container">
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/dYZJXNuNvtM?feature=oembed" title="Comando dd para pasar una imagen ISO a un pendrive"></iframe>
+</div>
 
 También se puede realizar una clonación de disco con el comando dd, tal como se realiza con Clonezilla, Ghost clone disk y tantos otros programas para realizar esa tarea.
 

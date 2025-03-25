@@ -9,11 +9,11 @@
     <lastBuildDate>Fri, 07 Mar 2025 11:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Movernos dentro de archivos abiertos en VIM</title>
-      <link>http://localhost:1313/2025/03/2025-03-07-movernos-dentro-de-archivos-abiertos-en-vim.html</link>
+      <title>Movernos dentro de VIM con los archivos abiertos</title>
+      <link>http://localhost:1313/2025/03/2025-03-07-movernos-dentro-de-VIM-con-los-archivos-abiertos.html</link>
       <pubDate>Fri, 07 Mar 2025 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2025/03/2025-03-07-movernos-dentro-de-archivos-abiertos-en-vim.html</guid>
-      <description></description>
+      <guid>http://localhost:1313/2025/03/2025-03-07-movernos-dentro-de-VIM-con-los-archivos-abiertos.html</guid>
+      <description>&lt;h2 id=&#34;vim-movernos-entre-documentos&#34;&gt;Vim movernos entre documentos&lt;/h2&gt;&#xA;&lt;p&gt;En vim tenemos varias formas de movernos entre archivos abiertos.&lt;br&gt;&#xA;Lo que más uso yo es la Ctrl+6 que te permite cambiar entre los 2 últimos archivos abiertos. Pero si tenemos más de un archivo abierto en el buffer, podemos escribir : (dos puntos) buffers y muestra una lista de todos los archivos abiertos en este momento o que se encuentran en el buffer.&lt;br&gt;&#xA;&lt;code&gt;:buffers&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mostrará algo similar a esto con los archivos que tengan abierto&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rustdesk el reemplazo de AnyDesk o TeamViewer</title>
