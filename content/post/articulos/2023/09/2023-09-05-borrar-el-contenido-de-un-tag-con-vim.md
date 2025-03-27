@@ -44,7 +44,12 @@ Por ejemplo si tenemos este contenido
 
 Solo debemos posicionarnos dentro de las comillas simples **' '** y presionar las teclas **d + i + '** con esto borramos el contenido de lo que encierra la comilla simple.
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="525" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Yn8Wsb-Vkjo?feature=oembed" title="Vim - Borrar el contenido de un tag con vim" width="100%"></iframe>
+<div class="video-container">
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Yn8Wsb-Vkjo?feature=oembed" title="Vim - Borrar el contenido de un tag con vim"></iframe>
+</div>
+
+---
+
 
 [Si te gustó **Borrar el contenido de un tag con vim** podes visitar mas post sobre vim acá](/tags/#vim)
 

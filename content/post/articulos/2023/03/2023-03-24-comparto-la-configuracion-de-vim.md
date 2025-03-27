@@ -78,4 +78,6 @@ Estos son algunos de los complementos que tengo instalado en mi **VIM** que util
   
 <a href="https://github.com/airblade/vim-gitgutter" target="_blank">‘airblade/vim-gitgutter’</a>
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="525" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/UlX5b6NDet8?feature=oembed" title="Comparto la configuración de VIM" width="100%"></iframe>
+<div class="video-container">
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/UlX5b6NDet8?feature=oembed" title="Comparto la configuración de VIM"></iframe>
+</div>
