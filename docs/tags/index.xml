@@ -6,20 +6,34 @@
     <description>Recent content in Tags on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 07 Mar 2025 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 11:00:00 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Linux</title>
-      <link>https://federicomazzei.com.ar/tags/linux/</link>
-      <pubDate>Fri, 07 Mar 2025 11:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/linux/</guid>
+      <title>Mikrotik</title>
+      <link>https://federicomazzei.com.ar/tags/mikrotik/</link>
+      <pubDate>Thu, 15 May 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/mikrotik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Router</title>
+      <link>https://federicomazzei.com.ar/tags/router/</link>
+      <pubDate>Thu, 15 May 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/router/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
       <link>https://federicomazzei.com.ar/tags/software/</link>
-      <pubDate>Fri, 07 Mar 2025 11:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 May 2025 11:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://federicomazzei.com.ar/tags/linux/</link>
+      <pubDate>Fri, 07 Mar 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/linux/</guid>
       <description></description>
     </item>
     <item>

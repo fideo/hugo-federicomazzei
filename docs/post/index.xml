@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 07 Mar 2025 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 11:00:00 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mikrotik - Monitoreo del ancho de banda; cuanto consumimos.</title>
+      <link>https://federicomazzei.com.ar/2025/03/2025-05-15-mikrotik-monitoreo-del-ancho-de-banda-cuanto-consumimos.html</link>
+      <pubDate>Thu, 15 May 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025/03/2025-05-15-mikrotik-monitoreo-del-ancho-de-banda-cuanto-consumimos.html</guid>
+      <description>&lt;h2 id=&#34;monitorear-el-ancho-de-banda-consumido-dentro-de-mikrotik&#34;&gt;Monitorear el ancho de banda consumido dentro de Mikrotik&lt;/h2&gt;&#xA;&lt;p&gt;Tenía la necesidad de saber cuanto se consume en Giga Bytes en mi casa, para saber si estaba en condiciones de pasarme a un proveedor que me ofrece banda ancha por 50GB.&lt;/p&gt;&#xA;&lt;p&gt;Encontré una forma de observar esto desde el Mikrotik y es agregando esto al firewall. Desde una terminal copiamos y pegamos esto&amp;hellip; pero deberías reemplazar el nombre de ether1 por la entrada de tu proveedor de Internet.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Movernos dentro de VIM con los archivos abiertos</title>
       <link>https://federicomazzei.com.ar/2025/03/2025-03-07-movernos-dentro-de-VIM-con-los-archivos-abiertos.html</link>

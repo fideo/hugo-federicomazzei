@@ -165,7 +165,7 @@
                 </path>
               </svg>
              Artículos 
-              <span class="Counter">217</span>
+              <span class="Counter">218</span>
             </a>
             <a class="UnderlineNav-item " href="https://federicomazzei.com.ar/pages/aboutme">
             Acerca de mi
@@ -481,7 +481,7 @@
         </path>
       </svg>
       Posts
-      <span class="Counter ">217</span>
+      <span class="Counter ">218</span>
     </a>
   </nav>
 </div>
@@ -541,6 +541,17 @@
 		</svg>
 		
 		linux
+	</a>
+	
+	<a class="muted-link mr-3" href="/categories/mikrotik/">
+		
+		<svg class="octicon octicon-package" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+			<path fill-rule="evenodd"
+				d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z">
+			</path>
+		</svg>
+		
+		mikrotik
 	</a>
 	
 	<a class="muted-link mr-3" href="/categories/sistema-operativo/">
@@ -798,6 +809,17 @@
 		linux
 	</a>
 	
+	<a class="muted-link mr-3" href="/tags/mikrotik/">
+		
+		<svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+			<path fill-rule="evenodd"
+				d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+			</path>
+		</svg>
+		
+		mikrotik
+	</a>
+	
 	<a class="muted-link mr-3" href="/tags/opendkim/">
 		
 		<svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -851,6 +873,17 @@
 		</svg>
 		
 		python
+	</a>
+	
+	<a class="muted-link mr-3" href="/tags/router/">
+		
+		<svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+			<path fill-rule="evenodd"
+				d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+			</path>
+		</svg>
+		
+		router
 	</a>
 	
 	<a class="muted-link mr-3" href="/tags/sistema/">
@@ -979,6 +1012,69 @@
         
       
       <ul>
+        
+        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
+          <div class="col-12 d-inline-block">
+            <div class="d-inline-block mb-1">
+              <h3 class="wb-break-all">
+                <a href="https://federicomazzei.com.ar/2017/09/crear-un-repositorio-git-en-servidor-propio.html">Crear un repositorio git en servidor propio</a>
+              </h3>
+            </div>
+
+            <div>
+              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
+                <p>Para crear un repositorio git en servidor propio hay que seguir algunos pasos muy simples, pero deben hacerse en esta secuencia sin alterar nada.</p>
+<h4 id="servidor">Servidor</h4>
+<p>Primero entramos al servidor una vez dentro ejecutamos lo siguiente:</p>
+<pre tabindex="0"><code>&lt;pre class=&#34;wp-block-preformatted&#34;&gt;cd ~&lt;br&gt;&lt;/br&gt;mkdir repositorio.git&lt;br&gt;&lt;/br&gt;cd repositorio.git&lt;br&gt;&lt;/br&gt;git --bare init&lt;br&gt;&lt;/br&gt;git config core.sharedRepository true
+</code></pre><p>La primer linea cd ~ nos lleva a la home del usuario, es decir que si el usuario que está logueado es fideo la home sería /home/fideo/ para corroborar esto pueden ejecutar pwd y les mostrará donde están parados luego de ejecutar cd ~<br>
+La segunda linea crea un directorio llamado repositorio.git el cual tendrá la información que git necesita para llevar nuestro log de archivos.<br>
+La tercer linea ingresa al directorio.<br>
+La cuarta linea le decimos a git inicialize ese directorio como un repositorio git para realizar los pull y push de ese repositorio.<br>
+La quinta y última linea de esta parte se configura en true la variable core.sharedRepository informandole a git que es un repositorio compartido.</p>
+              </div>
+            </div>
+
+            <div class="f6 text-gray mt-2">
+              
+              
+              <a class="muted-link mr-3" href="/tags/comando">
+                <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                  <path fill-rule="evenodd"
+                    d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                  </path>
+                </svg>
+                comando
+              </a>
+              
+              <a class="muted-link mr-3" href="/tags/git">
+                <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                  <path fill-rule="evenodd"
+                    d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                  </path>
+                </svg>
+                git
+              </a>
+              
+              <a class="muted-link mr-3" href="/tags/linux">
+                <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                  <path fill-rule="evenodd"
+                    d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                  </path>
+                </svg>
+                linux
+              </a>
+              
+              
+
+              Created
+              <relative-time datetime=" Fri, 15 Sep 2017 12:17:37 &#43;0000" class="no-wrap"
+                title=" Fri, 15 Sep 2017 12:17:37 &#43;0000">
+                Fri, 15 Sep 2017 12:17:37 &#43;0000
+              </relative-time>
+            </div>
+          </div>
+        </li>
         
         <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
           <div class="col-12 d-inline-block">
@@ -1311,36 +1407,6 @@ La opción -c –total muestra el total general</p>
               <relative-time datetime=" Fri, 13 Feb 2015 09:39:28 &#43;0000" class="no-wrap"
                 title=" Fri, 13 Feb 2015 09:39:28 &#43;0000">
                 Fri, 13 Feb 2015 09:39:28 &#43;0000
-              </relative-time>
-            </div>
-          </div>
-        </li>
-        
-        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
-          <div class="col-12 d-inline-block">
-            <div class="d-inline-block mb-1">
-              <h3 class="wb-break-all">
-                <a href="https://federicomazzei.com.ar/2015/01/ll-no-se-encontro-la-orden.html">ll: no se encontró la orden</a>
-              </h3>
-            </div>
-
-            <div>
-              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <p>Cuando uno ejecuta en linea de comnado ll y por consola recibimos un mensaje del tipo ll: no se encontró la orden podemos solucionarlo simplemente realizando lo siguiente</p>
-<pre tabindex="0"><code>alias ll=&#39;ls -lah&#39;
-</code></pre><p>Si aun esto no resuelve el problema tenemos que realizar esto para reiniciar el .bashrc</p>
-<pre tabindex="0"><code>cp /etc/skel/.bashrc ~
-</code></pre><p>ya que el .bashrc se encuentra en el directorio /etc/skel/ ; una vez realizado este paso volvemos a ejecutar el alias ll=’ls -lah’.</p>
-              </div>
-            </div>
-
-            <div class="f6 text-gray mt-2">
-              
-
-              Created
-              <relative-time datetime=" Tue, 27 Jan 2015 09:34:03 &#43;0000" class="no-wrap"
-                title=" Tue, 27 Jan 2015 09:34:03 &#43;0000">
-                Tue, 27 Jan 2015 09:34:03 &#43;0000
               </relative-time>
             </div>
           </div>
