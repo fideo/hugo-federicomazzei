@@ -6,49 +6,63 @@
     <description>Recent content in Posts on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 15 May 2025 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 11:00:00 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Integrando Obsidian con Hugo Automatizando mi Flujo de Publicación.</title>
+      <link>https://federicomazzei.com.ar/2025/06/2025-06-22-integrando-obsidian-con-hugo-automatizando-mi-flujo-de-publicacion.html</link>
+      <pubDate>Sun, 22 Jun 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025/06/2025-06-22-integrando-obsidian-con-hugo-automatizando-mi-flujo-de-publicacion.html</guid>
+      <description>&lt;h1 id=&#34;integrando-obsidian-con-hugo-automatizando-mi-flujo-de-publicación&#34;&gt;&lt;strong&gt;Integrando Obsidian con Hugo: Automatizando mi Flujo de Publicación&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;¿Cómo gestiono mis artículos en Obsidian y los publico automáticamente en mi blog estático con Hugo?&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;En los últimos meses, he estado usando &lt;strong&gt;&lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;&lt;/strong&gt; como mi herramienta principal para escribir notas y borradores de artículos. Su sistema de &lt;em&gt;markdown puro&lt;/em&gt; y enlaces bidireccionales lo hacen perfecto para organizar ideas. Pero, ¿cómo llevo ese contenido a mi blog, que está construido con &lt;strong&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/strong&gt;?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pregunta a ChatGPT - Describeme basándote en todas nuestras charlas. ¡Hazlo atractivo!.</title>
+      <link>https://federicomazzei.com.ar/2025/06/2025-06-19-pregunta-a-chatgpt-describeme-basandote-en-todas-nuestras-charlas-hazlo-atractivo.html</link>
+      <pubDate>Thu, 19 Jun 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025/06/2025-06-19-pregunta-a-chatgpt-describeme-basandote-en-todas-nuestras-charlas-hazlo-atractivo.html</guid>
+      <description>&lt;h1 id=&#34;describeme-basándote-en-todas-nuestras-charlas-hazlo-atractivo&#34;&gt;Describeme basándote en todas nuestras charlas. Hazlo atractivo!!!&lt;/h1&gt;&#xA;&lt;p&gt;Hace unos días [ChatGPT] me sugirió que realice esta acción que es &amp;ldquo;Describeme basándote en todas nuestras charlas&amp;rdquo;. Esto toma todos los [system prompt] realizados a [ChatGPT] y realiza un resumen bastante atractivo (bueno de hecho porque se lo pedí así) y me sorprendió porque realmente acierta bastante con lo que soy o hago en mi día a día laboral.&lt;/p&gt;&#xA;&lt;p&gt;A continuación les dejo lo que [ChatGPT] escribió sobre mí:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mikrotik - Monitoreo del ancho de banda; cuanto consumimos.</title>
       <link>https://federicomazzei.com.ar/2025/03/2025-05-15-mikrotik-monitoreo-del-ancho-de-banda-cuanto-consumimos.html</link>
       <pubDate>Thu, 15 May 2025 11:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2025/03/2025-05-15-mikrotik-monitoreo-del-ancho-de-banda-cuanto-consumimos.html</guid>
-      <description>&lt;h2 id=&#34;monitorear-el-ancho-de-banda-consumido-dentro-de-mikrotik&#34;&gt;Monitorear el ancho de banda consumido dentro de Mikrotik&lt;/h2&gt;&#xA;&lt;p&gt;Tenía la necesidad de saber cuanto se consume en Giga Bytes en mi casa, para saber si estaba en condiciones de pasarme a un proveedor que me ofrece banda ancha por 50GB.&lt;/p&gt;&#xA;&lt;p&gt;Encontré una forma de observar esto desde el Mikrotik y es agregando esto al firewall. Desde una terminal copiamos y pegamos esto&amp;hellip; pero deberías reemplazar el nombre de ether1 por la entrada de tu proveedor de Internet.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;monitorear-el-ancho-de-banda-consumido-dentro-de-mikrotik&#34;&gt;Monitorear el ancho de banda consumido dentro de Mikrotik&lt;/h1&gt;&#xA;&lt;p&gt;Tenía la necesidad de saber cuanto se consume en Giga Bytes en mi casa, para saber si estaba en condiciones de pasarme a un proveedor que me ofrece banda ancha por 50GB.&lt;/p&gt;&#xA;&lt;p&gt;Encontré una forma de observar esto desde el Mikrotik y es agregando esto al firewall. Desde una terminal copiamos y pegamos esto&amp;hellip; pero deberías reemplazar el nombre de ether1 por la entrada de tu proveedor de Internet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Movernos dentro de VIM con los archivos abiertos</title>
       <link>https://federicomazzei.com.ar/2025/03/2025-03-07-movernos-dentro-de-VIM-con-los-archivos-abiertos.html</link>
       <pubDate>Fri, 07 Mar 2025 11:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2025/03/2025-03-07-movernos-dentro-de-VIM-con-los-archivos-abiertos.html</guid>
-      <description>&lt;h2 id=&#34;vim-movernos-entre-documentos&#34;&gt;Vim movernos entre documentos&lt;/h2&gt;&#xA;&lt;p&gt;En vim tenemos varias formas de movernos entre archivos abiertos.&lt;br&gt;&#xA;Lo que más uso yo es la Ctrl+6 que te permite cambiar entre los 2 últimos archivos abiertos. Pero si tenemos más de un archivo abierto en el buffer, podemos escribir : (dos puntos) buffers y muestra una lista de todos los archivos abiertos en este momento o que se encuentran en el buffer.&lt;br&gt;&#xA;&lt;code&gt;:buffers&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mostrará algo similar a esto con los archivos que tengan abierto&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;vim-movernos-entre-documentos&#34;&gt;Vim movernos entre documentos&lt;/h1&gt;&#xA;&lt;p&gt;En vim tenemos varias formas de movernos entre archivos abiertos.&lt;br&gt;&#xA;Lo que más uso yo es la Ctrl+6 que te permite cambiar entre los 2 últimos archivos abiertos. Pero si tenemos más de un archivo abierto en el buffer, podemos escribir : (dos puntos) buffers y muestra una lista de todos los archivos abiertos en este momento o que se encuentran en el buffer.&lt;br&gt;&#xA;&lt;code&gt;:buffers&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mostrará algo similar a esto con los archivos que tengan abierto&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rustdesk el reemplazo de AnyDesk o TeamViewer</title>
       <link>https://federicomazzei.com.ar/2025/02/rustdesk-el-reemplazo-de-anydesk-o-teamviewer.html</link>
       <pubDate>Wed, 05 Feb 2025 11:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2025/02/rustdesk-el-reemplazo-de-anydesk-o-teamviewer.html</guid>
-      <description>&lt;h2 id=&#34;rustdesk-una-alternativa-open-source-a-anydesk-y-teamviewer&#34;&gt;RustDesk: Una Alternativa Open-Source a AnyDesk y TeamViewer&lt;/h2&gt;&#xA;&lt;p&gt;Recientemente, descubrí &lt;strong&gt;RustDesk&lt;/strong&gt;, una alternativa de código abierto a soluciones de escritorio remoto como AnyDesk y TeamViewer. Me encontré con este software a través de una publicación en redes sociales y, al investigar más, me llamó la atención su enfoque en la privacidad, la posibilidad de autoalojamiento y su rendimiento optimizado.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;rustdesk-una-alternativa-open-source-a-anydesk-y-teamviewer&#34;&gt;RustDesk: Una Alternativa Open-Source a AnyDesk y TeamViewer&lt;/h1&gt;&#xA;&lt;p&gt;Recientemente, descubrí &lt;strong&gt;RustDesk&lt;/strong&gt;, una alternativa de código abierto a soluciones de escritorio remoto como AnyDesk y TeamViewer. Me encontré con este software a través de una publicación en redes sociales y, al investigar más, me llamó la atención su enfoque en la privacidad, la posibilidad de autoalojamiento y su rendimiento optimizado.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeOldify - Colorea tus videos con Inteligencia Artificial</title>
       <link>https://federicomazzei.com.ar/2025/02/deoldify-colorea-tus-videos-con-inteligencia-artificial.html</link>
       <pubDate>Mon, 03 Feb 2025 11:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2025/02/deoldify-colorea-tus-videos-con-inteligencia-artificial.html</guid>
-      <description>&lt;h2 id=&#34;deoldify---colorea-tus-videos-con-inteligencia-artificial&#34;&gt;DeOldify - Colorea tus videos con Inteligencia Artificial&lt;/h2&gt;&#xA;&lt;p&gt;Hace unos días, mi papá encontró un DVD en su ropero con videos familiares grabados en distintas épocas, desde 1960 hasta aproximadamente 1980. Claro que la tecnología de aquella época no era la mejor para conservar la calidad con el paso del tiempo.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;deoldify---colorea-tus-videos-con-inteligencia-artificial&#34;&gt;DeOldify - Colorea tus videos con Inteligencia Artificial&lt;/h1&gt;&#xA;&lt;p&gt;Hace unos días, mi papá encontró un DVD en su ropero con videos familiares grabados en distintas épocas, desde 1960 hasta aproximadamente 1980. Claro que la tecnología de aquella época no era la mejor para conservar la calidad con el paso del tiempo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Migracion de Wordpress a Hugo - Mi experiencia personal</title>
       <link>https://federicomazzei.com.ar/2025/01/migracion-de-wordpress-a-hugo.html</link>
       <pubDate>Mon, 20 Jan 2025 11:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2025/01/migracion-de-wordpress-a-hugo.html</guid>
-      <description>&lt;p&gt;Recientemente, decidí migrar mi sitio web &lt;a href=&#34;https://federicomazzei.com.ar&#34;&gt;federicomazzei.com.ar&lt;/a&gt; de WordPress a Hugo, y quiero compartir mi experiencia con ustedes. Si estás empezando en el mundo de los sistemas y estás buscando una manera simple y eficiente de tener tu propio blog, esta lectura puede ayudarte.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;migración--de-wordpress-a-hugo&#34;&gt;Migración  de Wordpress a Hugo&lt;/h1&gt;&#xA;&lt;p&gt;Recientemente, decidí migrar mi sitio web &lt;a href=&#34;https://federicomazzei.com.ar&#34;&gt;federicomazzei.com.ar&lt;/a&gt; de WordPress a Hugo, y quiero compartir mi experiencia con ustedes. Si estás empezando en el mundo de los sistemas y estás buscando una manera simple y eficiente de tener tu propio blog, esta lectura puede ayudarte.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Activar la sincronización de Fecha y Hora en Debian Ubuntu</title>
       <link>https://federicomazzei.com.ar/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</link>
       <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</guid>
-      <description>&lt;p&gt;Si necesitas activar la sincronización de la fecha y hora en debian ubuntu o cualquier distribución derivada de Debian con un simple comando se puede reparar esto.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;activar-la-sincronización-de-fecha-y-hora-en-debian-ubuntu&#34;&gt;Activar la sincronización de Fecha y Hora en Debian Ubuntu&lt;/h1&gt;&#xA;&lt;p&gt;Si necesitas activar la sincronización de la fecha y hora en debian #ubuntu o cualquier distribución derivada de #Debian con un simple comando se puede reparar esto.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Convertir texto de minúscula a MAYÚSCULA en Vim</title>
@@ -1533,6 +1547,20 @@
       <pubDate>Thu, 24 Feb 2005 01:08:01 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2005/02/hello-world.html</guid>
       <description>&lt;p&gt;Bienvenido a mi weblog.&lt;br&gt;&#xA;Para los que no saben muy bien que es un weblog paso a detallarlo:&lt;br&gt;&#xA;“Es un sitio web que posee una serie de artículos y/o publicaciones en un orden cronológico. Por ejemplo, alguien tiene una herramienta que le permite controlar y subir contenido a un sitio web, entoces gracias a su facilidad escribe todos los días, como si mantuviera una charla cronológica ? como si escribiera para organizar y recordar su información.”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://federicomazzei.com.ar/post/articulos/2025-06-22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/post/articulos/2025-06-22/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://federicomazzei.com.ar/post/articulos/assets/uploads/2023/06/cloudflare_dkim_configuracion_registro_txt.png/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/post/articulos/assets/uploads/2023/06/cloudflare_dkim_configuracion_registro_txt.png/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

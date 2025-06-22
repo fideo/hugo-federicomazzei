@@ -16,7 +16,7 @@ url: /2025/02/deoldify-colorea-tus-videos-con-inteligencia-artificial.html
 usemathjax: false 
 ---
 
-## DeOldify - Colorea tus videos con Inteligencia Artificial
+# DeOldify - Colorea tus videos con Inteligencia Artificial
 
 Hace unos días, mi papá encontró un DVD en su ropero con videos familiares grabados en distintas épocas, desde 1960 hasta aproximadamente 1980. Claro que la tecnología de aquella época no era la mejor para conservar la calidad con el paso del tiempo. <!--more--> Las primeras grabaciones fueron hechas con una cámara Super 8, luego transferidas a VHS y, posteriormente, digitalizadas en formato DVD (VOB).
 Colorear películas antiguas

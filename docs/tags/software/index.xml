@@ -13,35 +13,35 @@
       <link>https://federicomazzei.com.ar/2025/03/2025-05-15-mikrotik-monitoreo-del-ancho-de-banda-cuanto-consumimos.html</link>
       <pubDate>Thu, 15 May 2025 11:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2025/03/2025-05-15-mikrotik-monitoreo-del-ancho-de-banda-cuanto-consumimos.html</guid>
-      <description>&lt;h2 id=&#34;monitorear-el-ancho-de-banda-consumido-dentro-de-mikrotik&#34;&gt;Monitorear el ancho de banda consumido dentro de Mikrotik&lt;/h2&gt;&#xA;&lt;p&gt;Tenía la necesidad de saber cuanto se consume en Giga Bytes en mi casa, para saber si estaba en condiciones de pasarme a un proveedor que me ofrece banda ancha por 50GB.&lt;/p&gt;&#xA;&lt;p&gt;Encontré una forma de observar esto desde el Mikrotik y es agregando esto al firewall. Desde una terminal copiamos y pegamos esto&amp;hellip; pero deberías reemplazar el nombre de ether1 por la entrada de tu proveedor de Internet.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;monitorear-el-ancho-de-banda-consumido-dentro-de-mikrotik&#34;&gt;Monitorear el ancho de banda consumido dentro de Mikrotik&lt;/h1&gt;&#xA;&lt;p&gt;Tenía la necesidad de saber cuanto se consume en Giga Bytes en mi casa, para saber si estaba en condiciones de pasarme a un proveedor que me ofrece banda ancha por 50GB.&lt;/p&gt;&#xA;&lt;p&gt;Encontré una forma de observar esto desde el Mikrotik y es agregando esto al firewall. Desde una terminal copiamos y pegamos esto&amp;hellip; pero deberías reemplazar el nombre de ether1 por la entrada de tu proveedor de Internet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Movernos dentro de VIM con los archivos abiertos</title>
       <link>https://federicomazzei.com.ar/2025/03/2025-03-07-movernos-dentro-de-VIM-con-los-archivos-abiertos.html</link>
       <pubDate>Fri, 07 Mar 2025 11:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2025/03/2025-03-07-movernos-dentro-de-VIM-con-los-archivos-abiertos.html</guid>
-      <description>&lt;h2 id=&#34;vim-movernos-entre-documentos&#34;&gt;Vim movernos entre documentos&lt;/h2&gt;&#xA;&lt;p&gt;En vim tenemos varias formas de movernos entre archivos abiertos.&lt;br&gt;&#xA;Lo que más uso yo es la Ctrl+6 que te permite cambiar entre los 2 últimos archivos abiertos. Pero si tenemos más de un archivo abierto en el buffer, podemos escribir : (dos puntos) buffers y muestra una lista de todos los archivos abiertos en este momento o que se encuentran en el buffer.&lt;br&gt;&#xA;&lt;code&gt;:buffers&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mostrará algo similar a esto con los archivos que tengan abierto&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;vim-movernos-entre-documentos&#34;&gt;Vim movernos entre documentos&lt;/h1&gt;&#xA;&lt;p&gt;En vim tenemos varias formas de movernos entre archivos abiertos.&lt;br&gt;&#xA;Lo que más uso yo es la Ctrl+6 que te permite cambiar entre los 2 últimos archivos abiertos. Pero si tenemos más de un archivo abierto en el buffer, podemos escribir : (dos puntos) buffers y muestra una lista de todos los archivos abiertos en este momento o que se encuentran en el buffer.&lt;br&gt;&#xA;&lt;code&gt;:buffers&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mostrará algo similar a esto con los archivos que tengan abierto&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rustdesk el reemplazo de AnyDesk o TeamViewer</title>
       <link>https://federicomazzei.com.ar/2025/02/rustdesk-el-reemplazo-de-anydesk-o-teamviewer.html</link>
       <pubDate>Wed, 05 Feb 2025 11:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2025/02/rustdesk-el-reemplazo-de-anydesk-o-teamviewer.html</guid>
-      <description>&lt;h2 id=&#34;rustdesk-una-alternativa-open-source-a-anydesk-y-teamviewer&#34;&gt;RustDesk: Una Alternativa Open-Source a AnyDesk y TeamViewer&lt;/h2&gt;&#xA;&lt;p&gt;Recientemente, descubrí &lt;strong&gt;RustDesk&lt;/strong&gt;, una alternativa de código abierto a soluciones de escritorio remoto como AnyDesk y TeamViewer. Me encontré con este software a través de una publicación en redes sociales y, al investigar más, me llamó la atención su enfoque en la privacidad, la posibilidad de autoalojamiento y su rendimiento optimizado.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;rustdesk-una-alternativa-open-source-a-anydesk-y-teamviewer&#34;&gt;RustDesk: Una Alternativa Open-Source a AnyDesk y TeamViewer&lt;/h1&gt;&#xA;&lt;p&gt;Recientemente, descubrí &lt;strong&gt;RustDesk&lt;/strong&gt;, una alternativa de código abierto a soluciones de escritorio remoto como AnyDesk y TeamViewer. Me encontré con este software a través de una publicación en redes sociales y, al investigar más, me llamó la atención su enfoque en la privacidad, la posibilidad de autoalojamiento y su rendimiento optimizado.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeOldify - Colorea tus videos con Inteligencia Artificial</title>
       <link>https://federicomazzei.com.ar/2025/02/deoldify-colorea-tus-videos-con-inteligencia-artificial.html</link>
       <pubDate>Mon, 03 Feb 2025 11:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2025/02/deoldify-colorea-tus-videos-con-inteligencia-artificial.html</guid>
-      <description>&lt;h2 id=&#34;deoldify---colorea-tus-videos-con-inteligencia-artificial&#34;&gt;DeOldify - Colorea tus videos con Inteligencia Artificial&lt;/h2&gt;&#xA;&lt;p&gt;Hace unos días, mi papá encontró un DVD en su ropero con videos familiares grabados en distintas épocas, desde 1960 hasta aproximadamente 1980. Claro que la tecnología de aquella época no era la mejor para conservar la calidad con el paso del tiempo.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;deoldify---colorea-tus-videos-con-inteligencia-artificial&#34;&gt;DeOldify - Colorea tus videos con Inteligencia Artificial&lt;/h1&gt;&#xA;&lt;p&gt;Hace unos días, mi papá encontró un DVD en su ropero con videos familiares grabados en distintas épocas, desde 1960 hasta aproximadamente 1980. Claro que la tecnología de aquella época no era la mejor para conservar la calidad con el paso del tiempo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Migracion de Wordpress a Hugo - Mi experiencia personal</title>
       <link>https://federicomazzei.com.ar/2025/01/migracion-de-wordpress-a-hugo.html</link>
       <pubDate>Mon, 20 Jan 2025 11:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2025/01/migracion-de-wordpress-a-hugo.html</guid>
-      <description>&lt;p&gt;Recientemente, decidí migrar mi sitio web &lt;a href=&#34;https://federicomazzei.com.ar&#34;&gt;federicomazzei.com.ar&lt;/a&gt; de WordPress a Hugo, y quiero compartir mi experiencia con ustedes. Si estás empezando en el mundo de los sistemas y estás buscando una manera simple y eficiente de tener tu propio blog, esta lectura puede ayudarte.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;migración--de-wordpress-a-hugo&#34;&gt;Migración  de Wordpress a Hugo&lt;/h1&gt;&#xA;&lt;p&gt;Recientemente, decidí migrar mi sitio web &lt;a href=&#34;https://federicomazzei.com.ar&#34;&gt;federicomazzei.com.ar&lt;/a&gt; de WordPress a Hugo, y quiero compartir mi experiencia con ustedes. Si estás empezando en el mundo de los sistemas y estás buscando una manera simple y eficiente de tener tu propio blog, esta lectura puede ayudarte.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Partir en varios archivos .zip un directorio o un archivo</title>

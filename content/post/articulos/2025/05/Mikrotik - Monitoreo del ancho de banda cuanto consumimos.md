@@ -17,7 +17,7 @@ url: /2025/03/2025-05-15-mikrotik-monitoreo-del-ancho-de-banda-cuanto-consumimos
 usemathjax: true
 ---
 
-## Monitorear el ancho de banda consumido dentro de Mikrotik
+# Monitorear el ancho de banda consumido dentro de Mikrotik
 
 Tenía la necesidad de saber cuanto se consume en Giga Bytes en mi casa, para saber si estaba en condiciones de pasarme a un proveedor que me ofrece banda ancha por 50GB.
 

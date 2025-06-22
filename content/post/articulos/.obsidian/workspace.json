@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "f01fea408fe4a5eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8beabd77de8e85d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac0c891fa4e6f759",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "316ed28b9e0529c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "25dea78b1ae63b56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "047f77d69d105cc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "37a17fe2b1a1c66f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "fa1ee286de92a0d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6cd6578269ae388b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8e1527ac2051df4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8713cbaf885c261",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "e33dee5cba463f3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "4d459b7e45f77cc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "529a6f42c22fa2c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "743faf87a0bc65d0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
+      "publish:Publicar cambios": false
+    }
+  },
+  "active": "ac0c891fa4e6f759",
+  "lastOpenFiles": [
+    "sync_posts.sh~",
+    "sync_posts.sh",
+    "rsync_directorios.sh",
+    "deepseek_bash_20250622_56797e.sh",
+    "sync_directorios.py",
+    "2025/02/rustdesk-el-reemplazo-de-anydesk-o-teamviewer.md",
+    "2025/02/deoldify-colorea-tus-videos-con-inteligencia-artificial.md",
+    "2025/02",
+    "2025/01/2025-01-20-migracion-de-wordpres-a-hugo.md",
+    "2025/01",
+    "2025/05/Mikrotik - Monitoreo del ancho de banda cuanto consumimos.md",
+    "2025/05",
+    "2025/03/2025-03-07-movernos-dentro-de-archivos-abiertos-en-vim.md",
+    "2025/03",
+    "2025-06-19-describeme-basándote-en-todas-nuestras-charlas-hazlo-atractivo.md",
+    "2025/06/rustdesk-el-reemplazo-de-anydesk-o-teamviewer.md",
+    "2025/06/deoldify-colorea-tus-videos-con-inteligencia-artificial.md",
+    "2025/06/Mikrotik - Monitoreo del ancho de banda cuanto consumimos.md",
+    "2025/06/2025-06-19-describeme-basándote-en-todas-nuestras-charlas-hazlo-atractivo.md",
+    "2025/06/2025-03-07-movernos-dentro-de-archivos-abiertos-en-vim.md",
+    "2025/06/2025-01-20-migracion-de-wordpres-a-hugo.md",
+    "2025/06",
+    "2025",
+    "Sin título.canvas",
+    "2025-03-07-movernos-dentro-de-archivos-abiertos-en-vim.md",
+    "Describeme basándote en todas nuestras charlas. ¡Hazlo atractivo!.md",
+    "Mikrotik - Monitoreo del ancho de banda cuanto consumimos.md",
+    "2025-01-20-migracion-de-wordpres-a-hugo.md",
+    "deoldify-colorea-tus-videos-con-inteligencia-artificial.md",
+    "rustdesk-el-reemplazo-de-anydesk-o-teamviewer.md",
+    "HTML import/vim-youcompleteme.md",
+    "HTML import/aporte-de-les-luthiers-a-nuestro-vocabulario.md",
+    "HTML import/atunes-la-version-open-source-del-itunes.md",
+    "HTML import/algunos-tutoriales-y-sites-de-css.md",
+    "HTML import/adios-a-pappo.md",
+    "HTML import/actualizar-ubuntu-de-12-a-14.md",
+    "HTML import/actualizar-localmente-wordpress-da-fallida.md",
+    "HTML import/Attachments/rss 83.webp",
+    "HTML import/Attachments/link 83.webp",
+    "HTML import/Attachments/instagram 83.webp",
+    "HTML import/Attachments/linkedin 83.webp",
+    "HTML import/Attachments/facebook 83.webp",
+    "HTML import/Attachments/rss 82.webp",
+    "HTML import/Attachments/link 82.webp",
+    "HTML import/Attachments/instagram 82.webp",
+    "HTML import/Attachments/linkedin 82.webp",
+    "HTML import/Attachments/facebook 82.webp"
+  ]
+}

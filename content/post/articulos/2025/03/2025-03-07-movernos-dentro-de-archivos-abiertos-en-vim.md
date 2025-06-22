@@ -17,7 +17,7 @@ url: /2025/03/2025-03-07-movernos-dentro-de-VIM-con-los-archivos-abiertos.html
 usemathjax: true
 ---
 
-## Vim movernos entre documentos
+# Vim movernos entre documentos
 
 En vim tenemos varias formas de movernos entre archivos abiertos.
 Lo que más uso yo es la Ctrl+6 que te permite cambiar entre los 2 últimos archivos abiertos. Pero si tenemos más de un archivo abierto en el buffer, podemos escribir : (dos puntos) buffers y muestra una lista de todos los archivos abiertos en este momento o que se encuentran en el buffer.

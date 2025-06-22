@@ -2,11 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://federicomazzei.com.ar/tags/ai/</loc>
+    <lastmod>2025-06-22T11:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://federicomazzei.com.ar/categories/</loc>
-    <lastmod>2025-05-15T11:00:00+00:00</lastmod>
+    <lastmod>2025-06-22T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/chatgpt/</loc>
+    <lastmod>2025-06-22T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/chatgpt/</loc>
+    <lastmod>2025-06-22T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/</loc>
-    <lastmod>2025-05-15T11:00:00+00:00</lastmod>
+    <lastmod>2025-06-22T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/hugo/</loc>
+    <lastmod>2025-06-22T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/hugo/</loc>
+    <lastmod>2025-06-22T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2025/06/2025-06-22-integrando-obsidian-con-hugo-automatizando-mi-flujo-de-publicacion.html</loc>
+    <lastmod>2025-06-22T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/obsidian/</loc>
+    <lastmod>2025-06-22T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/obsidian/</loc>
+    <lastmod>2025-06-22T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/post/</loc>
+    <lastmod>2025-06-22T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/</loc>
+    <lastmod>2025-06-22T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/tecnologia/</loc>
+    <lastmod>2025-06-22T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2025/06/2025-06-19-pregunta-a-chatgpt-describeme-basandote-en-todas-nuestras-charlas-hazlo-atractivo.html</loc>
+    <lastmod>2025-06-19T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/categories/mikrotik/</loc>
     <lastmod>2025-05-15T11:00:00+00:00</lastmod>
@@ -17,16 +53,10 @@
     <loc>https://federicomazzei.com.ar/2025/03/2025-05-15-mikrotik-monitoreo-del-ancho-de-banda-cuanto-consumimos.html</loc>
     <lastmod>2025-05-15T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/post/</loc>
-    <lastmod>2025-05-15T11:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://federicomazzei.com.ar/tags/router/</loc>
     <lastmod>2025-05-15T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/software/</loc>
-    <lastmod>2025-05-15T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/</loc>
     <lastmod>2025-05-15T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/linux/</loc>
@@ -55,12 +85,6 @@
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/inteligencia-artificial/</loc>
     <lastmod>2025-02-03T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/categories/hugo/</loc>
-    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/hugo/</loc>
-    <lastmod>2025-01-20T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2025/01/migracion-de-wordpress-a-hugo.html</loc>
     <lastmod>2025-01-20T11:00:00+00:00</lastmod>
@@ -811,5 +835,9 @@
   </url><url>
     <loc>https://federicomazzei.com.ar/2005/02/hello-world.html</loc>
     <lastmod>2005-02-24T01:08:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/post/articulos/2025-06-22/</loc>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/post/articulos/assets/uploads/2023/06/cloudflare_dkim_configuracion_registro_txt.png/</loc>
   </url>
 </urlset>

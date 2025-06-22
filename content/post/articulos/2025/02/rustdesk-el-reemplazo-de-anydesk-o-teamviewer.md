@@ -15,7 +15,7 @@ url: /2025/02/rustdesk-el-reemplazo-de-anydesk-o-teamviewer.html
 usemathjax: false 
 ---
 
-## RustDesk: Una Alternativa Open-Source a AnyDesk y TeamViewer
+# RustDesk: Una Alternativa Open-Source a AnyDesk y TeamViewer
 
 Recientemente, descubrí **RustDesk**, una alternativa de código abierto a soluciones de escritorio remoto como AnyDesk y TeamViewer. Me encontré con este software a través de una publicación en redes sociales y, al investigar más, me llamó la atención su enfoque en la privacidad, la posibilidad de autoalojamiento y su rendimiento optimizado.
 <!--more-->

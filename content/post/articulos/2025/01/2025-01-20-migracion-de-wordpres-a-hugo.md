@@ -17,14 +17,15 @@ type: post
 url: /2025/01/migracion-de-wordpress-a-hugo.html
 usemathjax: true
 ---
+# Migración  de Wordpress a Hugo
 
 Recientemente, decidí migrar mi sitio web [federicomazzei.com.ar](https://federicomazzei.com.ar) de WordPress a Hugo, y quiero compartir mi experiencia con ustedes. Si estás empezando en el mundo de los sistemas y estás buscando una manera simple y eficiente de tener tu propio blog, esta lectura puede ayudarte.
 <!--more-->
-### ¿Por qué dejé WordPress?
+## ¿Por qué dejé WordPress?
 
 WordPress es una excelente plataforma, especialmente para quienes buscan una solución lista para usar, con una gran variedad de plugins y temas. Sin embargo, con el tiempo me di cuenta de que era demasiado código y demasiado pesado para un blog simple como el mío. La carga del sitio y la cantidad de recursos que consumía hacían que la experiencia no fuera tan fluida como yo quería. Además, requería actualizaciones constantes y un mantenimiento que se iba acumulando.
 
-### ¿Por qué elegí Hugo?
+## ¿Por qué elegí Hugo?
 
 Al explorar alternativas más ligeras y rápidas, probé Jekyll y Hugo. Aunque Jekyll es una buena opción y muy popular entre los usuarios de GitHub Pages, finalmente me decidí por Hugo por varias razones:
 
@@ -48,5 +49,4 @@ Desde que migré a Hugo, noté mejoras significativas en varios aspectos:
 Si estás empezando en sistemas y quieres tener tu propio blog, Hugo es una excelente alternativa. No solo te permite aprender cómo funciona un sitio web desde cero, sino que también te brinda una solución rápida, segura y fácil de mantener.
 
 Espero que mi experiencia te ayude a elegir la mejor herramienta para tu proyecto. ¡Anímate a probar [Hugo](https://gohugo.io/) y descubre por qué es la opción ideal para blogs simples y eficientes!
-
 
