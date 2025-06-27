@@ -16,6 +16,7 @@ type: post
 url: /2025/06/2025-06-19-pregunta-a-chatgpt-describeme-basandote-en-todas-nuestras-charlas-hazlo-atractivo.html
 usemathjax: true
 ---
+
 # Describeme basándote en todas nuestras charlas. Hazlo atractivo!!!
 
 Hace unos días [ChatGPT] me sugirió que realice esta acción que es "Describeme basándote en todas nuestras charlas". Esto toma todos los [system prompt] realizados a [ChatGPT] y realiza un resumen bastante atractivo (bueno de hecho porque se lo pedí así) y me sorprendió porque realmente acierta bastante con lo que soy o hago en mi día a día laboral.

@@ -16,6 +16,13 @@
       <description>&lt;h1 id=&#34;integrando-obsidian-con-hugo-automatizando-mi-flujo-de-publicación&#34;&gt;&lt;strong&gt;Integrando Obsidian con Hugo: Automatizando mi Flujo de Publicación&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;¿Cómo gestiono mis artículos en Obsidian y los publico automáticamente en mi blog estático con Hugo?&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;En los últimos meses, he estado usando &lt;strong&gt;&lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;&lt;/strong&gt; como mi herramienta principal para escribir notas y borradores de artículos. Su sistema de &lt;em&gt;markdown puro&lt;/em&gt; y enlaces bidireccionales lo hacen perfecto para organizar ideas. Pero, ¿cómo llevo ese contenido a mi blog, que está construido con &lt;strong&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/strong&gt;?&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Nextcloud en docker queda en modo mantenimiento</title>
+      <link>https://federicomazzei.com.ar/2025/06/2025-06-26-nextcloud-en-docker-queda-en-modo-mantenimiento.html</link>
+      <pubDate>Sun, 22 Jun 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025/06/2025-06-26-nextcloud-en-docker-queda-en-modo-mantenimiento.html</guid>
+      <description>&lt;h1 id=&#34;nextcloud-en-docker-queda-en-modo-mantenimiento&#34;&gt;Nextcloud en docker queda en modo mantenimiento&lt;/h1&gt;&#xA;&lt;p&gt;Si tenes instalado nextcloud en un contenedor docker puede que te topes con este mensaje.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;Por favor, utilice el actualizador por línea de comandos ya que la actualización vía navegador se encuentra deshabilitado en su config.php&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Buscas en internet como sacarlo de modo mantenimiento y te dicen que configures en tu config.php esto:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;#39;maintenance&amp;#39; =&amp;gt; false&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;y para ponerlo en modo mantenimiento obviamente cambiar el valor a  &lt;strong&gt;&lt;em&gt;true&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Pregunta a ChatGPT - Describeme basándote en todas nuestras charlas. ¡Hazlo atractivo!.</title>
       <link>https://federicomazzei.com.ar/2025/06/2025-06-19-pregunta-a-chatgpt-describeme-basandote-en-todas-nuestras-charlas-hazlo-atractivo.html</link>
       <pubDate>Thu, 19 Jun 2025 11:00:00 +0000</pubDate>
@@ -62,7 +69,7 @@
       <link>https://federicomazzei.com.ar/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</link>
       <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html</guid>
-      <description>&lt;h1 id=&#34;activar-la-sincronización-de-fecha-y-hora-en-debian-ubuntu&#34;&gt;Activar la sincronización de Fecha y Hora en Debian Ubuntu&lt;/h1&gt;&#xA;&lt;p&gt;Si necesitas activar la sincronización de la fecha y hora en debian #ubuntu o cualquier distribución derivada de #Debian con un simple comando se puede reparar esto.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;activar-la-sincronización-de-fecha-y-hora-en-debian-ubuntu&#34;&gt;Activar la sincronización de Fecha y Hora en Debian Ubuntu&lt;/h1&gt;&#xA;&lt;p&gt;Si necesitas activar la sincronización de la fecha y hora en debian ubuntu o cualquier distribución derivada de Debian con un simple comando se puede reparar esto.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Convertir texto de minúscula a MAYÚSCULA en Vim</title>
@@ -1547,13 +1554,6 @@
       <pubDate>Thu, 24 Feb 2005 01:08:01 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2005/02/hello-world.html</guid>
       <description>&lt;p&gt;Bienvenido a mi weblog.&lt;br&gt;&#xA;Para los que no saben muy bien que es un weblog paso a detallarlo:&lt;br&gt;&#xA;“Es un sitio web que posee una serie de artículos y/o publicaciones en un orden cronológico. Por ejemplo, alguien tiene una herramienta que le permite controlar y subir contenido a un sitio web, entoces gracias a su facilidad escribe todos los días, como si mantuviera una charla cronológica ? como si escribiera para organizar y recordar su información.”&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://federicomazzei.com.ar/post/articulos/2025-06-22/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/post/articulos/2025-06-22/</guid>
-      <description></description>
     </item>
     <item>
       <title></title>

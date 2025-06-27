@@ -18,7 +18,7 @@ usemathjax: true
 ---
 # Activar la sincronización de Fecha y Hora en Debian Ubuntu
 
-Si necesitas activar la sincronización de la fecha y hora en debian #ubuntu o cualquier distribución derivada de #Debian con un simple comando se puede reparar esto.
+Si necesitas activar la sincronización de la fecha y hora en debian ubuntu o cualquier distribución derivada de Debian con un simple comando se puede reparar esto.
 <!--more-->
 Me ha pasado que he instalado debian 12 y la notebook donde lo instalé no se sincronizaba correctamente el horario ni la fecha; entonces cada vez que encendía la notebook esta no podía navegar, ya que, estaba desincronizada la fecha y la hora.
 

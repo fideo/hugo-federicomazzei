@@ -17,6 +17,7 @@ type: post
 url: /2025/01/migracion-de-wordpress-a-hugo.html
 usemathjax: true
 ---
+
 # Migración  de Wordpress a Hugo
 
 Recientemente, decidí migrar mi sitio web [federicomazzei.com.ar](https://federicomazzei.com.ar) de WordPress a Hugo, y quiero compartir mi experiencia con ustedes. Si estás empezando en el mundo de los sistemas y estás buscando una manera simple y eficiente de tener tu propio blog, esta lectura puede ayudarte.
