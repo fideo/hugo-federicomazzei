@@ -25,3 +25,6 @@ echo -e "\n✅ Sincronización completada:"
 echo "  Origen: $ORIGEN"
 echo "  Destino: $DESTINO"
 echo "  Filtro: *.md"
+
+cd /home/fideo/proyectos/hugo-federicomazzei/
+sh deploy.sh

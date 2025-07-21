@@ -5,7 +5,7 @@ categories:
   - tecnología
   - docker
   - nextcloud
-date: 2025-06-22T11:00:00Z
+date: 2025-06-26T11:00:00Z
 excerpt: 
 status: publish
 tags:
@@ -24,7 +24,7 @@ usemathjax: true
 
 Si tenes instalado nextcloud en un contenedor docker puede que te topes con este mensaje.
 
-	Por favor, utilice el actualizador por línea de comandos ya que la actualización vía navegador se encuentra deshabilitado en su config.php
+_**Por favor, utilice el actualizador por línea de comandos ya que la actualización vía navegador se encuentra deshabilitado en su config.php**_
 
 Buscas en internet como sacarlo de modo mantenimiento y te dicen que configures en tu config.php esto:
 

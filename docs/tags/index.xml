@@ -6,8 +6,36 @@
     <description>Recent content in Tags on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 22 Jun 2025 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 11:00:00 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>https://federicomazzei.com.ar/tags/docker/</link>
+      <pubDate>Thu, 26 Jun 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://federicomazzei.com.ar/tags/linux/</link>
+      <pubDate>Thu, 26 Jun 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nextcloud</title>
+      <link>https://federicomazzei.com.ar/tags/nextcloud/</link>
+      <pubDate>Thu, 26 Jun 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/nextcloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tecnologia</title>
+      <link>https://federicomazzei.com.ar/tags/tecnologia/</link>
+      <pubDate>Thu, 26 Jun 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/tecnologia/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ai</title>
       <link>https://federicomazzei.com.ar/tags/ai/</link>
@@ -23,13 +51,6 @@
       <description></description>
     </item>
     <item>
-      <title>Docker</title>
-      <link>https://federicomazzei.com.ar/tags/docker/</link>
-      <pubDate>Sun, 22 Jun 2025 11:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/docker/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Hugo</title>
       <link>https://federicomazzei.com.ar/tags/hugo/</link>
       <pubDate>Sun, 22 Jun 2025 11:00:00 +0000</pubDate>
@@ -37,31 +58,10 @@
       <description></description>
     </item>
     <item>
-      <title>Linux</title>
-      <link>https://federicomazzei.com.ar/tags/linux/</link>
-      <pubDate>Sun, 22 Jun 2025 11:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/linux/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nextcloud</title>
-      <link>https://federicomazzei.com.ar/tags/nextcloud/</link>
-      <pubDate>Sun, 22 Jun 2025 11:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/nextcloud/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Obsidian</title>
       <link>https://federicomazzei.com.ar/tags/obsidian/</link>
       <pubDate>Sun, 22 Jun 2025 11:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/tags/obsidian/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tecnologia</title>
-      <link>https://federicomazzei.com.ar/tags/tecnologia/</link>
-      <pubDate>Sun, 22 Jun 2025 11:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/tecnologia/</guid>
       <description></description>
     </item>
     <item>

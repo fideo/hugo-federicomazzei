@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b8beabd77de8e85d",
+        "id": "20f455dc9de28e7b",
         "type": "tabs",
         "children": [
           {
-            "id": "ac0c891fa4e6f759",
+            "id": "a4dc311a9ea7d8c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -37,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 441.5
   },
   "right": {
     "id": "6cd6578269ae388b",
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,50 +170,49 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-importer:Open Importer": false,
+      "publish:Publicar cambios": false,
       "obsidian-git:Open Git source control": false,
-      "publish:Publicar cambios": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ac0c891fa4e6f759",
+  "active": "a4dc311a9ea7d8c2",
   "lastOpenFiles": [
-    "sync_posts.sh~",
-    "sync_posts.sh",
-    "rsync_directorios.sh",
-    "deepseek_bash_20250622_56797e.sh",
-    "sync_directorios.py",
+    "Templates/Titulo del post.md",
+    "2025/07/2025-07-21-conectar-starlink-con-mikrotik.md",
+    "sync_posts_deploy.sh~",
+    "Templates",
+    "2025/06/2025-06-26-nextcloud-modo-mantenimiento.md",
+    "Template/Titulo del post.md",
+    "2025/07/Sin título.md",
+    "2025/07",
+    "2025/07",
+    "2025/06/2025-06-22-integrando-obsidian-con-hugo-automatizando-mi-flujo-de-publicacion.md",
+    "Templates/Título del post.md",
+    "2025-06-22.md",
+    "Sin título.canvas",
+    "2025/01/2025-01-20-migracion-de-wordpres-a-hugo.md",
+    "2025/06/2025-06-19-describeme-basándote-en-todas-nuestras-charlas-hazlo-atractivo.md",
+    "2025/05/Mikrotik - Monitoreo del ancho de banda cuanto consumimos.md",
+    "2025/03/2025-03-07-movernos-dentro-de-archivos-abiertos-en-vim.md",
     "2025/02/rustdesk-el-reemplazo-de-anydesk-o-teamviewer.md",
     "2025/02/deoldify-colorea-tus-videos-con-inteligencia-artificial.md",
-    "2025/02",
-    "2025/01/2025-01-20-migracion-de-wordpres-a-hugo.md",
-    "2025/01",
-    "2025/05/Mikrotik - Monitoreo del ancho de banda cuanto consumimos.md",
-    "2025/05",
-    "2025/03/2025-03-07-movernos-dentro-de-archivos-abiertos-en-vim.md",
-    "2025/03",
-    "2025-06-19-describeme-basándote-en-todas-nuestras-charlas-hazlo-atractivo.md",
-    "2025/06/rustdesk-el-reemplazo-de-anydesk-o-teamviewer.md",
-    "2025/06/deoldify-colorea-tus-videos-con-inteligencia-artificial.md",
-    "2025/06/Mikrotik - Monitoreo del ancho de banda cuanto consumimos.md",
-    "2025/06/2025-06-19-describeme-basándote-en-todas-nuestras-charlas-hazlo-atractivo.md",
-    "2025/06/2025-03-07-movernos-dentro-de-archivos-abiertos-en-vim.md",
-    "2025/06/2025-01-20-migracion-de-wordpres-a-hugo.md",
-    "2025/06",
-    "2025",
-    "Sin título.canvas",
-    "2025-03-07-movernos-dentro-de-archivos-abiertos-en-vim.md",
-    "Describeme basándote en todas nuestras charlas. ¡Hazlo atractivo!.md",
-    "Mikrotik - Monitoreo del ancho de banda cuanto consumimos.md",
-    "2025-01-20-migracion-de-wordpres-a-hugo.md",
-    "deoldify-colorea-tus-videos-con-inteligencia-artificial.md",
-    "rustdesk-el-reemplazo-de-anydesk-o-teamviewer.md",
-    "HTML import/vim-youcompleteme.md",
-    "HTML import/aporte-de-les-luthiers-a-nuestro-vocabulario.md",
-    "HTML import/atunes-la-version-open-source-del-itunes.md",
-    "HTML import/algunos-tutoriales-y-sites-de-css.md",
-    "HTML import/adios-a-pappo.md",
-    "HTML import/actualizar-ubuntu-de-12-a-14.md",
-    "HTML import/actualizar-localmente-wordpress-da-fallida.md",
+    "2024/09/2024-09-07-activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.md",
+    "2024/08/2024-08-09-convertir-texto-de-minuscula-a-mayuscula-en-vim.md",
+    "ubuntu.md",
+    "2024/03/2024-03-01-no-funciona-wi-fi-en-tu-notebook-con-linux.md",
+    "assets/uploads/2023/06/Cloudflare_DKIM_configuracion_registro_txt.png.md",
+    "2020/06/2020-06-17-obtener-una-lista-de-software-instalados-en-una-pc.md",
+    "assets/uploads/2023/06",
+    "assets/uploads/2023",
+    "assets/uploads",
+    "assets",
+    "sync_posts_deploy.sh",
+    "2005/02/2005-02-24-hello-world.md",
+    "Sin título.md",
+    "2024/06/2024-06-05-partir-en-varios-archivos-zip-un-directorio-o-un-archivo.md",
+    "2024/05/2024-05-14-lazyvim-muestra-algunos-warnings-rg-fdfind-y-lazygit.md",
+    "2024/05/2024-05-13-como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.md",
+    "2024/09",
     "HTML import/Attachments/rss 83.webp",
     "HTML import/Attachments/link 83.webp",
     "HTML import/Attachments/instagram 83.webp",

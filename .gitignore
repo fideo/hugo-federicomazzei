@@ -5,13 +5,20 @@
 deploy.sh
 
 # node_modules es generado por npm al instalar algunas librerias como por ejemplo TailWindCSS
-./node_modules
+./node_modules/
 node_modules
 
 # docs es el directorio que uso para publicar el sitio
-./docs
+./docs/
 docs
 
 # public es el directorio que usa por defecto hugo al ejecutar hugo build
-./public
+./public/
 public
+
+# otros archivos que le digo a gitignore que ignore.
+./content/post/articulos/.gitignore
+./content/post/articulos/.obsidian/switcher.json
+./content/post/articulos/.obsidian/templates.json
+./content/post/articulos/2025/07/
+./content/post/articulos/sync_posts_deploy.sh

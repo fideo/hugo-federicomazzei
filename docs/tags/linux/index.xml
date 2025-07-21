@@ -6,14 +6,14 @@
     <description>Recent content in Linux on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 22 Jun 2025 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 11:00:00 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nextcloud en docker queda en modo mantenimiento</title>
       <link>https://federicomazzei.com.ar/2025/06/2025-06-26-nextcloud-en-docker-queda-en-modo-mantenimiento.html</link>
-      <pubDate>Sun, 22 Jun 2025 11:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Jun 2025 11:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2025/06/2025-06-26-nextcloud-en-docker-queda-en-modo-mantenimiento.html</guid>
-      <description>&lt;h1 id=&#34;nextcloud-en-docker-queda-en-modo-mantenimiento&#34;&gt;Nextcloud en docker queda en modo mantenimiento&lt;/h1&gt;&#xA;&lt;p&gt;Si tenes instalado nextcloud en un contenedor docker puede que te topes con este mensaje.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;Por favor, utilice el actualizador por línea de comandos ya que la actualización vía navegador se encuentra deshabilitado en su config.php&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Buscas en internet como sacarlo de modo mantenimiento y te dicen que configures en tu config.php esto:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;#39;maintenance&amp;#39; =&amp;gt; false&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;y para ponerlo en modo mantenimiento obviamente cambiar el valor a  &lt;strong&gt;&lt;em&gt;true&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;nextcloud-en-docker-queda-en-modo-mantenimiento&#34;&gt;Nextcloud en docker queda en modo mantenimiento&lt;/h1&gt;&#xA;&lt;p&gt;Si tenes instalado nextcloud en un contenedor docker puede que te topes con este mensaje.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Por favor, utilice el actualizador por línea de comandos ya que la actualización vía navegador se encuentra deshabilitado en su config.php&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Buscas en internet como sacarlo de modo mantenimiento y te dicen que configures en tu config.php esto:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;#39;maintenance&amp;#39; =&amp;gt; false&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;y para ponerlo en modo mantenimiento obviamente cambiar el valor a  &lt;strong&gt;&lt;em&gt;true&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Movernos dentro de VIM con los archivos abiertos</title>
@@ -287,6 +287,13 @@
       <pubDate>Sat, 21 Oct 2006 02:04:15 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2006/10/mountar-una-imagen-iso-en-linux.html</guid>
       <description>&lt;p&gt;Esta nota es más que nada una ayuda memoria, porque cada vez que tengo que montar una imagen ISO en linux no recuerdo como se hace talvez a alguien más le sirva.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;mount -t iso9660 -o loopback imagen.raw /punto/de/montaje&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://federicomazzei.com.ar/post/articulos/templates/titulo-del-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/post/articulos/templates/titulo-del-post/</guid>
+      <description>&lt;h1 id=&#34;título-del-post&#34;&gt;Título del post&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>
