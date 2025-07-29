@@ -5,8 +5,8 @@ categories:
   - tecnología
   - redes
   - mikrotik
-date: 2025-07-22T11:00:00Z
-excerpt: ""
+date: 2025-07-22T14:05:00Z
+excerpt: Te muestro los pasos a seguir para conectar starlink con mikrotik
 status: future
 tags:
   - mikrotik
@@ -14,7 +14,7 @@ tags:
 thumbnail: /assets/uploads/2017/11/cabeceraUbuntu-1.jpg
 title: Conectar Starlink con Mikrotik
 type: post
-url: 2025-07-21-conectar-starlink-con-mikrotik.html
+url: 2025/07/2025-07-21-conectar-starlink-con-mikrotik.html
 usemathjax: true
 ---
 

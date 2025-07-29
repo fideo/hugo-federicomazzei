@@ -43,4 +43,5 @@
 <!-- Google Analytics -->
 {{ if eq (getenv "HUGO_ENV") "production"}}
 {{ template "_internal/google_analytics.html" . }}
+{{ template "_internal/plausible.html" . }}
 {{ end }}

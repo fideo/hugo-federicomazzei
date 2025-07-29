@@ -2,22 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://federicomazzei.com.ar/categories/</loc>
+    <lastmod>2025-07-22T14:05:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2025/07/2025-07-21-conectar-starlink-con-mikrotik.html</loc>
+    <lastmod>2025-07-22T14:05:00+00:00</lastmod>
+  </url><url>
     <loc>https://federicomazzei.com.ar/</loc>
-    <lastmod>2025-07-22T11:00:00+00:00</lastmod>
+    <lastmod>2025-07-22T14:05:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/mikrotik/</loc>
+    <lastmod>2025-07-22T14:05:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/mikrotik/</loc>
+    <lastmod>2025-07-22T14:05:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/post/</loc>
-    <lastmod>2025-07-22T11:00:00+00:00</lastmod>
+    <lastmod>2025-07-22T14:05:00+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/categories/</loc>
-    <lastmod>2025-06-26T11:00:00+00:00</lastmod>
+    <loc>https://federicomazzei.com.ar/categories/redes/</loc>
+    <lastmod>2025-07-22T14:05:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/starlink/</loc>
+    <lastmod>2025-07-22T14:05:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/</loc>
+    <lastmod>2025-07-22T14:05:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/tecnolog%C3%ADa/</loc>
+    <lastmod>2025-07-22T14:05:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/internet/</loc>
+    <lastmod>2025-07-21T01:08:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/linux/</loc>
+    <lastmod>2025-07-21T01:08:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/linux/</loc>
+    <lastmod>2025-07-21T01:08:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2025/07/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.html</loc>
+    <lastmod>2025-07-21T01:08:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/raspberry/</loc>
+    <lastmod>2025-07-21T01:08:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/raspberry/</loc>
+    <lastmod>2025-07-21T01:08:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/sistema-operativo/</loc>
+    <lastmod>2025-07-21T01:08:01+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/categories/docker/</loc>
     <lastmod>2025-06-26T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/docker/</loc>
-    <lastmod>2025-06-26T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/linux/</loc>
     <lastmod>2025-06-26T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/categories/nextcloud/</loc>
@@ -29,13 +68,7 @@
     <loc>https://federicomazzei.com.ar/2025/06/2025-06-26-nextcloud-en-docker-queda-en-modo-mantenimiento.html</loc>
     <lastmod>2025-06-26T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/tags/</loc>
-    <lastmod>2025-06-26T11:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://federicomazzei.com.ar/tags/tecnologia/</loc>
-    <lastmod>2025-06-26T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/categories/tecnolog%C3%ADa/</loc>
     <lastmod>2025-06-26T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/ai/</loc>
@@ -64,12 +97,6 @@
   </url><url>
     <loc>https://federicomazzei.com.ar/2025/06/2025-06-19-pregunta-a-chatgpt-describeme-basandote-en-todas-nuestras-charlas-hazlo-atractivo.html</loc>
     <lastmod>2025-06-19T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/categories/mikrotik/</loc>
-    <lastmod>2025-05-15T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/mikrotik/</loc>
-    <lastmod>2025-05-15T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2025/03/2025-05-15-mikrotik-monitoreo-del-ancho-de-banda-cuanto-consumimos.html</loc>
     <lastmod>2025-05-15T11:00:00+00:00</lastmod>
@@ -126,9 +153,6 @@
     <lastmod>2024-09-07T09:05:21+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/debian/</loc>
-    <lastmod>2024-09-07T09:05:21+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/categories/sistema-operativo/</loc>
     <lastmod>2024-09-07T09:05:21+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/ubuntu/</loc>
@@ -192,9 +216,6 @@
     <lastmod>2023-03-24T19:53:12+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/github/</loc>
-    <lastmod>2023-03-24T19:53:12+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/categories/linux/</loc>
     <lastmod>2023-03-24T19:53:12+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2023/03/vim-youcompleteme.html</loc>

@@ -6,20 +6,48 @@
     <description>Recent content in Tags on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 26 Jun 2025 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 14:05:00 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Docker</title>
-      <link>https://federicomazzei.com.ar/tags/docker/</link>
-      <pubDate>Thu, 26 Jun 2025 11:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/docker/</guid>
+      <title>Mikrotik</title>
+      <link>https://federicomazzei.com.ar/tags/mikrotik/</link>
+      <pubDate>Tue, 22 Jul 2025 14:05:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/mikrotik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Starlink</title>
+      <link>https://federicomazzei.com.ar/tags/starlink/</link>
+      <pubDate>Tue, 22 Jul 2025 14:05:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/starlink/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internet</title>
+      <link>https://federicomazzei.com.ar/tags/internet/</link>
+      <pubDate>Mon, 21 Jul 2025 01:08:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/internet/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
       <link>https://federicomazzei.com.ar/tags/linux/</link>
-      <pubDate>Thu, 26 Jun 2025 11:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Jul 2025 01:08:01 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raspberry</title>
+      <link>https://federicomazzei.com.ar/tags/raspberry/</link>
+      <pubDate>Mon, 21 Jul 2025 01:08:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/raspberry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://federicomazzei.com.ar/tags/docker/</link>
+      <pubDate>Thu, 26 Jun 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/docker/</guid>
       <description></description>
     </item>
     <item>
@@ -62,13 +90,6 @@
       <link>https://federicomazzei.com.ar/tags/obsidian/</link>
       <pubDate>Sun, 22 Jun 2025 11:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/tags/obsidian/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mikrotik</title>
-      <link>https://federicomazzei.com.ar/tags/mikrotik/</link>
-      <pubDate>Thu, 15 May 2025 11:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/mikrotik/</guid>
       <description></description>
     </item>
     <item>

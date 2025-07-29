@@ -6,8 +6,22 @@
     <description>Recent content in Posts on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 26 Jun 2025 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 14:05:00 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conectar Starlink con Mikrotik</title>
+      <link>https://federicomazzei.com.ar/2025/07/2025-07-21-conectar-starlink-con-mikrotik.html</link>
+      <pubDate>Tue, 22 Jul 2025 14:05:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025/07/2025-07-21-conectar-starlink-con-mikrotik.html</guid>
+      <description>&lt;h1 id=&#34;conectar-starlink-con-mikrotik&#34;&gt;Conectar Starlink con Mikrotik&lt;/h1&gt;&#xA;&lt;h3 id=&#34;configuración-para-starlink-modo-bridge&#34;&gt;Configuración para Starlink (modo bridge)&lt;/h3&gt;&#xA;&lt;p&gt;Entrar a la aplicación de Starlink que se usó para configurar la antena y bajar hasta configuración.&lt;br&gt;&#xA;Dentro de configuración ir a la opción modo de derivación y deslizar para activar derivación.&lt;br&gt;&#xA;&lt;span style=&#34;color:red&#34;&gt;(ACLARACIÓN IMPORTANTE PARA REVERTIR ESTO SE NECESITA HARD RESET)&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;Conectar el conector rj45 del modem de Starlink al puerto número 1 del Mikrotik.&lt;/p&gt;&#xA;&lt;h3 id=&#34;conectarse-al-mikrotik&#34;&gt;Conectarse al Mikrotik&lt;/h3&gt;&#xA;&lt;p&gt;Conectarse a Mikrotik con el usuario y contraseña correspondiente; si el mikrotik es nuevo entonces buscar la mac address del mikrotik y conectarse; acto seguido crear usuario y password y cambiar la pass de admin.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Problemas de conexión en Raspberry Pi 5</title>
+      <link>https://federicomazzei.com.ar/2025/07/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.html</link>
+      <pubDate>Mon, 21 Jul 2025 01:08:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025/07/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.html</guid>
+      <description>&lt;h1 id=&#34;problemas-de-conexión-en-raspberry-pi-5&#34;&gt;Problemas de conexión en Raspberry Pi 5&lt;/h1&gt;&#xA;&lt;p&gt;Si tenes problemas de conexión con tu Raspeberry PI 5 uno de lo motivos puede ser que tengas que editar el archivo resolv.conf ubicado en /etc/&lt;br&gt;&#xA;Yo uso vim o nvim como editor de texto asi que para mi caso es:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo vim /etc/resolv.conf&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Siempre con poderes de super usuario para poder editar este tipo de archivos.&lt;/p&gt;&#xA;&lt;p&gt;Se les agrega las IP de los &lt;strong&gt;DNS de google&lt;/strong&gt; y también las IP&amp;rsquo;s asignadas de a la Raspberry PI 5 tanto de red como de conexión Wi-Fi.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Nextcloud en docker queda en modo mantenimiento</title>
       <link>https://federicomazzei.com.ar/2025/06/2025-06-26-nextcloud-en-docker-queda-en-modo-mantenimiento.html</link>

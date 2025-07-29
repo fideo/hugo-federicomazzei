@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "20f455dc9de28e7b",
+        "id": "539eb24c45848fda",
         "type": "tabs",
         "children": [
           {
-            "id": "a4dc311a9ea7d8c2",
+            "id": "2e6083b1653b4717",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025/07/2025-07-21-conectar-starlink-con-mikrotik.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "2025-07-21-conectar-starlink-con-mikrotik"
             }
           }
         ]
@@ -175,23 +179,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a4dc311a9ea7d8c2",
+  "active": "2e6083b1653b4717",
   "lastOpenFiles": [
-    "Templates/Titulo del post.md",
+    "2025/06/2025-06-19-describeme-basándote-en-todas-nuestras-charlas-hazlo-atractivo.md",
+    "2025/06/2025-06-22-integrando-obsidian-con-hugo-automatizando-mi-flujo-de-publicacion.md",
+    "2025/06/2025-06-26-nextcloud-modo-mantenimiento.md",
     "2025/07/2025-07-21-conectar-starlink-con-mikrotik.md",
+    "2025/07/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.md",
+    "Templates/Titulo del post.md",
     "sync_posts_deploy.sh~",
     "Templates",
-    "2025/06/2025-06-26-nextcloud-modo-mantenimiento.md",
     "Template/Titulo del post.md",
-    "2025/07/Sin título.md",
     "2025/07",
     "2025/07",
-    "2025/06/2025-06-22-integrando-obsidian-con-hugo-automatizando-mi-flujo-de-publicacion.md",
     "Templates/Título del post.md",
     "2025-06-22.md",
     "Sin título.canvas",
     "2025/01/2025-01-20-migracion-de-wordpres-a-hugo.md",
-    "2025/06/2025-06-19-describeme-basándote-en-todas-nuestras-charlas-hazlo-atractivo.md",
     "2025/05/Mikrotik - Monitoreo del ancho de banda cuanto consumimos.md",
     "2025/03/2025-03-07-movernos-dentro-de-archivos-abiertos-en-vim.md",
     "2025/02/rustdesk-el-reemplazo-de-anydesk-o-teamviewer.md",
