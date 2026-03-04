@@ -33,6 +33,7 @@ Olvida las viejas llaves RSA. **Ed25519** es el estándar moderno por tres razon
 1. **Seguridad:** Resiste ataques mejor que RSA con menos bits.
 2. **Velocidad:** Las firmas y verificaciones son notablemente más rápidas.
 3. **Legibilidad:** Las llaves son mucho más cortas, facilitando su gestión.
+<!--more-->
 
 ---
 

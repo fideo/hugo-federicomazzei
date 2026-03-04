@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "1b5e57799592d395",
+            "id": "af09c89720978c9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "b6a3e83127ce31df",
+            "id": "7e66050592882611",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -212,7 +212,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "1b5e57799592d395",
+  "active": "af09c89720978c9c",
   "lastOpenFiles": [
     "content/post/articulos/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519.md",
     "content/post/articulos/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.md",

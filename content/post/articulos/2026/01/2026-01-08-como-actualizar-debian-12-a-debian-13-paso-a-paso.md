@@ -43,6 +43,7 @@ Antes de iniciar la actualización, asegurate de cumplir con lo siguiente:
 - Si trabajás por **SSH**, evitá conexiones inestables
 - Reservá tiempo: el proceso puede demorar
 - Leé los mensajes que muestre `apt`, especialmente sobre archivos de configuración
+<!--more-->
 
 ---
 
