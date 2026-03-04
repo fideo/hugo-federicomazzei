@@ -99,5 +99,12 @@
       <guid>https://federicomazzei.com.ar/2021/07/arreglar-el-error-droidcam-unable-to-find-dev-video0.html</guid>
       <description>&lt;p&gt;Los pasos que realicé para que Droidcam vuelva funcionar como tras el error Droidcam unable to find dev/video0&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo apt install v4l2loopback-utils v4l-utils v4l2loopback-dkms cmake nasm yasm pkg-config libgtk2.0-dev&#xA;$ sudo modprobe v4l2loopback&#xA;$ v4l2-ctl --list-devices     # check if you have dummy video devices&#xA;Dummy video device (0x0000) (platform:v4l2loopback-000):&#xA;/dev/video0&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Me pasa muy seguido que tengo que corregir droidcam tras actualizar Ubuntu y para esto solo uso este comando.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo modprobe v4l2loopback&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Que sirve para agregar el módulo v4l2loopback al kernel que acabamos de actualizar.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Hola Mundo weblog</title>
+      <link>https://federicomazzei.com.ar/2005/02/hello-world.html</link>
+      <pubDate>Thu, 24 Feb 2005 01:08:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2005/02/hello-world.html</guid>
+      <description>&lt;p&gt;Bienvenido a mi weblog.&lt;br&gt;&#xA;Para los que no saben muy bien que es un weblog paso a detallarlo:&lt;br&gt;&#xA;“Es un sitio web que posee una serie de artículos y/o publicaciones en un orden cronológico. Por ejemplo, alguien tiene una herramienta que le permite controlar y subir contenido a un sitio web, entonces gracias a su facilidad escribe todos los días, como si mantuviera una charla cronológica ? como si escribiera para organizar y recordar su información.”&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

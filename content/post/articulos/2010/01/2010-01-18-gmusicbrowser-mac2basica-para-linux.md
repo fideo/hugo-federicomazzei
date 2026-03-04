@@ -14,7 +14,7 @@ url: /2010/01/gmusicbrowser-ma%c2%basica-para-linux.html
 
 Es una aplicación open-source desarrollada en perl para grandes cantidades collecciones; soporta mp3, ogg, flac, mpc, ape.
 
-Yo lo instalé en Mint y Ubuntu (ambos debian) con la siguiente instrucción ***sudo apt-get install gmusicbrowser*** y la verdad que me gustó mucho.
+Yo lo instalé en Mint y Ubuntu (ambos [[Debian]]) con la siguiente instrucción ***sudo apt-get install gmusicbrowser*** y la verdad que me gustó mucho.
 
 Espero que lo disfruten.
 

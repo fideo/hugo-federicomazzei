@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "f01fea408fe4a5eb",
+    "id": "c7acb8e5c8d82932",
     "type": "split",
     "children": [
       {
-        "id": "539eb24c45848fda",
+        "id": "b1bd79279be4470b",
         "type": "tabs",
         "children": [
           {
-            "id": "2e6083b1653b4717",
+            "id": "827ed71740b370e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025/07/2025-07-21-conectar-starlink-con-mikrotik.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-07-21-conectar-starlink-con-mikrotik"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -27,28 +23,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "316ed28b9e0529c1",
+    "id": "59a4082ce2db5986",
     "type": "split",
     "children": [
       {
-        "id": "25dea78b1ae63b56",
+        "id": "6bd81d4fa5cbd6f8",
         "type": "tabs",
         "children": [
           {
-            "id": "047f77d69d105cc2",
+            "id": "d2ccfdb8a9e05f14",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
             }
           },
           {
-            "id": "37a17fe2b1a1c66f",
+            "id": "83cae26e33746bb0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "fa1ee286de92a0d5",
+            "id": "bf8490295a8d4b8a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,18 +74,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 300
   },
   "right": {
-    "id": "6cd6578269ae388b",
+    "id": "bb4c67c7c99de959",
     "type": "split",
     "children": [
       {
-        "id": "a8e1527ac2051df4",
+        "id": "e321d313a5acc8e8",
         "type": "tabs",
         "children": [
           {
-            "id": "d8713cbaf885c261",
+            "id": "2210194f73e7926a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,7 +103,7 @@
             }
           },
           {
-            "id": "e33dee5cba463f3f",
+            "id": "6b399f7e82a261f1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,7 +116,7 @@
             }
           },
           {
-            "id": "4d459b7e45f77cc4",
+            "id": "72f7b7d4d2f54221",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +131,7 @@
             }
           },
           {
-            "id": "529a6f42c22fa2c5",
+            "id": "dab53c5d4ed53618",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -147,23 +143,12 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
-          },
-          {
-            "id": "743faf87a0bc65d0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -175,57 +160,13 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "publish:Publicar cambios": false,
+      "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2e6083b1653b4717",
+  "active": "827ed71740b370e1",
   "lastOpenFiles": [
-    "2025/06/2025-06-19-describeme-basándote-en-todas-nuestras-charlas-hazlo-atractivo.md",
-    "2025/06/2025-06-22-integrando-obsidian-con-hugo-automatizando-mi-flujo-de-publicacion.md",
-    "2025/06/2025-06-26-nextcloud-modo-mantenimiento.md",
-    "2025/07/2025-07-21-conectar-starlink-con-mikrotik.md",
-    "2025/07/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.md",
-    "Templates/Titulo del post.md",
-    "sync_posts_deploy.sh~",
-    "Templates",
-    "Template/Titulo del post.md",
-    "2025/07",
-    "2025/07",
-    "Templates/Título del post.md",
-    "2025-06-22.md",
-    "Sin título.canvas",
-    "2025/01/2025-01-20-migracion-de-wordpres-a-hugo.md",
-    "2025/05/Mikrotik - Monitoreo del ancho de banda cuanto consumimos.md",
-    "2025/03/2025-03-07-movernos-dentro-de-archivos-abiertos-en-vim.md",
-    "2025/02/rustdesk-el-reemplazo-de-anydesk-o-teamviewer.md",
-    "2025/02/deoldify-colorea-tus-videos-con-inteligencia-artificial.md",
-    "2024/09/2024-09-07-activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.md",
-    "2024/08/2024-08-09-convertir-texto-de-minuscula-a-mayuscula-en-vim.md",
-    "ubuntu.md",
-    "2024/03/2024-03-01-no-funciona-wi-fi-en-tu-notebook-con-linux.md",
-    "assets/uploads/2023/06/Cloudflare_DKIM_configuracion_registro_txt.png.md",
-    "2020/06/2020-06-17-obtener-una-lista-de-software-instalados-en-una-pc.md",
-    "assets/uploads/2023/06",
-    "assets/uploads/2023",
-    "assets/uploads",
-    "assets",
-    "sync_posts_deploy.sh",
-    "2005/02/2005-02-24-hello-world.md",
-    "Sin título.md",
-    "2024/06/2024-06-05-partir-en-varios-archivos-zip-un-directorio-o-un-archivo.md",
-    "2024/05/2024-05-14-lazyvim-muestra-algunos-warnings-rg-fdfind-y-lazygit.md",
-    "2024/05/2024-05-13-como-averiguar-el-id-de-anydesk-por-consola-o-terminal-en-linux.md",
-    "2024/09",
-    "HTML import/Attachments/rss 83.webp",
-    "HTML import/Attachments/link 83.webp",
-    "HTML import/Attachments/instagram 83.webp",
-    "HTML import/Attachments/linkedin 83.webp",
-    "HTML import/Attachments/facebook 83.webp",
-    "HTML import/Attachments/rss 82.webp",
-    "HTML import/Attachments/link 82.webp",
-    "HTML import/Attachments/instagram 82.webp",
-    "HTML import/Attachments/linkedin 82.webp",
-    "HTML import/Attachments/facebook 82.webp"
+    "2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.md"
   ]
 }

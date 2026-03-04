@@ -1,5 +1,5 @@
 theme = 'github-style'
 
 [services]
-    [services.googleAnalytics]
-    ID = "G-VS1RSDN0CD"
+[services.googleAnalytics]
+ID = "G-VS1RSDN0CD"

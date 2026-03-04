@@ -16,7 +16,7 @@ tags:
 thumbnail: /assets/uploads/2017/11/cabeceraUbuntu-1.jpg
 title: Problemas de conexión en Raspberry Pi 5
 type: post
-url: 2025/07/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.html
+url: /2025/07/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.html
 usemathjax: true
 ---
 

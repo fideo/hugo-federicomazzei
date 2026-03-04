@@ -2,13 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://federicomazzei.com.ar/categories/</loc>
-    <lastmod>2025-07-22T14:05:00+00:00</lastmod>
+    <loc>https://federicomazzei.com.ar/tags/bash/</loc>
+    <lastmod>2026-02-26T15:10:01+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/2025/07/2025-07-21-conectar-starlink-con-mikrotik.html</loc>
-    <lastmod>2025-07-22T14:05:00+00:00</lastmod>
+    <loc>https://federicomazzei.com.ar/categories/</loc>
+    <lastmod>2026-02-26T15:10:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519/</loc>
+    <lastmod>2026-02-26T15:10:01+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/</loc>
+    <lastmod>2026-02-26T15:10:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/linux/</loc>
+    <lastmod>2026-02-26T15:10:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/post/</loc>
+    <lastmod>2026-02-26T15:10:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/ssh/</loc>
+    <lastmod>2026-02-26T15:10:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/</loc>
+    <lastmod>2026-02-26T15:10:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/tecnolog%C3%ADa/</loc>
+    <lastmod>2026-02-26T15:10:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.html</loc>
+    <lastmod>2026-01-08T15:10:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/debian/</loc>
+    <lastmod>2026-01-08T15:10:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/debian/</loc>
+    <lastmod>2026-01-08T15:10:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/escritorio/</loc>
+    <lastmod>2026-01-08T15:10:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/linux/</loc>
+    <lastmod>2026-01-08T15:10:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/servidores/</loc>
+    <lastmod>2026-01-08T15:10:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/software/</loc>
+    <lastmod>2026-01-08T15:10:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/sysadmin/</loc>
+    <lastmod>2026-01-08T15:10:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2025/12/2025-12-16-agregar-hora-y-fecha-en-el-prompt-de-la-linea-de-comandos-de-linux/</loc>
+    <lastmod>2025-12-16T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/comandos/</loc>
+    <lastmod>2025-12-16T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/terminal/</loc>
+    <lastmod>2025-12-16T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/tmux/</loc>
+    <lastmod>2025-12-16T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/devops/</loc>
+    <lastmod>2025-10-29T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/productividad/</loc>
+    <lastmod>2025-10-29T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/truco/</loc>
+    <lastmod>2025-10-29T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2025/10/2025-10-29-trucos-de-linea-de-comandos-que-te-haran-mas-productivo/</loc>
+    <lastmod>2025-10-29T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/ai/</loc>
+    <lastmod>2025-08-21T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/ai-inteligencia-artificial/</loc>
+    <lastmod>2025-08-21T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/artificial/</loc>
+    <lastmod>2025-08-21T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/chatgpt/</loc>
+    <lastmod>2025-08-21T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/chatgpt/</loc>
+    <lastmod>2025-08-21T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/inteligencia/</loc>
+    <lastmod>2025-08-21T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2025/08/2025-08-21-tecnica-rocket-metodo-sencillo-para-construir-prompts.html</loc>
+    <lastmod>2025-08-21T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2025-07-23-migr%C3%A9-de-plex-a-jellyfin-mi-experiencia-completa.html</loc>
+    <lastmod>2025-07-23T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2025/07/2025-07-21-conectar-starlink-con-mikrotik.html</loc>
     <lastmod>2025-07-22T14:05:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/categories/mikrotik/</loc>
@@ -17,31 +110,22 @@
     <loc>https://federicomazzei.com.ar/tags/mikrotik/</loc>
     <lastmod>2025-07-22T14:05:00+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/post/</loc>
-    <lastmod>2025-07-22T14:05:00+00:00</lastmod>
-  </url><url>
     <loc>https://federicomazzei.com.ar/categories/redes/</loc>
     <lastmod>2025-07-22T14:05:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/starlink/</loc>
     <lastmod>2025-07-22T14:05:00+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/tags/</loc>
-    <lastmod>2025-07-22T14:05:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/categories/tecnolog%C3%ADa/</loc>
-    <lastmod>2025-07-22T14:05:00+00:00</lastmod>
+    <loc>https://federicomazzei.com.ar/2025-07-21-conectar-starlink-con-mikrotik.html</loc>
+    <lastmod>2025-07-22T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/internet/</loc>
     <lastmod>2025-07-21T01:08:01+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/categories/linux/</loc>
-    <lastmod>2025-07-21T01:08:01+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/linux/</loc>
-    <lastmod>2025-07-21T01:08:01+00:00</lastmod>
-  </url><url>
     <loc>https://federicomazzei.com.ar/2025/07/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.html</loc>
+    <lastmod>2025-07-21T01:08:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.html</loc>
     <lastmod>2025-07-21T01:08:01+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/categories/raspberry/</loc>
@@ -70,15 +154,6 @@
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/tecnologia/</loc>
     <lastmod>2025-06-26T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/ai/</loc>
-    <lastmod>2025-06-22T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/chatgpt/</loc>
-    <lastmod>2025-06-22T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/categories/chatgpt/</loc>
-    <lastmod>2025-06-22T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/categories/hugo/</loc>
     <lastmod>2025-06-22T11:00:00+00:00</lastmod>
@@ -119,12 +194,6 @@
     <loc>https://federicomazzei.com.ar/2025/02/rustdesk-el-reemplazo-de-anydesk-o-teamviewer.html</loc>
     <lastmod>2025-02-05T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/categories/software/</loc>
-    <lastmod>2025-02-05T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/categories/ai-inteligencia-artificial/</loc>
-    <lastmod>2025-02-03T11:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://federicomazzei.com.ar/2025/02/deoldify-colorea-tus-videos-con-inteligencia-artificial.html</loc>
     <lastmod>2025-02-03T11:00:00+00:00</lastmod>
   </url><url>
@@ -150,9 +219,6 @@
     <lastmod>2024-09-07T09:05:21+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/comando/</loc>
-    <lastmod>2024-09-07T09:05:21+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/debian/</loc>
     <lastmod>2024-09-07T09:05:21+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/ubuntu/</loc>
@@ -200,9 +266,6 @@
     <loc>https://federicomazzei.com.ar/tags/opendkim/</loc>
     <lastmod>2023-06-30T11:21:35+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/tags/comandos/</loc>
-    <lastmod>2023-06-20T10:18:11+00:00</lastmod>
-  </url><url>
     <loc>https://federicomazzei.com.ar/2023/06/comandos-basicos-para-vim.html</loc>
     <lastmod>2023-06-20T10:18:11+00:00</lastmod>
   </url><url>
@@ -240,9 +303,6 @@
     <lastmod>2022-02-25T08:34:44+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/powerline/</loc>
-    <lastmod>2022-02-18T11:15:41+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/tmux/</loc>
     <lastmod>2022-02-18T11:15:41+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2022/02/tmux-github-powerline-status.html</loc>
@@ -366,9 +426,6 @@
     <lastmod>2015-11-18T10:39:30+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/password/</loc>
-    <lastmod>2015-11-18T10:39:30+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/truco/</loc>
     <lastmod>2015-11-18T10:39:30+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/word/</loc>
@@ -559,6 +616,9 @@
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/01/sincronizar-n96-con-google-calendar-y-contactos.html</loc>
     <lastmod>2010-01-18T20:48:14+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2010/01/gmusicbrowser-ma%c2%basica-para-linux.html</loc>
+    <lastmod>2010-01-18T10:28:58+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2010/01/gmusicbrowser-ma%c2%basica-para-linux.html</loc>
     <lastmod>2010-01-18T10:28:58+00:00</lastmod>
@@ -842,6 +902,9 @@
     <loc>https://federicomazzei.com.ar/2005/11/bootdiskcom.html</loc>
     <lastmod>2005-11-08T23:35:52+00:00</lastmod>
   </url><url>
+    <loc>https://federicomazzei.com.ar/2025/08/2025-08-22-tecnica-rocket-metodo-sencillo-para-construir-prompts.html</loc>
+    <lastmod>2005-08-22T01:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://federicomazzei.com.ar/2005/08/dolphin.html</loc>
     <lastmod>2005-08-09T00:01:43+00:00</lastmod>
   </url><url>
@@ -872,7 +935,14 @@
     <loc>https://federicomazzei.com.ar/2005/02/hello-world.html</loc>
     <lastmod>2005-02-24T01:08:01+00:00</lastmod>
   </url><url>
+    <loc>https://federicomazzei.com.ar/2005/02/hello-world.html</loc>
+    <lastmod>2005-02-24T01:08:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/post/articulos/2026/01/sin-t%C3%ADtulo/</loc>
+  </url><url>
     <loc>https://federicomazzei.com.ar/post/articulos/assets/uploads/2023/06/cloudflare_dkim_configuracion_registro_txt.png/</loc>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/post/articulos/tags/</loc>
   </url><url>
     <loc>https://federicomazzei.com.ar/post/articulos/templates/titulo-del-post/</loc>
   </url>

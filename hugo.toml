@@ -15,7 +15,15 @@ hardWraps = true
 [frontmatter]
 date = ['date', 'publishdate', 'pubdate', 'published', 'lastmod', 'modified']
 expiryDate = ['expirydate', 'unpublishdate']
-lastmod = [':git', 'lastmod', 'modified', 'date', 'publishdate', 'pubdate', 'published']
+lastmod = [
+  ':git',
+  'lastmod',
+  'modified',
+  'date',
+  'publishdate',
+  'pubdate',
+  'published',
+]
 publishDate = ['publishdate', 'pubdate', 'published', 'date']
 
 # [frontmatter]
@@ -25,57 +33,57 @@ publishDate = ['publishdate', 'pubdate', 'published', 'date']
 # enableGitInfo = true # No me funcionó como yo esperaba
 
 [params]
-    author = "Federico Mazzei"
-    description = "Un blog de notas para todo el mundo"
-    subtitle = 'Un desarrollador web que día a día trata de mejorar'
-    github = "fideo"
-    facebook = "mazzeifederico"
-    twitter = "fideox"
-    linkedin = "federicomazzei"
-    instagram = "fideox"
-    #tumblr = "MeiK2333"
-    email = "info@federicomazzei.com.ar"
-    url = "https://federicomazzei.com.ar/"
-    keywords = "linux, vim, debian, ubuntu, docker, tecnología, comandos, git, blog, google analytics, federico mazzei"
-    rss = true
-    lastmod = true
-    favicon = "/images/avatar.webp"
-    avatar = "/images/avatar.webp"
-    headerIcon = "/images/github-mark-white.png"
-    location = "Argentina, Buenos Aires, Caseros"
-    userStatusEmoji = "😀"
-    enableGitalk = true
-    enableSearch = true
-    custom_css = ["/css/custom.css"]
-    [params.contact]
-        email = 'federicomazzei@gmail.com'
-        phone = '+54 9 11 2630-1170'
+author = "Federico Mazzei"
+description = "Un blog de notas para todo el mundo"
+subtitle = 'Un desarrollador web que día a día trata de mejorar'
+github = "fideo"
+facebook = "mazzeifederico"
+twitter = "fideox"
+linkedin = "federicomazzei"
+instagram = "fideox"
+#tumblr = "MeiK2333"
+email = "info@federicomazzei.com.ar"
+url = "https://federicomazzei.com.ar/"
+keywords = "linux, vim, debian, ubuntu, docker, tecnología, comandos, git, blog, google analytics, federico mazzei"
+rss = true
+lastmod = true
+favicon = "/images/avatar.webp"
+avatar = "/images/avatar.webp"
+headerIcon = "/images/github-mark-white.png"
+location = "Argentina, Buenos Aires, Caseros"
+userStatusEmoji = "😀"
+enableGitalk = true
+enableSearch = true
+custom_css = ["/css/custom.css"]
+[params.contact]
+email = 'federicomazzei@gmail.com'
+phone = '+54 9 11 2630-1170'
 
 
-    [params.gitalk]
-        clientID = "Ov23licCHTBOFJdZMIFm" # Your client ID
-        clientSecret = "0f26adbf7edc171c9b848d55ec0aa9548f27f011" # Your client secret
-        repo = "blog-comments" # ：xxxx.github.io
-        owner = "fideo" # 您的GitHub ID
-        admin = "fideo" # 您的GitHub ID
-        id = "location.pathname" # ID
-        labels = "gitalk" # Github issue labels. If you used to use Gitment, you can change it
-        perPage = 15 # Pagination size, with maximum 100.
-        pagerDirection = "last" # Comment sorting direction, available values are 'last' and 'first'.
-        createIssueManually = true #(issue)
-        distractionFreeMode = false # Enable hot key (cmd|ctrl + enter) submit comment.
-        proxy = "https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token" #
+[params.gitalk]
+clientID = "Ov23licCHTBOFJdZMIFm"                                                           # Your client ID
+clientSecret = "0f26adbf7edc171c9b848d55ec0aa9548f27f011"                                   # Your client secret
+repo = "blog-comments"                                                                      # ：xxxx.github.io
+owner = "fideo"                                                                             # 您的GitHub ID
+admin = "fideo"                                                                             # 您的GitHub ID
+id = "location.pathname"                                                                    # ID
+labels = "gitalk"                                                                           # Github issue labels. If you used to use Gitment, you can change it
+perPage = 15                                                                                # Pagination size, with maximum 100.
+pagerDirection = "last"                                                                     # Comment sorting direction, available values are 'last' and 'first'.
+createIssueManually = true                                                                  #(issue)
+distractionFreeMode = false                                                                 # Enable hot key (cmd|ctrl + enter) submit comment.
+proxy = "https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token" #
 
-    [[params.links]]
-        title = "Link de mi repositorio GitHub"
-        href = "https://github.com/fideo"
-    [[params.links]]
-        title = "Link a fideox.dev.ar"
-        href = "https://fideox.dev.ar"
+[[params.links]]
+title = "Link de mi repositorio GitHub"
+href = "https://github.com/fideo"
+[[params.links]]
+title = "Link a fideox.dev.ar"
+href = "https://fideox.dev.ar"
 
 [services]
-    [services.googleAnalytics]
-    ID = "G-VS1RSDN0CD"
+[services.googleAnalytics]
+ID = "G-VS1RSDN0CD"
 
 [outputs]
 home = ["html", "json"]

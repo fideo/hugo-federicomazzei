@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: ta55q-4wikd
+created: 2026-02-05T08:01:21-03:00

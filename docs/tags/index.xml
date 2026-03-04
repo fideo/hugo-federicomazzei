@@ -6,8 +6,127 @@
     <description>Recent content in Tags on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 22 Jul 2025 14:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 15:10:01 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bash</title>
+      <link>https://federicomazzei.com.ar/tags/bash/</link>
+      <pubDate>Thu, 26 Feb 2026 15:10:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/bash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://federicomazzei.com.ar/tags/linux/</link>
+      <pubDate>Thu, 26 Feb 2026 15:10:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ssh</title>
+      <link>https://federicomazzei.com.ar/tags/ssh/</link>
+      <pubDate>Thu, 26 Feb 2026 15:10:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/ssh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Debian</title>
+      <link>https://federicomazzei.com.ar/tags/debian/</link>
+      <pubDate>Thu, 08 Jan 2026 15:10:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/debian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Escritorio</title>
+      <link>https://federicomazzei.com.ar/tags/escritorio/</link>
+      <pubDate>Thu, 08 Jan 2026 15:10:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/escritorio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Servidores</title>
+      <link>https://federicomazzei.com.ar/tags/servidores/</link>
+      <pubDate>Thu, 08 Jan 2026 15:10:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/servidores/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sysadmin</title>
+      <link>https://federicomazzei.com.ar/tags/sysadmin/</link>
+      <pubDate>Thu, 08 Jan 2026 15:10:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/sysadmin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Comandos</title>
+      <link>https://federicomazzei.com.ar/tags/comandos/</link>
+      <pubDate>Tue, 16 Dec 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/comandos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terminal</title>
+      <link>https://federicomazzei.com.ar/tags/terminal/</link>
+      <pubDate>Tue, 16 Dec 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/terminal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tmux</title>
+      <link>https://federicomazzei.com.ar/tags/tmux/</link>
+      <pubDate>Tue, 16 Dec 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/tmux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devops</title>
+      <link>https://federicomazzei.com.ar/tags/devops/</link>
+      <pubDate>Wed, 29 Oct 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productividad</title>
+      <link>https://federicomazzei.com.ar/tags/productividad/</link>
+      <pubDate>Wed, 29 Oct 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/productividad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Truco</title>
+      <link>https://federicomazzei.com.ar/tags/truco/</link>
+      <pubDate>Wed, 29 Oct 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/truco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai</title>
+      <link>https://federicomazzei.com.ar/tags/ai/</link>
+      <pubDate>Thu, 21 Aug 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial</title>
+      <link>https://federicomazzei.com.ar/tags/artificial/</link>
+      <pubDate>Thu, 21 Aug 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/artificial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chatgpt</title>
+      <link>https://federicomazzei.com.ar/tags/chatgpt/</link>
+      <pubDate>Thu, 21 Aug 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/chatgpt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inteligencia</title>
+      <link>https://federicomazzei.com.ar/tags/inteligencia/</link>
+      <pubDate>Thu, 21 Aug 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/inteligencia/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Mikrotik</title>
       <link>https://federicomazzei.com.ar/tags/mikrotik/</link>
@@ -27,13 +146,6 @@
       <link>https://federicomazzei.com.ar/tags/internet/</link>
       <pubDate>Mon, 21 Jul 2025 01:08:01 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/tags/internet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>https://federicomazzei.com.ar/tags/linux/</link>
-      <pubDate>Mon, 21 Jul 2025 01:08:01 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/linux/</guid>
       <description></description>
     </item>
     <item>
@@ -62,20 +174,6 @@
       <link>https://federicomazzei.com.ar/tags/tecnologia/</link>
       <pubDate>Thu, 26 Jun 2025 11:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/tags/tecnologia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ai</title>
-      <link>https://federicomazzei.com.ar/tags/ai/</link>
-      <pubDate>Sun, 22 Jun 2025 11:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chatgpt</title>
-      <link>https://federicomazzei.com.ar/tags/chatgpt/</link>
-      <pubDate>Sun, 22 Jun 2025 11:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/chatgpt/</guid>
       <description></description>
     </item>
     <item>
@@ -135,13 +233,6 @@
       <description></description>
     </item>
     <item>
-      <title>Debian</title>
-      <link>https://federicomazzei.com.ar/tags/debian/</link>
-      <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/debian/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Ubuntu</title>
       <link>https://federicomazzei.com.ar/tags/ubuntu/</link>
       <pubDate>Sat, 07 Sep 2024 09:05:21 +0000</pubDate>
@@ -167,13 +258,6 @@
       <link>https://federicomazzei.com.ar/tags/opendkim/</link>
       <pubDate>Fri, 30 Jun 2023 11:21:35 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/tags/opendkim/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Comandos</title>
-      <link>https://federicomazzei.com.ar/tags/comandos/</link>
-      <pubDate>Tue, 20 Jun 2023 10:18:11 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/comandos/</guid>
       <description></description>
     </item>
     <item>
@@ -216,13 +300,6 @@
       <link>https://federicomazzei.com.ar/tags/powerline/</link>
       <pubDate>Fri, 18 Feb 2022 11:15:41 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/tags/powerline/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tmux</title>
-      <link>https://federicomazzei.com.ar/tags/tmux/</link>
-      <pubDate>Fri, 18 Feb 2022 11:15:41 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/tmux/</guid>
       <description></description>
     </item>
     <item>
@@ -293,13 +370,6 @@
       <link>https://federicomazzei.com.ar/tags/password/</link>
       <pubDate>Wed, 18 Nov 2015 10:39:30 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/tags/password/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Truco</title>
-      <link>https://federicomazzei.com.ar/tags/truco/</link>
-      <pubDate>Wed, 18 Nov 2015 10:39:30 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/truco/</guid>
       <description></description>
     </item>
     <item>

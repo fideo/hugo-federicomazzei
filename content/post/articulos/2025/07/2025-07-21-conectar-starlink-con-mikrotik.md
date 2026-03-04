@@ -14,7 +14,7 @@ tags:
 thumbnail: /assets/uploads/2017/11/cabeceraUbuntu-1.jpg
 title: Conectar Starlink con Mikrotik
 type: post
-url: 2025/07/2025-07-21-conectar-starlink-con-mikrotik.html
+url: /2025/07/2025-07-21-conectar-starlink-con-mikrotik.html
 usemathjax: true
 ---
 

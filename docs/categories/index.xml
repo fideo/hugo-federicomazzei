@@ -6,8 +6,50 @@
     <description>Recent content in Categories on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 22 Jul 2025 14:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 15:10:01 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tecnología</title>
+      <link>https://federicomazzei.com.ar/categories/tecnolog%C3%ADa/</link>
+      <pubDate>Thu, 26 Feb 2026 15:10:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/categories/tecnolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Debian</title>
+      <link>https://federicomazzei.com.ar/categories/debian/</link>
+      <pubDate>Thu, 08 Jan 2026 15:10:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/categories/debian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://federicomazzei.com.ar/categories/linux/</link>
+      <pubDate>Thu, 08 Jan 2026 15:10:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/categories/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>https://federicomazzei.com.ar/categories/software/</link>
+      <pubDate>Thu, 08 Jan 2026 15:10:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/categories/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI Inteligencia Artificial</title>
+      <link>https://federicomazzei.com.ar/categories/ai-inteligencia-artificial/</link>
+      <pubDate>Thu, 21 Aug 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/categories/ai-inteligencia-artificial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ChatGPT</title>
+      <link>https://federicomazzei.com.ar/categories/chatgpt/</link>
+      <pubDate>Thu, 21 Aug 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/categories/chatgpt/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Mikrotik</title>
       <link>https://federicomazzei.com.ar/categories/mikrotik/</link>
@@ -20,20 +62,6 @@
       <link>https://federicomazzei.com.ar/categories/redes/</link>
       <pubDate>Tue, 22 Jul 2025 14:05:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/categories/redes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tecnología</title>
-      <link>https://federicomazzei.com.ar/categories/tecnolog%C3%ADa/</link>
-      <pubDate>Tue, 22 Jul 2025 14:05:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/categories/tecnolog%C3%ADa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>https://federicomazzei.com.ar/categories/linux/</link>
-      <pubDate>Mon, 21 Jul 2025 01:08:01 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/categories/linux/</guid>
       <description></description>
     </item>
     <item>
@@ -65,13 +93,6 @@
       <description></description>
     </item>
     <item>
-      <title>ChatGPT</title>
-      <link>https://federicomazzei.com.ar/categories/chatgpt/</link>
-      <pubDate>Sun, 22 Jun 2025 11:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/categories/chatgpt/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Hugo</title>
       <link>https://federicomazzei.com.ar/categories/hugo/</link>
       <pubDate>Sun, 22 Jun 2025 11:00:00 +0000</pubDate>
@@ -90,20 +111,6 @@
       <link>https://federicomazzei.com.ar/categories/vim/</link>
       <pubDate>Fri, 07 Mar 2025 11:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/categories/vim/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Software</title>
-      <link>https://federicomazzei.com.ar/categories/software/</link>
-      <pubDate>Wed, 05 Feb 2025 11:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/categories/software/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI Inteligencia Artificial</title>
-      <link>https://federicomazzei.com.ar/categories/ai-inteligencia-artificial/</link>
-      <pubDate>Mon, 03 Feb 2025 11:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/categories/ai-inteligencia-artificial/</guid>
       <description></description>
     </item>
     <item>

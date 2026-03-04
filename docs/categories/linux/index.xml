@@ -6,13 +6,34 @@
     <description>Recent content in Linux on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 21 Jul 2025 01:08:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 15:10:01 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cómo actualizar Debian 12 a Debian 13 paso a paso</title>
+      <link>https://federicomazzei.com.ar/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.html</link>
+      <pubDate>Thu, 08 Jan 2026 15:10:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.html</guid>
+      <description>Cómo actualizar Debian 12 a Debian 13 paso a paso. Todos los comandos y modificaciones que deben realizarse para hacer esta actualización.</description>
+    </item>
+    <item>
+      <title>Agregar hora y fecha en el prompt de la linea de comandos de linux</title>
+      <link>https://federicomazzei.com.ar/2025/12/2025-12-16-agregar-hora-y-fecha-en-el-prompt-de-la-linea-de-comandos-de-linux/</link>
+      <pubDate>Tue, 16 Dec 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025/12/2025-12-16-agregar-hora-y-fecha-en-el-prompt-de-la-linea-de-comandos-de-linux/</guid>
+      <description>&lt;h1 id=&#34;agregar-hora-y-fecha-en-el-prompt-de-la-linea-de-comandos-de-linux&#34;&gt;Agregar hora y fecha en el prompt de la linea de comandos de linux&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Hace unos días tenía que correr un proceso en la linea de comandos de mi servidor linux con Ubuntu que no sabía cuanto iba a tardar; por eso luego de correr ese proceso me dije, sería bueno ponerle la hora y la fecha en la que inicié ese proceso así cuando termina tengo el registro de cuando inicia y cuando termina al devolverme el prompt.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-qué-es-el-prompt-de-bash-y-por-qué-deberías-personalizarlo&#34;&gt;📖 &lt;strong&gt;¿Qué es el Prompt de Bash y por qué deberías personalizarlo?&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Si usas Linux, especialmente distribuciones basadas en Debian como &lt;strong&gt;Ubuntu&lt;/strong&gt;, &lt;strong&gt;Mint&lt;/strong&gt;, o &lt;strong&gt;Pop!_OS&lt;/strong&gt;, el terminal es tu compañero diario. Ese texto que aparece antes de cada comando se llama &lt;strong&gt;&amp;ldquo;prompt&amp;rdquo;&lt;/strong&gt; (PS1), y es mucho más que decoración: es tu panel de control en la terminal.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;El prompt por defecto&lt;/strong&gt; en Ubuntu/Debian suele ser algo como:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;usuario@equipo:~$&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Pero &lt;strong&gt;¿sabías que puedes transformarlo&lt;/strong&gt; en un dashboard informativo que muestre fecha, hora, estado del sistema y más? Hoy te enseñaré cómo.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Problemas de conexión en Raspberry Pi 5</title>
       <link>https://federicomazzei.com.ar/2025/07/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.html</link>
       <pubDate>Mon, 21 Jul 2025 01:08:01 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2025/07/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.html</guid>
+      <description>&lt;h1 id=&#34;problemas-de-conexión-en-raspberry-pi-5&#34;&gt;Problemas de conexión en Raspberry Pi 5&lt;/h1&gt;&#xA;&lt;p&gt;Si tenes problemas de conexión con tu Raspeberry PI 5 uno de lo motivos puede ser que tengas que editar el archivo resolv.conf ubicado en /etc/&lt;br&gt;&#xA;Yo uso vim o nvim como editor de texto asi que para mi caso es:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo vim /etc/resolv.conf&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Siempre con poderes de super usuario para poder editar este tipo de archivos.&lt;/p&gt;&#xA;&lt;p&gt;Se les agrega las IP de los &lt;strong&gt;DNS de google&lt;/strong&gt; y también las IP&amp;rsquo;s asignadas de a la Raspberry PI 5 tanto de red como de conexión Wi-Fi.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Problemas de conexión en Raspberry Pi 5</title>
+      <link>https://federicomazzei.com.ar/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.html</link>
+      <pubDate>Mon, 21 Jul 2025 01:08:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.html</guid>
       <description>&lt;h1 id=&#34;problemas-de-conexión-en-raspberry-pi-5&#34;&gt;Problemas de conexión en Raspberry Pi 5&lt;/h1&gt;&#xA;&lt;p&gt;Si tenes problemas de conexión con tu Raspeberry PI 5 uno de lo motivos puede ser que tengas que editar el archivo resolv.conf ubicado en /etc/&lt;br&gt;&#xA;Yo uso vim o nvim como editor de texto asi que para mi caso es:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo vim /etc/resolv.conf&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Siempre con poderes de super usuario para poder editar este tipo de archivos.&lt;/p&gt;&#xA;&lt;p&gt;Se les agrega las IP de los &lt;strong&gt;DNS de google&lt;/strong&gt; y también las IP&amp;rsquo;s asignadas de a la Raspberry PI 5 tanto de red como de conexión Wi-Fi.&lt;/p&gt;</description>
     </item>
     <item>

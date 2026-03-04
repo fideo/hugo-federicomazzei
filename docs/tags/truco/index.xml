@@ -6,8 +6,15 @@
     <description>Recent content in Truco on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 18 Nov 2015 10:39:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 01:00:00 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/tags/truco/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trucos de línea de comandos que te harán más productivo</title>
+      <link>https://federicomazzei.com.ar/2025/10/2025-10-29-trucos-de-linea-de-comandos-que-te-haran-mas-productivo/</link>
+      <pubDate>Wed, 29 Oct 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025/10/2025-10-29-trucos-de-linea-de-comandos-que-te-haran-mas-productivo/</guid>
+      <description>&lt;h1 id=&#34;trucos-de-línea-de-comandos-que-te-harán-más-productivo&#34;&gt;Trucos de línea de comandos que te harán más productivo&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Domina estos atajos de terminal y ahorra horas de tecleo&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-introducción&#34;&gt;✨ Introducción&lt;/h2&gt;&#xA;&lt;p&gt;Si trabajas frecuentemente con la terminal, probablemente hayas experimentado la frustración de tener que:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Re-escribir comandos largos&lt;/li&gt;&#xA;&lt;li&gt;Copiar y pegar rutas complejas&lt;/li&gt;&#xA;&lt;li&gt;Buscar en el historial manualmente&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hoy te muestro &lt;strong&gt;trucos mágicos&lt;/strong&gt; que transformarán tu forma de trabajar en la línea de comandos.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-los-bang-que-cambiarán-tu-vida&#34;&gt;🎯 Los &amp;ldquo;Bang&amp;rdquo; que cambiarán tu vida&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1----el-repetidor-instantáneo&#34;&gt;1. &lt;code&gt;!!&lt;/code&gt; - El repetidor instantáneo&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Situación común:&lt;/strong&gt; Ejecutas un comando que requiere privilegios de superusuario&amp;hellip;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Eliminar la contraseña y protección de archivos Word</title>
       <link>https://federicomazzei.com.ar/2015/11/eliminar-la-contrasena-y-proteccion-de-archivos-word.html</link>

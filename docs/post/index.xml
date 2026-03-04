@@ -6,8 +6,50 @@
     <description>Recent content in Posts on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 22 Jul 2025 14:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 15:10:01 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conexión SSH Segura con Llaves Ed25519</title>
+      <link>https://federicomazzei.com.ar/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519/</link>
+      <pubDate>Thu, 26 Feb 2026 15:10:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519/</guid>
+      <description>Como crear una conexión por ssh de forma segura con una llave ed25519</description>
+    </item>
+    <item>
+      <title>Cómo actualizar Debian 12 a Debian 13 paso a paso</title>
+      <link>https://federicomazzei.com.ar/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.html</link>
+      <pubDate>Thu, 08 Jan 2026 15:10:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.html</guid>
+      <description>Cómo actualizar Debian 12 a Debian 13 paso a paso. Todos los comandos y modificaciones que deben realizarse para hacer esta actualización.</description>
+    </item>
+    <item>
+      <title>Agregar hora y fecha en el prompt de la linea de comandos de linux</title>
+      <link>https://federicomazzei.com.ar/2025/12/2025-12-16-agregar-hora-y-fecha-en-el-prompt-de-la-linea-de-comandos-de-linux/</link>
+      <pubDate>Tue, 16 Dec 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025/12/2025-12-16-agregar-hora-y-fecha-en-el-prompt-de-la-linea-de-comandos-de-linux/</guid>
+      <description>&lt;h1 id=&#34;agregar-hora-y-fecha-en-el-prompt-de-la-linea-de-comandos-de-linux&#34;&gt;Agregar hora y fecha en el prompt de la linea de comandos de linux&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Hace unos días tenía que correr un proceso en la linea de comandos de mi servidor linux con Ubuntu que no sabía cuanto iba a tardar; por eso luego de correr ese proceso me dije, sería bueno ponerle la hora y la fecha en la que inicié ese proceso así cuando termina tengo el registro de cuando inicia y cuando termina al devolverme el prompt.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-qué-es-el-prompt-de-bash-y-por-qué-deberías-personalizarlo&#34;&gt;📖 &lt;strong&gt;¿Qué es el Prompt de Bash y por qué deberías personalizarlo?&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Si usas Linux, especialmente distribuciones basadas en Debian como &lt;strong&gt;Ubuntu&lt;/strong&gt;, &lt;strong&gt;Mint&lt;/strong&gt;, o &lt;strong&gt;Pop!_OS&lt;/strong&gt;, el terminal es tu compañero diario. Ese texto que aparece antes de cada comando se llama &lt;strong&gt;&amp;ldquo;prompt&amp;rdquo;&lt;/strong&gt; (PS1), y es mucho más que decoración: es tu panel de control en la terminal.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;El prompt por defecto&lt;/strong&gt; en Ubuntu/Debian suele ser algo como:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;usuario@equipo:~$&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Pero &lt;strong&gt;¿sabías que puedes transformarlo&lt;/strong&gt; en un dashboard informativo que muestre fecha, hora, estado del sistema y más? Hoy te enseñaré cómo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trucos de línea de comandos que te harán más productivo</title>
+      <link>https://federicomazzei.com.ar/2025/10/2025-10-29-trucos-de-linea-de-comandos-que-te-haran-mas-productivo/</link>
+      <pubDate>Wed, 29 Oct 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025/10/2025-10-29-trucos-de-linea-de-comandos-que-te-haran-mas-productivo/</guid>
+      <description>&lt;h1 id=&#34;trucos-de-línea-de-comandos-que-te-harán-más-productivo&#34;&gt;Trucos de línea de comandos que te harán más productivo&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Domina estos atajos de terminal y ahorra horas de tecleo&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-introducción&#34;&gt;✨ Introducción&lt;/h2&gt;&#xA;&lt;p&gt;Si trabajas frecuentemente con la terminal, probablemente hayas experimentado la frustración de tener que:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Re-escribir comandos largos&lt;/li&gt;&#xA;&lt;li&gt;Copiar y pegar rutas complejas&lt;/li&gt;&#xA;&lt;li&gt;Buscar en el historial manualmente&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hoy te muestro &lt;strong&gt;trucos mágicos&lt;/strong&gt; que transformarán tu forma de trabajar en la línea de comandos.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-los-bang-que-cambiarán-tu-vida&#34;&gt;🎯 Los &amp;ldquo;Bang&amp;rdquo; que cambiarán tu vida&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1----el-repetidor-instantáneo&#34;&gt;1. &lt;code&gt;!!&lt;/code&gt; - El repetidor instantáneo&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Situación común:&lt;/strong&gt; Ejecutas un comando que requiere privilegios de superusuario&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Técnica ROCKET método sencillo para construir prompts</title>
+      <link>https://federicomazzei.com.ar/2025/08/2025-08-21-tecnica-rocket-metodo-sencillo-para-construir-prompts.html</link>
+      <pubDate>Thu, 21 Aug 2025 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025/08/2025-08-21-tecnica-rocket-metodo-sencillo-para-construir-prompts.html</guid>
+      <description>&lt;h1 id=&#34;técnica-rocket-método-sencillo-para-construir-prompts&#34;&gt;Técnica ROCKET método sencillo para construir prompts&lt;/h1&gt;&#xA;&lt;p&gt;La &lt;strong&gt;Técnica ROCKET&lt;/strong&gt; es un método sencillo para construir &lt;strong&gt;prompts claros, estructurados y potentes&lt;/strong&gt; que permiten obtener de una IA de respuestas útiles, precisas y accionables.&lt;/p&gt;&#xA;&lt;p&gt;Se basa en el acrónimo &lt;strong&gt;ROCKET&lt;/strong&gt;, donde cada letra representa un paso:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-r--rol&#34;&gt;🔹 &lt;strong&gt;R – Rol&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Definí el &lt;strong&gt;rol o contexto&lt;/strong&gt; que querés que adopte la IA.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ejemplo: &lt;em&gt;“Actuá como un profesor de historia especializado en la Revolución Francesa”&lt;/em&gt;&lt;br&gt;&#xA;Esto ayuda a que las respuestas se enfoquen desde la perspectiva correcta.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-o--objetivo&#34;&gt;🔹 &lt;strong&gt;O – Objetivo&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Aclarar el &lt;strong&gt;propósito&lt;/strong&gt; de tu consulta: ¿qué querés lograr?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Migré de Plex a Jellyfin</title>
+      <link>https://federicomazzei.com.ar/2025-07-23-migr%C3%A9-de-plex-a-jellyfin-mi-experiencia-completa.html</link>
+      <pubDate>Wed, 23 Jul 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025-07-23-migr%C3%A9-de-plex-a-jellyfin-mi-experiencia-completa.html</guid>
+      <description>&lt;h1 id=&#34;migré-de-plex-a-jellyfin-mi-experiencia-completa&#34;&gt;Migré de Plex a Jellyfin: Mi Experiencia Completa&lt;/h1&gt;&#xA;&lt;p&gt;Hace unos días descubrí algo que me hizo reconsiderar mi uso de Plex: &lt;strong&gt;para transmitir contenido remotamente desde mi propio servidor, ahora es necesario pagar&lt;/strong&gt;. Lo más frustrante es que el contenido ni siquiera pasa por los servidores de Plex (o al menos eso creo), por lo que no entendía la necesidad de este cobro.&lt;/p&gt;&#xA;&lt;h2 id=&#34;por-qué-el-cambio&#34;&gt;¿Por qué el cambio?&lt;/h2&gt;&#xA;&lt;p&gt;Ya había escuchado a varios colegas hablar maravillas de Jellyfin, pero como tenía todo funcionando con Plex, nunca me planteé migrar. Sin embargo, cuando Plex implementó el cobro por streaming (aunque el costo sea bajo), consideré que era el momento perfecto para hacer el cambio. &lt;strong&gt;¿Por qué pagar por algo que no me aporta ningún beneficio adicional?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Conectar Starlink con Mikrotik</title>
       <link>https://federicomazzei.com.ar/2025/07/2025-07-21-conectar-starlink-con-mikrotik.html</link>
@@ -16,10 +58,24 @@
       <description>&lt;h1 id=&#34;conectar-starlink-con-mikrotik&#34;&gt;Conectar Starlink con Mikrotik&lt;/h1&gt;&#xA;&lt;h3 id=&#34;configuración-para-starlink-modo-bridge&#34;&gt;Configuración para Starlink (modo bridge)&lt;/h3&gt;&#xA;&lt;p&gt;Entrar a la aplicación de Starlink que se usó para configurar la antena y bajar hasta configuración.&lt;br&gt;&#xA;Dentro de configuración ir a la opción modo de derivación y deslizar para activar derivación.&lt;br&gt;&#xA;&lt;span style=&#34;color:red&#34;&gt;(ACLARACIÓN IMPORTANTE PARA REVERTIR ESTO SE NECESITA HARD RESET)&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;Conectar el conector rj45 del modem de Starlink al puerto número 1 del Mikrotik.&lt;/p&gt;&#xA;&lt;h3 id=&#34;conectarse-al-mikrotik&#34;&gt;Conectarse al Mikrotik&lt;/h3&gt;&#xA;&lt;p&gt;Conectarse a Mikrotik con el usuario y contraseña correspondiente; si el mikrotik es nuevo entonces buscar la mac address del mikrotik y conectarse; acto seguido crear usuario y password y cambiar la pass de admin.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Conectar Starlink con Mikrotik</title>
+      <link>https://federicomazzei.com.ar/2025-07-21-conectar-starlink-con-mikrotik.html</link>
+      <pubDate>Tue, 22 Jul 2025 11:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025-07-21-conectar-starlink-con-mikrotik.html</guid>
+      <description>&lt;h1 id=&#34;conectar-starlink-con-mikrotik&#34;&gt;Conectar Starlink con Mikrotik&lt;/h1&gt;&#xA;&lt;h3 id=&#34;configuración-para-starlink-modo-bridge&#34;&gt;Configuración para Starlink (modo bridge)&lt;/h3&gt;&#xA;&lt;p&gt;Entrar a la aplicación de Starlink que se usó para configurar la antena y bajar hasta configuración.&lt;br&gt;&#xA;Dentro de configuración ir a la opción modo de derivación y deslizar para activar derivación.&lt;br&gt;&#xA;&lt;span style=&#34;color:red&#34;&gt;(ACLARACIÓN IMPORTANTE PARA REVERTIR ESTO SE NECESITA HARD RESET)&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;Conectar el conector rj45 del modem de Starlink al puerto número 1 del Mikrotik.&lt;/p&gt;&#xA;&lt;h3 id=&#34;conectarse-al-mikrotik&#34;&gt;Conectarse al Mikrotik&lt;/h3&gt;&#xA;&lt;p&gt;Conectarse a Mikrotik con el usuario y contraseña correspondiente; si el mikrotik es nuevo entonces buscar la mac address del mikrotik y conectarse; acto seguido crear usuario y password y cambiar la pass de admin.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Problemas de conexión en Raspberry Pi 5</title>
       <link>https://federicomazzei.com.ar/2025/07/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.html</link>
       <pubDate>Mon, 21 Jul 2025 01:08:01 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2025/07/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.html</guid>
+      <description>&lt;h1 id=&#34;problemas-de-conexión-en-raspberry-pi-5&#34;&gt;Problemas de conexión en Raspberry Pi 5&lt;/h1&gt;&#xA;&lt;p&gt;Si tenes problemas de conexión con tu Raspeberry PI 5 uno de lo motivos puede ser que tengas que editar el archivo resolv.conf ubicado en /etc/&lt;br&gt;&#xA;Yo uso vim o nvim como editor de texto asi que para mi caso es:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo vim /etc/resolv.conf&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Siempre con poderes de super usuario para poder editar este tipo de archivos.&lt;/p&gt;&#xA;&lt;p&gt;Se les agrega las IP de los &lt;strong&gt;DNS de google&lt;/strong&gt; y también las IP&amp;rsquo;s asignadas de a la Raspberry PI 5 tanto de red como de conexión Wi-Fi.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Problemas de conexión en Raspberry Pi 5</title>
+      <link>https://federicomazzei.com.ar/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.html</link>
+      <pubDate>Mon, 21 Jul 2025 01:08:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025-07-21-problemas-de-conexion-en-raspberry-pi-5.html</guid>
       <description>&lt;h1 id=&#34;problemas-de-conexión-en-raspberry-pi-5&#34;&gt;Problemas de conexión en Raspberry Pi 5&lt;/h1&gt;&#xA;&lt;p&gt;Si tenes problemas de conexión con tu Raspeberry PI 5 uno de lo motivos puede ser que tengas que editar el archivo resolv.conf ubicado en /etc/&lt;br&gt;&#xA;Yo uso vim o nvim como editor de texto asi que para mi caso es:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo vim /etc/resolv.conf&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Siempre con poderes de super usuario para poder editar este tipo de archivos.&lt;/p&gt;&#xA;&lt;p&gt;Se les agrega las IP de los &lt;strong&gt;DNS de google&lt;/strong&gt; y también las IP&amp;rsquo;s asignadas de a la Raspberry PI 5 tanto de red como de conexión Wi-Fi.&lt;/p&gt;</description>
     </item>
     <item>
@@ -853,6 +909,13 @@
       <link>https://federicomazzei.com.ar/2010/01/gmusicbrowser-ma%c2%basica-para-linux.html</link>
       <pubDate>Mon, 18 Jan 2010 10:28:58 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2010/01/gmusicbrowser-ma%c2%basica-para-linux.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.infosertec.com.ar/blog/?p=12728&#34;&gt;Gmusicbrowser: música para Linux&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Es una aplicación open-source desarrollada en perl para grandes cantidades collecciones; soporta mp3, ogg, flac, mpc, ape.&lt;/p&gt;&#xA;&lt;p&gt;Yo lo instalé en Mint y Ubuntu (ambos [[Debian]]) con la siguiente instrucción &lt;em&gt;&lt;strong&gt;sudo apt-get install gmusicbrowser&lt;/strong&gt;&lt;/em&gt; y la verdad que me gustó mucho.&lt;/p&gt;&#xA;&lt;p&gt;Espero que lo disfruten.&lt;/p&gt;&#xA;&lt;p&gt;La información fue tomada de &lt;a href=&#34;http://www.infosertec.com.ar/blog/?p=12716&#34; title=&#34;Gmusicbrowser&#34;&gt;http://www.infosertec.com.ar/blog/?p=12716&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Posted using &lt;a href=&#34;http://sharethis.com&#34;&gt;ShareThis&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gmusicbrowser: música para Linux</title>
+      <link>https://federicomazzei.com.ar/2010/01/gmusicbrowser-ma%c2%basica-para-linux.html</link>
+      <pubDate>Mon, 18 Jan 2010 10:28:58 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2010/01/gmusicbrowser-ma%c2%basica-para-linux.html</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.infosertec.com.ar/blog/?p=12728&#34;&gt;Gmusicbrowser: música para Linux&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Es una aplicación open-source desarrollada en perl para grandes cantidades collecciones; soporta mp3, ogg, flac, mpc, ape.&lt;/p&gt;&#xA;&lt;p&gt;Yo lo instalé en Mint y Ubuntu (ambos debian) con la siguiente instrucción &lt;em&gt;&lt;strong&gt;sudo apt-get install gmusicbrowser&lt;/strong&gt;&lt;/em&gt; y la verdad que me gustó mucho.&lt;/p&gt;&#xA;&lt;p&gt;Espero que lo disfruten.&lt;/p&gt;&#xA;&lt;p&gt;La información fue tomada de &lt;a href=&#34;http://www.infosertec.com.ar/blog/?p=12716&#34; title=&#34;Gmusicbrowser&#34;&gt;http://www.infosertec.com.ar/blog/?p=12716&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Posted using &lt;a href=&#34;http://sharethis.com&#34;&gt;ShareThis&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -1500,6 +1563,13 @@
       <description>&lt;p&gt;Muy buen site para cuando necesitas butear en ese sistema que se llama D.O.S (¿te acordas de ese sistema operativo?).&lt;br&gt;&#xA;Aparte de generarte un booteable para D.O.S. tiene otros discos de arranques m?s.&lt;br&gt;&#xA;&lt;em&gt;Enjoy!!!&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.bootdisk.com&#34;&gt;bootdisk.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Técnica ROCKET método sencillo para construir prompts</title>
+      <link>https://federicomazzei.com.ar/2025/08/2025-08-22-tecnica-rocket-metodo-sencillo-para-construir-prompts.html</link>
+      <pubDate>Mon, 22 Aug 2005 01:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2025/08/2025-08-22-tecnica-rocket-metodo-sencillo-para-construir-prompts.html</guid>
+      <description>&lt;h1 id=&#34;técnica-rocket-método-sencillo-para-construir-prompts&#34;&gt;Técnica ROCKET método sencillo para construir prompts&lt;/h1&gt;&#xA;&lt;p&gt;La &lt;strong&gt;Técnica ROCKET&lt;/strong&gt; es un método sencillo para construir &lt;strong&gt;prompts claros, estructurados y potentes&lt;/strong&gt; que permiten obtener de una IA de respuestas útiles, precisas y accionables.&lt;/p&gt;&#xA;&lt;p&gt;Se basa en el acrónimo &lt;strong&gt;ROCKET&lt;/strong&gt;, donde cada letra representa un paso:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-r--rol&#34;&gt;🔹 &lt;strong&gt;R – Rol&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Definí el &lt;strong&gt;rol o contexto&lt;/strong&gt; que querés que adopte la IA.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ejemplo: &lt;em&gt;“Actuá como un profesor de historia especializado en la Revolución Francesa”&lt;/em&gt;&lt;br&gt;&#xA;Esto ayuda a que las respuestas se enfoquen desde la perspectiva correcta.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-o--objetivo&#34;&gt;🔹 &lt;strong&gt;O – Objetivo&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Aclarar el &lt;strong&gt;propósito&lt;/strong&gt; de tu consulta: ¿qué querés lograr?&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Delfines entrenando humanos</title>
       <link>https://federicomazzei.com.ar/2005/08/dolphin.html</link>
       <pubDate>Tue, 09 Aug 2005 00:01:43 +0000</pubDate>
@@ -1567,13 +1637,34 @@
       <link>https://federicomazzei.com.ar/2005/02/hello-world.html</link>
       <pubDate>Thu, 24 Feb 2005 01:08:01 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2005/02/hello-world.html</guid>
+      <description>&lt;p&gt;Bienvenido a mi weblog.&lt;br&gt;&#xA;Para los que no saben muy bien que es un weblog paso a detallarlo:&lt;br&gt;&#xA;“Es un sitio web que posee una serie de artículos y/o publicaciones en un orden cronológico. Por ejemplo, alguien tiene una herramienta que le permite controlar y subir contenido a un sitio web, entonces gracias a su facilidad escribe todos los días, como si mantuviera una charla cronológica ? como si escribiera para organizar y recordar su información.”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hola Mundo weblog</title>
+      <link>https://federicomazzei.com.ar/2005/02/hello-world.html</link>
+      <pubDate>Thu, 24 Feb 2005 01:08:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2005/02/hello-world.html</guid>
       <description>&lt;p&gt;Bienvenido a mi weblog.&lt;br&gt;&#xA;Para los que no saben muy bien que es un weblog paso a detallarlo:&lt;br&gt;&#xA;“Es un sitio web que posee una serie de artículos y/o publicaciones en un orden cronológico. Por ejemplo, alguien tiene una herramienta que le permite controlar y subir contenido a un sitio web, entoces gracias a su facilidad escribe todos los días, como si mantuviera una charla cronológica ? como si escribiera para organizar y recordar su información.”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://federicomazzei.com.ar/post/articulos/2026/01/sin-t%C3%ADtulo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/post/articulos/2026/01/sin-t%C3%ADtulo/</guid>
+      <description>&lt;p&gt;Test&lt;/p&gt;&#xA;&lt;p&gt;Olvidate&amp;hellip; esto es una masa&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://federicomazzei.com.ar/post/articulos/assets/uploads/2023/06/cloudflare_dkim_configuracion_registro_txt.png/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/post/articulos/assets/uploads/2023/06/cloudflare_dkim_configuracion_registro_txt.png/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://federicomazzei.com.ar/post/articulos/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/post/articulos/tags/</guid>
       <description></description>
     </item>
     <item>
