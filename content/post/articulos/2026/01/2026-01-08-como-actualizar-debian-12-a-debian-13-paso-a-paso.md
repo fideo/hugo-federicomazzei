@@ -18,11 +18,12 @@ tags:
 thumbnail: /assets/uploads/2017/11/cabeceraUbuntu-1.jpg
 title: Cómo actualizar Debian 12 a Debian 13 paso a paso
 type: post
-draft: "false"
+draft: false
+toc: false
 summary: Cómo actualizar Debian 12 a Debian 13 paso a paso. Todos los comandos y modificaciones que deben realizarse para hacer esta actualización.
 url: /2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.html
-toc: "false"
 usemathjax: true
+expiryDate:
 ---
 # Cómo actualizar Debian 12 a Debian 13 paso a paso
 
