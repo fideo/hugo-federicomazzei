@@ -19,8 +19,8 @@
 
     
     <meta name="description"
-  content="Si alguna vez tuviste la necesidad de buscar por tamaño y antigüedad en gmail acá te dejo un comando muy simple que podes poner en el buscar de gmail y te traerá todos los mails que comprendas esos valores que se configuraron en la búsqueda.
-En este ejemplo que les dejo estamos buscando mails que contengan un tamaño mayor (larger) a 2 Megas (2m) y que tengan una antigüedad (older_than) de 1 año (1y)
+  content="Optimización de Almacenamiento en Gmail: Estrategias Avanzadas de Depuración y Filtros Mantener una casilla de correo con una década de antigüedad bajo el límite de almacenamiento gratuito (o incluso planes pagos) requiere algo más que borrar correos al azar. Gmail indexa cada mensaje con metadatos que podemos explotar mediante operadores de búsqueda específicos.
+A continuación, detallo una guía técnica para auditar, filtrar y automatizar la limpieza de tu bandeja de entrada.
 " />
 <meta name="keywords"
   content='linux, vim, debian, ubuntu, docker, tecnología, comandos, git, blog, google analytics, federico mazzei' />
@@ -31,8 +31,8 @@ En este ejemplo que les dejo estamos buscando mails que contengan un tamaño may
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Buscar por tamaño y antiguedad en gmail - Federico Mazzei" />
 <meta name="twitter:description"
-  content="Si alguna vez tuviste la necesidad de buscar por tamaño y antigüedad en gmail acá te dejo un comando muy simple que podes poner en el buscar de gmail y te traerá todos los mails que comprendas esos valores que se configuraron en la búsqueda.
-En este ejemplo que les dejo estamos buscando mails que contengan un tamaño mayor (larger) a 2 Megas (2m) y que tengan una antigüedad (older_than) de 1 año (1y)
+  content="Optimización de Almacenamiento en Gmail: Estrategias Avanzadas de Depuración y Filtros Mantener una casilla de correo con una década de antigüedad bajo el límite de almacenamiento gratuito (o incluso planes pagos) requiere algo más que borrar correos al azar. Gmail indexa cada mensaje con metadatos que podemos explotar mediante operadores de búsqueda específicos.
+A continuación, detallo una guía técnica para auditar, filtrar y automatizar la limpieza de tu bandeja de entrada.
 " />
 <meta name="twitter:site" content="https://federicomazzei.com.ar/" />
 <meta name="twitter:creator" content="fideo" />
@@ -43,8 +43,8 @@ En este ejemplo que les dejo estamos buscando mails que contengan un tamaño may
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Buscar por tamaño y antiguedad en gmail - Federico Mazzei">
 <meta property="og:description"
-  content="Si alguna vez tuviste la necesidad de buscar por tamaño y antigüedad en gmail acá te dejo un comando muy simple que podes poner en el buscar de gmail y te traerá todos los mails que comprendas esos valores que se configuraron en la búsqueda.
-En este ejemplo que les dejo estamos buscando mails que contengan un tamaño mayor (larger) a 2 Megas (2m) y que tengan una antigüedad (older_than) de 1 año (1y)
+  content="Optimización de Almacenamiento en Gmail: Estrategias Avanzadas de Depuración y Filtros Mantener una casilla de correo con una década de antigüedad bajo el límite de almacenamiento gratuito (o incluso planes pagos) requiere algo más que borrar correos al azar. Gmail indexa cada mensaje con metadatos que podemos explotar mediante operadores de búsqueda específicos.
+A continuación, detallo una guía técnica para auditar, filtrar y automatizar la limpieza de tu bandeja de entrada.
 " />
 <meta property="og:url" content="https://federicomazzei.com.ar/2015/10/buscar-por-tamano-y-antiguedad-en-gmail.html" />
 <meta property="og:site_name" content="Buscar por tamaño y antiguedad en gmail" />
@@ -207,7 +207,7 @@ En este ejemplo que les dejo estamos buscando mails que contengan un tamaño may
                         </div>
                       </div>
                     </details-menu>
-                      88 Palabras 
+                      609 Palabras 
                     
 
                   </div>
@@ -219,11 +219,137 @@ En este ejemplo que les dejo estamos buscando mails que contengan un tamaño may
 
 
               <div class="Box-body px-5 pb-5" style="z-index: 1">
-                <article class="markdown-body entry-content container-lg"><p>Si alguna vez tuviste la necesidad de buscar por tamaño y antigüedad en gmail acá te dejo un comando muy simple que podes poner en el buscar de gmail y te traerá todos los mails que comprendas esos valores que se configuraron en la búsqueda.</p>
-<p>En este ejemplo que les dejo estamos buscando mails que contengan un tamaño mayor (larger) a 2 Megas (2m) y que tengan una antigüedad (older_than) de 1 año (1y)</p>
-<pre tabindex="0"><code>&lt;pre class=&#34;wp-block-preformatted&#34;&gt;larger:2m older_than:1y
-</code></pre><p><img src="http://lh4.ggpht.com/_7ZYqYi4xigk/TaM87JTwNoI/AAAAAAAAH3I/o4Kc7yR9ZOQ/d/mail_logo_rgb_web.png" alt="Gmail es uno de los mejores clientes de correo electrónico"> Gmail es uno de los mejores clientes de correo electrónico</p>
-<p><em><strong>Enjoy!!!</strong></em></p>
+                <article class="markdown-body entry-content container-lg"><h1 id="optimización-de-almacenamiento-en-gmail-estrategias-avanzadas-de-depuración-y-filtros">Optimización de Almacenamiento en Gmail: Estrategias Avanzadas de Depuración y Filtros</h1>
+<p>Mantener una casilla de correo con una década de antigüedad bajo el límite de almacenamiento gratuito (o incluso planes pagos) requiere algo más que borrar correos al azar. Gmail indexa cada mensaje con metadatos que podemos explotar mediante operadores de búsqueda específicos.</p>
+<p>A continuación, detallo una guía técnica para auditar, filtrar y automatizar la limpieza de tu bandeja de entrada.</p>
+<p><img src="http://lh4.ggpht.com/_7ZYqYi4xigk/TaM87JTwNoI/AAAAAAAAH3I/o4Kc7yR9ZOQ/d/mail_logo_rgb_web.png" alt="Gmail es uno de los mejores clientes de correo electrónico"></p>
+<h2 id="1-auditoría-de-espacio-mediante-operadores-de-tamaño">1. Auditoría de Espacio mediante Operadores de Tamaño</h2>
+<p>El primer paso es identificar los &ldquo;objetos pesados&rdquo;. Gmail permite filtrar por bytes, pero es más práctico usar modificadores de magnitud.</p>
+<ul>
+<li>
+<p><strong>Búsqueda de archivos mayores a 10MB:</strong></p>
+<p><code>larger:10m</code></p>
+</li>
+<li>
+<p><strong>Búsqueda en un rango específico (ej. entre 5MB y 10MB):</strong></p>
+<p><code>larger:5m smaller:10m</code></p>
+</li>
+</ul>
+<p><strong>Consejo Técnico:</strong> Combina esto con el operador <code>has:attachment</code> para ignorar correos que son puramente texto largo o hilos de conversación extensos sin archivos adjuntos.</p>
+<h2 id="2-segmentación-por-antigüedad-precisión-temporal">2. Segmentación por Antigüedad (Precisión Temporal)</h2>
+<p>En lugar de navegar por etiquetas de fecha, utiliza los operadores de tiempo relativo o absoluto:</p>
+<ul>
+<li>
+<p><strong>Relativo (más de 5 años):</strong></p>
+<p><code>older_than:5y</code> (puedes usar <code>m</code> para meses o <code>d</code> para días).</p>
+</li>
+<li>
+<p><strong>Absoluto (antes de una fecha específica):</strong></p>
+<p><code>before:2018/01/01</code></p>
+</li>
+</ul>
+<p><strong>Estrategia de depuración:</strong></p>
+<p>Para eliminar correos antiguos que ya no tienen relevancia técnica o legal:</p>
+<p><code>before:2019/12/31 category:promotions</code></p>
+<h2 id="3-limpieza-de-categorías-y-notificaciones-automáticas">3. Limpieza de Categorías y Notificaciones Automáticas</h2>
+<p>Gmail categoriza el tráfico entrante. A menudo, las pestañas de &ldquo;Social&rdquo; y &ldquo;Promociones&rdquo; acumulan el 80% del ruido.</p>
+<ul>
+<li>
+<p><strong>Eliminar notificaciones de redes sociales antiguas:</strong></p>
+<p><code>category:social older_than:2y</code></p>
+</li>
+<li>
+<p><strong>Forzar la visualización de correos de sistemas (logs, alertas):</strong></p>
+<p><code>from:system@tu-dominio.com older_than:1y</code></p>
+</li>
+</ul>
+<h2 id="4-gestión-de-suscripciones-the-unsubscribe-header">4. Gestión de Suscripciones (The Unsubscribe Header)</h2>
+<p>Muchos correos de marketing incluyen una cabecera <code>List-Unsubscribe</code>. Puedes listar estos correos para darte de baja masivamente antes de borrar:</p>
+<ul>
+<li>
+<p><code>label:^unsub</code> o simplemente busca la palabra <code>&quot;unsubscribe&quot;</code> en el cuerpo del mensaje combinada con antigüedad:</p>
+<p><code>unsubscribe older_than:1y</code></p>
+</li>
+</ul>
+<h2 id="5-selección-masiva-el-select-all-invisible">5. Selección Masiva: El &ldquo;Select All&rdquo; Invisible</h2>
+<p>Un error común es borrar solo los 50 o 100 correos que se muestran en la primera página.</p>
+<ol>
+<li>
+<p>Realiza tu búsqueda (ej. <code>larger:10m</code>).</p>
+</li>
+<li>
+<p>Haz clic en el checkbox superior para seleccionar todos los mensajes.</p>
+</li>
+<li>
+<p>Aparecerá un enlace azul sobre la lista que dice: <strong>&ldquo;Seleccionar todas las conversaciones que coincidan con esta búsqueda&rdquo;</strong>.</p>
+</li>
+<li>
+<p>Haz clic allí antes de presionar el icono de la papelera.</p>
+</li>
+</ol>
+<h2 id="6-automatización-mediante-filtros-de-retención">6. Automatización mediante Filtros de Retención</h2>
+<p>Si recibes reportes diarios de servidores, logs de compilación o alertas de monitoreo que solo necesitas durante 30 días, no los borres manualmente. Crea una regla de flujo:</p>
+<ol>
+<li>
+<p>En la barra de búsqueda, escribe el remitente o asunto (ej. <code>subject:&quot;Cron Job Success&quot;</code>).</p>
+</li>
+<li>
+<p>Haz clic en el icono de configuración de búsqueda -&gt; <strong>Crear filtro</strong>.</p>
+</li>
+<li>
+<p>Selecciona <strong>Eliminar</strong> o <strong>Archivar</strong>.</p>
+</li>
+<li>
+<p><em>Nota:</em> Gmail no permite &ldquo;borrar después de X días&rdquo; nativamente en filtros, pero puedes usar <strong>Google Apps Script</strong> para automatizar esta tarea.</p>
+</li>
+</ol>
+<h2 id="7-power-user-tip-google-apps-script-para-auto-limpieza">7. Power User Tip: Google Apps Script para Auto-limpieza</h2>
+<p>Para usuarios que buscan un nivel de control programático, puedes ejecutar un script en la nube de Google que limpie etiquetas específicas cada noche:</p>
+<p>JavaScript</p>
+<pre tabindex="0"><code>function autoCleanGmail() {
+  // Busca correos con más de 30 días en la etiqueta &#34;Logs&#34; y los mueve a la papelera
+  var threads = GmailApp.search(&#39;label:logs older_than:30d&#39;);
+  for (var i = 0; i &lt; threads.length; i++) {
+    threads[i].moveToTrash();
+  }
+}
+</code></pre><h2 id="resumen-de-comandos-rápidos-para-tu-consola-de-búsqueda">Resumen de Comandos Rápidos para tu Consola de Búsqueda:</h2>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Objetivo</strong></th>
+          <th><strong>Comando</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>PDFs pesados antiguos</td>
+          <td><code>filename:pdf larger:5m older_than:3y</code></td>
+      </tr>
+      <tr>
+          <td>Facturas (no borrar)</td>
+          <td><code>subject:factura OR subject:invoice</code></td>
+      </tr>
+      <tr>
+          <td>Logs de sistema pesados</td>
+          <td><code>from:noreply@servidor.com larger:1m</code></td>
+      </tr>
+      <tr>
+          <td>Chats antiguos de Hangouts/Meet</td>
+          <td><code>in:chats older_than:2y</code></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h3 id="notas-de-administración">Notas de administración:</h3>
+<ul>
+<li>
+<p><strong>Vaciar Papelera:</strong> Recuerda que los elementos en la papelera siguen ocupando espacio durante 30 días. Para liberar espacio de inmediato, debes forzar el vaciado.</p>
+</li>
+<li>
+<p><strong>Google Drive:</strong> Muchas veces la cuota está saturada por archivos en Drive y no por Gmail. Usa <code>https://drive.google.com/drive/quota</code> para auditar archivos por tamaño de forma descendente.</p>
+</li>
+</ul>
 </article>
               </div>
             </div>

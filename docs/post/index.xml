@@ -13,14 +13,14 @@
       <link>https://federicomazzei.com.ar/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519/</link>
       <pubDate>Thu, 26 Feb 2026 15:10:01 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519/</guid>
-      <description>Como crear una conexión por ssh de forma segura con una llave ed25519</description>
+      <description>&lt;h1 id=&#34;conexión-ssh-segura-con-llaves-ed25519&#34;&gt;Conexión SSH Segura con Llaves Ed25519&lt;/h1&gt;&#xA;&lt;p&gt;En el flujo de trabajo de un desarrollador de sistemas, la seguridad y la velocidad deben ir de la mano. Esta guía detalla cómo configurar el acceso remoto a una &lt;strong&gt;Raspberry Pi 5&lt;/strong&gt; (o cualquier servidor Linux) eliminando la necesidad de contraseñas mediante criptografía de curva elíptica.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-por-qué-usar-ed25519&#34;&gt;🚀 ¿Por qué usar Ed25519?&lt;/h2&gt;&#xA;&lt;p&gt;Olvida las viejas llaves RSA. &lt;strong&gt;Ed25519&lt;/strong&gt; es el estándar moderno por tres razones:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Seguridad:&lt;/strong&gt; Resiste ataques mejor que RSA con menos bits.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Velocidad:&lt;/strong&gt; Las firmas y verificaciones son notablemente más rápidas.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Legibilidad:&lt;/strong&gt; Las llaves son mucho más cortas, facilitando su gestión.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>Cómo actualizar Debian 12 a Debian 13 paso a paso</title>
-      <link>https://federicomazzei.com.ar/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.html</link>
+      <link>https://federicomazzei.com.ar/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso/</link>
       <pubDate>Thu, 08 Jan 2026 15:10:01 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.html</guid>
-      <description>Cómo actualizar Debian 12 a Debian 13 paso a paso. Todos los comandos y modificaciones que deben realizarse para hacer esta actualización.</description>
+      <guid>https://federicomazzei.com.ar/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso/</guid>
+      <description>&lt;h1 id=&#34;cómo-actualizar-debian-12-a-debian-13-paso-a-paso&#34;&gt;Cómo actualizar Debian 12 a Debian 13 paso a paso&lt;/h1&gt;&#xA;&lt;p&gt;Actualizar una versión estable de [[Debian]] es un procedimiento &lt;strong&gt;robusto y confiable&lt;/strong&gt;, siempre que se realice siguiendo buenas prácticas.&lt;br&gt;&#xA;En esta guía vas a ver &lt;strong&gt;cómo actualizar [[Debian 12]] ([[Bookworm]]) a [[Debian 13]] ([[Trixie]])&lt;/strong&gt; paso a paso, con comandos claros y explicaciones pensadas tanto para &lt;strong&gt;usuarios principiantes&lt;/strong&gt; como para &lt;strong&gt;administradores de sistemas&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;antes-de-empezar-recomendaciones-importantes&#34;&gt;Antes de empezar: recomendaciones importantes&lt;/h2&gt;&#xA;&lt;p&gt;Antes de iniciar la actualización, asegurate de cumplir con lo siguiente:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Realizá un &lt;strong&gt;backup completo&lt;/strong&gt; de tus datos importantes&lt;/li&gt;&#xA;&lt;li&gt;Verificá que tengas una &lt;strong&gt;conexión a Internet estable&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Si trabajás por &lt;strong&gt;SSH&lt;/strong&gt;, evitá conexiones inestables&lt;/li&gt;&#xA;&lt;li&gt;Reservá tiempo: el proceso puede demorar&lt;/li&gt;&#xA;&lt;li&gt;Leé los mensajes que muestre &lt;code&gt;apt&lt;/code&gt;, especialmente sobre archivos de configuración&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Agregar hora y fecha en el prompt de la linea de comandos de linux</title>
@@ -482,7 +482,7 @@
       <link>https://federicomazzei.com.ar/2015/10/buscar-por-tamano-y-antiguedad-en-gmail.html</link>
       <pubDate>Tue, 20 Oct 2015 08:31:22 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2015/10/buscar-por-tamano-y-antiguedad-en-gmail.html</guid>
-      <description>&lt;p&gt;Si alguna vez tuviste la necesidad de buscar por tamaño y antigüedad en gmail acá te dejo un comando muy simple que podes poner en el buscar de gmail y te traerá todos los mails que comprendas esos valores que se configuraron en la búsqueda.&lt;/p&gt;&#xA;&lt;p&gt;En este ejemplo que les dejo estamos buscando mails que contengan un tamaño mayor (larger) a 2 Megas (2m) y que tengan una antigüedad (older_than) de 1 año (1y)&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;optimización-de-almacenamiento-en-gmail-estrategias-avanzadas-de-depuración-y-filtros&#34;&gt;Optimización de Almacenamiento en Gmail: Estrategias Avanzadas de Depuración y Filtros&lt;/h1&gt;&#xA;&lt;p&gt;Mantener una casilla de correo con una década de antigüedad bajo el límite de almacenamiento gratuito (o incluso planes pagos) requiere algo más que borrar correos al azar. Gmail indexa cada mensaje con metadatos que podemos explotar mediante operadores de búsqueda específicos.&lt;/p&gt;&#xA;&lt;p&gt;A continuación, detallo una guía técnica para auditar, filtrar y automatizar la limpieza de tu bandeja de entrada.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Actualizar Ubuntu de 12.10 a 14.04</title>

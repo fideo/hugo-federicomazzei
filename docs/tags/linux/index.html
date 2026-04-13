@@ -526,7 +526,17 @@
 
             <div>
               <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                Como crear una conexión por ssh de forma segura con una llave ed25519
+                <h1 id="conexión-ssh-segura-con-llaves-ed25519">Conexión SSH Segura con Llaves Ed25519</h1>
+<p>En el flujo de trabajo de un desarrollador de sistemas, la seguridad y la velocidad deben ir de la mano. Esta guía detalla cómo configurar el acceso remoto a una <strong>Raspberry Pi 5</strong> (o cualquier servidor Linux) eliminando la necesidad de contraseñas mediante criptografía de curva elíptica.</p>
+<hr>
+<h2 id="-por-qué-usar-ed25519">🚀 ¿Por qué usar Ed25519?</h2>
+<p>Olvida las viejas llaves RSA. <strong>Ed25519</strong> es el estándar moderno por tres razones:</p>
+<ol>
+<li><strong>Seguridad:</strong> Resiste ataques mejor que RSA con menos bits.</li>
+<li><strong>Velocidad:</strong> Las firmas y verificaciones son notablemente más rápidas.</li>
+<li><strong>Legibilidad:</strong> Las llaves son mucho más cortas, facilitando su gestión.</li>
+</ol>
+<hr>
               </div>
             </div>
 
@@ -575,13 +585,25 @@
           <div class="col-12 d-inline-block">
             <div class="d-inline-block mb-1">
               <h3 class="wb-break-all">
-                <a href="https://federicomazzei.com.ar/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.html">Cómo actualizar Debian 12 a Debian 13 paso a paso</a>
+                <a href="https://federicomazzei.com.ar/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso/">Cómo actualizar Debian 12 a Debian 13 paso a paso</a>
               </h3>
             </div>
 
             <div>
               <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                Cómo actualizar Debian 12 a Debian 13 paso a paso. Todos los comandos y modificaciones que deben realizarse para hacer esta actualización.
+                <h1 id="cómo-actualizar-debian-12-a-debian-13-paso-a-paso">Cómo actualizar Debian 12 a Debian 13 paso a paso</h1>
+<p>Actualizar una versión estable de [[Debian]] es un procedimiento <strong>robusto y confiable</strong>, siempre que se realice siguiendo buenas prácticas.<br>
+En esta guía vas a ver <strong>cómo actualizar [[Debian 12]] ([[Bookworm]]) a [[Debian 13]] ([[Trixie]])</strong> paso a paso, con comandos claros y explicaciones pensadas tanto para <strong>usuarios principiantes</strong> como para <strong>administradores de sistemas</strong>.</p>
+<hr>
+<h2 id="antes-de-empezar-recomendaciones-importantes">Antes de empezar: recomendaciones importantes</h2>
+<p>Antes de iniciar la actualización, asegurate de cumplir con lo siguiente:</p>
+<ul>
+<li>Realizá un <strong>backup completo</strong> de tus datos importantes</li>
+<li>Verificá que tengas una <strong>conexión a Internet estable</strong></li>
+<li>Si trabajás por <strong>SSH</strong>, evitá conexiones inestables</li>
+<li>Reservá tiempo: el proceso puede demorar</li>
+<li>Leé los mensajes que muestre <code>apt</code>, especialmente sobre archivos de configuración</li>
+</ul>
               </div>
             </div>
 

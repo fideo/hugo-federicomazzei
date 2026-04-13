@@ -17,20 +17,19 @@ tags:
   - escritorio
 thumbnail: /assets/uploads/2017/11/cabeceraUbuntu-1.jpg
 title: Cómo actualizar Debian 12 a Debian 13 paso a paso
+summary: Cómo actualizar Debian 12 a Debian 13 paso a paso. Todos los comandos y modificaciones que deben realizarse para hacer esta actualización.
 type: post
 draft: false
-toc: false
-summary: Cómo actualizar Debian 12 a Debian 13 paso a paso. Todos los comandos y modificaciones que deben realizarse para hacer esta actualización.
-url: /2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.html
+toc: true
+url: /2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso
 usemathjax: true
 expiryDate:
 ---
+
 # Cómo actualizar Debian 12 a Debian 13 paso a paso
 
-Actualizar una versión estable de Debian es un procedimiento **robusto y confiable**, siempre que se realice siguiendo buenas prácticas.  
-En esta guía vas a ver **cómo actualizar Debian 12 (Bookworm) a Debian 13 (Trixie)** paso a paso, con comandos claros y explicaciones pensadas tanto para **usuarios principiantes** como para **administradores de sistemas**.
-
-{< toc >}
+Actualizar una versión estable de [[Debian]] es un procedimiento **robusto y confiable**, siempre que se realice siguiendo buenas prácticas.  
+En esta guía vas a ver **cómo actualizar [[Debian 12]] ([[Bookworm]]) a [[Debian 13]] ([[Trixie]])** paso a paso, con comandos claros y explicaciones pensadas tanto para **usuarios principiantes** como para **administradores de sistemas**.
 
 ---
 
@@ -43,7 +42,10 @@ Antes de iniciar la actualización, asegurate de cumplir con lo siguiente:
 - Si trabajás por **SSH**, evitá conexiones inestables
 - Reservá tiempo: el proceso puede demorar
 - Leé los mensajes que muestre `apt`, especialmente sobre archivos de configuración
+
 <!--more-->
+
+{{< toc >}}
 
 ---
 

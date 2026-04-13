@@ -14,13 +14,12 @@ thumbnail: /assets/uploads/2017/11/cabeceraUbuntu-1.jpg
 title: Conexión SSH Segura con Llaves Ed25519
 type: post
 draft: false
-toc: false
+toc: true
 summary: Como crear una conexión por ssh de forma segura con una llave ed25519
 url: 2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519
 usemathjax: true
 expiryDate:
 ---
-
 # Conexión SSH Segura con Llaves Ed25519
 
 En el flujo de trabajo de un desarrollador de sistemas, la seguridad y la velocidad deben ir de la mano. Esta guía detalla cómo configurar el acceso remoto a una **Raspberry Pi 5** (o cualquier servidor Linux) eliminando la necesidad de contraseñas mediante criptografía de curva elíptica.
@@ -33,10 +32,9 @@ Olvida las viejas llaves RSA. **Ed25519** es el estándar moderno por tres razon
 1. **Seguridad:** Resiste ataques mejor que RSA con menos bits.
 2. **Velocidad:** Las firmas y verificaciones son notablemente más rápidas.
 3. **Legibilidad:** Las llaves son mucho más cortas, facilitando su gestión.
-<!--more-->
 
 ---
-
+<!--more-->
 ## 🛠️ Configuración Paso a Paso
 
 ### 1. Generar tu Identidad

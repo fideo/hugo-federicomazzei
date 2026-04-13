@@ -10,10 +10,10 @@
     <atom:link href="https://federicomazzei.com.ar/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cómo actualizar Debian 12 a Debian 13 paso a paso</title>
-      <link>https://federicomazzei.com.ar/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.html</link>
+      <link>https://federicomazzei.com.ar/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso/</link>
       <pubDate>Thu, 08 Jan 2026 15:10:01 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.html</guid>
-      <description>Cómo actualizar Debian 12 a Debian 13 paso a paso. Todos los comandos y modificaciones que deben realizarse para hacer esta actualización.</description>
+      <guid>https://federicomazzei.com.ar/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso/</guid>
+      <description>&lt;h1 id=&#34;cómo-actualizar-debian-12-a-debian-13-paso-a-paso&#34;&gt;Cómo actualizar Debian 12 a Debian 13 paso a paso&lt;/h1&gt;&#xA;&lt;p&gt;Actualizar una versión estable de [[Debian]] es un procedimiento &lt;strong&gt;robusto y confiable&lt;/strong&gt;, siempre que se realice siguiendo buenas prácticas.&lt;br&gt;&#xA;En esta guía vas a ver &lt;strong&gt;cómo actualizar [[Debian 12]] ([[Bookworm]]) a [[Debian 13]] ([[Trixie]])&lt;/strong&gt; paso a paso, con comandos claros y explicaciones pensadas tanto para &lt;strong&gt;usuarios principiantes&lt;/strong&gt; como para &lt;strong&gt;administradores de sistemas&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;antes-de-empezar-recomendaciones-importantes&#34;&gt;Antes de empezar: recomendaciones importantes&lt;/h2&gt;&#xA;&lt;p&gt;Antes de iniciar la actualización, asegurate de cumplir con lo siguiente:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Realizá un &lt;strong&gt;backup completo&lt;/strong&gt; de tus datos importantes&lt;/li&gt;&#xA;&lt;li&gt;Verificá que tengas una &lt;strong&gt;conexión a Internet estable&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Si trabajás por &lt;strong&gt;SSH&lt;/strong&gt;, evitá conexiones inestables&lt;/li&gt;&#xA;&lt;li&gt;Reservá tiempo: el proceso puede demorar&lt;/li&gt;&#xA;&lt;li&gt;Leé los mensajes que muestre &lt;code&gt;apt&lt;/code&gt;, especialmente sobre archivos de configuración&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Agregar hora y fecha en el prompt de la linea de comandos de linux</title>

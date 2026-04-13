@@ -39,18 +39,26 @@
             "id": "7e66050592882611",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "9944d81c1d959ac9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "content/post/articulos/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.12.7"
               },
-              "icon": "lucide-file",
-              "title": "2026-02-26-conexion-ssh-segura-con-llaves-ed25519"
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.12.7"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,8 +220,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "af09c89720978c9c",
+  "active": "9944d81c1d959ac9",
   "lastOpenFiles": [
+    "package-lock.json",
+    "Sin título.base",
     "content/post/articulos/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519.md",
     "content/post/articulos/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.md",
     "content/post/articulos/2025/12/2025-12-16-agregar-hora-y-fecha-en-el-prompt-de-la-linea-de-comandos-de-linux.md",
