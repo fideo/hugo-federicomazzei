@@ -4,61 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6d5545a45b4414a7",
+        "id": "a11071fbf28deb2a",
         "type": "tabs",
         "children": [
           {
-            "id": "826ec173f8b3889d",
+            "id": "cb919b1996157bbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/articulos/2025/12/2025-12-16-agregar-hora-y-fecha-en-el-prompt-de-la-linea-de-comandos-de-linux.md",
+                "file": "docs/2026/04/Preguntas sobre mi en Introducción al Software libre..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-16-agregar-hora-y-fecha-en-el-prompt-de-la-linea-de-comandos-de-linux"
-            }
-          },
-          {
-            "id": "af09c89720978c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/articulos/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso"
-            }
-          },
-          {
-            "id": "7e66050592882611",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "9944d81c1d959ac9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.12.7"
+              "title": "Preguntas sobre mi en Introducción al Software libre."
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,12 +183,14 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9944d81c1d959ac9",
+  "active": "cb919b1996157bbe",
   "lastOpenFiles": [
+    "docs/2026/04/Preguntas sobre mi en Introducción al Software libre..md",
+    "content/post/articulos/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.md",
+    "docs/2026/04",
     "package-lock.json",
     "Sin título.base",
     "content/post/articulos/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519.md",
-    "content/post/articulos/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.md",
     "content/post/articulos/2025/12/2025-12-16-agregar-hora-y-fecha-en-el-prompt-de-la-linea-de-comandos-de-linux.md",
     "content/post/articulos/2026/01/Sin título.md",
     "docs/post/articulos/templates/titulo-del-post/Sin título.md",
