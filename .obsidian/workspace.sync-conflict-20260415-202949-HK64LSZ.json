@@ -11,14 +11,10 @@
             "id": "daf692e3263d2207",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/articulos/2026/04/2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/articulos/2026/04/2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -184,14 +179,17 @@
   },
   "active": "daf692e3263d2207",
   "lastOpenFiles": [
-    "content/post/articulos/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519.md",
     "content/post/articulos/2026/04/2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre.md",
     "content/post/articulos/2026/04/2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre.md.md",
+    "content/post/articulos/2026/04/Preguntas sobre mi en Introducción al Software libre..md",
+    "docs/2026/04/Preguntas sobre mi en Introducción al Software libre..md",
+    "content/Preguntas sobre mi en Introducción al Software libre..md",
     "content/post/articulos/2026/04",
     "content/post/articulos/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.md",
     "docs/2026/04",
     "package-lock.json",
     "Sin título.base",
+    "content/post/articulos/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519.md",
     "content/post/articulos/2025/12/2025-12-16-agregar-hora-y-fecha-en-el-prompt-de-la-linea-de-comandos-de-linux.md",
     "content/post/articulos/2026/01/Sin título.md",
     "docs/post/articulos/templates/titulo-del-post/Sin título.md",
