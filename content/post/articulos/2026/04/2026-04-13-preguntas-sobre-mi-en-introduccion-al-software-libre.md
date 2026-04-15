@@ -14,7 +14,7 @@ thumbnail: /assets/uploads/2017/11/cabeceraUbuntu-1.jpg
 title: Preguntas sobre mi en Introducción al software libre.
 summary: Preguntas sobre mi en Introducción al software libre.
 type: post
-draft: true
+draft: false
 toc: true
 url: /2026/04/2026-04-13-preguntas-sobre-mi-en-Introduccion-al-software-libre
 usemathjax: true

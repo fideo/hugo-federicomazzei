@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://federicomazzei.com.ar/</loc>
+    <lastmod>2026-04-13T15:10:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/post/</loc>
+    <lastmod>2026-04-13T15:10:01+00:00</lastmod>
+  </url><url>
     <loc>https://federicomazzei.com.ar/tags/bash/</loc>
     <lastmod>2026-02-26T15:10:01+00:00</lastmod>
   </url><url>
@@ -11,13 +17,7 @@
     <loc>https://federicomazzei.com.ar/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519/</loc>
     <lastmod>2026-02-26T15:10:01+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/</loc>
-    <lastmod>2026-02-26T15:10:01+00:00</lastmod>
-  </url><url>
     <loc>https://federicomazzei.com.ar/tags/linux/</loc>
-    <lastmod>2026-02-26T15:10:01+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/post/</loc>
     <lastmod>2026-02-26T15:10:01+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/ssh/</loc>
