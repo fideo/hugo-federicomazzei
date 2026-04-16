@@ -1,0 +1,2 @@
+Podemos traducir `Open Source Software` como `programas de fuente abierto` o `programas de código abierto` promovido por Eric Raymond y la Open Source Initiative.
+Filosóficamente es distinto a free software ya que hace énfasis en la disponibilidad del código pero no así en sus libertades. Obviamente Eric Raymond tuvo fuertes críticas de [[Richard Stallman]] y la Free Software Foundation

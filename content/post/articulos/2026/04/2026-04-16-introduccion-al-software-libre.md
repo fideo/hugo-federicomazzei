@@ -27,10 +27,15 @@ footnotes:
 
 ## [[Richard Stallman]] - 4 Libertades
 
-1. Libertad para ejecutar el programa en cualquier sitio ("como quiera" dicho por RS), con cualquier propósito y para siempre.
+1. Libertad para ejecutar el programa en cualquier sitio ("como quiera" dicho por Richard Stallman (RS)), con cualquier propósito y para siempre.
 2. Libertad para estudiarlo y adaptarlo a nuestras necesidades. Esto exige el acceso al código fuente.
 3. Libertad de redistribución, de modo que se nos permita colaborar con vecinos y amigos.
 4. Libertad para mejorar el programa y publicar las mejoras. También exige el código fuente.
 
 Equivalente a [[Software Libre]] es el término [[Open Source Software]] (‘programas de fuente abierto’), promovido por Eric Raymond y la Open Source Initiative
 
+No promover el software privativo, no hagas mal, no se debe; textuales palabras de RS. Introducen malware en sus programas. RS da un ejemplo de como Amazon espía los usuarios, y da muchos ejemplos mas.
+
+Tanto RS como Margarita Padilla coinciden en que si te bajan el servidor de lo que estás usando o viendo (porque da el ejemplo de YouTube RS) te quedas sin servicio y aparte te espían por tener una cuenta autentificada y con eso saben lo que haces constantemente. 
+
+En el libro Introducción al software libre en la  sección de Términos Relacionados se habla sobre Freeware, Shareware, Charityware, Careware, Dominio público, Copyleft, Propietario, cerrado, no libre.

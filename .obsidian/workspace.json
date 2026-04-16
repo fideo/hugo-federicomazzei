@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Richard Stallman.md",
+                "file": "content/post/articulos/2026/04/2026-04-16-introduccion-al-software-libre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Richard Stallman"
+              "title": "2026-04-16-introduccion-al-software-libre"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/articulos/2026/01/Sin título.md",
+                "file": "content/post/articulos/2026/04/2026-04-16-introduccion-al-software-libre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Sin título"
+              "title": "Enlaces salientes de 2026-04-16-introduccion-al-software-libre"
             }
           },
           {
@@ -179,12 +180,12 @@
               "title": "Esquema de Sin título"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,11 +198,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "5f7dc9f260deb74e",
+  "active": "11f037c15d144632",
   "lastOpenFiles": [
+    "content/post/Open Source Software.md",
     "content/post/Richard Stallman.md",
     "content/post/articulos/2026/04/2026-04-16-introduccion-al-software-libre.md",
-    "content/post/Open Source Software.md",
     "content/post/Software Libre.md",
     "software libre.md",
     "content/post/articulos/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.md",
