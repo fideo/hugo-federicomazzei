@@ -6,15 +6,8 @@
     <description>Recent content in Posts on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 13 Apr 2026 15:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 15:10:01 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Preguntas sobre mi en Introducción al software libre.</title>
-      <link>https://federicomazzei.com.ar/2026/04/2026-04-13-preguntas-sobre-mi-en-Introduccion-al-software-libre/</link>
-      <pubDate>Mon, 13 Apr 2026 15:10:01 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/2026/04/2026-04-13-preguntas-sobre-mi-en-Introduccion-al-software-libre/</guid>
-      <description>Preguntas sobre mi en Introducción al software libre.</description>
-    </item>
     <item>
       <title>Conexión SSH Segura con Llaves Ed25519</title>
       <link>https://federicomazzei.com.ar/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519/</link>
@@ -1652,13 +1645,6 @@
       <pubDate>Thu, 24 Feb 2005 01:08:01 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/2005/02/hello-world.html</guid>
       <description>&lt;p&gt;Bienvenido a mi weblog.&lt;br&gt;&#xA;Para los que no saben muy bien que es un weblog paso a detallarlo:&lt;br&gt;&#xA;“Es un sitio web que posee una serie de artículos y/o publicaciones en un orden cronológico. Por ejemplo, alguien tiene una herramienta que le permite controlar y subir contenido a un sitio web, entoces gracias a su facilidad escribe todos los días, como si mantuviera una charla cronológica ? como si escribiera para organizar y recordar su información.”&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://federicomazzei.com.ar/post/articulos/2026/01/sin-t%C3%ADtulo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/post/articulos/2026/01/sin-t%C3%ADtulo/</guid>
-      <description>&lt;p&gt;Test&lt;/p&gt;&#xA;&lt;p&gt;Olvidate&amp;hellip; esto es una masa&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

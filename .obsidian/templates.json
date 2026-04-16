@@ -1,0 +1,5 @@
+{
+  "folder": "/content/post/articulos/Templates/",
+  "dateFormat": "{{date:DD-MM-YYYY}}",
+  "timeFormat": "HH:mm"
+}
