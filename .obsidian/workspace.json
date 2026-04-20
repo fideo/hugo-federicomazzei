@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a9a5d88b07444d4",
+        "id": "e66868c3f4ae51ab",
         "type": "tabs",
         "children": [
           {
-            "id": "5f7dc9f260deb74e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/articulos/2026/04/2026-04-16-introduccion-al-software-libre.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-16-introduccion-al-software-libre"
-            }
-          },
-          {
-            "id": "9587a73b342ba96a",
+            "id": "9db046a8f3de8766",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "2026-04-16-introduccion-al-software-libre"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,8 +165,7 @@
               "title": "Esquema de Sin título"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,35 +182,40 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "11f037c15d144632",
+  "active": "9db046a8f3de8766",
   "lastOpenFiles": [
     "content/post/Open Source Software.md",
     "content/post/Richard Stallman.md",
-    "content/post/articulos/2026/04/2026-04-16-introduccion-al-software-libre.md",
+    "content/post/articulos/Templates/Titulo del post.md",
     "content/post/Software Libre.md",
+    "Software Libre.md",
+    "Richard Stallman.md",
+    "Open Source Software.md",
     "software libre.md",
-    "content/post/articulos/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.md",
+    "content/post/articulos/2026/04/2026-04-16-introduccion-al-software-libre.md",
+    "content/post/articulos/2026/04/Sin título.md",
+    "content/post/articulos/2026/04/Sin títRloEiR.md",
+    "Sin título.base",
+    "content/post/articulos/BaseGeneral.base",
     "content/post/articulos/2026/04/2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre.md",
-    "docs/categories/software-libre/index.html",
+    "content/post/articulos/tags.md",
+    "content/post/articulos/Sin título.base",
+    "content/post/articulos/Sin título 1.base",
+    "public/assets/uploads/2017/06/DSC_0055-scaled-1.bk.jpg",
+    "public/assets/uploads/icons/016.png",
+    "content/post/articulos/2026/01/Sin título.md",
+    "docs/tags/software-libre/index.xml",
     "docs/categories/software-libre/index.xml",
     "docs/tags/software-libre/page/1/index.html",
-    "docs/tags/software-libre/index.html",
-    "docs/categories/software-libre/page/1/index.html",
-    "docs/tags/software-libre/index.xml",
-    "docs/2026/04/2026-04-13-preguntas-sobre-mi-en-Introduccion-al-software-libre/index.html",
     "docs/tags/software-libre/page/1",
     "docs/tags/software-libre/page",
-    "docs/tags/software-libre",
-    "content/post/articulos/2026/04/2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre.md.md",
-    "content/post/articulos/2026/04/Preguntas sobre mi en Introducción al Software libre..md",
-    "docs/2026/04/Preguntas sobre mi en Introducción al Software libre..md",
-    "content/Preguntas sobre mi en Introducción al Software libre..md",
+    "docs/tags/software-libre/index.html",
     "content/post/articulos/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519.md",
+    "content/post/articulos/2026/04/2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre.md.md",
+    "content/post/articulos/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.md",
     "content/post/articulos/2025/12/2025-12-16-agregar-hora-y-fecha-en-el-prompt-de-la-linea-de-comandos-de-linux.md",
-    "content/post/articulos/2026/01/Sin título.md",
     "docs/post/articulos/templates/titulo-del-post/Sin título.md",
     "docs/2026/02/Sin título.md",
-    "hugo-federicomazzei/Bienvenido.md",
-    "content/post/articulos/Templates/Titulo del post.md"
+    "hugo-federicomazzei/Bienvenido.md"
   ]
 }
