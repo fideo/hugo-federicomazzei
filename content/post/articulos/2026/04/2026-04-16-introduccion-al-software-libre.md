@@ -98,4 +98,6 @@ Si bien se pide que tratemos de no "opinar" espero que esto no se tome como tal;
 
 **- ¿Cómo se relacionan y cómo se diferencian la definición de las 4 libertades del software libre y la idea de software libre como movimiento social?**
 
-Se relacionan con la conformación de comunidades 
+Se relacionan con la creación de comunidades, ya que para poder compartir, editar y ejecutar donde y como se quiera un software (serían las 4 libertades del software libre),  se requiere una comunidad que se involucre. Esta comunidad realiza un trabajo colectivo a través de los programadores, diseñadores, etc que con el marco de las 4 libertades permiten que esta comunidad interactúe y  esa sinergia que se genera es un movimiento social.
+
+Por otro lado las 4 libertades dan un marco técnico de como compartir el software en comunidad mientras que el movimiento social da un marco social (valga la redundancia) según los valores puestos en esa comunidad.
