@@ -182,8 +182,14 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9db046a8f3de8766",
+  "active": "11f037c15d144632",
   "lastOpenFiles": [
+    "docs/post/richard-stallman/index.html",
+    "docs/post/software-libre/index.html",
+    "docs/post/software-libre",
+    "docs/post/richard-stallman",
+    "docs/post/open-source-software/index.html",
+    "docs/post/open-source-software",
     "content/post/Open Source Software.md",
     "content/post/Richard Stallman.md",
     "content/post/articulos/Templates/Titulo del post.md",
@@ -205,11 +211,6 @@
     "public/assets/uploads/icons/016.png",
     "content/post/articulos/2026/01/Sin título.md",
     "docs/tags/software-libre/index.xml",
-    "docs/categories/software-libre/index.xml",
-    "docs/tags/software-libre/page/1/index.html",
-    "docs/tags/software-libre/page/1",
-    "docs/tags/software-libre/page",
-    "docs/tags/software-libre/index.html",
     "content/post/articulos/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519.md",
     "content/post/articulos/2026/04/2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre.md.md",
     "content/post/articulos/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.md",

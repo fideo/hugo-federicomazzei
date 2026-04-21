@@ -194,3 +194,7 @@ body {
 ul {
   padding-left: 1em;
 }
+
+.user-profile-mini-avatar{
+  width: auto !important;
+}

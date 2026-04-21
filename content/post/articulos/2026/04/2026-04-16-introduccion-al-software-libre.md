@@ -85,6 +85,7 @@ Tengan presente que la intención de la participación es que puedan realizar un
 
 **La fecha límite para realizar esta actividad es el** **LUNES** **27/04.**
 
+Hola buenas tardes, les comparto las dos preguntas que he elegido para esta actividad.
 
 **- ¿Cómo se relaciona la propuesta del manifiesto cyberciruja con la soberanía tecnológica y el movimiento software libre?**
 
@@ -92,4 +93,9 @@ Con las libertades que les da el movimiento software libre, el cyberciruja utili
 
 Por esto podemos decir que la relación entre el manifiesto cybeciruja con la soberanía tecnológica y el movimiento software libre es que el software libre serían las herramientas **que** los cybercirujas usan, la soberanía tecnológica el **para qué** y  el manifiesto dicen  **como** lo ejecutan.
 
+Si bien se pide que tratemos de no "opinar" espero que esto no se tome como tal; yo me siento un poco ciberciruja ya que como dice el manifiesto, le he dado vida a mas de una PC descartada y con software libre. Siento que estoy usando mi soberanía tecnológica y eso me reconforta.
 
+
+**- ¿Cómo se relacionan y cómo se diferencian la definición de las 4 libertades del software libre y la idea de software libre como movimiento social?**
+
+Se relacionan con la conformación de comunidades 

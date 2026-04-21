@@ -337,12 +337,5 @@
       <guid>https://federicomazzei.com.ar/2006/10/mountar-una-imagen-iso-en-linux.html</guid>
       <description>&lt;p&gt;Esta nota es más que nada una ayuda memoria, porque cada vez que tengo que montar una imagen ISO en linux no recuerdo como se hace talvez a alguien más le sirva.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;mount -t iso9660 -o loopback imagen.raw /punto/de/montaje&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
-    <item>
-      <title></title>
-      <link>https://federicomazzei.com.ar/post/articulos/templates/titulo-del-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/post/articulos/templates/titulo-del-post/</guid>
-      <description>&lt;h1 id=&#34;título-del-post&#34;&gt;Título del post&lt;/h1&gt;</description>
-    </item>
   </channel>
 </rss>

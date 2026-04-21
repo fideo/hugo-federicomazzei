@@ -1662,10 +1662,24 @@
     </item>
     <item>
       <title></title>
-      <link>https://federicomazzei.com.ar/post/articulos/templates/titulo-del-post/</link>
+      <link>https://federicomazzei.com.ar/post/open-source-software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/post/articulos/templates/titulo-del-post/</guid>
-      <description>&lt;h1 id=&#34;título-del-post&#34;&gt;Título del post&lt;/h1&gt;</description>
+      <guid>https://federicomazzei.com.ar/post/open-source-software/</guid>
+      <description>&lt;p&gt;Podemos traducir &lt;code&gt;Open Source Software&lt;/code&gt; como &lt;code&gt;programas de fuente abierto&lt;/code&gt; o &lt;code&gt;programas de código abierto&lt;/code&gt; promovido por Eric Raymond y la Open Source Initiative.&lt;br&gt;&#xA;Filosóficamente es distinto a free software ya que hace énfasis en la disponibilidad del código pero no así en sus libertades. Obviamente Eric Raymond tuvo fuertes críticas de [[Richard Stallman]] y la Free Software Foundation&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://federicomazzei.com.ar/post/richard-stallman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/post/richard-stallman/</guid>
+      <description>&lt;p&gt;Fundador de la Free Software Foundation (Fundación para el Software Libre) wiki de Richard Stallman &lt;a href=&#34;https://es.wikipedia.org/wiki/Richard_Stallman&#34;&gt;https://es.wikipedia.org/wiki/Richard_Stallman&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;##Cual es la diferencia entre Open Source y Software Libre según Richard Stallman&lt;/p&gt;&#xA;&lt;p&gt;Es una diferencia filosófica de cuales son los valores&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No quiere que sus fotos sean publicadas en facebook instagram o whatsapp (todas app de Meta)&lt;/li&gt;&#xA;&lt;li&gt;No quiere que las fotos tengan geolocalización&lt;/li&gt;&#xA;&lt;li&gt;Si publican videos o audios de él que sean en formatos ogg o webm (desarrollado por google)&lt;/li&gt;&#xA;&lt;li&gt;El sitio de distribución sin que el usuario final tenga que ejecutar ningún programa privativo como programas de javascript (da el ejemplo de youtube)&lt;/li&gt;&#xA;&lt;li&gt;Poner en la publicación creative commons no derivado.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;que-es-el-software-libre-según-richard-stallman&#34;&gt;Que es el software libre? según Richard Stallman&lt;/h3&gt;&#xA;&lt;p&gt;Es el software que respeta la libertad y la comunidad de los usuarios.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://federicomazzei.com.ar/post/software-libre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/post/software-libre/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

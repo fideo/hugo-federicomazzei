@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://federicomazzei.com.ar/</loc>
-    <lastmod>2026-04-13T15:10:01+00:00</lastmod>
+    <lastmod>2026-04-16T15:10:01+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/post/</loc>
-    <lastmod>2026-04-13T15:10:01+00:00</lastmod>
+    <lastmod>2026-04-16T15:10:01+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/bash/</loc>
     <lastmod>2026-02-26T15:10:01+00:00</lastmod>
@@ -942,6 +942,10 @@
   </url><url>
     <loc>https://federicomazzei.com.ar/post/articulos/tags/</loc>
   </url><url>
-    <loc>https://federicomazzei.com.ar/post/articulos/templates/titulo-del-post/</loc>
+    <loc>https://federicomazzei.com.ar/post/open-source-software/</loc>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/post/richard-stallman/</loc>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/post/software-libre/</loc>
   </url>
 </urlset>
