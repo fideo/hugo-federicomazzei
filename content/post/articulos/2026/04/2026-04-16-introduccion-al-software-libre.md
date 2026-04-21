@@ -93,7 +93,8 @@ Al tener la libertad de poder realizar cambios en el software libre, el manifies
 
 Los cybercirujas toman el control del software para amoldarlo a las necesidades de aquellas computadoras o componentes tecnológicos "viejos" o en "desuso" para poder darles vida o mejor dicho que sigan teniendo vida. Como dice el manifiesto una computadora siempre va a servir.... claro siempre y cuando encienda.
 
-Con las libertades que les da el movimiento software libre, el cyberciruja utiliza esas libertades y toma el control de los componentes que suelen ser desechados o descartados para darle vida. En otras palabras, está decidiendo que hacer con ese con ese componente; ese derecho a decidir se lo da la soberanía tecnológica.
+Con las libertades que les da el movimiento software libre, el cyberciruja utiliza esas libertades y toma el control de los componentes que suelen ser desechados o descartados para darle vida. Podríamos decirlo también que está decidiendo que hacer con ese
+componente; ese derecho a "decidir" se lo da la soberanía tecnológica.
 
 Por esto podemos decir que la relación entre el manifiesto cybeciruja con la soberanía tecnológica y el movimiento software libre es que el software libre serían las herramientas **que** los cybercirujas usan, la soberanía tecnológica el **para qué** y  el manifiesto dicen  **como** lo ejecutan.
 
