@@ -79,7 +79,7 @@ A partir de las lecturas realizadas deberán participar del Foro 1 con un texto 
 
 **- ¿Cómo se relacionan las reflexiones de Margarita Padilla a partir del caso de Softwarealpeso con la idea de soberanía tecnológica?**
 
-**- ¿Cómo se relaciona la propuesta del manifiesto cyberciruja con la soberanía tecnológica y el movimiento software libre?**
+**- ¿Cómo se relaciona la propuesta del manifiesto cyberciruja con la soberanía atecnológica y el movimiento software libre?**
 
 Tengan presente que la intención de la participación es que puedan realizar una reflexión argumentada (no olviden que estamos en un espacio académico, por lo que no se trata de "opinar", sino de reflexionar a partir del estudio). En ese sentido, las preguntas pretenden funcionar como disparadores para que puedan poner en relación diferentes conceptos que aparecieron en las lecturas y los videos. La idea de que tomen al menos dos de los interrogantes es que les permita escribir un texto medianamente elaborado. Piensen la extensión de su participación en el foro entre los 1000 y los 2000 caracteres.
 
@@ -88,13 +88,7 @@ Tengan presente que la intención de la participación es que puedan realizar un
 
 **- ¿Cómo se relaciona la propuesta del manifiesto cyberciruja con la soberanía tecnológica y el movimiento software libre?**
 
-Al tener la libertad de poder realizar cambios en el software libre, el manifiesto cyberciruja, aprovecha esto para reflotar o dejar con vida esos objetos tecnológicos que son descartados; como dicen en el manifiesto, por el demonio del mercado global del neocapitalismo, encarnado hoy en la lógica de la oligarquía de datos.
-
-
-Los cybercirujas toman el control del software para amoldarlo a las necesidades de aquellas computadoras o componentes tecnológicos "viejos" o en "desuso" para poder darles vida o mejor dicho que sigan teniendo vida. Como dice el manifiesto una computadora siempre va a servir.... claro siempre y cuando encienda.
-
-Con las libertades que les da el movimiento software libre, el cyberciruja utiliza esas libertades y toma el control de los componentes que suelen ser desechados o descartados para darle vida. Podríamos decirlo también que está decidiendo que hacer con ese
-componente; ese derecho a "decidir" se lo da la soberanía tecnológica.
+Con las libertades que les da el movimiento software libre, el cyberciruja utiliza esas libertades y toma el control de los componentes que suelen ser desechados o descartados para darle vida. Podríamos decirlo también que el cyberciruja está decidiendo que hacer con ese componente; ese derecho a "decidir" se lo da la soberanía tecnológica.
 
 Por esto podemos decir que la relación entre el manifiesto cybeciruja con la soberanía tecnológica y el movimiento software libre es que el software libre serían las herramientas **que** los cybercirujas usan, la soberanía tecnológica el **para qué** y  el manifiesto dicen  **como** lo ejecutan.
 
