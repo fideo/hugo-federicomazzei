@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/articulos/2026/04/2026-04-16-introduccion-al-software-libre.md",
+                "file": "content/post/articulos/2026/04/2026-04-23-notas-1er-encuentro-introduccion-sofware-libre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-16-introduccion-al-software-libre"
+              "title": "2026-04-23-notas-1er-encuentro-introduccion-sofware-libre"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/articulos/2026/04/2026-04-16-introduccion-al-software-libre.md",
+                "file": "content/post/articulos/2026/04/2026-04-23-notas-1er-encuentro-introduccion-sofware-libre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 2026-04-16-introduccion-al-software-libre"
+              "title": "Enlaces entrantes de 2026-04-23-notas-1er-encuentro-introduccion-sofware-libre"
             }
           },
           {
@@ -185,6 +185,8 @@
   "active": "9db046a8f3de8766",
   "lastOpenFiles": [
     "content/post/articulos/2026/04/2026-04-16-introduccion-al-software-libre.md",
+    "content/post/articulos/2026/04/2026-04-23-notas-1er-encuentro-introduccion-sofware-libre.md",
+    "content/post/articulos/2026/04/Sin título.md",
     "docs/post/richard-stallman/index.html",
     "docs/post/software-libre/index.html",
     "docs/post/software-libre",
@@ -199,7 +201,6 @@
     "Richard Stallman.md",
     "Open Source Software.md",
     "software libre.md",
-    "content/post/articulos/2026/04/Sin título.md",
     "content/post/articulos/2026/04/Sin títRloEiR.md",
     "Sin título.base",
     "content/post/articulos/BaseGeneral.base",
