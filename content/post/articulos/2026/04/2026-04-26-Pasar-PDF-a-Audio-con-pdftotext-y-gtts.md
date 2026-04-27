@@ -31,6 +31,7 @@ Entonces para eso hay que poner manos a la obra y con dos simples comandos trans
 
 Yo lo que busco es que el texto suene lo mas natural posible; por eso lo que hay que lograr es que esté bien puntualizado, sin errores de sintaxis.
 
+<!--more-->
 
 ### Pasar de PDF a Texto
 
