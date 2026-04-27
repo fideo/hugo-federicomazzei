@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/articulos/2026/04/2026-04-26-Pasar-PDF-a-Audio-con-pdftotext-y-gtts.md",
+                "file": "content/post/articulos/2026/04/Pasar PDF a Audio con pdftotext y gtts-cli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-26-Pasar-PDF-a-Audio-con-pdftotext-y-gtts"
+              "title": "Pasar PDF a Audio con pdftotext y gtts-cli"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/articulos/2023/09/2023-09-03-vimdiff-comparar-dos-archivos-con-vim.md",
+                "file": "content/post/articulos/2026/04/2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2023-09-03-vimdiff-comparar-dos-archivos-con-vim"
+              "title": "2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre"
             }
           }
         ]
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 566.5
+    "width": 300
   },
   "right": {
     "id": "b91c4d6268a52f43",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/articulos/2026/04/2026-04-26-Pasar-PDF-a-Audio-con-pdftotext-y-gtts.md",
+                "file": "content/post/articulos/2026/04/Pasar PDF a Audio con pdftotext y gtts-cli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 2026-04-26-Pasar-PDF-a-Audio-con-pdftotext-y-gtts"
+              "title": "Enlaces entrantes de Pasar PDF a Audio con pdftotext y gtts-cli"
             }
           },
           {
@@ -196,12 +196,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "11f037c15d144632",
+  "active": "9db046a8f3de8766",
   "lastOpenFiles": [
-    "content/post/articulos/2023/09/2023-09-03-vimdiff-comparar-dos-archivos-con-vim.md",
-    "content/post/articulos/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.md",
     "content/post/articulos/2026/04/2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre.md",
-    "content/post/articulos/2026/04/2026-04-26-Pasar-PDF-a-Audio-con-pdftotext-y-gtts.md",
+    "content/post/articulos/2026/04/Pasar PDF a Audio con pdftotext y gtts-cli.md",
     "content/post/articulos/2026/04/2026-04-23-notas-1er-encuentro-introduccion-sofware-libre.md",
     "content/post/articulos/2024/03/2024-03-01-no-funciona-wi-fi-en-tu-notebook-con-linux.md",
     "content/post/articulos/2026/04/2026-04-16-introduccion-al-software-libre.md",
@@ -230,6 +228,7 @@
     "content/post/articulos/2026/01/Sin título.md",
     "content/post/articulos/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519.md",
     "content/post/articulos/2026/04/2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre.md.md",
+    "content/post/articulos/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.md",
     "content/post/articulos/2025/12/2025-12-16-agregar-hora-y-fecha-en-el-prompt-de-la-linea-de-comandos-de-linux.md",
     "docs/post/articulos/templates/titulo-del-post/Sin título.md",
     "docs/2026/02/Sin título.md",

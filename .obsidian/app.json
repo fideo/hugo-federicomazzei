@@ -3,5 +3,6 @@
   "newFileFolderPath": "content/post/",
   "attachmentFolderPath": "static/assets/uploads",
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "showLineNumber": false
 }
