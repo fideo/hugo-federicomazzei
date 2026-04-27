@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 26 Feb 2026 15:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 08:08:01 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pasar PDF a Audio con pdftotext y gtts (Google Text-to-Speech)</title>
+      <link>https://federicomazzei.com.ar/2026/04/2026-04-26-pasar-pdf-a-audio-con-pdftotext-y-gtts-%20Google-Text-to-Speech/</link>
+      <pubDate>Sun, 26 Apr 2026 08:08:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2026/04/2026-04-26-pasar-pdf-a-audio-con-pdftotext-y-gtts-%20Google-Text-to-Speech/</guid>
+      <description>Convertir texto a audio con dos comandos por linea de comando o consola en linux.</description>
+    </item>
     <item>
       <title>Conexión SSH Segura con Llaves Ed25519</title>
       <link>https://federicomazzei.com.ar/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519/</link>

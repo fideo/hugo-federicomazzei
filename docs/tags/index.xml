@@ -6,20 +6,27 @@
     <description>Recent content in Tags on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 26 Feb 2026 15:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 08:08:01 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>https://federicomazzei.com.ar/tags/linux/</link>
+      <pubDate>Sun, 26 Apr 2026 08:08:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Truco</title>
+      <link>https://federicomazzei.com.ar/tags/truco/</link>
+      <pubDate>Sun, 26 Apr 2026 08:08:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/tags/truco/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Bash</title>
       <link>https://federicomazzei.com.ar/tags/bash/</link>
       <pubDate>Thu, 26 Feb 2026 15:10:01 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/tags/bash/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>https://federicomazzei.com.ar/tags/linux/</link>
-      <pubDate>Thu, 26 Feb 2026 15:10:01 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/linux/</guid>
       <description></description>
     </item>
     <item>
@@ -90,13 +97,6 @@
       <link>https://federicomazzei.com.ar/tags/productividad/</link>
       <pubDate>Wed, 29 Oct 2025 01:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/tags/productividad/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Truco</title>
-      <link>https://federicomazzei.com.ar/tags/truco/</link>
-      <pubDate>Wed, 29 Oct 2025 01:00:00 +0000</pubDate>
-      <guid>https://federicomazzei.com.ar/tags/truco/</guid>
       <description></description>
     </item>
     <item>

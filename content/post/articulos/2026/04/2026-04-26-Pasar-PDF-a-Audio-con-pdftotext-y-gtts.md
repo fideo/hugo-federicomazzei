@@ -9,7 +9,6 @@ excerpt: ""
 status: publish
 tags:
   - linux
-  - truco
 thumbnail: /assets/uploads/2017/11/cabeceraUbuntu-1.jpg
 title: Pasar PDF a Audio con pdftotext y gtts (Google Text-to-Speech)
 summary: Convertir texto a audio con dos comandos por linea de comando o consola en linux.
@@ -21,10 +20,12 @@ toc: true
 expiryDate:
 footnotes:
 ---
-
 # Pasar PDF a Audio con pdftotext y gtts-cli
 
+
 Es bueno tener a mano estas herramientas que te permiten pasar de un PDF a Audio, ya sea para ir escuchando el libro que querías leer mientras manejas o ese apunte de la facultad que tanto te cuesta leer, porque tiene palabras difíciles o porque simplemente cuesta leerlo.
+
+---
 
 Entonces para eso hay que poner manos a la obra y con dos simples comandos transformar ese PDF o Texto a Audio.
 
@@ -48,7 +49,7 @@ Esto da como resultado un archivo ManifiestoCyberciruja.txt es decir el mismo no
 
 ### Pasar de TXT a MP3 es decir de Texto a Audio
 
-Para poder utilizar este comando gtts-cli tenemos que generar un entorno virtual de Python para esto yo uso venv y el comando es así:
+Para poder utilizar este comando gtts-cli tenemos que generar un entorno virtual de python para esto yo uso venv y el comando es así:
 
 `python -m venv venv`
 

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/post/articulos/2026/04/2026-04-26-Pasar-PDF-a-Audio-con-pdftotext-y-gtts.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "399733adfee378c5",
+            "id": "a022496a855df1c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/articulos/2023/09/2023-09-03-vimdiff-comparar-dos-archivos-con-vim.md",
+                "file": "content/post/articulos/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2023-09-03-vimdiff-comparar-dos-archivos-con-vim"
+              "title": "2026-02-26-conexion-ssh-segura-con-llaves-ed25519"
             }
           }
         ]
@@ -196,12 +196,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "11f037c15d144632",
+  "active": "9db046a8f3de8766",
   "lastOpenFiles": [
+    "content/post/articulos/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519.md",
+    "content/post/articulos/2026/04/2026-04-26-Pasar-PDF-a-Audio-con-pdftotext-y-gtts.md",
     "content/post/articulos/2023/09/2023-09-03-vimdiff-comparar-dos-archivos-con-vim.md",
+    "docs/2026/04/2026-04-26-pasar-pdf-a-audio-con-pdftotext-y-gtts- Google-Text-to-Speech/index.html",
+    "docs/2026/04/2026-04-26-pasar-pdf-a-audio-con-pdftotext-y-gtts- Google-Text-to-Speech",
     "content/post/articulos/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso.md",
     "content/post/articulos/2026/04/2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre.md",
-    "content/post/articulos/2026/04/2026-04-26-Pasar-PDF-a-Audio-con-pdftotext-y-gtts.md",
     "content/post/articulos/2026/04/2026-04-23-notas-1er-encuentro-introduccion-sofware-libre.md",
     "content/post/articulos/2024/03/2024-03-01-no-funciona-wi-fi-en-tu-notebook-con-linux.md",
     "content/post/articulos/2026/04/2026-04-16-introduccion-al-software-libre.md",
@@ -223,12 +226,9 @@
     "Sin título.base",
     "content/post/articulos/BaseGeneral.base",
     "content/post/articulos/tags.md",
-    "content/post/articulos/Sin título.base",
-    "content/post/articulos/Sin título 1.base",
     "public/assets/uploads/2017/06/DSC_0055-scaled-1.bk.jpg",
     "public/assets/uploads/icons/016.png",
     "content/post/articulos/2026/01/Sin título.md",
-    "content/post/articulos/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519.md",
     "content/post/articulos/2026/04/2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre.md.md",
     "content/post/articulos/2025/12/2025-12-16-agregar-hora-y-fecha-en-el-prompt-de-la-linea-de-comandos-de-linux.md",
     "docs/post/articulos/templates/titulo-del-post/Sin título.md",

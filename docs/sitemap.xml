@@ -2,31 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://federicomazzei.com.ar/categories/</loc>
+    <lastmod>2026-04-26T08:08:01+00:00</lastmod>
+  </url><url>
     <loc>https://federicomazzei.com.ar/</loc>
-    <lastmod>2026-04-16T15:10:01+00:00</lastmod>
+    <lastmod>2026-04-26T08:08:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/linux/</loc>
+    <lastmod>2026-04-26T08:08:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/2026/04/2026-04-26-pasar-pdf-a-audio-con-pdftotext-y-gtts-%20Google-Text-to-Speech/</loc>
+    <lastmod>2026-04-26T08:08:01+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/post/</loc>
-    <lastmod>2026-04-16T15:10:01+00:00</lastmod>
+    <lastmod>2026-04-26T08:08:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/</loc>
+    <lastmod>2026-04-26T08:08:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/categories/tecnolog%C3%ADa/</loc>
+    <lastmod>2026-04-26T08:08:01+00:00</lastmod>
+  </url><url>
+    <loc>https://federicomazzei.com.ar/tags/truco/</loc>
+    <lastmod>2026-04-26T08:08:01+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/bash/</loc>
-    <lastmod>2026-02-26T15:10:01+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/categories/</loc>
     <lastmod>2026-02-26T15:10:01+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2026/02/2026-02-26-conexion-ssh-segura-con-llaves-ed25519/</loc>
     <lastmod>2026-02-26T15:10:01+00:00</lastmod>
   </url><url>
-    <loc>https://federicomazzei.com.ar/tags/linux/</loc>
-    <lastmod>2026-02-26T15:10:01+00:00</lastmod>
-  </url><url>
     <loc>https://federicomazzei.com.ar/tags/ssh/</loc>
-    <lastmod>2026-02-26T15:10:01+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/</loc>
-    <lastmod>2026-02-26T15:10:01+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/categories/tecnolog%C3%ADa/</loc>
     <lastmod>2026-02-26T15:10:01+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2026/01/2026-01-08-como-actualizar-debian-12-a-debian-13-paso-a-paso/</loc>
@@ -69,9 +75,6 @@
     <lastmod>2025-10-29T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/tags/productividad/</loc>
-    <lastmod>2025-10-29T01:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicomazzei.com.ar/tags/truco/</loc>
     <lastmod>2025-10-29T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicomazzei.com.ar/2025/10/2025-10-29-trucos-de-linea-de-comandos-que-te-haran-mas-productivo/</loc>
