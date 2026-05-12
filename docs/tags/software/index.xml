@@ -6,8 +6,15 @@
     <description>Recent content in Software on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 15 May 2025 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 08:08:01 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pasar PDF a Audio con pdftotext y gtts (Google Text-to-Speech)</title>
+      <link>https://federicomazzei.com.ar/2026/04/2026-04-26-pasar-pdf-a-audio-con-pdftotext-y-gtts-%20Google-Text-to-Speech/</link>
+      <pubDate>Sun, 26 Apr 2026 08:08:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2026/04/2026-04-26-pasar-pdf-a-audio-con-pdftotext-y-gtts-%20Google-Text-to-Speech/</guid>
+      <description>&lt;h1 id=&#34;pasar-pdf-a-audio-con-pdftotext-y-gtts-cli&#34;&gt;Pasar PDF a Audio con pdftotext y gtts-cli&lt;/h1&gt;&#xA;&lt;p&gt;Es bueno tener a mano estas herramientas que te permiten pasar de un PDF a Audio, ya sea para ir escuchando el libro que querías leer mientras manejas o ese apunte de la facultad que tanto te cuesta leer, porque tiene palabras difíciles o porque simplemente cuesta leerlo.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Entonces para eso hay que poner manos a la obra y con dos simples comandos transformar ese PDF o Texto a Audio.&lt;/p&gt;&#xA;&lt;p&gt;Yo lo que busco es que el texto suene lo mas natural posible; por eso lo que hay que lograr es que esté bien puntualizado, sin errores de sintaxis.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mikrotik - Monitoreo del ancho de banda; cuanto consumimos.</title>
       <link>https://federicomazzei.com.ar/2025/03/2025-05-15-mikrotik-monitoreo-del-ancho-de-banda-cuanto-consumimos.html</link>

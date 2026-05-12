@@ -9,6 +9,8 @@ excerpt: ""
 status: publish
 tags:
   - linux
+  - comandos
+  - docker
 thumbnail: /assets/uploads/2017/11/cabeceraUbuntu-1.jpg
 title: Como saber que ip usa tu contenedor docker
 summary: Como saber que ip usa tu contenedor docker, se muestran comandos simples para obtener la ip.
@@ -32,6 +34,7 @@ También se puede utilizarlo así el comando:
 
 ```docker inspect pihole```
 
+<!--more-->
 Que te muestra toda la información sobre tu contenedor, pero si puntualmente queremos saber que IP tiene nuestro docker  lo  que podemos hacer  es  filtra con [[grep]] (**G**lobal **R**egular **E**xpression **P**rint) y el comando quedaría así:
 
 ```docker inspect pihole | grep IPAddress``` 

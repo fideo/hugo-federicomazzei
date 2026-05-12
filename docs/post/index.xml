@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Federico Mazzei</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 26 Apr 2026 08:08:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 01:08:01 +0000</lastBuildDate>
     <atom:link href="https://federicomazzei.com.ar/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como saber que ip usa tu contenedor docker</title>
+      <link>https://federicomazzei.com.ar/2026/05/20260512-como-saber-que-ip-usa-tu-contenedor-docker/</link>
+      <pubDate>Tue, 12 May 2026 01:08:01 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/2026/05/20260512-como-saber-que-ip-usa-tu-contenedor-docker/</guid>
+      <description>Como saber que ip usa tu contenedor docker, se muestran comandos simples para obtener la ip.</description>
+    </item>
     <item>
       <title>Pasar PDF a Audio con pdftotext y gtts (Google Text-to-Speech)</title>
       <link>https://federicomazzei.com.ar/2026/04/2026-04-26-pasar-pdf-a-audio-con-pdftotext-y-gtts-%20Google-Text-to-Speech/</link>
@@ -1666,6 +1673,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://federicomazzei.com.ar/post/articulos/tags/</guid>
       <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://federicomazzei.com.ar/post/nerdearla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://federicomazzei.com.ar/post/nerdearla/</guid>
+      <description>&lt;p&gt;Nerdearla es un evento realizado por varios nerds que convocan a más nerds para hablar sobre lo que les apaciona. A crecido año tras año tanto en público visitante al evento como en calidad y cantidad de exponentes.&lt;br&gt;&#xA;Han participado de este evento personas de renombre como Juan Martín Maldacena (Físico Argentino), Ken Thompson (junto con Dennis Ritchie crearon UNIX) entre otros.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

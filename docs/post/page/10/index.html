@@ -168,7 +168,7 @@
                 </path>
               </svg>
              Artículos 
-              <span class="Counter">240</span>
+              <span class="Counter">242</span>
             </a>
             <a class="UnderlineNav-item " href="https://federicomazzei.com.ar/pages/aboutme">
             Acerca de mi
@@ -484,7 +484,7 @@
         </path>
       </svg>
       Posts
-      <span class="Counter ">240</span>
+      <span class="Counter ">242</span>
     </a>
   </nav>
 </div>
@@ -1306,6 +1306,52 @@
           <div class="col-12 d-inline-block">
             <div class="d-inline-block mb-1">
               <h3 class="wb-break-all">
+                <a href="https://federicomazzei.com.ar/2012/11/instalando-windows-7-no-me-aparece-el-disco-rigido.html">Instalando Windows 7 no me aparece el disco rígido</a>
+              </h3>
+            </div>
+
+            <div>
+              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
+                <p>Hace poco mi hermana me trajo la notebook para que se la arreglara (usa windows 7), después de luchar para recuperar los datos se decidió formatear la notebook.<br>
+El intentar instalar <strong>Windows 7</strong> otra vez me encontré con la sorpresa de que <strong>no me detectaba el disco duro</strong>  de la notebook (sony vaio vgn-nm240f). Googlé varios días hasta que encontré la <strong>solución</strong>, y es la siguiente:</p>
+<ul>
+<li>Ponemos el cd de instalación de Windows 7</li>
+<li>Cuando llega a la opción de seleccionar idioma presionamos las teclas “Shift+F10”</li>
+<li>Se abre una consola (prompt) donde ahí colocamos los siguientes valores:
+<ul>
+<li><strong>diskpart</strong></li>
+<li><strong>list disk</strong> (para mostrar el número de identificación de cada partición del disco duro, generalmente Disk 0)</li>
+<li><strong>select disk 0</strong> (cambiar 0 por otro número si es necesario)</li>
+<li><strong>clean</strong> (esto elimina todas las particiones)</li>
+<li><strong>create partition primary size=200000</strong> (crea una partición con 200GB; para usar el disco entero como una partición se debe omitir el parámetro “size=value”)</li>
+<li><strong>select partition 1</strong></li>
+<li><strong>active</strong></li>
+<li><strong>format fs=ntfs quick</strong> (este proceso puede demorar varios minutos)</li>
+<li><strong>exit</strong></li>
+<li><strong>exit</strong></li>
+</ul>
+</li>
+</ul>
+<p>Una vez terminado este proceso siguen con la instalación de Windows como siempre…</p>
+              </div>
+            </div>
+
+            <div class="f6 text-gray mt-2">
+              
+
+              Created
+              <relative-time datetime=" Mon, 26 Nov 2012 15:47:58 &#43;0000" class="no-wrap"
+                title=" Mon, 26 Nov 2012 15:47:58 &#43;0000">
+                Mon, 26 Nov 2012 15:47:58 &#43;0000
+              </relative-time>
+            </div>
+          </div>
+        </li>
+        
+        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
+          <div class="col-12 d-inline-block">
+            <div class="d-inline-block mb-1">
+              <h3 class="wb-break-all">
                 <a href="https://federicomazzei.com.ar/2012/11/conocer_informacion_sobre_nuestro_servidor_en_linux.html">Conocer información sobre nuestro servidor en linux</a>
               </h3>
             </div>
@@ -1667,35 +1713,6 @@ corazón…</p>
               <relative-time datetime=" Sun, 04 Sep 2011 13:55:30 &#43;0000" class="no-wrap"
                 title=" Sun, 04 Sep 2011 13:55:30 &#43;0000">
                 Sun, 04 Sep 2011 13:55:30 &#43;0000
-              </relative-time>
-            </div>
-          </div>
-        </li>
-        
-        <li class="col-12 d-flex width-full py-4 border-bottom color-border-secondary public source">
-          <div class="col-12 d-inline-block">
-            <div class="d-inline-block mb-1">
-              <h3 class="wb-break-all">
-                <a href="https://federicomazzei.com.ar/2011/09/contar-cantidad-de-archivos-modificados.html">Contar cantidad de archivos modificados</a>
-              </h3>
-            </div>
-
-            <div>
-              <div class="col-12 d-inline-block text-gray mb-2 pr-4">
-                <p>La con consola de Linux ofrece una cantidad interesante de comandos, hoy publico esto para no olvidarme de como se arma y seguramente a alguien le puede servir.</p>
-<pre tabindex="0"><code>&lt;pre class=&#34;wp-block-preformatted&#34;&gt;find /home/fideo/ -type f -mtime 1 -ls | wc -l
-</code></pre><p>Esto sería algo así, el comando “find” con la opción “-type f” buscará todos los archivos y no directorios que se encuentra en el path que hayamos ingresado en mi caso “/home/fideo/”. Luego la opción “-mtime 1” buscará los archivos modificados con una vigencia de un día; y por último en la primera parte de la pubería (pipes) los listamos con “-ls”.<br>
-Para contar la cantidad de archivos que fueron modificados debemos realizar lo siguiente pasar por tubería ” | wc -l”, donde “wc” cuenta la cantidad de caracteres pero con la opción “-l” cuanta la cantidad de lineas.</p>
-              </div>
-            </div>
-
-            <div class="f6 text-gray mt-2">
-              
-
-              Created
-              <relative-time datetime=" Thu, 01 Sep 2011 21:00:35 &#43;0000" class="no-wrap"
-                title=" Thu, 01 Sep 2011 21:00:35 &#43;0000">
-                Thu, 01 Sep 2011 21:00:35 &#43;0000
               </relative-time>
             </div>
           </div>
