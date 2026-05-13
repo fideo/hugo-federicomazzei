@@ -1,4 +1,4 @@
-Fundador de la Free Software Foundation (Fundación para el Software Libre) wiki de Richard Stallman https://es.wikipedia.org/wiki/Richard_Stallman
+Fundador de la Free Software Foundation (Fundación para el [[Software Libre]]) wiki de Richard Stallman https://es.wikipedia.org/wiki/Richard_Stallman
 
 ##Cual es la diferencia entre Open Source y Software Libre según Richard Stallman
 
@@ -10,7 +10,7 @@ Es una diferencia filosófica de cuales son los valores
 - El sitio de distribución sin que el usuario final tenga que ejecutar ningún programa privativo como programas de javascript (da el ejemplo de youtube)
 - Poner en la publicación creative commons no derivado.
 
-### Que es el software libre? según Richard Stallman
+### Que es el [[Software Libre]]? según Richard Stallman
 
 Es el software que respeta la libertad y la comunidad de los usuarios.
 

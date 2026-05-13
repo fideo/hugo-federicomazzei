@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/articulos/2026/05/20260512-como-saber-que-ip-usa-tu-contenedor-docker.md",
+                "file": "content/post/Software Libre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260512-como-saber-que-ip-usa-tu-contenedor-docker"
+              "title": "Software Libre"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "right": {
     "id": "b91c4d6268a52f43",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/articulos/2026/05/20260512-como-saber-que-ip-usa-tu-contenedor-docker.md",
+                "file": "content/post/Software Libre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 20260512-como-saber-que-ip-usa-tu-contenedor-docker"
+              "title": "Enlaces entrantes de Software Libre"
             }
           },
           {
@@ -184,9 +184,13 @@
   },
   "active": "9db046a8f3de8766",
   "lastOpenFiles": [
-    "content/post/articulos/2026/04/2026-04-26-Pasar-PDF-a-Audio-con-pdftotext-y-gtts.md",
+    "content/post/Richard Stallman.md",
+    "content/post/Software Libre.md",
+    "content/post/Open Source Software.md",
+    "content/post/Pi-Hole.md",
     "content/post/articulos/2026/05/20260512-como-saber-que-ip-usa-tu-contenedor-docker.md",
     "content/post/articulos/2026/05/2026-05-06-Explorando-la-Comunidad-UNL-aprendiendo-juntos.md",
+    "content/post/articulos/2026/04/2026-04-26-Pasar-PDF-a-Audio-con-pdftotext-y-gtts.md",
     "docs/2026/05/20260512-como-saber-que-ip-usa-tu-contenedor-docker/index.html",
     "docs/post/nerdearla/index.html",
     "docs/post/page/25/index.html",
@@ -211,10 +215,7 @@
     "content/post/articulos/2026/04/Pasar PDF a Audio con pdftotext y gtts-cli.md",
     "content/post/articulos/2026/04/Pasar PDF a Audio.md",
     "content/post/articulos/2026/04/2026-04-16-introduccion-al-software-libre.md",
-    "content/post/Open Source Software.md",
-    "content/post/Richard Stallman.md",
     "content/post/articulos/Templates/Titulo del post.md",
-    "content/post/Software Libre.md",
     "Software Libre.md",
     "Richard Stallman.md",
     "Open Source Software.md",
