@@ -4,11 +4,11 @@
 {{ partial "google_analytics.html" . }}
 <body>
   {{ partial "header" . }}
-  {{ partial "search.html" .}}
+  {{/* partial "search.html" . */}}
   {{ block "content" . }}{{ end }}
-  {{ partial "footer.html" . }}
+  {{/* partial "footer.html" . */}}
 </body>
 
-{{ partial "script.html" . }}
+{{/* partial "script.html" . */}}
 
 </html>
