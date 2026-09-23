@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e66868c3f4ae51ab",
+        "id": "2074a0b0d5041d52",
         "type": "tabs",
         "children": [
           {
-            "id": "9db046a8f3de8766",
+            "id": "5c7529b08f7dadd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/Software Libre.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Software Libre"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/Software Libre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Software Libre"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -169,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 281.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,44 +180,44 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9db046a8f3de8766",
+  "active": "5c7529b08f7dadd2",
   "lastOpenFiles": [
-    "content/post/Richard Stallman.md",
-    "content/post/Software Libre.md",
-    "content/post/Open Source Software.md",
+    "content/pages/aboutme.md",
+    "content/pages/Referencias/Software Libre.md",
+    "content/pages/Referencias/Pi-Hole.md",
     "content/post/Pi-Hole.md",
-    "content/post/articulos/2026/05/20260512-como-saber-que-ip-usa-tu-contenedor-docker.md",
-    "content/post/articulos/2026/05/2026-05-06-Explorando-la-Comunidad-UNL-aprendiendo-juntos.md",
-    "content/post/articulos/2026/04/2026-04-26-Pasar-PDF-a-Audio-con-pdftotext-y-gtts.md",
+    "content/pages/Referencias/Richard Stallman.md",
+    "content/pages/Referencias/Open Source Software.md",
+    "content/pages/Referencias/Nerdearla.md",
+    "content/post/Nerdearla.md",
+    "content/pages/Referencias/Listado de Programas.md",
+    "content/post/Listado de Programas.md",
+    "content/pages/SoftwareLibreYSociedad/LaPerspectivaDeCienciaTecnologiaYSociedad/aca-comparto-mi-reflexion-sobre-la-economia-del-yo.md.md",
+    "content/pages/SoftwareLibreYSociedad/LaInformaticaEntreLaTecnologiaYLaCiencia/la-informatica-como-tecnologia.md.md",
+    "content/pages/SoftwareLibreYSociedad/LaPerspectivaDeCienciaTecnologiaYSociedad/que-es-una-buena-sociedad.md.md",
+    "content/pages/SoftwareLibreYSociedad/LaPerspectivaDeCienciaTecnologiaYSociedad/los-polos-de-conformacion-de-los-estudios-de-ciencia-tecnologia-y-sociedad.md.md",
+    "content/pages/SoftwareLibreYSociedad/LaPerspectivaDeCienciaTecnologiaYSociedad/las-raices-del-problema-de-volverse-sujeto-epistemico.md.md",
+    "content/pages/SoftwareLibreYSociedad/LaPerspectivaDeCienciaTecnologiaYSociedad/la-idea-de-narrativa-y-estructura-axiologica.md.md",
+    "content/pages/SoftwareLibreYSociedad/LaPerspectivaDeCienciaTecnologiaYSociedad/el-problema-del-saber-genuino-o-seguro-en-la-argentina.md.md",
+    "content/pages/SoftwareLibreYSociedad/LaInformaticaEntreLaTecnologiaYLaCiencia/relaciones-entre-ciencia-y-tecnologia.md.md",
+    "content/pages/SoftwareLibreYSociedad/LaInformaticaEntreLaTecnologiaYLaCiencia/la-naturaleza-de-los-artefactos.md.md",
+    "content/pages/SoftwareLibreYSociedad/LaPerspectivaDeCienciaTecnologiaYSociedad",
+    "content/pages/SoftwareLibreYSociedad/LaInformaticaEntreLaTecnologiaYLaCiencia",
+    "content/pages/SoftwareLibreYSociedad",
+    "content/pages/Referencias/grep.md",
+    "content/pages/Referencias/Forgejo.md",
+    "content/pages/Referencias",
+    "content/pages/IntroduccionAlSoftwareLibre/unidad-5-introduccion-al-software-libre.md.md",
+    "content/pages/IntroduccionAlSoftwareLibre/unidad-4-introduccion-al-software-libre.md.md",
+    "content/pages/IntroduccionAlSoftwareLibre/unidad-3-introduccion-al-software-libre.md.md",
+    "content/pages/IntroduccionAlSoftwareLibre/unidad-2-introduccion-al-software-libre.md.md",
+    "content/pages/IntroduccionAlSoftwareLibre/unidad-1-introduccion-al-software-libre.md.md",
+    "content/pages/IntroduccionAlSoftwareLibre",
+    "content/pages/IntroduccionAlDesarrolloDeSoftware",
     "docs/2026/05/20260512-como-saber-que-ip-usa-tu-contenedor-docker/index.html",
     "docs/post/nerdearla/index.html",
     "docs/post/page/25/index.html",
     "docs/post/page/25",
-    "docs/post/nerdearla",
-    "docs/2026/05/20260512-como-saber-que-ip-usa-tu-contenedor-docker",
-    "docs/2026/05",
-    "content/post/articulos/2026/04/2026-04-13-preguntas-sobre-mi-en-introduccion-al-software-libre.md",
-    "content/post/articulos/2026/04/2026-04-26-actividad-2-de-introduccion-al-software-libre.md",
-    "content/post/articulos/2026/05",
-    "content/post/articulos/2026/04/Sin título.md",
-    "content/post/articulos/2026/04/Actividad 2 de Introducción al Software Libre.md",
-    "content/post/Listado de Programas.md",
-    "content/post/Nerdearla.md",
-    "Nerdearla.md",
-    "content/post/articulos/2026/04/Listado de Programas.md",
-    "content/post/articulos/2026/04/Sin título 1.md",
-    "content/post/articulos/2026/04/2026-04-23-notas-1er-encuentro-introduccion-sofware-libre.md",
-    "docs/2026/04/2026-04-26-pasar-pdf-a-audio-con-pdftotext-y-gtts- Google-Text-to-Speech/index.html",
-    "docs/2026/04/2026-04-26-pasar-pdf-a-audio-con-pdftotext-y-gtts- Google-Text-to-Speech",
-    "content/post/articulos/2026/04/2026-04-26-Pasar-PDF-a-Audio-con-pdftotext-y-gtts-cli.md",
-    "content/post/articulos/2026/04/Pasar PDF a Audio con pdftotext y gtts-cli.md",
-    "content/post/articulos/2026/04/Pasar PDF a Audio.md",
-    "content/post/articulos/2026/04/2026-04-16-introduccion-al-software-libre.md",
-    "content/post/articulos/Templates/Titulo del post.md",
-    "Software Libre.md",
-    "Richard Stallman.md",
-    "Open Source Software.md",
-    "software libre.md",
     "public/assets/uploads/2017/06/DSC_0055-scaled-1.bk.jpg",
     "public/assets/uploads/icons/016.png"
   ]

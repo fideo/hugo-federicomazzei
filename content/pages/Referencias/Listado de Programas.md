@@ -1,31 +1,28 @@
 ---
-id:
+id: 2026-07-28T12:24:45Z12:24
 author: fideo
 description: Listado de programas de mi interes o a revisar.
 categories:
   - tecnología
-date:
-excerpt: ""
+  - tecnologia
+date: 2026-07-28T12:24:45Z
 status: publish
 tags:
   - linux
-thumbnail: /assets/uploads/2017/11/cabeceraUbuntu-1.jpg
 title: Listado de programas
-summary:
 type: post
-url:
 usemathjax: false
-draft: true
 toc: true
-expiryDate:
+summary:
+draft: true
+thumbnail: /assets/uploads/2017/11/cabeceraUbuntu-1.jpg
 footnotes:
 ---
-
 # Listado de programas
 
 Este listado de programas que siguen a continuación son unas anotaciones que realicé en uno de los eventos de [[Nerdearla]]; y seguramente también otros lo he agregado a mano porque me parecieron interesantes. #todo -Buscar en que video de Nerdearla saque este listado.
 
-
+OpenPGP - 
 ProMox Community
 Portainer Community
 GitLab CE
@@ -34,7 +31,8 @@ GitLab CE
         gitea.com
         fleetdm.com
         nginx-proxy-manager
-PiHole
+		[[Forgejo]]
+[[Pi-Hole]]
 Asterisk PBX (VoIP)
 TrueNAS Community Edition
 RaspberryPI + Debian
@@ -72,3 +70,10 @@ Safe ID
 
 ##### Vigilancia
 Frigate NVR
+
+Aplicaciones que recomienda UNL - Aylen Gomitolo
+Reunión virtual del 13-08-2026
+- Genially
+- Prezi
+- Trello
+- Notion
